@@ -1,3 +1,30 @@
 {
-  "friends": []
+  "friends": [
+    {
+      "timestamp": 1757978869822,
+      "user": {
+        "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
+        "name": "poemstars🌼🌟",
+        "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
+      },
+      "track": {
+        "uri": "spotify:track:58ourzCt3VFuymu022tK38",
+        "name": "Dalam Hitungan",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d8bc985ea7d5bb78f0f6223c",
+        "album": {
+          "uri": "spotify:album:416JhYQr0wpkBE5vJqIOz1",
+          "name": "Dalam Hitungan"
+        },
+        "artist": {
+          "uri": "spotify:artist:7Gy1PxqrgsiqWF6JNYPHeB",
+          "name": ".Feast"
+        },
+        "context": {
+          "uri": null,
+          "name": null,
+          "index": 0
+        }
+      }
+    }
+  ]
 }
