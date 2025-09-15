@@ -1,5 +1,14 @@
 [
   {
+    "timestamp": 1757943768603,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Genit",
+    "artist": "Tipe-X",
+    "uri": "spotify:track:1VqpUh3Qykgmr8snpr54An",
+    "imageUrl": "https://i.scdn.co/image/666cf91768154801a461482069b7ffbe0673d558"
+  },
+  {
     "timestamp": 1757942838745,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -79,14 +88,5 @@
     "artist": "Boyz II Men",
     "uri": "spotify:track:3l3xTXsUXeWlkPqzMs7mPD",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27373d0d8625dcf1e48043cfbf9"
-  },
-  {
-    "timestamp": 1757941063148,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Aku Pasti Kembali",
-    "artist": "Pasto",
-    "uri": "spotify:track:1lmTE7pXpe4BGuQvVAZSCT",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735e054853b6f360d786fefa9b"
   }
 ]

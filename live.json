@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1757943215461,
+      "timestamp": 1757943999254,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=V3Aoz7xpDz8Q7kNvwG1Gwo0&_nc_oc=AdkwCi5WzFnTQT3in5agi-yhOibt3LjJiAmbD7LJ_WDYpSPSdxxEQHfMW0vVrqyVRf-_lAGyka99Zh5HX0HUr9LZ&_nc_zt=24&_nc_ht=scontent-fra3-2.xx&edm=AP4hL3IEAAAA&_nc_gid=Ofgxtck5wLychAOEZaVdvA&oh=00_AfaepwZIaBAK--MaAYCBUj9VjtQERs_XxvqXmvAKFCgSYA&oe=68CDDB28"
+        "imageUrl": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=V3Aoz7xpDz8Q7kNvwEcdJZj&_nc_oc=AdmTw93XL4-LcSdrLMuyunduppLnYOq726jOPmu14onKMwGEqn3Ag6u5_oudYe9uugYBh_3jnMexmGZ-Y0k6eMAx&_nc_zt=24&_nc_ht=scontent-fra3-2.xx&edm=AP4hL3IEAAAA&_nc_gid=_hw8UbpW3fM6Js72qjdOgA&oh=00_AfZXbWrmjyAfnexR4sS-ttunElubSCJR5TaRPyPWprhQOA&oe=68CDA2E8"
       },
       "track": {
-        "uri": "spotify:track:2ALQHMFnSjKzRhGwXVSfHD",
-        "name": "Nenekku Pahlawanku",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ab85980da8a5c59d26309a6f",
+        "uri": "spotify:track:13KXgSl4vs7h8y2G7V6GrB",
+        "name": "mejikuhibiniu",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ebdd8446bacd87dc7796cede",
         "album": {
-          "uri": "spotify:album:4SU72f8lCnTr1GM9GPkFPY",
-          "name": "Aku Bukan Bang Toyib"
+          "uri": "spotify:album:45uKX8IYbs9w5jbDNrRp4K",
+          "name": "Puting Beliung"
         },
         "artist": {
-          "uri": "spotify:artist:5pnSNZZRyYViu2n58Zlw1J",
-          "name": "Wali"
+          "uri": "spotify:artist:6vP4azTCk053nGL0xAYnVH",
+          "name": "Tenxi, Suisei, Jemsii"
         },
         "context": {
           "uri": "spotify:playlist:6gzRjcJqzdM1M6bpOZsWsl",
