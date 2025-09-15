@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1757947592488,
+      "timestamp": 1757948126122,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
         "imageUrl": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=V3Aoz7xpDz8Q7kNvwG1Gwo0&_nc_oc=AdkwCi5WzFnTQT3in5agi-yhOibt3LjJiAmbD7LJ_WDYpSPSdxxEQHfMW0vVrqyVRf-_lAGyka99Zh5HX0HUr9LZ&_nc_zt=24&_nc_ht=scontent-fra3-2.xx&edm=AP4hL3IEAAAA&_nc_gid=Ofgxtck5wLychAOEZaVdvA&oh=00_AfaepwZIaBAK--MaAYCBUj9VjtQERs_XxvqXmvAKFCgSYA&oe=68CDDB28"
       },
       "track": {
-        "uri": "spotify:track:4QGJp0ZoyBpgZji8hiUfWT",
-        "name": "Madu Tiga",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27354370e2a4432f21c8d16f5cc",
+        "uri": "spotify:track:6TqtFqq6QgYhQVCM87GKVF",
+        "name": "Kembali Pulang",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ba8d883787d66e655c9b87a6",
         "album": {
-          "uri": "spotify:album:3wqDej8S1IdtRYUB8srUEY",
-          "name": "T.R.I.A.D"
+          "uri": "spotify:album:23PcuqYnz3OktPUQmckYMR",
+          "name": "Bintang 14 Hari"
         },
         "artist": {
-          "uri": "spotify:artist:3gp2fVD2tUwoq42eZ7DK3l",
-          "name": "T.R.I.A.D"
+          "uri": "spotify:artist:2I3STBPK1DymMXPCjg3UIT",
+          "name": "Kangen Band"
         },
         "context": {
           "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
