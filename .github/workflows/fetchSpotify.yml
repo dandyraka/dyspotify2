@@ -1,0 +1,27 @@
+name: Fetch Spotify Recent Plays
+
+on:
+  schedule:
+    - cron: "*/10 * * * *" # tiap 10 menit
+  workflow_dispatch:
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+
+      - name: Install dependencies
+        run: npm install axios
+
+      - name: Run fetch script
+        env:
+          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+          SPOTIFY_REFRESH_TOKENS: ${{ secrets.SPOTIFY_REFRESH_TOKENS }}
+        run: node fetchRecent.js
