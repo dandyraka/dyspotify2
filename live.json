@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1757949448523,
+      "timestamp": 1757950415865,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=V3Aoz7xpDz8Q7kNvwEcdJZj&_nc_oc=AdmTw93XL4-LcSdrLMuyunduppLnYOq726jOPmu14onKMwGEqn3Ag6u5_oudYe9uugYBh_3jnMexmGZ-Y0k6eMAx&_nc_zt=24&_nc_ht=scontent-fra3-2.xx&edm=AP4hL3IEAAAA&_nc_gid=_hw8UbpW3fM6Js72qjdOgA&oh=00_AfZXbWrmjyAfnexR4sS-ttunElubSCJR5TaRPyPWprhQOA&oe=68CDA2E8"
+        "imageUrl": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=V3Aoz7xpDz8Q7kNvwG1Gwo0&_nc_oc=AdkwCi5WzFnTQT3in5agi-yhOibt3LjJiAmbD7LJ_WDYpSPSdxxEQHfMW0vVrqyVRf-_lAGyka99Zh5HX0HUr9LZ&_nc_zt=24&_nc_ht=scontent-fra3-2.xx&edm=AP4hL3IEAAAA&_nc_gid=Ofgxtck5wLychAOEZaVdvA&oh=00_AfaepwZIaBAK--MaAYCBUj9VjtQERs_XxvqXmvAKFCgSYA&oe=68CDDB28"
       },
       "track": {
-        "uri": "spotify:track:0yyq5KJy05sDtzuzQnQAWR",
-        "name": "Tetap Semangat",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d0ba0e1970aadbdc66003d5c",
+        "uri": "spotify:track:1L7YPMbWve6EUPGa6F9nw5",
+        "name": "Tentang Aku,Kau dan Dia",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27366f611197e5f19f63e1eab16",
         "album": {
-          "uri": "spotify:album:0LTNM8p3hEvAPbidxNtg7Q",
-          "name": "For All"
+          "uri": "spotify:album:5JEQxEQoFxYDXHRe3fETYJ",
+          "name": "Tentang Aku,Kau dan Dia"
         },
         "artist": {
-          "uri": "spotify:artist:7b4mucf6X53D3pEaY1jWl6",
-          "name": "Bondan Prakoso, Fade2Black"
+          "uri": "spotify:artist:2I3STBPK1DymMXPCjg3UIT",
+          "name": "Kangen Band"
         },
         "context": {
           "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
