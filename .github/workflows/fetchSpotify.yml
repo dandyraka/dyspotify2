@@ -5,6 +5,9 @@ on:
     - cron: "*/10 * * * *" # tiap 10 menit
   workflow_dispatch:
 
+permissions:
+  contents: write   # wajib biar bisa commit
+
 jobs:
   fetch:
     runs-on: ubuntu-latest
@@ -25,3 +28,11 @@ jobs:
           SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
           SPOTIFY_REFRESH_TOKENS: ${{ secrets.SPOTIFY_REFRESH_TOKENS }}
         run: node fetchSpotify.js
+
+      - name: Commit & push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add history.json live.json
+          git commit -m "Update Spotify data [skip ci]" || echo "No changes to commit"
+          git push
