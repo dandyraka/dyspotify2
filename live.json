@@ -1,1 +1,56 @@
-[]
+{
+  "friends": [
+    {
+      "timestamp": 1757936760335,
+      "user": {
+        "uri": "spotify:user:dandyraka_",
+        "name": "Dandy 🫵🏻😁",
+        "imageUrl": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=V3Aoz7xpDz8Q7kNvwFJa5i0&_nc_oc=AdnIwLzSeVJ3so5XqK8l4HFaJRTwH9MnIvzAWBNyPnE9Ly17_nmY_moZen3GDmij8mChMM2aWWgqpLALy4tIBtFR&_nc_zt=24&_nc_ht=scontent-fra3-2.xx&edm=AP4hL3IEAAAA&_nc_gid=_QIvmLD8BB-aSiuuuZo7SQ&oh=00_AfbGTNf5xv7NWj7T5NYlwXnPKPR-O1X96ZqX-zc6Gu8xTg&oe=68CD6AA8"
+      },
+      "track": {
+        "uri": "spotify:track:73PIm6P5ruqBmcEVtzcop2",
+        "name": "Tentang Rasa",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731a0378422d6100ef70acf740",
+        "album": {
+          "uri": "spotify:album:01zDZbVSnCZ1TS0IASD38S",
+          "name": "Lihat Aku Sekarang"
+        },
+        "artist": {
+          "uri": "spotify:artist:6GxmlugWFw4hmhUQ5uP93l",
+          "name": "Astrid"
+        },
+        "context": {
+          "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
+          "name": "playlist",
+          "index": 0
+        }
+      }
+    },
+    {
+      "timestamp": 1757936761182,
+      "user": {
+        "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
+        "name": "poemstars🌼🌟",
+        "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
+      },
+      "track": {
+        "uri": "spotify:track:6JXImbAey3ZonmS91MQ1tX",
+        "name": "Percayalah",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273580cb6990095fd6fe5976fec",
+        "album": {
+          "uri": "spotify:album:38tTtymkTn9uwNPJJWLKZH",
+          "name": "SIDES"
+        },
+        "artist": {
+          "uri": "spotify:artist:4cgBCGxtlfap2g6jveB7du",
+          "name": "Afgan, Raisa"
+        },
+        "context": {
+          "uri": "spotify:artist:5OZXWMwDhlYBRvoOfcX0sk",
+          "name": "artist",
+          "index": 0
+        }
+      }
+    }
+  ]
+}
