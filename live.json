@@ -1,53 +1,53 @@
 {
   "friends": [
     {
-      "timestamp": 1757945759074,
+      "timestamp": 1757946774717,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=V3Aoz7xpDz8Q7kNvwG1Gwo0&_nc_oc=AdkwCi5WzFnTQT3in5agi-yhOibt3LjJiAmbD7LJ_WDYpSPSdxxEQHfMW0vVrqyVRf-_lAGyka99Zh5HX0HUr9LZ&_nc_zt=24&_nc_ht=scontent-fra3-2.xx&edm=AP4hL3IEAAAA&_nc_gid=Ofgxtck5wLychAOEZaVdvA&oh=00_AfaepwZIaBAK--MaAYCBUj9VjtQERs_XxvqXmvAKFCgSYA&oe=68CDDB28"
+        "imageUrl": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=V3Aoz7xpDz8Q7kNvwEcdJZj&_nc_oc=AdmTw93XL4-LcSdrLMuyunduppLnYOq726jOPmu14onKMwGEqn3Ag6u5_oudYe9uugYBh_3jnMexmGZ-Y0k6eMAx&_nc_zt=24&_nc_ht=scontent-fra3-2.xx&edm=AP4hL3IEAAAA&_nc_gid=_hw8UbpW3fM6Js72qjdOgA&oh=00_AfZXbWrmjyAfnexR4sS-ttunElubSCJR5TaRPyPWprhQOA&oe=68CDA2E8"
       },
       "track": {
-        "uri": "spotify:track:13KXgSl4vs7h8y2G7V6GrB",
-        "name": "mejikuhibiniu",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ebdd8446bacd87dc7796cede",
+        "uri": "spotify:track:5X3HN2ZNAcnwriB48pW5mw",
+        "name": "Sebelum Cahaya",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273beb3148bd8f70f1f62771d0a",
         "album": {
-          "uri": "spotify:album:45uKX8IYbs9w5jbDNrRp4K",
-          "name": "Puting Beliung"
+          "uri": "spotify:album:6risJEGT61mPTA6B1eiNQ4",
+          "name": "Don’t Make Me Sad"
         },
         "artist": {
-          "uri": "spotify:artist:6vP4azTCk053nGL0xAYnVH",
-          "name": "Tenxi, Suisei, Jemsii"
+          "uri": "spotify:artist:2vRToyl7mxoVbwwSsRBXAM",
+          "name": "Letto"
         },
         "context": {
-          "uri": "spotify:playlist:6gzRjcJqzdM1M6bpOZsWsl",
+          "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
           "name": "playlist",
           "index": 0
         }
       }
     },
     {
-      "timestamp": 1757945759638,
+      "timestamp": 1757946775212,
       "user": {
         "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
         "name": "poemstars🌼🌟",
         "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
       },
       "track": {
-        "uri": "spotify:track:7dfl9X38RhIvB3oSmmneq3",
-        "name": "I'll Make Love To You",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a94a1672a1fc0373b3e9aa7b",
+        "uri": "spotify:track:6b8Be6ljOzmkOmFslEb23P",
+        "name": "24K Magic",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5",
         "album": {
-          "uri": "spotify:album:1DjxZpmeR9Dzu9tF4J44S7",
-          "name": "II"
+          "uri": "spotify:album:4PgleR09JVnm3zY1fW3XBA",
+          "name": "24K Magic"
         },
         "artist": {
-          "uri": "spotify:artist:6O74knDqdv3XaWtkII7Xjp",
-          "name": "Boyz II Men"
+          "uri": "spotify:artist:0du5cEVh5yTK9QJze8zA0C",
+          "name": "Bruno Mars"
         },
         "context": {
-          "uri": null,
-          "name": null,
+          "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy:collection",
+          "name": "collection",
           "index": 0
         }
       }
