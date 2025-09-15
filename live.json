@@ -1,11 +1,11 @@
 {
   "friends": [
     {
-      "timestamp": 1757944509540,
+      "timestamp": 1757945759074,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=V3Aoz7xpDz8Q7kNvwEcdJZj&_nc_oc=AdmTw93XL4-LcSdrLMuyunduppLnYOq726jOPmu14onKMwGEqn3Ag6u5_oudYe9uugYBh_3jnMexmGZ-Y0k6eMAx&_nc_zt=24&_nc_ht=scontent-fra3-2.xx&edm=AP4hL3IEAAAA&_nc_gid=_hw8UbpW3fM6Js72qjdOgA&oh=00_AfZXbWrmjyAfnexR4sS-ttunElubSCJR5TaRPyPWprhQOA&oe=68CDA2E8"
+        "imageUrl": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=V3Aoz7xpDz8Q7kNvwG1Gwo0&_nc_oc=AdkwCi5WzFnTQT3in5agi-yhOibt3LjJiAmbD7LJ_WDYpSPSdxxEQHfMW0vVrqyVRf-_lAGyka99Zh5HX0HUr9LZ&_nc_zt=24&_nc_ht=scontent-fra3-2.xx&edm=AP4hL3IEAAAA&_nc_gid=Ofgxtck5wLychAOEZaVdvA&oh=00_AfaepwZIaBAK--MaAYCBUj9VjtQERs_XxvqXmvAKFCgSYA&oe=68CDDB28"
       },
       "track": {
         "uri": "spotify:track:13KXgSl4vs7h8y2G7V6GrB",
@@ -22,6 +22,32 @@
         "context": {
           "uri": "spotify:playlist:6gzRjcJqzdM1M6bpOZsWsl",
           "name": "playlist",
+          "index": 0
+        }
+      }
+    },
+    {
+      "timestamp": 1757945759638,
+      "user": {
+        "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
+        "name": "poemstars🌼🌟",
+        "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
+      },
+      "track": {
+        "uri": "spotify:track:7dfl9X38RhIvB3oSmmneq3",
+        "name": "I'll Make Love To You",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a94a1672a1fc0373b3e9aa7b",
+        "album": {
+          "uri": "spotify:album:1DjxZpmeR9Dzu9tF4J44S7",
+          "name": "II"
+        },
+        "artist": {
+          "uri": "spotify:artist:6O74knDqdv3XaWtkII7Xjp",
+          "name": "Boyz II Men"
+        },
+        "context": {
+          "uri": null,
+          "name": null,
           "index": 0
         }
       }
