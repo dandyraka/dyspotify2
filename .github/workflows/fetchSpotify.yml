@@ -24,4 +24,4 @@ jobs:
           SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
           SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
           SPOTIFY_REFRESH_TOKENS: ${{ secrets.SPOTIFY_REFRESH_TOKENS }}
-        run: node fetchRecent.js
+        run: node fetchSpotify.js
