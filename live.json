@@ -1,53 +1,27 @@
 {
   "friends": [
     {
-      "timestamp": 1757937341724,
+      "timestamp": 1757939631083,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
         "imageUrl": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=V3Aoz7xpDz8Q7kNvwG1Gwo0&_nc_oc=AdkwCi5WzFnTQT3in5agi-yhOibt3LjJiAmbD7LJ_WDYpSPSdxxEQHfMW0vVrqyVRf-_lAGyka99Zh5HX0HUr9LZ&_nc_zt=24&_nc_ht=scontent-fra3-2.xx&edm=AP4hL3IEAAAA&_nc_gid=Ofgxtck5wLychAOEZaVdvA&oh=00_AfaepwZIaBAK--MaAYCBUj9VjtQERs_XxvqXmvAKFCgSYA&oe=68CDDB28"
       },
       "track": {
-        "uri": "spotify:track:2gTg860d3Ju5ZbmkVVjukZ",
-        "name": "Manusia Biasa (CLB)",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730fe7814ce91a1b4e7b0d5881",
+        "uri": "spotify:track:5LP6x0DRwi69MGAYen999y",
+        "name": "Menunggu Kamu - OST Jelita Sejuba",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273870a44b41b63f686209cf1f2",
         "album": {
-          "uri": "spotify:album:6nFdenkFLOxjD5eYaD6pZc",
-          "name": "Winning 11"
+          "uri": "spotify:album:44CfF0k71uyqaIuegQo34v",
+          "name": "Menunggu Kamu - OST Jelita Sejuba"
         },
         "artist": {
-          "uri": "spotify:artist:3DHOtJqv0Bw65ENlK4FiSF",
-          "name": "Yovie & Nuno"
+          "uri": "spotify:artist:0b4XpbAVDPngjDTbcSWH8N",
+          "name": "Anji"
         },
         "context": {
           "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
           "name": "playlist",
-          "index": 0
-        }
-      }
-    },
-    {
-      "timestamp": 1757937342456,
-      "user": {
-        "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
-        "name": "poemstars🌼🌟",
-        "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
-      },
-      "track": {
-        "uri": "spotify:track:6iBuCdHWsIJ3qCDs50w2lS",
-        "name": "Apalah (Arti Menunggu)",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738bd2fdd47fa594b1362682a9",
-        "album": {
-          "uri": "spotify:album:5oCsnT2SMuNZ4mVZBbvxWD",
-          "name": "Raisa"
-        },
-        "artist": {
-          "uri": "spotify:artist:5OZXWMwDhlYBRvoOfcX0sk",
-          "name": "Raisa"
-        },
-        "context": {
-          "uri": "spotify:artist:5OZXWMwDhlYBRvoOfcX0sk",
-          "name": "artist",
           "index": 0
         }
       }
