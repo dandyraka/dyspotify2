@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1757953117064,
+      "timestamp": 1757954490681,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=V3Aoz7xpDz8Q7kNvwG4ypZD&_nc_oc=AdldRvouNwvoq-3emJgIhm8DyzkEchctXIW0pVB9pk8EAQd7k2oT3PHKf3QlyWukNofAhcH2wtEOv_Eyq9rzBRx-&_nc_zt=24&_nc_ht=scontent-fra3-2.xx&edm=AP4hL3IEAAAA&_nc_gid=1KCeJVFb-2sAU72XvI1Urg&oh=00_AfZRxFYi-TEQeHuwl9ehFaIFuF6Mm51OhY4H7HwCpPHf2Q&oe=68CE1368"
+        "imageUrl": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=V3Aoz7xpDz8Q7kNvwEcdJZj&_nc_oc=AdmTw93XL4-LcSdrLMuyunduppLnYOq726jOPmu14onKMwGEqn3Ag6u5_oudYe9uugYBh_3jnMexmGZ-Y0k6eMAx&_nc_zt=24&_nc_ht=scontent-fra3-2.xx&edm=AP4hL3IEAAAA&_nc_gid=_hw8UbpW3fM6Js72qjdOgA&oh=00_AfZXbWrmjyAfnexR4sS-ttunElubSCJR5TaRPyPWprhQOA&oe=68CDA2E8"
       },
       "track": {
-        "uri": "spotify:track:2eSet0cvo4hssjDW2Y5VzU",
-        "name": "Doo Be Doo",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734d5d857ff307b4bd64c1481e",
+        "uri": "spotify:track:2vzpoecVhBE1pKtHzKONaN",
+        "name": "Seluruh Nafas Ini",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273382b1b7f79e2e760b9ac188e",
         "album": {
-          "uri": "spotify:album:0832LRZDeHUzDMBh9OPKA0",
-          "name": "Gita Gutawa"
+          "uri": "spotify:album:0lmWHPA0DAJY2xKscafErm",
+          "name": "Our Biggest Thing Ever"
         },
         "artist": {
-          "uri": "spotify:artist:4V1Io5SwSO4CwaUbgLMYvz",
-          "name": "Gita Gutawa"
+          "uri": "spotify:artist:1v1khTmozNfxB2ET1Ep288",
+          "name": "Last Child, Gisel"
         },
         "context": {
           "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
