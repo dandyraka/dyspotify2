@@ -1,53 +1,27 @@
 {
   "friends": [
     {
-      "timestamp": 1757941644127,
+      "timestamp": 1757943215461,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=V3Aoz7xpDz8Q7kNvwEcdJZj&_nc_oc=AdmTw93XL4-LcSdrLMuyunduppLnYOq726jOPmu14onKMwGEqn3Ag6u5_oudYe9uugYBh_3jnMexmGZ-Y0k6eMAx&_nc_zt=24&_nc_ht=scontent-fra3-2.xx&edm=AP4hL3IEAAAA&_nc_gid=_hw8UbpW3fM6Js72qjdOgA&oh=00_AfZXbWrmjyAfnexR4sS-ttunElubSCJR5TaRPyPWprhQOA&oe=68CDA2E8"
+        "imageUrl": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=V3Aoz7xpDz8Q7kNvwG1Gwo0&_nc_oc=AdkwCi5WzFnTQT3in5agi-yhOibt3LjJiAmbD7LJ_WDYpSPSdxxEQHfMW0vVrqyVRf-_lAGyka99Zh5HX0HUr9LZ&_nc_zt=24&_nc_ht=scontent-fra3-2.xx&edm=AP4hL3IEAAAA&_nc_gid=Ofgxtck5wLychAOEZaVdvA&oh=00_AfaepwZIaBAK--MaAYCBUj9VjtQERs_XxvqXmvAKFCgSYA&oe=68CDDB28"
       },
       "track": {
-        "uri": "spotify:track:6KfugJFINWqA42k59hmjFr",
-        "name": "TABOLA BALE",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27310df7b8e9b3ed2588888a8ae",
+        "uri": "spotify:track:2ALQHMFnSjKzRhGwXVSfHD",
+        "name": "Nenekku Pahlawanku",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ab85980da8a5c59d26309a6f",
         "album": {
-          "uri": "spotify:album:56paKQ8XwNS0fSkWaMiJMm",
-          "name": "TABOLA BALE"
+          "uri": "spotify:album:4SU72f8lCnTr1GM9GPkFPY",
+          "name": "Aku Bukan Bang Toyib"
         },
         "artist": {
-          "uri": "spotify:artist:5naPJsWUJ6y22yKXA6dX36",
-          "name": "Silet Open Up, Jacson Seran, Juan Reza, Diva Aurel"
+          "uri": "spotify:artist:5pnSNZZRyYViu2n58Zlw1J",
+          "name": "Wali"
         },
         "context": {
           "uri": "spotify:playlist:6gzRjcJqzdM1M6bpOZsWsl",
           "name": "playlist",
-          "index": 0
-        }
-      }
-    },
-    {
-      "timestamp": 1757941644632,
-      "user": {
-        "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
-        "name": "poemstars🌼🌟",
-        "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
-      },
-      "track": {
-        "uri": "spotify:track:3RDNWxiX2qTMDLwOHYWPN2",
-        "name": "Kisahku",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27399b3e17af4a39020f39fb712",
-        "album": {
-          "uri": "spotify:album:5QL2pL1YZKuePRIXf6hoaK",
-          "name": "Kisahku"
-        },
-        "artist": {
-          "uri": "spotify:artist:0GxxkBLH2uLa4b3URWudGb",
-          "name": "Brisia Jodie"
-        },
-        "context": {
-          "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy:collection",
-          "name": "collection",
           "index": 0
         }
       }
