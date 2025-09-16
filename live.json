@@ -1,3 +1,30 @@
 {
-  "friends": []
+  "friends": [
+    {
+      "timestamp": 1758005804894,
+      "user": {
+        "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
+        "name": "poemstars🌼🌟",
+        "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
+      },
+      "track": {
+        "uri": "spotify:track:01dPJMG3nFakTGc0ScJgMN",
+        "name": "Berdua Denganmu",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b2ce7eef10272cffe78da228",
+        "album": {
+          "uri": "spotify:album:2C7RbYsG8W3vKNSEuXsUFf",
+          "name": "Mentari Di Mata Hujan"
+        },
+        "artist": {
+          "uri": "spotify:artist:2xlEdRN74IYuAOrLjSNnjT",
+          "name": "Nuh..."
+        },
+        "context": {
+          "uri": null,
+          "name": null,
+          "index": 0
+        }
+      }
+    }
+  ]
 }
