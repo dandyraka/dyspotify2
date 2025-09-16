@@ -1,27 +1,27 @@
 {
   "friends": [
     {
-      "timestamp": 1758005804894,
+      "timestamp": 1758007115575,
       "user": {
         "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
         "name": "poemstars🌼🌟",
         "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
       },
       "track": {
-        "uri": "spotify:track:01dPJMG3nFakTGc0ScJgMN",
-        "name": "Berdua Denganmu",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b2ce7eef10272cffe78da228",
+        "uri": "spotify:track:5MzphLubufqPp6GYQAjhQD",
+        "name": "The Second You Sleep",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b38a243e00efe0135fd0d247",
         "album": {
-          "uri": "spotify:album:2C7RbYsG8W3vKNSEuXsUFf",
-          "name": "Mentari Di Mata Hujan"
+          "uri": "spotify:album:5XFOWdDivkN89mkap9dYjL",
+          "name": "The Second You Sleep"
         },
         "artist": {
-          "uri": "spotify:artist:2xlEdRN74IYuAOrLjSNnjT",
-          "name": "Nuh..."
+          "uri": "spotify:artist:3Om2xQbLD6af0jmrMryO1w",
+          "name": "Saybia"
         },
         "context": {
-          "uri": null,
-          "name": null,
+          "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy:collection",
+          "name": "collection",
           "index": 0
         }
       }
