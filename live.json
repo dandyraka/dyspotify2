@@ -1,30 +1,3 @@
 {
-  "friends": [
-    {
-      "timestamp": 1757990073638,
-      "user": {
-        "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
-        "name": "poemstars🌼🌟",
-        "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
-      },
-      "track": {
-        "uri": "spotify:track:1LM6t24SjQr2bJHqeGIR4U",
-        "name": "Still Feel Like Your Man",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c6bfaf942ed981d5c4c922e4",
-        "album": {
-          "uri": "spotify:album:0jZFu2tihRJ65iYAo0oOtP",
-          "name": "The Search for Everything"
-        },
-        "artist": {
-          "uri": "spotify:artist:0hEurMDQu99nJRq8pTxO14",
-          "name": "John Mayer"
-        },
-        "context": {
-          "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy:collection",
-          "name": "collection",
-          "index": 0
-        }
-      }
-    }
-  ]
+  "friends": []
 }
