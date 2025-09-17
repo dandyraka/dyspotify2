@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1758101591520,
+      "timestamp": 1758102320757,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
         "imageUrl": "https://scontent-lhr8-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=n2QxwALvVvQQ7kNvwHg646D&_nc_oc=AdlvDS28ZkvQBaAbdgQvvYm8xp5BOMLEuqU8G9bO05bfpuW1rmjkit8iXq6Up9jauVDUiFuLkvm4ubmZDE4yWZLL&_nc_zt=24&_nc_ht=scontent-lhr8-1.xx&edm=AP4hL3IEAAAA&_nc_gid=20N2CjdBRnZMJ9yf4KbVYw&oh=00_AfbWCLpCdsYVl9YrnsfUvI6aBa5HzWDKzQshOA8ESPTINg&oe=68D045E8"
       },
       "track": {
-        "uri": "spotify:track:7orcUlTZrNNph2bF3bihrG",
-        "name": "Kepompong",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dd59643b0abfebc905fb5ec3",
+        "uri": "spotify:track:03OwtkeHmoMT8JY3kv8WhF",
+        "name": "Kucinta Kau Apa Adanya (Aku Mau)",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bbf16732627e8276f755a33e",
         "album": {
-          "uri": "spotify:album:1XnMKW4MDd1oAnurHGuqBI",
-          "name": "8 Menit Lalu"
+          "uri": "spotify:album:6681ZUPUgHIFoTQjgZ7blI",
+          "name": "Once"
         },
         "artist": {
-          "uri": "spotify:artist:5u5fTfK2EBGx3PbEHIEiqd",
-          "name": "sind3ntosca"
+          "uri": "spotify:artist:57rIw0vk3eEuJlVblR4CrE",
+          "name": "Once Mekel"
         },
         "context": {
           "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
