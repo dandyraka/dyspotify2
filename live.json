@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1758116831039,
+      "timestamp": 1758117380214,
       "user": {
         "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
         "name": "poemstars🌼🌟",
         "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
       },
       "track": {
-        "uri": "spotify:track:0yac0FPhLRH9i9lOng3f81",
-        "name": "Everybody's Changing",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737d6cd95a046a3c0dacbc7d33",
+        "uri": "spotify:track:0Sox7tv3MK5h6AkFLUPHtY",
+        "name": "Mistakes",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27358b484b3fe39baaa3681a559",
         "album": {
-          "uri": "spotify:album:0MlTOiC5ZYKFGeZ8h3D4rd",
-          "name": "Hopes And Fears"
+          "uri": "spotify:album:1pXxKrTopCyALgXX7h5tmX",
+          "name": "Side Pony"
         },
         "artist": {
-          "uri": "spotify:artist:53A0W3U0s8diEn9RhXQhVz",
-          "name": "Keane"
+          "uri": "spotify:artist:3nuc29fYGlQbIrwh4yrNWd",
+          "name": "Lake Street Dive"
         },
         "context": {
           "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy:collection",
