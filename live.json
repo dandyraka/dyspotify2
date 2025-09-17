@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1758104152970,
+      "timestamp": 1758105317473,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
         "imageUrl": "https://scontent-lhr8-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=n2QxwALvVvQQ7kNvwGD-bIL&_nc_oc=Adk2wxwMSVikvt-UE0Ys_iX3HXYSwH9DjlGxRVCNfhhXyb1ysj7zWkitXrroYWoSRmg9iDzFIAVI9xLx1vUv1wu1&_nc_zt=24&_nc_ht=scontent-lhr8-1.xx&edm=AP4hL3IEAAAA&_nc_gid=B6noi4tqahvldFAVdDKJaw&oh=00_AfZCe4u71jMpxOIkyS2_oUZMBKPpFOjb18x5Hfg7PumLmw&oe=68D045E8"
       },
       "track": {
-        "uri": "spotify:track:4cH4D3i1obaD4FFLTFJVkC",
+        "uri": "spotify:track:28MIhQn4HxHaGaNWuGB4bY",
         "name": "Biarlah",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27323808eb7fa3f96cf23163feb",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c959c5599a08ffe7a37cf649",
         "album": {
-          "uri": "spotify:album:5Igwi238H4AajwwSJCYFVf",
-          "name": "Killing Me Inside"
+          "uri": "spotify:album:72qO4Mq1FFrU2EZasvDdK2",
+          "name": "Top Up"
         },
         "artist": {
-          "uri": "spotify:artist:4BsA6GhmnkTRZJrLa8LMo8",
-          "name": "Killing Me Inside"
+          "uri": "spotify:artist:4sEWznAKWWNcicTuLxzb6d",
+          "name": "Nidji"
         },
         "context": {
           "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
