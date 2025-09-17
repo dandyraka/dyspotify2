@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1758116122975,
+      "timestamp": 1758116831039,
       "user": {
         "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
         "name": "poemstars🌼🌟",
         "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
       },
       "track": {
-        "uri": "spotify:track:5MzphLubufqPp6GYQAjhQD",
-        "name": "The Second You Sleep",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b38a243e00efe0135fd0d247",
+        "uri": "spotify:track:0yac0FPhLRH9i9lOng3f81",
+        "name": "Everybody's Changing",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737d6cd95a046a3c0dacbc7d33",
         "album": {
-          "uri": "spotify:album:5XFOWdDivkN89mkap9dYjL",
-          "name": "The Second You Sleep"
+          "uri": "spotify:album:0MlTOiC5ZYKFGeZ8h3D4rd",
+          "name": "Hopes And Fears"
         },
         "artist": {
-          "uri": "spotify:artist:3Om2xQbLD6af0jmrMryO1w",
-          "name": "Saybia"
+          "uri": "spotify:artist:53A0W3U0s8diEn9RhXQhVz",
+          "name": "Keane"
         },
         "context": {
           "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy:collection",
