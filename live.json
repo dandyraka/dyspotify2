@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1758106005439,
+      "timestamp": 1758106550421,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
         "imageUrl": "https://scontent-lhr8-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=n2QxwALvVvQQ7kNvwHg646D&_nc_oc=AdlvDS28ZkvQBaAbdgQvvYm8xp5BOMLEuqU8G9bO05bfpuW1rmjkit8iXq6Up9jauVDUiFuLkvm4ubmZDE4yWZLL&_nc_zt=24&_nc_ht=scontent-lhr8-1.xx&edm=AP4hL3IEAAAA&_nc_gid=20N2CjdBRnZMJ9yf4KbVYw&oh=00_AfbWCLpCdsYVl9YrnsfUvI6aBa5HzWDKzQshOA8ESPTINg&oe=68D045E8"
       },
       "track": {
-        "uri": "spotify:track:3n9Rplkkr17DE8EWJ8nWiz",
-        "name": "Bila Nanti Kau Milikku",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273118eed66d6309014f8da3da8",
+        "uri": "spotify:track:7jOFzcYm74WaqS79ApFGhN",
+        "name": "Arjuna",
+        "imageUrl": "https://i.scdn.co/image/4998f20672f6783f7448f1266973a9e0595d5ea5",
         "album": {
-          "uri": "spotify:album:6JZRJTpUNTsaTqk5auZj52",
-          "name": "Senandung Hati dan Jiwa"
+          "uri": "spotify:album:6ifjItwHx7S2mhoX6tWSlK",
+          "name": "Cintailah Cinta"
         },
         "artist": {
-          "uri": "spotify:artist:1ryXwlpQNzkSCfU685Ftx5",
-          "name": "NaFF"
+          "uri": "spotify:artist:35dWPb7Tmq0WESp6KAUJ8w",
+          "name": "Dewa"
         },
         "context": {
           "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
