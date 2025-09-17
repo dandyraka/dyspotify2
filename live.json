@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1758102875976,
+      "timestamp": 1758104152970,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-lhr8-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=n2QxwALvVvQQ7kNvwHg646D&_nc_oc=AdlvDS28ZkvQBaAbdgQvvYm8xp5BOMLEuqU8G9bO05bfpuW1rmjkit8iXq6Up9jauVDUiFuLkvm4ubmZDE4yWZLL&_nc_zt=24&_nc_ht=scontent-lhr8-1.xx&edm=AP4hL3IEAAAA&_nc_gid=20N2CjdBRnZMJ9yf4KbVYw&oh=00_AfbWCLpCdsYVl9YrnsfUvI6aBa5HzWDKzQshOA8ESPTINg&oe=68D045E8"
+        "imageUrl": "https://scontent-lhr8-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=n2QxwALvVvQQ7kNvwGD-bIL&_nc_oc=Adk2wxwMSVikvt-UE0Ys_iX3HXYSwH9DjlGxRVCNfhhXyb1ysj7zWkitXrroYWoSRmg9iDzFIAVI9xLx1vUv1wu1&_nc_zt=24&_nc_ht=scontent-lhr8-1.xx&edm=AP4hL3IEAAAA&_nc_gid=B6noi4tqahvldFAVdDKJaw&oh=00_AfZCe4u71jMpxOIkyS2_oUZMBKPpFOjb18x5Hfg7PumLmw&oe=68D045E8"
       },
       "track": {
-        "uri": "spotify:track:7kyDNBAyduSENJ8tc5vpZD",
-        "name": "Masih Disini Masih Denganmu (MD2)",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738eaaf8982d9c1c55f3b35aab",
+        "uri": "spotify:track:4cH4D3i1obaD4FFLTFJVkC",
+        "name": "Biarlah",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27323808eb7fa3f96cf23163feb",
         "album": {
-          "uri": "spotify:album:3xOrbKQYEvQOZLGIt75d6L",
-          "name": "Masih Disini Masih Denganmu (MD2)"
+          "uri": "spotify:album:5Igwi238H4AajwwSJCYFVf",
+          "name": "Killing Me Inside"
         },
         "artist": {
-          "uri": "spotify:artist:0W2XGlZeQNpb2QatRn10YS",
-          "name": "Goliath"
+          "uri": "spotify:artist:4BsA6GhmnkTRZJrLa8LMo8",
+          "name": "Killing Me Inside"
         },
         "context": {
           "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
