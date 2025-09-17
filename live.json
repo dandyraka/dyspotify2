@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1758105317473,
+      "timestamp": 1758106005439,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-lhr8-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=n2QxwALvVvQQ7kNvwGD-bIL&_nc_oc=Adk2wxwMSVikvt-UE0Ys_iX3HXYSwH9DjlGxRVCNfhhXyb1ysj7zWkitXrroYWoSRmg9iDzFIAVI9xLx1vUv1wu1&_nc_zt=24&_nc_ht=scontent-lhr8-1.xx&edm=AP4hL3IEAAAA&_nc_gid=B6noi4tqahvldFAVdDKJaw&oh=00_AfZCe4u71jMpxOIkyS2_oUZMBKPpFOjb18x5Hfg7PumLmw&oe=68D045E8"
+        "imageUrl": "https://scontent-lhr8-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=n2QxwALvVvQQ7kNvwHg646D&_nc_oc=AdlvDS28ZkvQBaAbdgQvvYm8xp5BOMLEuqU8G9bO05bfpuW1rmjkit8iXq6Up9jauVDUiFuLkvm4ubmZDE4yWZLL&_nc_zt=24&_nc_ht=scontent-lhr8-1.xx&edm=AP4hL3IEAAAA&_nc_gid=20N2CjdBRnZMJ9yf4KbVYw&oh=00_AfbWCLpCdsYVl9YrnsfUvI6aBa5HzWDKzQshOA8ESPTINg&oe=68D045E8"
       },
       "track": {
-        "uri": "spotify:track:28MIhQn4HxHaGaNWuGB4bY",
-        "name": "Biarlah",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c959c5599a08ffe7a37cf649",
+        "uri": "spotify:track:3n9Rplkkr17DE8EWJ8nWiz",
+        "name": "Bila Nanti Kau Milikku",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273118eed66d6309014f8da3da8",
         "album": {
-          "uri": "spotify:album:72qO4Mq1FFrU2EZasvDdK2",
-          "name": "Top Up"
+          "uri": "spotify:album:6JZRJTpUNTsaTqk5auZj52",
+          "name": "Senandung Hati dan Jiwa"
         },
         "artist": {
-          "uri": "spotify:artist:4sEWznAKWWNcicTuLxzb6d",
-          "name": "Nidji"
+          "uri": "spotify:artist:1ryXwlpQNzkSCfU685Ftx5",
+          "name": "NaFF"
         },
         "context": {
           "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
