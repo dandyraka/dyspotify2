@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1758106550421,
+      "timestamp": 1758107576351,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
         "imageUrl": "https://scontent-lhr8-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=n2QxwALvVvQQ7kNvwHg646D&_nc_oc=AdlvDS28ZkvQBaAbdgQvvYm8xp5BOMLEuqU8G9bO05bfpuW1rmjkit8iXq6Up9jauVDUiFuLkvm4ubmZDE4yWZLL&_nc_zt=24&_nc_ht=scontent-lhr8-1.xx&edm=AP4hL3IEAAAA&_nc_gid=20N2CjdBRnZMJ9yf4KbVYw&oh=00_AfbWCLpCdsYVl9YrnsfUvI6aBa5HzWDKzQshOA8ESPTINg&oe=68D045E8"
       },
       "track": {
-        "uri": "spotify:track:7jOFzcYm74WaqS79ApFGhN",
-        "name": "Arjuna",
-        "imageUrl": "https://i.scdn.co/image/4998f20672f6783f7448f1266973a9e0595d5ea5",
+        "uri": "spotify:track:4SehJJPSAb0BYgNZ6MQpoJ",
+        "name": "Percayakan",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a7d2f77f823bfe2be4153521",
         "album": {
-          "uri": "spotify:album:6ifjItwHx7S2mhoX6tWSlK",
-          "name": "Cintailah Cinta"
+          "uri": "spotify:album:1YQAbCtNKCACnMwuqFkwvP",
+          "name": "Yang Tak Terlupakan"
         },
         "artist": {
-          "uri": "spotify:artist:35dWPb7Tmq0WESp6KAUJ8w",
-          "name": "Dewa"
+          "uri": "spotify:artist:3GheatPWdVzxqmRXOKxHTb",
+          "name": "Lyla"
         },
         "context": {
           "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
