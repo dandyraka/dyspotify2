@@ -1,27 +1,27 @@
 {
   "friends": [
     {
-      "timestamp": 1758112419958,
+      "timestamp": 1758114441892,
       "user": {
         "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
         "name": "poemstars🌼🌟",
         "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
       },
       "track": {
-        "uri": "spotify:track:1TyNecZDYU3BP3EitfpgnT",
-        "name": "4 Seasons Of Loneliness",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d8768421219707e1851cafd9",
+        "uri": "spotify:track:5j9tdGzuCDzYrz5Eey4q3N",
+        "name": "Kultusan",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27383b0105f3ea493fcf0da7443",
         "album": {
-          "uri": "spotify:album:50NJ3kg2byqp460tCPpRF7",
-          "name": "Evolution"
+          "uri": "spotify:album:4gwRdhyoIngNRgbeP0C7Id",
+          "name": "Berhati"
         },
         "artist": {
-          "uri": "spotify:artist:6O74knDqdv3XaWtkII7Xjp",
-          "name": "Boyz II Men"
+          "uri": "spotify:artist:1NjxFrpEGZTV2Ny0OJxeWu",
+          "name": "Sal Priadi"
         },
         "context": {
-          "uri": "spotify:artist:6O74knDqdv3XaWtkII7Xjp",
-          "name": "artist",
+          "uri": "spotify:album:4gwRdhyoIngNRgbeP0C7Id",
+          "name": "album",
           "index": 0
         }
       }
