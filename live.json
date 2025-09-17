@@ -1,27 +1,27 @@
 {
   "friends": [
     {
-      "timestamp": 1758110144980,
+      "timestamp": 1758112419958,
       "user": {
-        "uri": "spotify:user:dandyraka_",
-        "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-lhr8-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=n2QxwALvVvQQ7kNvwGD-bIL&_nc_oc=Adk2wxwMSVikvt-UE0Ys_iX3HXYSwH9DjlGxRVCNfhhXyb1ysj7zWkitXrroYWoSRmg9iDzFIAVI9xLx1vUv1wu1&_nc_zt=24&_nc_ht=scontent-lhr8-1.xx&edm=AP4hL3IEAAAA&_nc_gid=B6noi4tqahvldFAVdDKJaw&oh=00_AfZCe4u71jMpxOIkyS2_oUZMBKPpFOjb18x5Hfg7PumLmw&oe=68D045E8"
+        "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
+        "name": "poemstars🌼🌟",
+        "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
       },
       "track": {
-        "uri": "spotify:track:63aIxMhj5WU6yJSxT7zxEA",
-        "name": "Surat Buat Wakil Rakyat",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d4649e0e5d2726dae0cda39d",
+        "uri": "spotify:track:1TyNecZDYU3BP3EitfpgnT",
+        "name": "4 Seasons Of Loneliness",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d8768421219707e1851cafd9",
         "album": {
-          "uri": "spotify:album:1R2c2m3RyaexUtRCtyj3OA",
-          "name": "Wakil Rakyat"
+          "uri": "spotify:album:50NJ3kg2byqp460tCPpRF7",
+          "name": "Evolution"
         },
         "artist": {
-          "uri": "spotify:artist:7LkkXDrBNVODZKIJlWGwbX",
-          "name": "Iwan Fals"
+          "uri": "spotify:artist:6O74knDqdv3XaWtkII7Xjp",
+          "name": "Boyz II Men"
         },
         "context": {
-          "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
-          "name": "playlist",
+          "uri": "spotify:artist:6O74knDqdv3XaWtkII7Xjp",
+          "name": "artist",
           "index": 0
         }
       }
