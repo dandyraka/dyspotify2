@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1758187035661,
+      "timestamp": 1758187985529,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
         "imageUrl": "https://scontent-lhr8-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=n2QxwALvVvQQ7kNvwHow7M5&_nc_oc=Adn7HPSHdD9UXIIQQXoQVVFGiAh0Js5x9ssFaRIcWvINP9hqkC9CkkOlYLyrtXf8zlish_FXskUV0QGLW934zgdA&_nc_zt=24&_nc_ht=scontent-lhr8-1.xx&edm=AP4hL3IEAAAA&_nc_gid=S04QwUbYtzHlC4yRgu-aLA&oh=00_AfZTXk91vk4mz0OMoRkNE7VaR5xHewXJN6fnjPRX7a0AfQ&oe=68D0EEA8"
       },
       "track": {
-        "uri": "spotify:track:73PIm6P5ruqBmcEVtzcop2",
-        "name": "Tentang Rasa",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731a0378422d6100ef70acf740",
+        "uri": "spotify:track:6WUqv9T3RPTHHNKw0zVJuM",
+        "name": "Sahabat Sejati",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e8d4f0596d66ccbe5241918d",
         "album": {
-          "uri": "spotify:album:01zDZbVSnCZ1TS0IASD38S",
-          "name": "Lihat Aku Sekarang"
+          "uri": "spotify:album:4bPUtZdWsvU1eTPmJFuvwm",
+          "name": "Kisah Klasik Untuk Masa Depan"
         },
         "artist": {
-          "uri": "spotify:artist:6GxmlugWFw4hmhUQ5uP93l",
-          "name": "Astrid"
+          "uri": "spotify:artist:6q87vizIEdEN4NvlR6mjfT",
+          "name": "Sheila On 7"
         },
         "context": {
           "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
