@@ -1,30 +1,3 @@
 {
-  "friends": [
-    {
-      "timestamp": 1758202498827,
-      "user": {
-        "uri": "spotify:user:dandyraka_",
-        "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=n2QxwALvVvQQ7kNvwFACgnz&_nc_oc=AdkuK7DugUumKQZHfsVtRTRStyXnkZ_hOWGS7rDTu2UWeZ9-0hnva6uZK26uuA0fgi-TedQSCVgAmvDcJbe39Sn4&_nc_zt=24&_nc_ht=scontent-cdg4-3.xx&edm=AP4hL3IEAAAA&_nc_gid=56ss4sDEw-OaPhK_RrEwSA&oh=00_AfbC3Ck8buXLJ2Be6--2pv0nCwtjqFjxPqioLM8bWK8aJA&oe=68D19768"
-      },
-      "track": {
-        "uri": "spotify:track:3e1oqsDrbHjeyMD9ycmgyH",
-        "name": "I Love U Bibeh",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273503637ccb15e00eb225a564c",
-        "album": {
-          "uri": "spotify:album:3jEGzRT0B9NZ7NvQqLLbRi",
-          "name": "Mencoba Sukses Kembali"
-        },
-        "artist": {
-          "uri": "spotify:artist:1DZs8IjMvRQqB3i0uvgCc5",
-          "name": "The Changcuters"
-        },
-        "context": {
-          "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
-          "name": "playlist",
-          "index": 0
-        }
-      }
-    }
-  ]
+  "friends": []
 }
