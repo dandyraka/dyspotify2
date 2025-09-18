@@ -1,27 +1,27 @@
 {
   "friends": [
     {
-      "timestamp": 1758180596281,
+      "timestamp": 1758181208394,
       "user": {
         "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
         "name": "poemstars🌼🌟",
         "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
       },
       "track": {
-        "uri": "spotify:track:3Z0K4sFU1fOiBOe7Nf3kix",
-        "name": "Menjadi Dia",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273937d621f0025409ee44285d1",
+        "uri": "spotify:track:3JsydWaf2Ev4ehaLUjj3SY",
+        "name": "Confident",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27358ae8fddecbd2630005409c9",
         "album": {
-          "uri": "spotify:album:0jxUY7K5FdwJNl3SmnOZOl",
-          "name": "Tiara Andini"
+          "uri": "spotify:album:1rknZw4cyL9NInAqSwc8AA",
+          "name": "Journals"
         },
         "artist": {
-          "uri": "spotify:artist:0kPb52ySN2k9P6wEZPTUzm",
-          "name": "Tiara Andini"
+          "uri": "spotify:artist:1uNFoZAHBGtllmzznpCI3s",
+          "name": "Justin Bieber, Chance the Rapper"
         },
         "context": {
-          "uri": "spotify:playlist:37i9dQZF1E8LQHgng9GLsU",
-          "name": "playlist",
+          "uri": null,
+          "name": null,
           "index": 0
         }
       }
