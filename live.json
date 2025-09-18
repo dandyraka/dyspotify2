@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1758182270647,
+      "timestamp": 1758184032509,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-lhr8-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=n2QxwALvVvQQ7kNvwFmGRvv&_nc_oc=AdmzfYvaM8ulqae7cS8FSo1F-2ozJ5GGFTeQl406CrM6eloQMNgvvQZbgF56edWJ3VoFE5gFhXlLEd6vdJUXS2u0&_nc_zt=24&_nc_ht=scontent-lhr8-1.xx&edm=AP4hL3IEAAAA&_nc_gid=-EsFktRMtnJOWY5pmL9TVw&oh=00_AfbUiMDphe9vMUH8_YgnFEGrg7ZA6feEI681Do_IHFzR7Q&oe=68D0EEA8"
+        "imageUrl": "https://scontent-lhr8-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=n2QxwALvVvQQ7kNvwHow7M5&_nc_oc=Adn7HPSHdD9UXIIQQXoQVVFGiAh0Js5x9ssFaRIcWvINP9hqkC9CkkOlYLyrtXf8zlish_FXskUV0QGLW934zgdA&_nc_zt=24&_nc_ht=scontent-lhr8-1.xx&edm=AP4hL3IEAAAA&_nc_gid=S04QwUbYtzHlC4yRgu-aLA&oh=00_AfZTXk91vk4mz0OMoRkNE7VaR5xHewXJN6fnjPRX7a0AfQ&oe=68D0EEA8"
       },
       "track": {
-        "uri": "spotify:track:1a2Y5fGmSfqgysvDL5hT1q",
-        "name": "Dia",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f11833f55b56c20d0f45561a",
+        "uri": "spotify:track:55v1BS74zls1ccua7xcjLR",
+        "name": "Ayah",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e4ee3426c6d9951e14df5fd4",
         "album": {
-          "uri": "spotify:album:5ceHrIfwRLH0mET4sJlnbv",
-          "name": "Free Your Mind (Deluxe)"
+          "uri": "spotify:album:6iPcmTpTCIWRL1QPhQprmF",
+          "name": "The Masterpiece Of Rinto Harahap"
         },
         "artist": {
-          "uri": "spotify:artist:18PmEN8ZiHBQlDpxrgR2xs",
-          "name": "MALIQ & D'Essentials"
+          "uri": "spotify:artist:3Al8UPsWIzZPMApZDU9Isp",
+          "name": "Marcello Tahitoe, Andi, Maia, Rif, Achi Harahap, Rio F, The Changcuters, Pinkan Mambo, Pasto, Terry, Yovie & Nuno, Nindy"
         },
         "context": {
           "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
