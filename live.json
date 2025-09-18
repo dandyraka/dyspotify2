@@ -1,30 +1,3 @@
 {
-  "friends": [
-    {
-      "timestamp": 1758191716162,
-      "user": {
-        "uri": "spotify:user:dandyraka_",
-        "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=n2QxwALvVvQQ7kNvwEBZ52m&_nc_oc=AdkI0FuY7KrSLiixYAY_Ws6E34gCdJXFGQeY4gGCMEhk00GrH91mD6GPu_8QktKIKYwfn05hGdT-QqpON9Pcpfh2&_nc_zt=24&_nc_ht=scontent-cdg4-3.xx&edm=AP4hL3IEAAAA&_nc_gid=80s0CyTHT6WBDdb7SLVaEw&oh=00_AfZSordRys2lxSvzsq1rRv33tkWL4ytWYyePsNtl5HFbhQ&oe=68D19768"
-      },
-      "track": {
-        "uri": "spotify:track:3821tdFqPQeJNYxryIqIev",
-        "name": "Hijrah Ke London",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273503637ccb15e00eb225a564c",
-        "album": {
-          "uri": "spotify:album:3jEGzRT0B9NZ7NvQqLLbRi",
-          "name": "Mencoba Sukses Kembali"
-        },
-        "artist": {
-          "uri": "spotify:artist:1DZs8IjMvRQqB3i0uvgCc5",
-          "name": "The Changcuters"
-        },
-        "context": {
-          "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
-          "name": "playlist",
-          "index": 0
-        }
-      }
-    }
-  ]
+  "friends": []
 }
