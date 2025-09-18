@@ -1,7 +1,7 @@
 {
   "friends": [
     {
-      "timestamp": 1758188699924,
+      "timestamp": 1758189234062,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
@@ -22,32 +22,6 @@
         "context": {
           "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
           "name": "playlist",
-          "index": 0
-        }
-      }
-    },
-    {
-      "timestamp": 1758188700418,
-      "user": {
-        "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
-        "name": "poemstars🌼🌟",
-        "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
-      },
-      "track": {
-        "uri": "spotify:track:7J6w4tz2uotfeY7Y0EOlko",
-        "name": "Just To Keep You Satisfied",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f8f0a26e4100c490bc384003",
-        "album": {
-          "uri": "spotify:album:1oIICL75sMuInkEhX8jj3b",
-          "name": "Let's Get It On"
-        },
-        "artist": {
-          "uri": "spotify:artist:3koiLjNrgRTNbOwViDipeA",
-          "name": "Marvin Gaye"
-        },
-        "context": {
-          "uri": null,
-          "name": null,
           "index": 0
         }
       }
