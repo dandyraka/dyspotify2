@@ -1,5 +1,14 @@
 [
   {
+    "timestamp": 1758181251029,
+    "user": "poemstars🌼🌟",
+    "userId": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
+    "track": "Confident",
+    "artist": "Justin Bieber, Chance the Rapper",
+    "uri": "spotify:track:3JsydWaf2Ev4ehaLUjj3SY",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27358ae8fddecbd2630005409c9"
+  },
+  {
     "timestamp": 1758180902117,
     "user": "poemstars🌼🌟",
     "userId": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
@@ -79,14 +88,5 @@
     "artist": "Afgan",
     "uri": "spotify:track:7FuVsl0xPPqNReht0o6dxO",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273601f00627765d897f8002a2f"
-  },
-  {
-    "timestamp": 1758161516076,
-    "user": "poemstars🌼🌟",
-    "userId": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
-    "track": "Kunci Hati",
-    "artist": "Afgan",
-    "uri": "spotify:track:06ucysl1ssEAPneG6BYInW",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733e66d69957f28d9a21616c39"
   }
 ]
