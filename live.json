@@ -1,30 +1,3 @@
 {
-  "friends": [
-    {
-      "timestamp": 1758163044401,
-      "user": {
-        "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
-        "name": "poemstars🌼🌟",
-        "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
-      },
-      "track": {
-        "uri": "spotify:track:4RVwu0g32PAqgUiJoXsdF8",
-        "name": "Happier Than Ever",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732a038d3bf875d23e4aeaa84e",
-        "album": {
-          "uri": "spotify:album:0JGOiO34nwfUdDrD612dOp",
-          "name": "Happier Than Ever"
-        },
-        "artist": {
-          "uri": "spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH",
-          "name": "Billie Eilish"
-        },
-        "context": {
-          "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy:collection",
-          "name": "collection",
-          "index": 0
-        }
-      }
-    }
-  ]
+  "friends": []
 }
