@@ -1,5 +1,14 @@
 [
   {
+    "timestamp": 1758202285957,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Virus",
+    "artist": "Slank",
+    "uri": "spotify:track:3UtOwLGQ0XlgcYplFzZMYx",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736fcf9f2d09fb0befb33f8be1"
+  },
+  {
     "timestamp": 1758191174992,
     "user": "poemstars🌼🌟",
     "userId": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
@@ -79,14 +88,5 @@
     "artist": "Yovie & Nuno",
     "uri": "spotify:track:5It44CCAJpMBShYw1swvql",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736a37fc6f96faf4206f4845e7"
-  },
-  {
-    "timestamp": 1758189385864,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Hingga Akhir Waktu",
-    "artist": "NINEBALL",
-    "uri": "spotify:track:2RLsbdbEWAm95CElVGrVc5",
-    "imageUrl": "https://i.scdn.co/image/43720c24dea33475493530f390fea51d508c3b0c"
   }
 ]
