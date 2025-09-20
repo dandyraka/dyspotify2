@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1758364487852,
+      "timestamp": 1758365027553,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-zrh1-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=uX_JPnY_HNYQ7kNvwEv4ebx&_nc_oc=AdmZDAYwt9zLo5ulZPFc3wv5ayZuUkUY_2Gt_-dALruwYHwIzu3lzC7OuPLD-vmZAu0U0P1N9bTb5-MCoO5IHT6m&_nc_zt=24&_nc_ht=scontent-zrh1-1.xx&edm=AP4hL3IEAAAA&_nc_gid=ZUa7yAlTdDOyv8pZGtSJgA&oh=00_AfbfTcB7IVLBlcr8N0JTVnsDIZtuEFb5S33QqNBJ4JTfHA&oe=68D3C9E8"
+        "imageUrl": "https://scontent-zrh1-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=uX_JPnY_HNYQ7kNvwE5x0tB&_nc_oc=AdnAHRJ6EC4c6WSYdHYHV5wqcYnst1qEODytXZj0y2GbaNFCo70JLlIJsOLz-m5bBMfw8WGV60xqc204tIL6_d3O&_nc_zt=24&_nc_ht=scontent-zrh1-1.xx&edm=AP4hL3IEAAAA&_nc_gid=ADcN51RFyXV8xDObOPWJnw&oh=00_AfbK4LVn8V3-kL83Hd44rnW0ckkYBr8IFz2eu0ws6GaxsQ&oe=68D3C9E8"
       },
       "track": {
-        "uri": "spotify:track:7F3RSsk4kgdWDF0h8xvalZ",
-        "name": "Kau Tigakan Cinta",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732e2f85d5eb7e52b8dd18a4ed",
+        "uri": "spotify:track:5USlcP7gkpSzzdGGCAZ4ya",
+        "name": "Semakin Ku Kejar Semakin Kau Jauh (SKSJ)",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273778f75f6ababf2eb1eb6d148",
         "album": {
-          "uri": "spotify:album:5c1SVP01BdGT3chGeQhlHE",
-          "name": "Kau Tigakan Cinta"
+          "uri": "spotify:album:4Yenub8043Klfl4Z1KpMUQ",
+          "name": "Semua Ini Sendiri"
         },
         "artist": {
-          "uri": "spotify:artist:3VHrNovOUrILgQxTyVsZGs",
-          "name": "Elkasih"
+          "uri": "spotify:artist:1jpcciDZSo632cA34WIfTX",
+          "name": "Five Minutes"
         },
         "context": {
           "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
