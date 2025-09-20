@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1758361188640,
+      "timestamp": 1758361740214,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-zrh1-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=uX_JPnY_HNYQ7kNvwEv4ebx&_nc_oc=AdmZDAYwt9zLo5ulZPFc3wv5ayZuUkUY_2Gt_-dALruwYHwIzu3lzC7OuPLD-vmZAu0U0P1N9bTb5-MCoO5IHT6m&_nc_zt=24&_nc_ht=scontent-zrh1-1.xx&edm=AP4hL3IEAAAA&_nc_gid=ZUa7yAlTdDOyv8pZGtSJgA&oh=00_AfbfTcB7IVLBlcr8N0JTVnsDIZtuEFb5S33QqNBJ4JTfHA&oe=68D3C9E8"
+        "imageUrl": "https://scontent-zrh1-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=uX_JPnY_HNYQ7kNvwE5x0tB&_nc_oc=AdnAHRJ6EC4c6WSYdHYHV5wqcYnst1qEODytXZj0y2GbaNFCo70JLlIJsOLz-m5bBMfw8WGV60xqc204tIL6_d3O&_nc_zt=24&_nc_ht=scontent-zrh1-1.xx&edm=AP4hL3IEAAAA&_nc_gid=ADcN51RFyXV8xDObOPWJnw&oh=00_AfbK4LVn8V3-kL83Hd44rnW0ckkYBr8IFz2eu0ws6GaxsQ&oe=68D3C9E8"
       },
       "track": {
-        "uri": "spotify:track:2MFWaALw8ATHYR3eeS0qGV",
-        "name": "Maafkan",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730b7fa8b7e56af7b569af3460",
+        "uri": "spotify:track:3kLih9mTl5AKpVJVTWTb4k",
+        "name": "Rumah Kita",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e1e2b24fadd022eb9686b2fd",
         "album": {
-          "uri": "spotify:album:3H4EsR7A5DAi1J2mgX3BY0",
-          "name": "Yang No.1"
+          "uri": "spotify:album:1NW8b9x0lYg4at5hzFrTgj",
+          "name": "Tribute To Ian Antono"
         },
         "artist": {
-          "uri": "spotify:artist:6IVfG2b4I86tYdigTdpWUa",
-          "name": "D'Bagindas"
+          "uri": "spotify:artist:0V4oVHxaKeGFDuaLV8RDW1",
+          "name": "Indonesian Voices"
         },
         "context": {
           "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
