@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1758366678965,
+      "timestamp": 1758367538566,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
         "imageUrl": "https://scontent-zrh1-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=uX_JPnY_HNYQ7kNvwEMoMCn&_nc_oc=AdkprzdTPHI7g0snpPt9SiZLFqPRPaVe6-V9HQuui9ryk9t6yUZINqf3dqDLq5_AknnfBTwgnGJ5AFPDTRmlrC3M&_nc_zt=24&_nc_ht=scontent-zrh1-1.xx&edm=AP4hL3IEAAAA&_nc_gid=JV5uJ7-VuttvWlZaackmig&oh=00_AfbP3RrBWyZaUEYe1XzSueh0f6q81BrbsH7Phmo4CxZZCQ&oe=68D472A8"
       },
       "track": {
-        "uri": "spotify:track:6W9EPH4b6fkgkERorDnuRz",
-        "name": "Kesempatan Kedua",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731aac1c15810ad41ab344b615",
+        "uri": "spotify:track:1mAkA0ZVdi3S9gVvuJw89I",
+        "name": "Terlatih Patah Hati",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27300bb1fe08fd2ac677bcc759a",
         "album": {
-          "uri": "spotify:album:2G9Iynta2AhqPt59CBOP0T",
-          "name": "Lost In Love"
+          "uri": "spotify:album:48ocHb8AH2uWC10XNsdzYR",
+          "name": "Jabat Erat"
         },
         "artist": {
-          "uri": "spotify:artist:2XcOYJZRPtn0BASWE7R66J",
-          "name": "Tangga"
+          "uri": "spotify:artist:76FV2FPEhMQj3GZPIkAJP2",
+          "name": "The Rain"
         },
         "context": {
           "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
