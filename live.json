@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1758362251345,
+      "timestamp": 1758363519475,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-zrh1-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=uX_JPnY_HNYQ7kNvwEv4ebx&_nc_oc=AdmZDAYwt9zLo5ulZPFc3wv5ayZuUkUY_2Gt_-dALruwYHwIzu3lzC7OuPLD-vmZAu0U0P1N9bTb5-MCoO5IHT6m&_nc_zt=24&_nc_ht=scontent-zrh1-1.xx&edm=AP4hL3IEAAAA&_nc_gid=ZUa7yAlTdDOyv8pZGtSJgA&oh=00_AfbfTcB7IVLBlcr8N0JTVnsDIZtuEFb5S33QqNBJ4JTfHA&oe=68D3C9E8"
+        "imageUrl": "https://scontent-zrh1-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=uX_JPnY_HNYQ7kNvwE5x0tB&_nc_oc=AdnAHRJ6EC4c6WSYdHYHV5wqcYnst1qEODytXZj0y2GbaNFCo70JLlIJsOLz-m5bBMfw8WGV60xqc204tIL6_d3O&_nc_zt=24&_nc_ht=scontent-zrh1-1.xx&edm=AP4hL3IEAAAA&_nc_gid=ADcN51RFyXV8xDObOPWJnw&oh=00_AfbK4LVn8V3-kL83Hd44rnW0ckkYBr8IFz2eu0ws6GaxsQ&oe=68D3C9E8"
       },
       "track": {
-        "uri": "spotify:track:1x1zmEE1YLQLSlXkZr4dzv",
-        "name": "Beraksi",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27355fcbac77e9be79cffca62e4",
+        "uri": "spotify:track:1j2SFEkeV91HJCBAhpKU5f",
+        "name": "Dokter Cinta",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730dfa48cd32a485064ba64804",
         "album": {
-          "uri": "spotify:album:51WaoxvQJ8BbdvrogMRFqg",
-          "name": "Kotak Kedua"
+          "uri": "spotify:album:1s9DhA6ZQkcwABEOpsY76b",
+          "name": "Recycle +"
         },
         "artist": {
-          "uri": "spotify:artist:6oMp2cGzP3Bw86ssV7hjyu",
-          "name": "Kotak"
+          "uri": "spotify:artist:0Jm5WIHmAdEVTq1mwUwvMs",
+          "name": "Dewi - Dewi"
         },
         "context": {
           "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
