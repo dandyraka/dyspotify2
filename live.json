@@ -1,3 +1,30 @@
 {
-  "friends": []
+  "friends": [
+    {
+      "timestamp": 1758334993855,
+      "user": {
+        "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
+        "name": "poemstars🌼🌟",
+        "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
+      },
+      "track": {
+        "uri": "spotify:track:7dsqBrWMQQfcU9oMixr1sc",
+        "name": "Ingin Pulang",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27342591ec7179503b6bd994626",
+        "album": {
+          "uri": "spotify:album:1SGrF0vcHcgO8PbkS6Zf7i",
+          "name": "507"
+        },
+        "artist": {
+          "uri": "spotify:artist:6q87vizIEdEN4NvlR6mjfT",
+          "name": "Sheila On 7"
+        },
+        "context": {
+          "uri": null,
+          "name": null,
+          "index": 0
+        }
+      }
+    }
+  ]
 }
