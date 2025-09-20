@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1758368181440,
+      "timestamp": 1758368713876,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
         "imageUrl": "https://scontent-zrh1-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=uX_JPnY_HNYQ7kNvwEMoMCn&_nc_oc=AdkprzdTPHI7g0snpPt9SiZLFqPRPaVe6-V9HQuui9ryk9t6yUZINqf3dqDLq5_AknnfBTwgnGJ5AFPDTRmlrC3M&_nc_zt=24&_nc_ht=scontent-zrh1-1.xx&edm=AP4hL3IEAAAA&_nc_gid=JV5uJ7-VuttvWlZaackmig&oh=00_AfbP3RrBWyZaUEYe1XzSueh0f6q81BrbsH7Phmo4CxZZCQ&oe=68D472A8"
       },
       "track": {
-        "uri": "spotify:track:3e1oqsDrbHjeyMD9ycmgyH",
-        "name": "I Love U Bibeh",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273503637ccb15e00eb225a564c",
+        "uri": "spotify:track:3v9PrJoLb4zYWluNRCGDGA",
+        "name": "Pergilah Kasih",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273faf9fa1b0163eb6f44c01054",
         "album": {
-          "uri": "spotify:album:3jEGzRT0B9NZ7NvQqLLbRi",
-          "name": "Mencoba Sukses Kembali"
+          "uri": "spotify:album:1A0lYCVDXPZbh369YmShld",
+          "name": "Greatest Hits"
         },
         "artist": {
-          "uri": "spotify:artist:1DZs8IjMvRQqB3i0uvgCc5",
-          "name": "The Changcuters"
+          "uri": "spotify:artist:2NteKKMj3takKR3ABTd279",
+          "name": "Chrisye"
         },
         "context": {
           "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
