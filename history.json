@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": 1758367956339,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Pura Pura Cinta",
+    "artist": "Cherrybelle",
+    "uri": "spotify:track:0NozUSRytjnrUNuFZyRr1K",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733ad38432e5772bf80a9a2483"
+  },
+  {
+    "timestamp": 1758367758964,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Terlatih Patah Hati",
+    "artist": "The Rain",
+    "uri": "spotify:track:1mAkA0ZVdi3S9gVvuJw89I",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27300bb1fe08fd2ac677bcc759a"
+  },
+  {
     "timestamp": 1758367495486,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -70,23 +88,5 @@
     "artist": "Letto",
     "uri": "spotify:track:0flFRGl5wlgv7oMVsQ7xpd",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a29a819e373cd794c776a82f"
-  },
-  {
-    "timestamp": 1758365738810,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Perempuan Paling Cantik Di Negriku Indonesia",
-    "artist": "Dewa 19",
-    "uri": "spotify:track:21BwZoONcEt4PF4wLWwJhY",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738f590be115c3bf883fae8ab0"
-  },
-  {
-    "timestamp": 1758365488472,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Symphoni Yang Indah",
-    "artist": "Once Mekel",
-    "uri": "spotify:track:3KajF6MAAspVyWsMp4fvsn",
-    "imageUrl": "https://i.scdn.co/image/8f6520f7abfcc9aab14e9d9cfcdaf70528c83fff"
   }
 ]
