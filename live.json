@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1758360610954,
+      "timestamp": 1758361188640,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
         "imageUrl": "https://scontent-zrh1-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=uX_JPnY_HNYQ7kNvwEv4ebx&_nc_oc=AdmZDAYwt9zLo5ulZPFc3wv5ayZuUkUY_2Gt_-dALruwYHwIzu3lzC7OuPLD-vmZAu0U0P1N9bTb5-MCoO5IHT6m&_nc_zt=24&_nc_ht=scontent-zrh1-1.xx&edm=AP4hL3IEAAAA&_nc_gid=ZUa7yAlTdDOyv8pZGtSJgA&oh=00_AfbfTcB7IVLBlcr8N0JTVnsDIZtuEFb5S33QqNBJ4JTfHA&oe=68D3C9E8"
       },
       "track": {
-        "uri": "spotify:track:6eekwSXpB57v26oEzcAhcf",
-        "name": "Janji Suci",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736a37fc6f96faf4206f4845e7",
+        "uri": "spotify:track:2MFWaALw8ATHYR3eeS0qGV",
+        "name": "Maafkan",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730b7fa8b7e56af7b569af3460",
         "album": {
-          "uri": "spotify:album:7aSV0bzRGqWW3bETcc6oSp",
-          "name": "The Special One"
+          "uri": "spotify:album:3H4EsR7A5DAi1J2mgX3BY0",
+          "name": "Yang No.1"
         },
         "artist": {
-          "uri": "spotify:artist:3DHOtJqv0Bw65ENlK4FiSF",
-          "name": "Yovie & Nuno"
+          "uri": "spotify:artist:6IVfG2b4I86tYdigTdpWUa",
+          "name": "D'Bagindas"
         },
         "context": {
           "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
