@@ -1,30 +1,3 @@
 {
-  "friends": [
-    {
-      "timestamp": 1758369238969,
-      "user": {
-        "uri": "spotify:user:dandyraka_",
-        "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-zrh1-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=uX_JPnY_HNYQ7kNvwEMoMCn&_nc_oc=AdkprzdTPHI7g0snpPt9SiZLFqPRPaVe6-V9HQuui9ryk9t6yUZINqf3dqDLq5_AknnfBTwgnGJ5AFPDTRmlrC3M&_nc_zt=24&_nc_ht=scontent-zrh1-1.xx&edm=AP4hL3IEAAAA&_nc_gid=JV5uJ7-VuttvWlZaackmig&oh=00_AfbP3RrBWyZaUEYe1XzSueh0f6q81BrbsH7Phmo4CxZZCQ&oe=68D472A8"
-      },
-      "track": {
-        "uri": "spotify:track:4QGJp0ZoyBpgZji8hiUfWT",
-        "name": "Madu Tiga",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27354370e2a4432f21c8d16f5cc",
-        "album": {
-          "uri": "spotify:album:3wqDej8S1IdtRYUB8srUEY",
-          "name": "T.R.I.A.D"
-        },
-        "artist": {
-          "uri": "spotify:artist:3gp2fVD2tUwoq42eZ7DK3l",
-          "name": "T.R.I.A.D"
-        },
-        "context": {
-          "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
-          "name": "playlist",
-          "index": 0
-        }
-      }
-    }
-  ]
+  "friends": []
 }
