@@ -1,5 +1,14 @@
 [
   {
+    "timestamp": 1758450264405,
+    "user": "poemstars🌼🌟",
+    "userId": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
+    "track": "Tertarik Atau Baik",
+    "artist": "Ziva Magnolya",
+    "uri": "spotify:track:3X63IDIeXYuJakVvB1Wywc",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738e16e6ddf2cc9953f90c1c61"
+  },
+  {
     "timestamp": 1758368940577,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -79,14 +88,5 @@
     "artist": "Noah, Nidji, Geisha, Iwan Fals, D’MASIV",
     "uri": "spotify:track:0lfIelUJKd6KktxK21o3FT",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273633652802f633f786adc9af1"
-  },
-  {
-    "timestamp": 1758366719376,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Kesempatan Kedua",
-    "artist": "Tangga",
-    "uri": "spotify:track:6W9EPH4b6fkgkERorDnuRz",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731aac1c15810ad41ab344b615"
   }
 ]
