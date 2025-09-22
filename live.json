@@ -1,3 +1,30 @@
 {
-  "friends": []
+  "friends": [
+    {
+      "timestamp": 1758566723961,
+      "user": {
+        "uri": "spotify:user:dandyraka_",
+        "name": "Dandy 🫵🏻😁",
+        "imageUrl": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=uX_JPnY_HNYQ7kNvwGwIhOP&_nc_oc=AdlvEXwpU7OkATSmTmRd-MUqX1hVOFndig2ZmtsXIwVr6LApCvBuwM4VyaoSLyG2PPgiUA8A99S2j2sKofvszTrz&_nc_zt=24&_nc_ht=scontent-ams2-1.xx&edm=AP4hL3IEAAAA&_nc_gid=7Syi1nfAlxFhbzi0CSmIAQ&oh=00_Afa5KzrKi8pg1VzMQTWkd9WMFMZnA6f2nOudm4sXy5OZOg&oe=68D715A8"
+      },
+      "track": {
+        "uri": "spotify:track:1C0YZNehGTtbUWdslxv2CB",
+        "name": "NANTI",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738f28a0b5a39b9a4ae05f75e4",
+        "album": {
+          "uri": "spotify:album:4wRiIaVHSFNcRG2zi3WLEj",
+          "name": "NANTI"
+        },
+        "artist": {
+          "uri": "spotify:artist:5MRrcol0MDBpigWb5nDJA6",
+          "name": "Fredy"
+        },
+        "context": {
+          "uri": "spotify:playlist:7wARwuyCiPRMURGmh6xTLq",
+          "name": "playlist",
+          "index": 0
+        }
+      }
+    }
+  ]
 }
