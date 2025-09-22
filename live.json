@@ -1,30 +1,3 @@
 {
-  "friends": [
-    {
-      "timestamp": 1758567266115,
-      "user": {
-        "uri": "spotify:user:dandyraka_",
-        "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=uX_JPnY_HNYQ7kNvwFeQmr2&_nc_oc=Admm7YedGPvy2gctPYpAoD5w9xmiZqP8oDZ8luUOXR-h0zt5P1shJtuZa_BWa9co0rzDJV1981pubjFNnFAwEn_y&_nc_zt=24&_nc_ht=scontent-ams2-1.xx&edm=AP4hL3IEAAAA&_nc_gid=rSdLujnNXLWCKNCY-AmYIQ&oh=00_AfZunHINR27JIW3EyhA92ka8s8WJU3N3rPHjjrNLonCFag&oe=68D715A8"
-      },
-      "track": {
-        "uri": "spotify:track:525sHGS4t4GYsFvD3TDWHZ",
-        "name": "Baby Doll",
-        "imageUrl": "https://i.scdn.co/image/f8872e16111c0d0fdf5bce085d8e0bd3858c075c",
-        "album": {
-          "uri": "spotify:album:6fh3HhlvwjU2JHaIoFzQ6q",
-          "name": "Indah"
-        },
-        "artist": {
-          "uri": "spotify:artist:4oAZA3aniPjL9XINSvj7VP",
-          "name": "Utopia"
-        },
-        "context": {
-          "uri": "spotify:playlist:1sAeLI28zFQCoa5zDG1f63",
-          "name": "playlist",
-          "index": 0
-        }
-      }
-    }
-  ]
+  "friends": []
 }
