@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1758613584274,
+      "timestamp": 1758614122912,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=kCbnxlUFLoQQ7kNvwGP6FHr&_nc_oc=AdlU11xd9GPSjWgZXMbrpi5IJK8MaeAERE45IjyaaB7YVWn3fkEc4hKwyYk7kR7av7pqFt5112TYncw86NhWPPBg&_nc_zt=24&_nc_ht=scontent-ord5-1.xx&edm=AP4hL3IEAAAA&_nc_gid=eIPfgZOvXYOH7seaVeKMiQ&oh=00_Afah7vK7B6miAvctzhOPJTt42yVWMz4fxp6TtWoUjCIXYw&oe=68D7F6A8"
+        "imageUrl": "https://scontent-ams4-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=kCbnxlUFLoQQ7kNvwHSpiiw&_nc_oc=Adm0ir7gXy1bz9w9YMfyU1K3-cBdbjdZr9bZGJVRzTdh5k0Z_FOh1cLeuq2uRNSqHQDnINUvfLPT5f5sv0THfNiN&_nc_zt=24&_nc_ht=scontent-ams4-1.xx&edm=AP4hL3IEAAAA&_nc_gid=uOFVkedBVkEgYjSdZF_VSg&oh=00_AfZwFtHEUft4Bs4O08cIx15yCFdrCMDQFd6qiU8Su3u3IQ&oe=68D7BE68"
       },
       "track": {
-        "uri": "spotify:track:0BrH4b7su9uLELM1h5Xlzw",
-        "name": "Tapi Bukan Aku",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734986516d6ce56f0d19cdc41d",
+        "uri": "spotify:track:1N9KSlqlBbPF0NNYWtttma",
+        "name": "Hargai Aku",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f1c411e94c33fdd57edd9a69",
         "album": {
-          "uri": "spotify:album:61AGUY22dIy89vcxCUvC00",
-          "name": "Kenyataan Perasaan"
+          "uri": "spotify:album:78rrGhb8kb4g0P8ewToKIo",
+          "name": "Satu Hati Sejuta Cinta"
         },
         "artist": {
-          "uri": "spotify:artist:73OtDyghUEJ9QfGtu1pkaJ",
-          "name": "Kerispatih"
+          "uri": "spotify:artist:6H857CtcaYMSxOB4jvSIZf",
+          "name": "Armada"
         },
         "context": {
           "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
