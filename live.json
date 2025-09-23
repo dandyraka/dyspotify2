@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1758590304197,
+      "timestamp": 1758595033795,
       "user": {
         "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
         "name": "poemstars🌼🌟",
         "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
       },
       "track": {
-        "uri": "spotify:track:7oMyVWg4N1eAcajR1mVa9f",
-        "name": "Untitled",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273418a633e108bfe84922a28ea",
+        "uri": "spotify:track:2fuYa3Lx06QQJAm0MjztKr",
+        "name": "Let Down",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856",
         "album": {
-          "uri": "spotify:album:159wgX2H8Vp070agKF1b8X",
-          "name": "Untitled"
+          "uri": "spotify:album:6dVIqQ8qmQ5GBnJ9shOYGE",
+          "name": "OK Computer"
         },
         "artist": {
-          "uri": "spotify:artist:0e5blBgpur3Y18wS1bzXQC",
-          "name": "Rahmania Astrini, MALIQ & D'Essentials"
+          "uri": "spotify:artist:4Z8W4fKeB5YxbusRsdQVPb",
+          "name": "Radiohead"
         },
         "context": {
           "uri": null,
