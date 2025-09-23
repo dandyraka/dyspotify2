@@ -1,3 +1,30 @@
 {
-  "friends": []
+  "friends": [
+    {
+      "timestamp": 1758637303458,
+      "user": {
+        "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
+        "name": "poemstars🌼🌟",
+        "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
+      },
+      "track": {
+        "uri": "spotify:track:5YRKBYBlphckCllFczLzAR",
+        "name": "Jernih",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c7602157f4418813b36c2cf5",
+        "album": {
+          "uri": "spotify:album:3pCz8FhvLwuXLgkJheTKQk",
+          "name": "Pengantar Purifikasi Pikir"
+        },
+        "artist": {
+          "uri": "spotify:artist:7dfFM5cBUOBmOH08sGNDcy",
+          "name": "Kunto Aji"
+        },
+        "context": {
+          "uri": null,
+          "name": null,
+          "index": 0
+        }
+      }
+    }
+  ]
 }
