@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1758621228175,
+      "timestamp": 1758622552309,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-ams4-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=kCbnxlUFLoQQ7kNvwHSpiiw&_nc_oc=Adm0ir7gXy1bz9w9YMfyU1K3-cBdbjdZr9bZGJVRzTdh5k0Z_FOh1cLeuq2uRNSqHQDnINUvfLPT5f5sv0THfNiN&_nc_zt=24&_nc_ht=scontent-ams4-1.xx&edm=AP4hL3IEAAAA&_nc_gid=uOFVkedBVkEgYjSdZF_VSg&oh=00_AfZwFtHEUft4Bs4O08cIx15yCFdrCMDQFd6qiU8Su3u3IQ&oe=68D7BE68"
+        "imageUrl": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=kCbnxlUFLoQQ7kNvwGP6FHr&_nc_oc=AdlU11xd9GPSjWgZXMbrpi5IJK8MaeAERE45IjyaaB7YVWn3fkEc4hKwyYk7kR7av7pqFt5112TYncw86NhWPPBg&_nc_zt=24&_nc_ht=scontent-ord5-1.xx&edm=AP4hL3IEAAAA&_nc_gid=eIPfgZOvXYOH7seaVeKMiQ&oh=00_Afah7vK7B6miAvctzhOPJTt42yVWMz4fxp6TtWoUjCIXYw&oe=68D7F6A8"
       },
       "track": {
-        "uri": "spotify:track:62nbym8rosWJjBTsvOyn3E",
-        "name": "Sandiwara Cinta",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273806555a60c49ce7913562e45",
+        "uri": "spotify:track:1lZsCFr5kZllJT0kmBCusy",
+        "name": "Luka Disini",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27338e22ce23713e99d8c0ce899",
         "album": {
-          "uri": "spotify:album:3WRY8NkXojOPonGjRVHK2s",
-          "name": "Sandiwara Cinta"
+          "uri": "spotify:album:0ytbwbmAKfailNYPo1NHtG",
+          "name": "Penguasa Hati"
         },
         "artist": {
-          "uri": "spotify:artist:7HHM4gwm7AgjuLyPlFdadO",
-          "name": "Repvblik Band"
+          "uri": "spotify:artist:4HHdjvdn30koo54zQ6QeF5",
+          "name": "Ungu"
         },
         "context": {
           "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
