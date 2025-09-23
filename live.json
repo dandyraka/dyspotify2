@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1758619121148,
+      "timestamp": 1758620105540,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
         "imageUrl": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=kCbnxlUFLoQQ7kNvwGP6FHr&_nc_oc=AdlU11xd9GPSjWgZXMbrpi5IJK8MaeAERE45IjyaaB7YVWn3fkEc4hKwyYk7kR7av7pqFt5112TYncw86NhWPPBg&_nc_zt=24&_nc_ht=scontent-ord5-1.xx&edm=AP4hL3IEAAAA&_nc_gid=eIPfgZOvXYOH7seaVeKMiQ&oh=00_Afah7vK7B6miAvctzhOPJTt42yVWMz4fxp6TtWoUjCIXYw&oe=68D7F6A8"
       },
       "track": {
-        "uri": "spotify:track:5yJPpcRWs9GixDJoQKt8dr",
-        "name": "100% Cintaku",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273176f3f1ff5177f7c19a278ab",
+        "uri": "spotify:track:2n3qmVFvKlYnCoPazri770",
+        "name": "Karena Wanita (Ingin Dimengerti)",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a6aa017ee0f492027a7881c1",
         "album": {
-          "uri": "spotify:album:4ACEymL8vJL67AxCxhHXCX",
-          "name": "100% Cintaku"
+          "uri": "spotify:album:4FBOdZKV93myxVnPtWIcQV",
+          "name": "Romantic Rhapsody"
         },
         "artist": {
-          "uri": "spotify:artist:6GsU8F45MDJ8bcNEjuf9LO",
-          "name": "Bagindas"
+          "uri": "spotify:artist:2owBL6a90fnWufVtP70K8f",
+          "name": "Ada Band"
         },
         "context": {
           "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
