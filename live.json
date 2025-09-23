@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1758612018965,
+      "timestamp": 1758613027137,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
         "imageUrl": "https://scontent-ams4-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=kCbnxlUFLoQQ7kNvwHSpiiw&_nc_oc=Adm0ir7gXy1bz9w9YMfyU1K3-cBdbjdZr9bZGJVRzTdh5k0Z_FOh1cLeuq2uRNSqHQDnINUvfLPT5f5sv0THfNiN&_nc_zt=24&_nc_ht=scontent-ams4-1.xx&edm=AP4hL3IEAAAA&_nc_gid=uOFVkedBVkEgYjSdZF_VSg&oh=00_AfZwFtHEUft4Bs4O08cIx15yCFdrCMDQFd6qiU8Su3u3IQ&oe=68D7BE68"
       },
       "track": {
-        "uri": "spotify:track:2ALQHMFnSjKzRhGwXVSfHD",
-        "name": "Nenekku Pahlawanku",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ab85980da8a5c59d26309a6f",
+        "uri": "spotify:track:1rVcmwGnE2pB2mCYiHeaJi",
+        "name": "Cinta Dan Benci",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739d77a6f4f8eeac6a6a6bb2c0",
         "album": {
-          "uri": "spotify:album:4SU72f8lCnTr1GM9GPkFPY",
-          "name": "Aku Bukan Bang Toyib"
+          "uri": "spotify:album:7dsOC4zqVLyTHFwqCO5rpR",
+          "name": "Meraih Bintang"
         },
         "artist": {
-          "uri": "spotify:artist:5pnSNZZRyYViu2n58Zlw1J",
-          "name": "Wali"
+          "uri": "spotify:artist:3txNoNUfBAHT1ZSGT2R30y",
+          "name": "Geisha"
         },
         "context": {
           "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
