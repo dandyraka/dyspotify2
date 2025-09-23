@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1758623824955,
+      "timestamp": 1758624456723,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=kCbnxlUFLoQQ7kNvwGP6FHr&_nc_oc=AdlU11xd9GPSjWgZXMbrpi5IJK8MaeAERE45IjyaaB7YVWn3fkEc4hKwyYk7kR7av7pqFt5112TYncw86NhWPPBg&_nc_zt=24&_nc_ht=scontent-ord5-1.xx&edm=AP4hL3IEAAAA&_nc_gid=eIPfgZOvXYOH7seaVeKMiQ&oh=00_Afah7vK7B6miAvctzhOPJTt42yVWMz4fxp6TtWoUjCIXYw&oe=68D7F6A8"
+        "imageUrl": "https://scontent-ams4-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=kCbnxlUFLoQQ7kNvwHSpiiw&_nc_oc=Adm0ir7gXy1bz9w9YMfyU1K3-cBdbjdZr9bZGJVRzTdh5k0Z_FOh1cLeuq2uRNSqHQDnINUvfLPT5f5sv0THfNiN&_nc_zt=24&_nc_ht=scontent-ams4-1.xx&edm=AP4hL3IEAAAA&_nc_gid=uOFVkedBVkEgYjSdZF_VSg&oh=00_AfZwFtHEUft4Bs4O08cIx15yCFdrCMDQFd6qiU8Su3u3IQ&oe=68D7BE68"
       },
       "track": {
-        "uri": "spotify:track:6PmaFEBQKyewFee5vZu88C",
-        "name": "Aku Tergoda",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273778f75f6ababf2eb1eb6d148",
+        "uri": "spotify:track:1oVEttWIOMh2bHHbmzLL4O",
+        "name": "Jangan Pernah Berubah",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273abc4bed15afde0c6b159580a",
         "album": {
-          "uri": "spotify:album:4Yenub8043Klfl4Z1KpMUQ",
-          "name": "Semua Ini Sendiri"
+          "uri": "spotify:album:2uy4WkOAatMqKXI3dtusiE",
+          "name": "P.U.S.P.A."
         },
         "artist": {
-          "uri": "spotify:artist:1jpcciDZSo632cA34WIfTX",
-          "name": "Five Minutes"
+          "uri": "spotify:artist:09toGEEhpusLyZ6Nk9AmRf",
+          "name": "ST12"
         },
         "context": {
           "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
