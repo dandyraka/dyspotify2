@@ -1,5 +1,14 @@
 [
   {
+    "timestamp": 1758637808973,
+    "user": "poemstars🌼🌟",
+    "userId": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
+    "track": "Jernih",
+    "artist": "Kunto Aji",
+    "uri": "spotify:track:5YRKBYBlphckCllFczLzAR",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c7602157f4418813b36c2cf5"
+  },
+  {
     "timestamp": 1758636672775,
     "user": "poemstars🌼🌟",
     "userId": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
@@ -79,14 +88,5 @@
     "artist": "Ungu",
     "uri": "spotify:track:1giyRcCVDukhM0997FGZpd",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27395fc312c65319e8f9a5e75c9"
-  },
-  {
-    "timestamp": 1758622424925,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Setia",
-    "artist": "Jikustik",
-    "uri": "spotify:track:0cbV99EGKS34lcXzy02Kqx",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f9924da00f931bcf1a724e5e"
   }
 ]
