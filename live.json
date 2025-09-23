@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1758620707381,
+      "timestamp": 1758621228175,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
         "imageUrl": "https://scontent-ams4-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=kCbnxlUFLoQQ7kNvwHSpiiw&_nc_oc=Adm0ir7gXy1bz9w9YMfyU1K3-cBdbjdZr9bZGJVRzTdh5k0Z_FOh1cLeuq2uRNSqHQDnINUvfLPT5f5sv0THfNiN&_nc_zt=24&_nc_ht=scontent-ams4-1.xx&edm=AP4hL3IEAAAA&_nc_gid=uOFVkedBVkEgYjSdZF_VSg&oh=00_AfZwFtHEUft4Bs4O08cIx15yCFdrCMDQFd6qiU8Su3u3IQ&oe=68D7BE68"
       },
       "track": {
-        "uri": "spotify:track:4ZG0GEVUoa0pMu7aD59kXQ",
-        "name": "Galau",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ca7317236840421b8342239b",
+        "uri": "spotify:track:62nbym8rosWJjBTsvOyn3E",
+        "name": "Sandiwara Cinta",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273806555a60c49ce7913562e45",
         "album": {
-          "uri": "spotify:album:4NklMEiW4f43iin0cBC4y5",
-          "name": "Galau"
+          "uri": "spotify:album:3WRY8NkXojOPonGjRVHK2s",
+          "name": "Sandiwara Cinta"
         },
         "artist": {
-          "uri": "spotify:artist:1jpcciDZSo632cA34WIfTX",
-          "name": "Five Minutes"
+          "uri": "spotify:artist:7HHM4gwm7AgjuLyPlFdadO",
+          "name": "Repvblik Band"
         },
         "context": {
           "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
