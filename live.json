@@ -1,30 +1,3 @@
 {
-  "friends": [
-    {
-      "timestamp": 1758700439447,
-      "user": {
-        "uri": "spotify:user:dandyraka_",
-        "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=kCbnxlUFLoQQ7kNvwH0lUiF&_nc_oc=AdkNQ4aO3jD2wFPUFEX_-wk2Mexd48HUdwxXrjbUhojmDghaMUmA7IV8DeYzRGA0gJ7_U5l8AG01NcPQ9-zzgEiX&_nc_zt=24&_nc_ht=scontent-ord5-1.xx&edm=AP4hL3IEAAAA&_nc_gid=PTEev5t8-zw9leVRsyAkcQ&oh=00_AfZzx8O4qK1utcQCLEH8UJKKjcgQsjJjANeNAsb_zOBdAA&oe=68D90FE8"
-      },
-      "track": {
-        "uri": "spotify:track:51UJt6m37i6zpHEsASEdi7",
-        "name": "Kamulah Satu - Satunya",
-        "imageUrl": "https://i.scdn.co/image/8c8ba0cb5c05193aacea3461ded6784e0d70f701",
-        "album": {
-          "uri": "spotify:album:1aYiNBH11asv0vNU653O44",
-          "name": "Pandawa Lima"
-        },
-        "artist": {
-          "uri": "spotify:artist:48bKH1ugFBhERC1rdojP9d",
-          "name": "Dewa 19"
-        },
-        "context": {
-          "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
-          "name": "playlist",
-          "index": 0
-        }
-      }
-    }
-  ]
+  "friends": []
 }
