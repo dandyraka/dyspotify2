@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1758696992195,
+      "timestamp": 1758698249093,
       "user": {
         "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
         "name": "poemstars🌼🌟",
         "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
       },
       "track": {
-        "uri": "spotify:track:7o1Pm9jpH0wFpN5g793Lnq",
-        "name": "Can't Remember to Forget You (feat. Rihanna)",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730da1a7e7f3e9ef163e1c1dbf",
+        "uri": "spotify:track:4HZ4tasa7sislo5BbOOBfm",
+        "name": "Pikiran Yang Matang",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27392aaadd0be503d89c082ecbb",
         "album": {
-          "uri": "spotify:album:5meb7aKE722LA66ssBhvfM",
-          "name": "Shakira. (Expanded Edition) [Spanish Version]"
+          "uri": "spotify:album:2gdKHKZfqOqGCwJiyEe2K8",
+          "name": "Pikiran Yang Matang"
         },
         "artist": {
-          "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp",
-          "name": "Shakira, Rihanna"
+          "uri": "spotify:artist:0NbKRRBuiIUwS9irPvi7wD",
+          "name": "Perunggu"
         },
         "context": {
           "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy:collection",
