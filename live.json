@@ -1,27 +1,27 @@
 {
   "friends": [
     {
-      "timestamp": 1758696480216,
+      "timestamp": 1758696992195,
       "user": {
         "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
         "name": "poemstars🌼🌟",
         "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
       },
       "track": {
-        "uri": "spotify:track:3X63IDIeXYuJakVvB1Wywc",
-        "name": "Tertarik Atau Baik",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738e16e6ddf2cc9953f90c1c61",
+        "uri": "spotify:track:7o1Pm9jpH0wFpN5g793Lnq",
+        "name": "Can't Remember to Forget You (feat. Rihanna)",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730da1a7e7f3e9ef163e1c1dbf",
         "album": {
-          "uri": "spotify:album:4qAa6aWYwW1do7TQyBMz7z",
-          "name": "Merangkai"
+          "uri": "spotify:album:5meb7aKE722LA66ssBhvfM",
+          "name": "Shakira. (Expanded Edition) [Spanish Version]"
         },
         "artist": {
-          "uri": "spotify:artist:2wZWkw5jo8P4NVonVanxYd",
-          "name": "Ziva Magnolya"
+          "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp",
+          "name": "Shakira, Rihanna"
         },
         "context": {
-          "uri": null,
-          "name": null,
+          "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy:collection",
+          "name": "collection",
           "index": 0
         }
       }
