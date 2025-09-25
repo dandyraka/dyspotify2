@@ -1,19 +1,19 @@
 {
   "friends": [
     {
-      "timestamp": 1758811825321,
+      "timestamp": 1758813365955,
       "user": {
         "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
         "name": "poemstars🌼🌟",
         "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
       },
       "track": {
-        "uri": "spotify:track:5pvlSx0s2w3nKuyfrFnYBZ",
-        "name": "To the Bone",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736e58439ae7244579d106d65e",
+        "uri": "spotify:track:1zu5ZpnrSArdoaT6Qq3yo9",
+        "name": "Monolog",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27366c9500d6204cc534d91800e",
         "album": {
-          "uri": "spotify:album:3gQluhXKeHIlIjYbMSBXyr",
-          "name": "Flying Solo"
+          "uri": "spotify:album:6CYiVTU1drHMvGHgMHmLQZ",
+          "name": "Walk the Talk"
         },
         "artist": {
           "uri": "spotify:artist:7d86ERlvO5UG44j7Va0Y0C",
