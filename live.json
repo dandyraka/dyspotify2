@@ -1,19 +1,19 @@
 {
   "friends": [
     {
-      "timestamp": 1758811095326,
+      "timestamp": 1758811825321,
       "user": {
         "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
         "name": "poemstars🌼🌟",
         "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
       },
       "track": {
-        "uri": "spotify:track:1cfTUInlwgjMUDUF83b6Gk",
-        "name": "Closure",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a142b3604ceb82f5a0efed1f",
+        "uri": "spotify:track:5pvlSx0s2w3nKuyfrFnYBZ",
+        "name": "To the Bone",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736e58439ae7244579d106d65e",
         "album": {
-          "uri": "spotify:album:5lR0Xp2wBooYN0kyX2OmSM",
-          "name": "Solipsism 0.2"
+          "uri": "spotify:album:3gQluhXKeHIlIjYbMSBXyr",
+          "name": "Flying Solo"
         },
         "artist": {
           "uri": "spotify:artist:7d86ERlvO5UG44j7Va0Y0C",
