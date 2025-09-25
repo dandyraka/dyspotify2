@@ -1,5 +1,14 @@
 [
   {
+    "timestamp": 1758793721048,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Pudar",
+    "artist": "Rossa",
+    "uri": "spotify:track:58ppCbtUwYO4Byr0HHzEvd",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738c39c4d88b818026927af825"
+  },
+  {
     "timestamp": 1758793540615,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -79,14 +88,5 @@
     "artist": "Billianne",
     "uri": "spotify:track:26E7c125wkzIcTSBdC8th3",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27346c3b2f46188df92006dd73b"
-  },
-  {
-    "timestamp": 1758714115424,
-    "user": "poemstars🌼🌟",
-    "userId": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
-    "track": "End Of The Road",
-    "artist": "Boyz II Men",
-    "uri": "spotify:track:3l3xTXsUXeWlkPqzMs7mPD",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27373d0d8625dcf1e48043cfbf9"
   }
 ]
