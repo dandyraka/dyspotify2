@@ -1,3 +1,30 @@
 {
-  "friends": []
+  "friends": [
+    {
+      "timestamp": 1758793673674,
+      "user": {
+        "uri": "spotify:user:dandyraka_",
+        "name": "Dandy 🫵🏻😁",
+        "imageUrl": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=kCbnxlUFLoQQ7kNvwFW5fEt&_nc_oc=AdnU_7YamxdamQCdfllmStc81KPa-8cKh6WCtiMjfSMsuh4rB0cjt_K6Id7HNpcrsiDMzP-KTWGg9YN769qpeN53&_nc_zt=24&_nc_ht=scontent-fra3-2.xx&edm=AP4hL3IEAAAA&_nc_gid=GdUgvvRRpNzPAmLhO544JA&oh=00_AfYe3xk4aFIlYkgjemIuu0ID8t2cGDqUtTdWi-Sf_S8YAQ&oe=68DA99A8"
+      },
+      "track": {
+        "uri": "spotify:track:4AsLXLOI78A8rxg0lx2qAv",
+        "name": "Pudar",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739ecaf83ed7df08bca06f4b03",
+        "album": {
+          "uri": "spotify:album:6fr7fkitqzxiVfe6d6oCGQ",
+          "name": "Kembali"
+        },
+        "artist": {
+          "uri": "spotify:artist:0ygQsC5td2maGmglpzd7tp",
+          "name": "Rossa"
+        },
+        "context": {
+          "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
+          "name": "playlist",
+          "index": 0
+        }
+      }
+    }
+  ]
 }
