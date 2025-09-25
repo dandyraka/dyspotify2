@@ -1,19 +1,19 @@
 {
   "friends": [
     {
-      "timestamp": 1758807744601,
+      "timestamp": 1758808477089,
       "user": {
         "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
         "name": "poemstars🌼🌟",
         "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
       },
       "track": {
-        "uri": "spotify:track:03i4BQtJCERuTWcjOxeIFr",
-        "name": "Sorry",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27366c9500d6204cc534d91800e",
+        "uri": "spotify:track:4dC9BL5LOWJSgYxxuliL9s",
+        "name": "Jealousy",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273afdfb4b090032179fad745ff",
         "album": {
-          "uri": "spotify:album:6CYiVTU1drHMvGHgMHmLQZ",
-          "name": "Walk the Talk"
+          "uri": "spotify:album:2HYOVJPNLbSIeDDcNfC1wn",
+          "name": "Birdy"
         },
         "artist": {
           "uri": "spotify:artist:7d86ERlvO5UG44j7Va0Y0C",
