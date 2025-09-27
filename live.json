@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1758999533501,
+      "timestamp": 1759000579414,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
         "imageUrl": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=081d5NKFNcIQ7kNvwHaGhvO&_nc_oc=AdkktPwrZaL_y6y87mXxMS3WgFaTFk1lBISi6HqLRISHWBWlNlzl-_JgWzECjr5A74JE5ye9FWocQffIPQwUXpQR&_nc_zt=24&_nc_ht=scontent-fra3-2.xx&edm=AP4hL3IEAAAA&_nc_gid=JApeLf0wr__ef2dq5nFeuw&oh=00_AfZ2ArJ--Pe-IHkb4TehLzXTN1nvS9cfi313ZhtLItHefg&oe=68DDE568"
       },
       "track": {
-        "uri": "spotify:track:1WBAKisvCxR2IQ2knIAlyw",
-        "name": "Pejantan Tangguh",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f0a7efc94687cc049b821529",
+        "uri": "spotify:track:1nKxixMaGmgOcAgKxazYyc",
+        "name": "Jadikan Aku Yang Kedua",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d5d1175ef2af87ef7fa3bcf6",
         "album": {
-          "uri": "spotify:album:5XDIG1UnNJ4jLVwsCFbc7l",
-          "name": "Pejantan Tangguh"
+          "uri": "spotify:album:2X9KWJo8F79D818jqTCfhT",
+          "name": "Jadikan Aku Yang Ke 2"
         },
         "artist": {
-          "uri": "spotify:artist:6q87vizIEdEN4NvlR6mjfT",
-          "name": "Sheila On 7"
+          "uri": "spotify:artist:6GxmlugWFw4hmhUQ5uP93l",
+          "name": "Astrid"
         },
         "context": {
           "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",

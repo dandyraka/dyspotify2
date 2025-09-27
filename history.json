@@ -1,5 +1,41 @@
 [
   {
+    "timestamp": 1759000355883,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Akulah Dia",
+    "artist": "Drive",
+    "uri": "spotify:track:1REjtRSFuT2iWod0vABJSP",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27395cdc167c3c4eb953dfc657b"
+  },
+  {
+    "timestamp": 1759000163922,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Racun Dunia",
+    "artist": "The Changcuters",
+    "uri": "spotify:track:2F8nJ7yF9GN5ONBHnmzy1h",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273503637ccb15e00eb225a564c"
+  },
+  {
+    "timestamp": 1758999894938,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Parasit",
+    "artist": "Gita Gutawa",
+    "uri": "spotify:track:4t3bfrYjCSr0nfvu24otR6",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f3fdd334787dfc14b9117696"
+  },
+  {
+    "timestamp": 1758999646813,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Pejantan Tangguh",
+    "artist": "Sheila On 7",
+    "uri": "spotify:track:1WBAKisvCxR2IQ2knIAlyw",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f0a7efc94687cc049b821529"
+  },
+  {
     "timestamp": 1758999430565,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -52,41 +88,5 @@
     "artist": "Wali",
     "uri": "spotify:track:6PfzC2yEFCRjR0CWuXu8HL",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27333362fc53eb178af1f5e5bcb"
-  },
-  {
-    "timestamp": 1758998020815,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Rasa ini",
-    "artist": "Vierra",
-    "uri": "spotify:track:5NVPptNO7R25ERR1pM7GOz",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bdc17798be456d9e4ad28dc0"
-  },
-  {
-    "timestamp": 1758997785866,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Merindukanmu",
-    "artist": "D’MASIV",
-    "uri": "spotify:track:08GY4vZq1JWiT7xIAZUfw6",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737a53bc0dfa374c632d394e98"
-  },
-  {
-    "timestamp": 1758997546230,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Bukan Pujangga",
-    "artist": "Base Jam",
-    "uri": "spotify:track:7CmRsh8wYGHVdDdRCYPz0u",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27323b05c3f7015049007325435"
-  },
-  {
-    "timestamp": 1758997306389,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Perih",
-    "artist": "Vierra",
-    "uri": "spotify:track:21eHgdUt3z5JymCne7WiNN",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bdc17798be456d9e4ad28dc0"
   }
 ]
