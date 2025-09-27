@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": 1758981067924,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Sakit Bukan Main (feat. Dewi Dewi)",
+    "artist": "Mulan Jameela, Dewi - Dewi",
+    "uri": "spotify:track:5FMmS3VlbB08sRahSilrBk",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738f590be115c3bf883fae8ab0"
+  },
+  {
+    "timestamp": 1758980839980,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Kau Cantik Hari Ini",
+    "artist": "Lobow",
+    "uri": "spotify:track:1dDXZDCgyvioujRUDfKxCr",
+    "imageUrl": "https://i.scdn.co/image/ccda6e9537350e5c4d67b07d2b4f809e0ddd790f"
+  },
+  {
     "timestamp": 1758980560245,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -70,23 +88,5 @@
     "artist": "Maia",
     "uri": "spotify:track:7qzpzDHfnDxqXSLCrF77O4",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cc8e9f522f3a896ccc402840"
-  },
-  {
-    "timestamp": 1758979368337,
-    "user": "poemstars🌼🌟",
-    "userId": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
-    "track": "Kenangan Manis",
-    "artist": "Pamungkas",
-    "uri": "spotify:track:5jLzpxUOnCsX5tfq7TGY9v",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27366c9500d6204cc534d91800e"
-  },
-  {
-    "timestamp": 1758979193870,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Aw Aw",
-    "artist": "The Potters",
-    "uri": "spotify:track:3lhPmT4dRQHmWoEjdFq8tf",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737716f5ec6b8b56c765d608b7"
   }
 ]

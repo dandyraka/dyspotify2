@@ -1,53 +1,27 @@
 {
   "friends": [
     {
-      "timestamp": 1758980724183,
+      "timestamp": 1758981273190,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
         "imageUrl": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=081d5NKFNcIQ7kNvwH4y3DX&_nc_oc=Adl_ApAbUsraYwWrkyYztQPfkz4BdX4ELvvAVQIfao-NgfpKgfc_ME4kgiKWPmdbmm00dtx2oa1McCbwtGxbpqTY&_nc_zt=24&_nc_ht=scontent-fra3-2.xx&edm=AP4hL3IEAAAA&_nc_gid=-agkUZTs6jpja6ZR50Pk3w&oh=00_AfYR9wEYQWi4lcMHVlqZsf00Nu40c-rXrqp1hen1lEn_GQ&oe=68DD3CA8"
       },
       "track": {
-        "uri": "spotify:track:1dDXZDCgyvioujRUDfKxCr",
-        "name": "Kau Cantik Hari Ini",
-        "imageUrl": "https://i.scdn.co/image/ccda6e9537350e5c4d67b07d2b4f809e0ddd790f",
+        "uri": "spotify:track:5kctXBO1yS6oj5xxiRsjto",
+        "name": "Laskar Cinta - Chapter One",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27354e8635a7af0b3f0c21ba401",
         "album": {
-          "uri": "spotify:album:6MYbZW735XmueTaOEUE0hG",
-          "name": "Terus Bersinar"
+          "uri": "spotify:album:3RmThGke3lT57syzThNWHH",
+          "name": "Kerajaan Cinta"
         },
         "artist": {
-          "uri": "spotify:artist:4sPz5IAXZQ428gHmhH78Ib",
-          "name": "Lobow"
+          "uri": "spotify:artist:48bKH1ugFBhERC1rdojP9d",
+          "name": "Dewa 19"
         },
         "context": {
           "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
           "name": "playlist",
-          "index": 0
-        }
-      }
-    },
-    {
-      "timestamp": 1758980724595,
-      "user": {
-        "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
-        "name": "poemstars🌼🌟",
-        "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
-      },
-      "track": {
-        "uri": "spotify:track:5pia24wenSMxTyiu2xpmOD",
-        "name": "Be My Friend",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a142b3604ceb82f5a0efed1f",
-        "album": {
-          "uri": "spotify:album:5lR0Xp2wBooYN0kyX2OmSM",
-          "name": "Solipsism 0.2"
-        },
-        "artist": {
-          "uri": "spotify:artist:7d86ERlvO5UG44j7Va0Y0C",
-          "name": "Pamungkas"
-        },
-        "context": {
-          "uri": "spotify:artist:7d86ERlvO5UG44j7Va0Y0C",
-          "name": "artist",
           "index": 0
         }
       }
