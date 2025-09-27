@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1758994120226,
+      "timestamp": 1758994682916,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
         "imageUrl": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=081d5NKFNcIQ7kNvwHaGhvO&_nc_oc=AdkktPwrZaL_y6y87mXxMS3WgFaTFk1lBISi6HqLRISHWBWlNlzl-_JgWzECjr5A74JE5ye9FWocQffIPQwUXpQR&_nc_zt=24&_nc_ht=scontent-fra3-2.xx&edm=AP4hL3IEAAAA&_nc_gid=JApeLf0wr__ef2dq5nFeuw&oh=00_AfZ2ArJ--Pe-IHkb4TehLzXTN1nvS9cfi313ZhtLItHefg&oe=68DDE568"
       },
       "track": {
-        "uri": "spotify:track:3y8fGS2K2SfCVXYJx1DJ1o",
-        "name": "Kekasih Gelapku",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c227c46ee2f2f0eef13f21b9",
+        "uri": "spotify:track:4XmNQ2LLbVq8MDn8MG8HUS",
+        "name": "Puisi",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d5e4677dd0539ffdd115a064",
         "album": {
-          "uri": "spotify:album:0JFtcuEuZqdurpqOY65Pva",
-          "name": "Untukmu Selamanya"
+          "uri": "spotify:album:21OwNyGqAohFkhDe0K1RYY",
+          "name": "Siang"
         },
         "artist": {
-          "uri": "spotify:artist:4HHdjvdn30koo54zQ6QeF5",
-          "name": "Ungu"
+          "uri": "spotify:artist:7CSVCLVcIfpaNCQh7BxqKN",
+          "name": "Jikustik"
         },
         "context": {
           "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
