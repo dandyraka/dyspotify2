@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": 1758995506717,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Kisah Kasih Di Sekolah",
+    "artist": "Chrisye",
+    "uri": "spotify:track:2TW4AbXlVo70WOulhO66nx",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f7ec90a8fba3ce33a4e744e2"
+  },
+  {
+    "timestamp": 1758995228346,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Masih Cinta",
+    "artist": "Kotak",
+    "uri": "spotify:track:6ryK8cWzk89UBm42KLHAQU",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27355fcbac77e9be79cffca62e4"
+  },
+  {
     "timestamp": 1758994985377,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -70,23 +88,5 @@
     "artist": "Rafika Duri",
     "uri": "spotify:track:1yqkrCewjgmGGZVeP6k04s",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bd67488d6515f50ade38b10d"
-  },
-  {
-    "timestamp": 1758992948331,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Tak Pernah Ternilai",
-    "artist": "Last Child",
-    "uri": "spotify:track:3z2Kcl9Oz1IxSgVoKN6RXo",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ef8f5065f512bea2e4468ad6"
-  },
-  {
-    "timestamp": 1758992699426,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Salah",
-    "artist": "POTRET",
-    "uri": "spotify:track:70JTKMRMXueCMdBmvfCnPY",
-    "imageUrl": "https://i.scdn.co/image/810fcffdddc72e2773f865a619a697e37592753d"
   }
 ]
