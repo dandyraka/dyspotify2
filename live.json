@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1758973480166,
+      "timestamp": 1758974026972,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
         "imageUrl": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=081d5NKFNcIQ7kNvwH4y3DX&_nc_oc=Adl_ApAbUsraYwWrkyYztQPfkz4BdX4ELvvAVQIfao-NgfpKgfc_ME4kgiKWPmdbmm00dtx2oa1McCbwtGxbpqTY&_nc_zt=24&_nc_ht=scontent-fra3-2.xx&edm=AP4hL3IEAAAA&_nc_gid=-agkUZTs6jpja6ZR50Pk3w&oh=00_AfYR9wEYQWi4lcMHVlqZsf00Nu40c-rXrqp1hen1lEn_GQ&oe=68DD3CA8"
       },
       "track": {
-        "uri": "spotify:track:3OPB9RkMksYOD9ronyug2v",
-        "name": "Ayat-Ayat Cinta",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27346991062218ee20f92ba82c3",
+        "uri": "spotify:track:0Z3E3USDNRILRhQBwy0ljP",
+        "name": "Air & Api",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273676e52b04121d08f3ea10a58",
         "album": {
-          "uri": "spotify:album:7AMJHRXIjpmJ5p6EZ5sung",
-          "name": "Ayat-Ayat Cinta"
+          "uri": "spotify:album:2kFxReqreHFoL6kvgXUAGE",
+          "name": "The Best"
         },
         "artist": {
-          "uri": "spotify:artist:0ygQsC5td2maGmglpzd7tp",
-          "name": "Rossa"
+          "uri": "spotify:artist:3t2LjYxAwE15Xm7Gx6Yki4",
+          "name": "Naif"
         },
         "context": {
           "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
