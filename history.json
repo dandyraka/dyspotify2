@@ -1,5 +1,50 @@
 [
   {
+    "timestamp": 1759003861882,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Love Is U",
+    "artist": "Cherrybelle",
+    "uri": "spotify:track:0V1umYQ80qHvwS20LrLpu7",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733ad38432e5772bf80a9a2483"
+  },
+  {
+    "timestamp": 1759003660597,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Jangan Ganggu Dulu",
+    "artist": "Mahkota",
+    "uri": "spotify:track:7s2TBOeaXI43wmkQTJk9LX",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273121430f86b7e4d84ad437107"
+  },
+  {
+    "timestamp": 1759003434496,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Lagi Bohong",
+    "artist": "Marvells",
+    "uri": "spotify:track:1uxzs24BnugXan285eSa93",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273386393b7513db9bfa8d92cab"
+  },
+  {
+    "timestamp": 1759003244275,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Cinta Terlarang",
+    "artist": "The Virgin",
+    "uri": "spotify:track:3pF1OGQdqegfytyVY0dBeA",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27368abe80afccb7ad350ec10ac"
+  },
+  {
+    "timestamp": 1759002966811,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Cinta Terlarang",
+    "artist": "The Virgin",
+    "uri": "spotify:track:3pF1OGQdqegfytyVY0dBeA",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27368abe80afccb7ad350ec10ac"
+  },
+  {
     "timestamp": 1759002690227,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -43,50 +88,5 @@
     "artist": "D’MASIV",
     "uri": "spotify:track:0BPOskXqLW4DaFTPodiPjD",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733acb3a4f3ab6ceee27d1b552"
-  },
-  {
-    "timestamp": 1759001564599,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Tinggal Seribu",
-    "artist": "Goliath",
-    "uri": "spotify:track:6aX8KNqgevsekzdL06ZV8J",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738eaaf8982d9c1c55f3b35aab"
-  },
-  {
-    "timestamp": 1759001349056,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Bintang Di Surga",
-    "artist": "Peterpan",
-    "uri": "spotify:track:0VBYPurR0c3hlxZOn2twBt",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d41db981af67267ff9145438"
-  },
-  {
-    "timestamp": 1759001053884,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Serpihan Hati",
-    "artist": "Utopia",
-    "uri": "spotify:track:4b1kSgvZk3yfOkYrRD8utB",
-    "imageUrl": "https://i.scdn.co/image/f8872e16111c0d0fdf5bce085d8e0bd3858c075c"
-  },
-  {
-    "timestamp": 1759000817038,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Menghitung Hari 2",
-    "artist": "Anda Perdana",
-    "uri": "spotify:track:1svU65QddvvLA0YY9mdiqF",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b7045ac05d83bd7087e91096"
-  },
-  {
-    "timestamp": 1759000604509,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Jadikan Aku Yang Kedua",
-    "artist": "Astrid",
-    "uri": "spotify:track:1nKxixMaGmgOcAgKxazYyc",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d5d1175ef2af87ef7fa3bcf6"
   }
 ]
