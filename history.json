@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": 1759002690227,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Antara Ada dan Tiada",
+    "artist": "Utopia",
+    "uri": "spotify:track:2mDviWBPhnfsnrB3TB2KRO",
+    "imageUrl": "https://i.scdn.co/image/1fdad8c79087dbb4922b915382fb60209a17636e"
+  },
+  {
+    "timestamp": 1759002453792,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Kenangan Terindah",
+    "artist": "SAMSONS",
+    "uri": "spotify:track:5TtmfZaNSYEcTR49cureT0",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273607aaef4f806cb926096f1ae"
+  },
+  {
     "timestamp": 1759002215496,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -70,23 +88,5 @@
     "artist": "Astrid",
     "uri": "spotify:track:1nKxixMaGmgOcAgKxazYyc",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d5d1175ef2af87ef7fa3bcf6"
-  },
-  {
-    "timestamp": 1759000355883,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Akulah Dia",
-    "artist": "Drive",
-    "uri": "spotify:track:1REjtRSFuT2iWod0vABJSP",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27395cdc167c3c4eb953dfc657b"
-  },
-  {
-    "timestamp": 1759000163922,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Racun Dunia",
-    "artist": "The Changcuters",
-    "uri": "spotify:track:2F8nJ7yF9GN5ONBHnmzy1h",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273503637ccb15e00eb225a564c"
   }
 ]
