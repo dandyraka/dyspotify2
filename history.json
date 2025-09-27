@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": 1758999430565,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Buka Hatimu",
+    "artist": "Armada",
+    "uri": "spotify:track:2uy1RsdzULhpzJCiWoTlK3",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d67195a1fc32eae4835450ae"
+  },
+  {
+    "timestamp": 1758999161134,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Kehilangan (feat. Hendri Lamiri)",
+    "artist": "Firman Siagian, Hendri Lamiri",
+    "uri": "spotify:track:4n7QiOKsD8RYzRWOL8d9Ow",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738baf04f4378e55fc1458f535"
+  },
+  {
     "timestamp": 1758998894576,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -70,23 +88,5 @@
     "artist": "Vierra",
     "uri": "spotify:track:21eHgdUt3z5JymCne7WiNN",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bdc17798be456d9e4ad28dc0"
-  },
-  {
-    "timestamp": 1758997097283,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "(BAM) Betapa Aku Mencintaimu",
-    "artist": "Vagetoz",
-    "uri": "spotify:track:1rnUhdzmBHzAMjTzAVCbvD",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738cd8fa6a203613665358ee94"
-  },
-  {
-    "timestamp": 1758996848824,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Sabtu Minggu",
-    "artist": "Sandy Canester",
-    "uri": "spotify:track:1GI4B57ToEI5e1Kh4bD75t",
-    "imageUrl": "https://i.scdn.co/image/c97f0a0ab7e91ade21d07e02bd1fefc433ab6067"
   }
 ]
