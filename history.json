@@ -1,5 +1,32 @@
 [
   {
+    "timestamp": 1758970403449,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Keterlaluan",
+    "artist": "The Potters",
+    "uri": "spotify:track:05r3AhDeS8cnrwoECUNYgO",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737716f5ec6b8b56c765d608b7"
+  },
+  {
+    "timestamp": 1758970222592,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Berdua Lebih Baik",
+    "artist": "Acha Septriasa",
+    "uri": "spotify:track:1QjAmxYS652vXrSy3BhZ9D",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b7045ac05d83bd7087e91096"
+  },
+  {
+    "timestamp": 1758970004388,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Jikalau",
+    "artist": "Naif",
+    "uri": "spotify:track:6AzZ0ThZo2EHHqPCYaa3OH",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273469bd0bb3f9cf222cdaf2e2d"
+  },
+  {
     "timestamp": 1758969819744,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -61,32 +88,5 @@
     "artist": "Aura Kasih",
     "uri": "spotify:track:1sSJYg2nPcThHkpgVHNHlD",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27352aaed7bd6ba2edeacf68cb9"
-  },
-  {
-    "timestamp": 1758968318761,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Pergi Untuk Kembali",
-    "artist": "Marcello Tahitoe",
-    "uri": "spotify:track:1WS4gL6sXWZ832B2SKYMq2",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cd50f559d06c13347988928c"
-  },
-  {
-    "timestamp": 1758967965072,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Teman Tapi Mesra",
-    "artist": "Ratu",
-    "uri": "spotify:track:4jSyrbR6gVwoThpsR9uYeZ",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273590a08574756e4b72b54d8c9"
-  },
-  {
-    "timestamp": 1758967629344,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Kita",
-    "artist": "Sheila On 7",
-    "uri": "spotify:track:0HiNUFD2ovdPC2p5tbnzCG",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27354270208627aa8061a8abe21"
   }
 ]
