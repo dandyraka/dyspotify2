@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1758993069518,
+      "timestamp": 1758994120226,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
         "imageUrl": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=081d5NKFNcIQ7kNvwHaGhvO&_nc_oc=AdkktPwrZaL_y6y87mXxMS3WgFaTFk1lBISi6HqLRISHWBWlNlzl-_JgWzECjr5A74JE5ye9FWocQffIPQwUXpQR&_nc_zt=24&_nc_ht=scontent-fra3-2.xx&edm=AP4hL3IEAAAA&_nc_gid=JApeLf0wr__ef2dq5nFeuw&oh=00_AfZ2ArJ--Pe-IHkb4TehLzXTN1nvS9cfi313ZhtLItHefg&oe=68DDE568"
       },
       "track": {
-        "uri": "spotify:track:3Ww5UoZPxQ4GttkkZNGEqW",
-        "name": "Kemesraan",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733db329579812114ef070ec62",
+        "uri": "spotify:track:3y8fGS2K2SfCVXYJx1DJ1o",
+        "name": "Kekasih Gelapku",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c227c46ee2f2f0eef13f21b9",
         "album": {
-          "uri": "spotify:album:5KtFfDZrpQAutIO9f6xQsH",
-          "name": "Antara Aku, Kau dan Bekas Pacarmu"
+          "uri": "spotify:album:0JFtcuEuZqdurpqOY65Pva",
+          "name": "Untukmu Selamanya"
         },
         "artist": {
-          "uri": "spotify:artist:7LkkXDrBNVODZKIJlWGwbX",
-          "name": "Iwan Fals"
+          "uri": "spotify:artist:4HHdjvdn30koo54zQ6QeF5",
+          "name": "Ungu"
         },
         "context": {
           "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
