@@ -1,5 +1,32 @@
 [
   {
+    "timestamp": 1759001053884,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Serpihan Hati",
+    "artist": "Utopia",
+    "uri": "spotify:track:4b1kSgvZk3yfOkYrRD8utB",
+    "imageUrl": "https://i.scdn.co/image/f8872e16111c0d0fdf5bce085d8e0bd3858c075c"
+  },
+  {
+    "timestamp": 1759000817038,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Menghitung Hari 2",
+    "artist": "Anda Perdana",
+    "uri": "spotify:track:1svU65QddvvLA0YY9mdiqF",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b7045ac05d83bd7087e91096"
+  },
+  {
+    "timestamp": 1759000604509,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Jadikan Aku Yang Kedua",
+    "artist": "Astrid",
+    "uri": "spotify:track:1nKxixMaGmgOcAgKxazYyc",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d5d1175ef2af87ef7fa3bcf6"
+  },
+  {
     "timestamp": 1759000355883,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -61,32 +88,5 @@
     "artist": "Mahadewi",
     "uri": "spotify:track:0Vhpedvy2kmw6yzPLfxJL4",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273074fdfdf06d84c49d205581e"
-  },
-  {
-    "timestamp": 1758998665591,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Dua Hati Menjadi Satu",
-    "artist": "Gita Gutawa, daffi",
-    "uri": "spotify:track:6nNVw9KNGT5SIiP1M2IqP5",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273898db101d6cbcee69a2da992"
-  },
-  {
-    "timestamp": 1758998418976,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Semakin",
-    "artist": "D’MASIV",
-    "uri": "spotify:track:2ZZEePSS6HBNWdF6uq4sqR",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27318ace9e1b1cd6f550781166e"
-  },
-  {
-    "timestamp": 1758998231271,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "JODI (Jomblo Ditinggal Mati)",
-    "artist": "Wali",
-    "uri": "spotify:track:6PfzC2yEFCRjR0CWuXu8HL",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27333362fc53eb178af1f5e5bcb"
   }
 ]
