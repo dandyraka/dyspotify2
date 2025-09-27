@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1759001754057,
+      "timestamp": 1759002293701,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=081d5NKFNcIQ7kNvwHaGhvO&_nc_oc=AdkktPwrZaL_y6y87mXxMS3WgFaTFk1lBISi6HqLRISHWBWlNlzl-_JgWzECjr5A74JE5ye9FWocQffIPQwUXpQR&_nc_zt=24&_nc_ht=scontent-fra3-2.xx&edm=AP4hL3IEAAAA&_nc_gid=JApeLf0wr__ef2dq5nFeuw&oh=00_AfZ2ArJ--Pe-IHkb4TehLzXTN1nvS9cfi313ZhtLItHefg&oe=68DDE568"
+        "imageUrl": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=081d5NKFNcIQ7kNvwEQxT8i&_nc_oc=AdnIk6_7fV7V73rag5EKx10ktlOuScMwauM4CMGpeBDzKWK0CVfSDlBlnpgdcsjAiHGwyOXFkEFwaQnMvSFoCvD7&_nc_zt=24&_nc_ht=scontent-cdg4-3.xx&edm=AP4hL3IEAAAA&_nc_gid=dZqtmtZK2yi9YSImFX3Uig&oh=00_AfYNHQZHE09XD4IcGL2AWPNg6LUCFtIFVpadIGg1E7LqCw&oe=68DE1DA8"
       },
       "track": {
-        "uri": "spotify:track:4MNfg1JHrCPcRI4bGE7J04",
-        "name": "Natural",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c85c4b6cea3a4fd5b4a162c9",
+        "uri": "spotify:track:5TtmfZaNSYEcTR49cureT0",
+        "name": "Kenangan Terindah",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273607aaef4f806cb926096f1ae",
         "album": {
-          "uri": "spotify:album:0JnwN8mCH8NTIEpRwDq4Gw",
-          "name": "Persiapan"
+          "uri": "spotify:album:7Ls7Id4vLjwONTyxywzrg7",
+          "name": "Naluri Lelaki (Special Edition)"
         },
         "artist": {
-          "uri": "spotify:artist:1hioeMAsVwJ3bvcb9lxBpB",
-          "name": "D’MASIV"
+          "uri": "spotify:artist:6HHje5tfmzWK8PsSaoJ9Xp",
+          "name": "SAMSONS"
         },
         "context": {
           "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",

@@ -1,5 +1,32 @@
 [
   {
+    "timestamp": 1759002215496,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Magic",
+    "artist": "Lyla",
+    "uri": "spotify:track:5qp8vPqA5Vbz9VqKQ8stCN",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27322b3fafb273a10bb84bafaf4"
+  },
+  {
+    "timestamp": 1759001985234,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Meraih Mimpi",
+    "artist": "J-Rocks",
+    "uri": "spotify:track:7nTGwRGqxOweb5GEJUUXZy",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730b8061f7fbacd58c402c5972"
+  },
+  {
+    "timestamp": 1759001794272,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Natural",
+    "artist": "D’MASIV",
+    "uri": "spotify:track:0BPOskXqLW4DaFTPodiPjD",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733acb3a4f3ab6ceee27d1b552"
+  },
+  {
     "timestamp": 1759001564599,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -61,32 +88,5 @@
     "artist": "The Changcuters",
     "uri": "spotify:track:2F8nJ7yF9GN5ONBHnmzy1h",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273503637ccb15e00eb225a564c"
-  },
-  {
-    "timestamp": 1758999894938,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Parasit",
-    "artist": "Gita Gutawa",
-    "uri": "spotify:track:4t3bfrYjCSr0nfvu24otR6",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f3fdd334787dfc14b9117696"
-  },
-  {
-    "timestamp": 1758999646813,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Pejantan Tangguh",
-    "artist": "Sheila On 7",
-    "uri": "spotify:track:1WBAKisvCxR2IQ2knIAlyw",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f0a7efc94687cc049b821529"
-  },
-  {
-    "timestamp": 1758999430565,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Buka Hatimu",
-    "artist": "Armada",
-    "uri": "spotify:track:2uy1RsdzULhpzJCiWoTlK3",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d67195a1fc32eae4835450ae"
   }
 ]
