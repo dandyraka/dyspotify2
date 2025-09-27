@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1758969131255,
+      "timestamp": 1758969859432,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=081d5NKFNcIQ7kNvwG3oFlE&_nc_oc=AdkymqqEN4Rwiifn_ZW3zv5ME1Zpr3P7GZB3LMo1CTvDTfDGU9MocGJsnEegSwYfPNbT6PpalbPhn1Wr4EsDwmvt&_nc_zt=24&_nc_ht=scontent-fra3-2.xx&edm=AP4hL3IEAAAA&_nc_gid=SrQ5T0eSWUyq8S9uuHgiKQ&oh=00_AfbfKmC5Cryq8f-XHHeprnBuvr10qzy8fzwvFD7bpDq_bw&oe=68DD74E8"
+        "imageUrl": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=081d5NKFNcIQ7kNvwH4y3DX&_nc_oc=Adl_ApAbUsraYwWrkyYztQPfkz4BdX4ELvvAVQIfao-NgfpKgfc_ME4kgiKWPmdbmm00dtx2oa1McCbwtGxbpqTY&_nc_zt=24&_nc_ht=scontent-fra3-2.xx&edm=AP4hL3IEAAAA&_nc_gid=-agkUZTs6jpja6ZR50Pk3w&oh=00_AfYR9wEYQWi4lcMHVlqZsf00Nu40c-rXrqp1hen1lEn_GQ&oe=68DD3CA8"
       },
       "track": {
-        "uri": "spotify:track:54hwAFt5hfHwGmhzjY0RmE",
-        "name": "Diam Diam Suka",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733ad38432e5772bf80a9a2483",
+        "uri": "spotify:track:6AzZ0ThZo2EHHqPCYaa3OH",
+        "name": "Jikalau",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273469bd0bb3f9cf222cdaf2e2d",
         "album": {
-          "uri": "spotify:album:1wqcpQnLri0fjAPgbmHSao",
-          "name": "Cherrybelle Compilation Album"
+          "uri": "spotify:album:6LxhRrWGNb4s5c7uhnGvCa",
+          "name": "Titik Cerah"
         },
         "artist": {
-          "uri": "spotify:artist:2oXCgnN1W8fMfNu2mHVgSz",
-          "name": "Cherrybelle"
+          "uri": "spotify:artist:57A85GCAJn0reNAez6Hswt",
+          "name": "Naif"
         },
         "context": {
           "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
