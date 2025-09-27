@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1758972309111,
+      "timestamp": 1758972948814,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
         "imageUrl": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=081d5NKFNcIQ7kNvwG3oFlE&_nc_oc=AdkymqqEN4Rwiifn_ZW3zv5ME1Zpr3P7GZB3LMo1CTvDTfDGU9MocGJsnEegSwYfPNbT6PpalbPhn1Wr4EsDwmvt&_nc_zt=24&_nc_ht=scontent-fra3-2.xx&edm=AP4hL3IEAAAA&_nc_gid=SrQ5T0eSWUyq8S9uuHgiKQ&oh=00_AfbfKmC5Cryq8f-XHHeprnBuvr10qzy8fzwvFD7bpDq_bw&oe=68DD74E8"
       },
       "track": {
-        "uri": "spotify:track:1MdjZzEInrmDBXf8zs0nKS",
-        "name": "Dan...",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27354270208627aa8061a8abe21",
+        "uri": "spotify:track:4JvVBsyZbsc8TtEsogDvWs",
+        "name": "Wonder Woman",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27332a51fd37dd14f2534222c46",
         "album": {
-          "uri": "spotify:album:1hrJXgaVEGovpLl9dFdqz7",
-          "name": "Sheila On 7"
+          "uri": "spotify:album:4yEGaE2u22iIyS8QqmMEHE",
+          "name": "Mulan Jameela"
         },
         "artist": {
-          "uri": "spotify:artist:6q87vizIEdEN4NvlR6mjfT",
-          "name": "Sheila On 7"
+          "uri": "spotify:artist:6ppmK4pjgILHNMd3RLlNCM",
+          "name": "Mulan Jameela"
         },
         "context": {
           "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
