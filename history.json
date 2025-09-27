@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": 1758973354622,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Cinta Mati (feat. Ahmad Dhani)",
+    "artist": "Agnes Monica, Ahmad Dhani",
+    "uri": "spotify:track:6qR2Kawh3T8WkgijbB7WS5",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731865923c37bb084ccf33abbd"
+  },
+  {
+    "timestamp": 1758973095819,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Wonder Woman",
+    "artist": "Mulan Jameela",
+    "uri": "spotify:track:4JvVBsyZbsc8TtEsogDvWs",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27332a51fd37dd14f2534222c46"
+  },
+  {
     "timestamp": 1758972825222,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -70,23 +88,5 @@
     "artist": "Chrisye",
     "uri": "spotify:track:5VsdyGSPzQkL18KKHLmZbj",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738b2625e0fb9735fd16b83b9b"
-  },
-  {
-    "timestamp": 1758970689357,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Aku Cinta Kau Dan Dia",
-    "artist": "The Rock",
-    "uri": "spotify:track:2oOuucUnBxy9pJ4lIkeaeD",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733414c22fedc68a106aa1cbc5"
-  },
-  {
-    "timestamp": 1758970403449,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Keterlaluan",
-    "artist": "The Potters",
-    "uri": "spotify:track:05r3AhDeS8cnrwoECUNYgO",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737716f5ec6b8b56c765d608b7"
   }
 ]
