@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": 1759001564599,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Tinggal Seribu",
+    "artist": "Goliath",
+    "uri": "spotify:track:6aX8KNqgevsekzdL06ZV8J",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738eaaf8982d9c1c55f3b35aab"
+  },
+  {
+    "timestamp": 1759001349056,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Bintang Di Surga",
+    "artist": "Peterpan",
+    "uri": "spotify:track:0VBYPurR0c3hlxZOn2twBt",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d41db981af67267ff9145438"
+  },
+  {
     "timestamp": 1759001053884,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -70,23 +88,5 @@
     "artist": "Armada",
     "uri": "spotify:track:2uy1RsdzULhpzJCiWoTlK3",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d67195a1fc32eae4835450ae"
-  },
-  {
-    "timestamp": 1758999161134,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Kehilangan (feat. Hendri Lamiri)",
-    "artist": "Firman Siagian, Hendri Lamiri",
-    "uri": "spotify:track:4n7QiOKsD8RYzRWOL8d9Ow",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738baf04f4378e55fc1458f535"
-  },
-  {
-    "timestamp": 1758998894576,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Sumpah I Love You",
-    "artist": "Mahadewi",
-    "uri": "spotify:track:0Vhpedvy2kmw6yzPLfxJL4",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273074fdfdf06d84c49d205581e"
   }
 ]
