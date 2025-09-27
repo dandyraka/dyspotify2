@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1758974026972,
+      "timestamp": 1758976018826,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=081d5NKFNcIQ7kNvwH4y3DX&_nc_oc=Adl_ApAbUsraYwWrkyYztQPfkz4BdX4ELvvAVQIfao-NgfpKgfc_ME4kgiKWPmdbmm00dtx2oa1McCbwtGxbpqTY&_nc_zt=24&_nc_ht=scontent-fra3-2.xx&edm=AP4hL3IEAAAA&_nc_gid=-agkUZTs6jpja6ZR50Pk3w&oh=00_AfYR9wEYQWi4lcMHVlqZsf00Nu40c-rXrqp1hen1lEn_GQ&oe=68DD3CA8"
+        "imageUrl": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=081d5NKFNcIQ7kNvwG3oFlE&_nc_oc=AdkymqqEN4Rwiifn_ZW3zv5ME1Zpr3P7GZB3LMo1CTvDTfDGU9MocGJsnEegSwYfPNbT6PpalbPhn1Wr4EsDwmvt&_nc_zt=24&_nc_ht=scontent-fra3-2.xx&edm=AP4hL3IEAAAA&_nc_gid=SrQ5T0eSWUyq8S9uuHgiKQ&oh=00_AfbfKmC5Cryq8f-XHHeprnBuvr10qzy8fzwvFD7bpDq_bw&oe=68DD74E8"
       },
       "track": {
-        "uri": "spotify:track:0Z3E3USDNRILRhQBwy0ljP",
-        "name": "Air & Api",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273676e52b04121d08f3ea10a58",
+        "uri": "spotify:track:112PgZaSiXk8Mqem2Krgtq",
+        "name": "Selimut Hati",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27369222d0908ecf5d22cc9d960",
         "album": {
-          "uri": "spotify:album:2kFxReqreHFoL6kvgXUAGE",
-          "name": "The Best"
+          "uri": "spotify:album:2hwNRtZyqmEcCzV47OUAlN",
+          "name": "The 2000's Greatest"
         },
         "artist": {
-          "uri": "spotify:artist:3t2LjYxAwE15Xm7Gx6Yki4",
-          "name": "Naif"
+          "uri": "spotify:artist:48bKH1ugFBhERC1rdojP9d",
+          "name": "Dewa 19"
         },
         "context": {
           "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
