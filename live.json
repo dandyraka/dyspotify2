@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1758970427121,
+      "timestamp": 1758971443174,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
         "imageUrl": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=081d5NKFNcIQ7kNvwG3oFlE&_nc_oc=AdkymqqEN4Rwiifn_ZW3zv5ME1Zpr3P7GZB3LMo1CTvDTfDGU9MocGJsnEegSwYfPNbT6PpalbPhn1Wr4EsDwmvt&_nc_zt=24&_nc_ht=scontent-fra3-2.xx&edm=AP4hL3IEAAAA&_nc_gid=SrQ5T0eSWUyq8S9uuHgiKQ&oh=00_AfbfKmC5Cryq8f-XHHeprnBuvr10qzy8fzwvFD7bpDq_bw&oe=68DD74E8"
       },
       "track": {
-        "uri": "spotify:track:3xzLCrg0gir5YKT4o0V6zs",
-        "name": "Aku Cinta Kau Dan Dia",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a0db7276b5ca61becb855e00",
+        "uri": "spotify:track:7dlnTQMqvzoJe649aLgUdb",
+        "name": "Mungkinkah",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731478f987f79b3a31169235fa",
         "album": {
-          "uri": "spotify:album:1otpqBNFggN6AjAJWDp3QW",
-          "name": "Master Mister Ahmad Dhani I"
+          "uri": "spotify:album:0Qr0iCnH1uBJK1wosvzeXV",
+          "name": "Mungkinkah"
         },
         "artist": {
-          "uri": "spotify:artist:58zHLr1IOAaAHCo0ZTd5v9",
-          "name": "The Rock"
+          "uri": "spotify:artist:0maYWdjsjEafkPBTylPU12",
+          "name": "Stinky"
         },
         "context": {
           "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
