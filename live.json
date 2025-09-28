@@ -1,27 +1,27 @@
 {
   "friends": [
     {
-      "timestamp": 1759053328021,
+      "timestamp": 1759054473053,
       "user": {
         "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
         "name": "poemstars🌼🌟",
         "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
       },
       "track": {
-        "uri": "spotify:track:7MAUWiqZlh9jrHQrNjmdcX",
-        "name": "Biarkan Ia Tumbuh",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27387221ad6b867ad30afdf048c",
+        "uri": "spotify:track:6vTw2rnPdWPdeKFYlSfNts",
+        "name": "Four Corners And Two Sides",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273800934f8144df91dae16b6e4",
         "album": {
-          "uri": "spotify:album:1Mhq1R6xMuXuWUgbl6B6Iv",
-          "name": "Dalam Dinamika"
+          "uri": "spotify:album:3RSJ0kbP7TxLRqH7BqX8Gl",
+          "name": "Let's Cheers To This"
         },
         "artist": {
-          "uri": "spotify:artist:0NbKRRBuiIUwS9irPvi7wD",
-          "name": "Perunggu"
+          "uri": "spotify:artist:3N8Hy6xQnQv1F1XCiyGQqA",
+          "name": "Sleeping With Sirens"
         },
         "context": {
-          "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy:collection",
-          "name": "collection",
+          "uri": "spotify:album:1oRHYWmIhP5bmXYerh9qXj",
+          "name": "album",
           "index": 0
         }
       }
