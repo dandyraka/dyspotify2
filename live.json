@@ -1,27 +1,27 @@
 {
   "friends": [
     {
-      "timestamp": 1759055553379,
+      "timestamp": 1759056237664,
       "user": {
         "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
         "name": "poemstars🌼🌟",
         "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
       },
       "track": {
-        "uri": "spotify:track:2D4LEUzvLRCQOLMxnajH72",
-        "name": "If I'm James Dean, You're Audrey Hepburn",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273032fd22bde573d0746c87352",
+        "uri": "spotify:track:23UoI3jlFiWdo5jadUYo69",
+        "name": "Bulls In The Bronx",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570",
         "album": {
-          "uri": "spotify:album:1oRHYWmIhP5bmXYerh9qXj",
-          "name": "With Ears To See And Eyes To Hear"
+          "uri": "spotify:album:661Hz0qJK8WIp7vAWsqKvk",
+          "name": "Collide With The Sky"
         },
         "artist": {
-          "uri": "spotify:artist:3N8Hy6xQnQv1F1XCiyGQqA",
-          "name": "Sleeping With Sirens"
+          "uri": "spotify:artist:4iJLPqClelZOBCBifm8Fzv",
+          "name": "Pierce The Veil"
         },
         "context": {
-          "uri": "spotify:album:1oRHYWmIhP5bmXYerh9qXj",
-          "name": "album",
+          "uri": null,
+          "name": null,
           "index": 0
         }
       }
