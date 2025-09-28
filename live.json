@@ -1,27 +1,27 @@
 {
   "friends": [
     {
-      "timestamp": 1759052800648,
+      "timestamp": 1759053328021,
       "user": {
         "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
         "name": "poemstars🌼🌟",
         "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
       },
       "track": {
-        "uri": "spotify:track:2AzoifKBHrbzI3WCrdEhZo",
-        "name": "Kata Kata",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738e16e6ddf2cc9953f90c1c61",
+        "uri": "spotify:track:7MAUWiqZlh9jrHQrNjmdcX",
+        "name": "Biarkan Ia Tumbuh",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27387221ad6b867ad30afdf048c",
         "album": {
-          "uri": "spotify:album:4qAa6aWYwW1do7TQyBMz7z",
-          "name": "Merangkai"
+          "uri": "spotify:album:1Mhq1R6xMuXuWUgbl6B6Iv",
+          "name": "Dalam Dinamika"
         },
         "artist": {
-          "uri": "spotify:artist:2wZWkw5jo8P4NVonVanxYd",
-          "name": "Ziva Magnolya"
+          "uri": "spotify:artist:0NbKRRBuiIUwS9irPvi7wD",
+          "name": "Perunggu"
         },
         "context": {
-          "uri": "spotify:album:4qAa6aWYwW1do7TQyBMz7z",
-          "name": "album",
+          "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy:collection",
+          "name": "collection",
           "index": 0
         }
       }
