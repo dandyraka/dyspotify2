@@ -1,19 +1,19 @@
 {
   "friends": [
     {
-      "timestamp": 1759035315429,
+      "timestamp": 1759036429245,
       "user": {
         "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
         "name": "poemstars🌼🌟",
         "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
       },
       "track": {
-        "uri": "spotify:track:1ufe1cMoBI4khmCJR4yobx",
-        "name": "Kamar Gelap",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730c0f7067fc2bb2ad9f288d7a",
+        "uri": "spotify:track:7HW7C1NSXomYmZRVYv7m0a",
+        "name": "Putih",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273679bf0d182a74877dcec6485",
         "album": {
-          "uri": "spotify:album:7ts3VbRbrQM5CPY4x9E7Om",
-          "name": "Kamar Gelap"
+          "uri": "spotify:album:1PHrTyrvzRNkM3ni9D1ja0",
+          "name": "Sinestesia"
         },
         "artist": {
           "uri": "spotify:artist:3uSvD31crYEsBLuiAFD02b",
