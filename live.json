@@ -1,3 +1,30 @@
 {
-  "friends": []
+  "friends": [
+    {
+      "timestamp": 1759034769654,
+      "user": {
+        "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
+        "name": "poemstars🌼🌟",
+        "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
+      },
+      "track": {
+        "uri": "spotify:track:0IrujRv0WMILH3wlFKndh6",
+        "name": "Jatuh Cinta Itu Biasa Saja",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27359eaf2f9fca6f4c449fc9fc0",
+        "album": {
+          "uri": "spotify:album:5PENwZWWNzHhPfYcvvv2Kf",
+          "name": "Efek Rumah Kaca"
+        },
+        "artist": {
+          "uri": "spotify:artist:3uSvD31crYEsBLuiAFD02b",
+          "name": "Efek Rumah Kaca"
+        },
+        "context": {
+          "uri": null,
+          "name": null,
+          "index": 0
+        }
+      }
+    }
+  ]
 }
