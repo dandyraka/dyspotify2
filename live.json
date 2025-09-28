@@ -1,30 +1,3 @@
 {
-  "friends": [
-    {
-      "timestamp": 1759062458174,
-      "user": {
-        "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
-        "name": "poemstars🌼🌟",
-        "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
-      },
-      "track": {
-        "uri": "spotify:track:1WwFIsrx5m4vIziP7idFF9",
-        "name": "Tapi",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27387221ad6b867ad30afdf048c",
-        "album": {
-          "uri": "spotify:album:1Mhq1R6xMuXuWUgbl6B6Iv",
-          "name": "Dalam Dinamika"
-        },
-        "artist": {
-          "uri": "spotify:artist:0NbKRRBuiIUwS9irPvi7wD",
-          "name": "Perunggu"
-        },
-        "context": {
-          "uri": "spotify:album:1Mhq1R6xMuXuWUgbl6B6Iv",
-          "name": "album",
-          "index": 0
-        }
-      }
-    }
-  ]
+  "friends": []
 }
