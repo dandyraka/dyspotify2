@@ -1,30 +1,3 @@
 {
-  "friends": [
-    {
-      "timestamp": 1759232378146,
-      "user": {
-        "uri": "spotify:user:dandyraka_",
-        "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=dlBVIj7PBsEQ7kNvwEpGBs2&_nc_oc=AdkCkUEnm5tEVSUi61nZjyHYHzspCJFxAUuuC6BUdlG89lygJM84y-QK2R1AJ0es1YAZOADugrRqtW3HD1yDH8vL&_nc_zt=24&_nc_ht=scontent-tpe1-1.xx&edm=AP4hL3IEAAAA&_nc_gid=x_hs8QdxrfgsqJZ-k7y7qA&oh=00_AfZmoS0m-QtmEOrzHaoluGzUc_ZizPfciwiOUJwxWRRCPw&oe=68E13128"
-      },
-      "track": {
-        "uri": "spotify:track:01NxFtuXZ30sDVfdErskKl",
-        "name": "Malaikat Juga Tahu",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27329bd5b9b3abf0dbc56f4d34f",
-        "album": {
-          "uri": "spotify:album:5NEQMtVC3NuKMOZbPgXLal",
-          "name": "Rectoverso"
-        },
-        "artist": {
-          "uri": "spotify:artist:1mCcTwpEABnSVB4D8rXfRN",
-          "name": "Dee Lestari"
-        },
-        "context": {
-          "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
-          "name": "playlist",
-          "index": 0
-        }
-      }
-    }
-  ]
+  "friends": []
 }
