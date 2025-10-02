@@ -1,3 +1,30 @@
 {
-  "friends": []
+  "friends": [
+    {
+      "timestamp": 1759410222615,
+      "user": {
+        "uri": "spotify:user:dandyraka_",
+        "name": "Dandy 🫵🏻😁",
+        "imageUrl": "https://scontent-ams4-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=VAT1SXpv5c0Q7kNvwFZYAUY&_nc_oc=AdmXOfL7ohjlzmQ61zUb_HqFX1eI8ha2G8wplbVPYiFbdHLoETpSaAVitbNRLkzaeDgj5MvV7nnR0a3hMpWOYJdk&_nc_zt=24&_nc_ht=scontent-ams4-1.xx&edm=AP4hL3IEAAAA&_nc_gid=mHvA2Zo1DcYkjJd-O7viOw&oh=00_AfZcECRYZ5X7-oPb_JuQP1B6gU-olUW5q6nUZ9bqAVUl-A&oe=68E3D428"
+      },
+      "track": {
+        "uri": "spotify:track:6upSLCg8e44Zlzg1N8zVPf",
+        "name": "Jang Ganggu",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27374365f67183990b5c1684208",
+        "album": {
+          "uri": "spotify:album:4efnvRAGiSpUD4DygQ9Lvb",
+          "name": "Jang Ganggu"
+        },
+        "artist": {
+          "uri": "spotify:artist:7jRbJhZZdASLFILgTin8Tt",
+          "name": "Shine Of Black"
+        },
+        "context": {
+          "uri": "spotify:playlist:6gzRjcJqzdM1M6bpOZsWsl",
+          "name": "playlist",
+          "index": 0
+        }
+      }
+    }
+  ]
 }

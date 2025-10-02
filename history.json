@@ -1,5 +1,14 @@
 [
   {
+    "timestamp": 1759409989559,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Cinta Bikin Bodo",
+    "artist": "Ona Hetharua",
+    "uri": "spotify:track:12Bsqc4hbQ44Vt1CVNVJqn",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a8b3b2f1aaf9f4ea4e86be0b"
+  },
+  {
     "timestamp": 1759387729317,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -79,14 +88,5 @@
     "artist": "Peterpan",
     "uri": "spotify:track:4zQy94D4CqvrI5TDf8JjmE",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ef6b4f2c2161b3462b0b6fa7"
-  },
-  {
-    "timestamp": 1759237945337,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Tobat Maksiat (TOMAT)",
-    "artist": "Wali",
-    "uri": "spotify:track:1dXlBKrJS9L7Qbna1AkgNy",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e8b74fe4c74e6bf3a3473277"
   }
 ]
