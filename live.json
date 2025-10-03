@@ -1,3 +1,30 @@
 {
-  "friends": []
+  "friends": [
+    {
+      "timestamp": 1759467233101,
+      "user": {
+        "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
+        "name": "poemstars🌼🌟",
+        "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
+      },
+      "track": {
+        "uri": "spotify:track:0RdUX4WE0fO30VnlUbDVL6",
+        "name": "Still Loving You",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739f2023d391c3bd4acf4d51c6",
+        "album": {
+          "uri": "spotify:album:4vQ96yyyYbaeTQujH3iTtd",
+          "name": "Comeblack"
+        },
+        "artist": {
+          "uri": "spotify:artist:27T030eWyCQRmDyuvr1kxY",
+          "name": "Scorpions"
+        },
+        "context": {
+          "uri": null,
+          "name": null,
+          "index": 0
+        }
+      }
+    }
+  ]
 }
