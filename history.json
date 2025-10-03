@@ -1,5 +1,14 @@
 [
   {
+    "timestamp": 1759463873294,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Jang Ganggu",
+    "artist": "Shine Of Black",
+    "uri": "spotify:track:6upSLCg8e44Zlzg1N8zVPf",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27374365f67183990b5c1684208"
+  },
+  {
     "timestamp": 1759409989559,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -79,14 +88,5 @@
     "artist": "Wali",
     "uri": "spotify:track:29GszwSbH9jtj74nwNWf4Z",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ab85980da8a5c59d26309a6f"
-  },
-  {
-    "timestamp": 1759238137728,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Yang Terdalam",
-    "artist": "Peterpan",
-    "uri": "spotify:track:4zQy94D4CqvrI5TDf8JjmE",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ef6b4f2c2161b3462b0b6fa7"
   }
 ]
