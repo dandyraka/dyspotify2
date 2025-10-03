@@ -1,30 +1,3 @@
 {
-  "friends": [
-    {
-      "timestamp": 1759481002832,
-      "user": {
-        "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
-        "name": "poemstars🌼🌟",
-        "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
-      },
-      "track": {
-        "uri": "spotify:track:6SnlmOpkHlnudckNjSIzqU",
-        "name": "I Love You but I'm Letting Go",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27366c9500d6204cc534d91800e",
-        "album": {
-          "uri": "spotify:album:6CYiVTU1drHMvGHgMHmLQZ",
-          "name": "Walk the Talk"
-        },
-        "artist": {
-          "uri": "spotify:artist:7d86ERlvO5UG44j7Va0Y0C",
-          "name": "Pamungkas"
-        },
-        "context": {
-          "uri": "spotify:artist:7d86ERlvO5UG44j7Va0Y0C",
-          "name": "artist",
-          "index": 0
-        }
-      }
-    }
-  ]
+  "friends": []
 }
