@@ -1,19 +1,19 @@
 {
   "friends": [
     {
-      "timestamp": 1759490802062,
+      "timestamp": 1759491417650,
       "user": {
         "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
         "name": "poemstars🌼🌟",
         "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
       },
       "track": {
-        "uri": "spotify:track:0pDVCQpK0jAjhWYrzrz91x",
-        "name": "Risalah Hati",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a6de9016ca7f5e4def31d1c6",
+        "uri": "spotify:track:1cfTUInlwgjMUDUF83b6Gk",
+        "name": "Closure",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273614c110f6dfe26c8592c9042",
         "album": {
-          "uri": "spotify:album:61fsvE00jD51mUkDPd1OlD",
-          "name": "Pupus / Risalah Hati"
+          "uri": "spotify:album:5lR0Xp2wBooYN0kyX2OmSM",
+          "name": "Solipsism 0.2"
         },
         "artist": {
           "uri": "spotify:artist:7d86ERlvO5UG44j7Va0Y0C",
