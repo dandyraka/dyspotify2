@@ -1,30 +1,3 @@
 {
-  "friends": [
-    {
-      "timestamp": 1759766074265,
-      "user": {
-        "uri": "spotify:user:dandyraka_",
-        "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=fbleBxqFzckQ7kNvwFVESBB&_nc_oc=AdmsquV8B16h4r1YGP9lf7AB91HvIU9AL4bgcWPwSZzWwfiMBy5fRdHIApRn_9oM_CD46nHdtkzuIIkJR1sdOGGf&_nc_zt=24&_nc_ht=scontent-yyz1-1.xx&edm=AP4hL3IEAAAA&_nc_gid=7BluPfzjQDvhoG914mvqHA&oh=00_AfdxX33Imc8-YPgAo3OBZQ6HZVwSxHSp6TcOEs2acuHhrw&oe=68E95268"
-      },
-      "track": {
-        "uri": "spotify:track:3m3T1jzWyJHdh6DcQOXxnY",
-        "name": "Hello Guys",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737ce150a783096f78f617478d",
-        "album": {
-          "uri": "spotify:album:4mtWoBwy10Jm7pxCWkEe98",
-          "name": "Hello Guys"
-        },
-        "artist": {
-          "uri": "spotify:artist:4KZJwTxdTD6PWqe5kxdPCw",
-          "name": "Mona Latumahina"
-        },
-        "context": {
-          "uri": "spotify:playlist:6gzRjcJqzdM1M6bpOZsWsl",
-          "name": "playlist",
-          "index": 0
-        }
-      }
-    }
-  ]
+  "friends": []
 }
