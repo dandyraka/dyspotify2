@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1759779984008,
+      "timestamp": 1759780522866,
       "user": {
         "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
         "name": "poemstars🌼🌟",
         "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
       },
       "track": {
-        "uri": "spotify:track:0KdabnQtfZVBGqXX3eMEz3",
-        "name": "Hadapi Berdua",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273937d621f0025409ee44285d1",
+        "uri": "spotify:track:5gK6vM9QeVerf07PHsnGCd",
+        "name": "Turn Up The Love",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27374bbe4c371b16d97f112f0ba",
         "album": {
-          "uri": "spotify:album:0jxUY7K5FdwJNl3SmnOZOl",
-          "name": "Tiara Andini"
+          "uri": "spotify:album:78ysj0YXG9moP8Gv9izzm4",
+          "name": "Dirty Bass (Deluxe)"
         },
         "artist": {
-          "uri": "spotify:artist:0kPb52ySN2k9P6wEZPTUzm",
-          "name": "Tiara Andini"
+          "uri": "spotify:artist:698hF4vcwHwPy8ltmXermq",
+          "name": "Far East Movement, Cover Drive"
         },
         "context": {
           "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy:collection",
