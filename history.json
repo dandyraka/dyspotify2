@@ -1,5 +1,14 @@
 [
   {
+    "timestamp": 1759733577736,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Curi Curi Pandang",
+    "artist": "Naif",
+    "uri": "spotify:track:5WmZRFvKHFghHRDyVpJIAM",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273469bd0bb3f9cf222cdaf2e2d"
+  },
+  {
     "timestamp": 1759733230107,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -79,14 +88,5 @@
     "artist": "Kapthenpurek, Gusti Senda, Kanzer PMC",
     "uri": "spotify:track:2sfij7A8vgPfOQdHrfo5kO",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c839ddd1b181ac14f7b9278a"
-  },
-  {
-    "timestamp": 1759726412693,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "DANSA",
-    "artist": "Juan Reza, Chesylino",
-    "uri": "spotify:track:7dWwJjGOkC3XgauFujx8mI",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b581010bfe2e665e8f5f9cdf"
   }
 ]
