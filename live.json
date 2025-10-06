@@ -1,3 +1,30 @@
 {
-  "friends": []
+  "friends": [
+    {
+      "timestamp": 1759771873308,
+      "user": {
+        "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
+        "name": "poemstars🌼🌟",
+        "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
+      },
+      "track": {
+        "uri": "spotify:track:2LBqCSwhJGcFQeTHMVGwy3",
+        "name": "Die For You",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a048415db06a5b6fa7ec4e1a",
+        "album": {
+          "uri": "spotify:album:4AdZV63ycxFLF6Hcol0QnB",
+          "name": "Starboy"
+        },
+        "artist": {
+          "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ",
+          "name": "The Weeknd"
+        },
+        "context": {
+          "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy:collection",
+          "name": "collection",
+          "index": 0
+        }
+      }
+    }
+  ]
 }
