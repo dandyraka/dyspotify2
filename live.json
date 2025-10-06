@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1759776425647,
+      "timestamp": 1759776956844,
       "user": {
         "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
         "name": "poemstars🌼🌟",
         "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
       },
       "track": {
-        "uri": "spotify:track:1NhPKVLsHhFUHIOZ32QnS2",
-        "name": "Secrets",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27377a7bd558d81172446e525bb",
+        "uri": "spotify:track:0lAwrV80YlQCGeqPtMIQjB",
+        "name": "Semua Orang Pernah Sakit Hati",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e7ade99f8d4323ff427e654f",
         "album": {
-          "uri": "spotify:album:2pLAOZiilrhOrTQNqrF8qr",
-          "name": "Waking Up"
+          "uri": "spotify:album:1I30JEs4UfRnYz0pzkKJpg",
+          "name": "Selamat Datang di Ujung Dunia"
         },
         "artist": {
-          "uri": "spotify:artist:5Pwc4xIPtQLFEnJriah9YJ",
-          "name": "OneRepublic"
+          "uri": "spotify:artist:6wD3vtAV0P3gWB9zLs7I4j",
+          "name": "Lomba Sihir"
         },
         "context": {
           "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy:collection",
