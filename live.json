@@ -1,3 +1,30 @@
 {
-  "friends": []
+  "friends": [
+    {
+      "timestamp": 1759764772116,
+      "user": {
+        "uri": "spotify:user:dandyraka_",
+        "name": "Dandy 🫵🏻😁",
+        "imageUrl": "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=fbleBxqFzckQ7kNvwFVESBB&_nc_oc=AdmsquV8B16h4r1YGP9lf7AB91HvIU9AL4bgcWPwSZzWwfiMBy5fRdHIApRn_9oM_CD46nHdtkzuIIkJR1sdOGGf&_nc_zt=24&_nc_ht=scontent-yyz1-1.xx&edm=AP4hL3IEAAAA&_nc_gid=7BluPfzjQDvhoG914mvqHA&oh=00_AfdxX33Imc8-YPgAo3OBZQ6HZVwSxHSp6TcOEs2acuHhrw&oe=68E95268"
+      },
+      "track": {
+        "uri": "spotify:track:7Df73wy6aUYVyRteEwrice",
+        "name": "Ko Tipu Sa",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737fbc6b3afb218d0e6b822f54",
+        "album": {
+          "uri": "spotify:album:2yoql5syNM62mIDu4NXkHv",
+          "name": "Ko Tipu Sa"
+        },
+        "artist": {
+          "uri": "spotify:artist:18GUFjRY9DSzLCU8u65psZ",
+          "name": "Willy Sopacua, Rafa"
+        },
+        "context": {
+          "uri": "spotify:playlist:6gzRjcJqzdM1M6bpOZsWsl",
+          "name": "playlist",
+          "index": 0
+        }
+      }
+    }
+  ]
 }
