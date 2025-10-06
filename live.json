@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1759773264414,
+      "timestamp": 1759774939433,
       "user": {
         "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
         "name": "poemstars🌼🌟",
         "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
       },
       "track": {
-        "uri": "spotify:track:4LMaZ1F4bSDt8KAk7026i8",
-        "name": "Selimut Hati",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dec938eb0d10f6a6a9478af2",
+        "uri": "spotify:track:5mFMb5OHI3cN0UjITVztCj",
+        "name": "Rumour Has It",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273164feb363334f93b6458d2a9",
         "album": {
-          "uri": "spotify:album:1Q2GOq3a5fCDTww2740WCE",
-          "name": "Republik Cinta"
+          "uri": "spotify:album:5duyQokC4FMcWPYTV9Gpf9",
+          "name": "21"
         },
         "artist": {
-          "uri": "spotify:artist:48bKH1ugFBhERC1rdojP9d",
-          "name": "Dewa 19"
+          "uri": "spotify:artist:4dpARuHxo51G3z768sgnrY",
+          "name": "Adele"
         },
         "context": {
           "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy:collection",
