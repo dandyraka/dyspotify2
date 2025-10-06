@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1759725477184,
+      "timestamp": 1759726070480,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
         "imageUrl": "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=fbleBxqFzckQ7kNvwEqLhjj&_nc_oc=AdmNonB1ZjrXn6azE908tMKFJdfv97gd_JBxMRQslUm-K3JWOTqfDv9BZjksDsnOipjI_yEYnbte5EFmHYuxX7zi&_nc_zt=24&_nc_ht=scontent-yyz1-1.xx&edm=AP4hL3IEAAAA&_nc_gid=icHYozN931Ra-IE5jinCQQ&oh=00_AfdghvE706gnp37JyFVSWCDzRgvFoX208kTrvWXXX5HDHg&oe=68E8A9A8"
       },
       "track": {
-        "uri": "spotify:track:6KfugJFINWqA42k59hmjFr",
-        "name": "TABOLA BALE",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27310df7b8e9b3ed2588888a8ae",
+        "uri": "spotify:track:5qIjpAWyp4De0E3qGTFw2U",
+        "name": "Kaka Main Salah",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735b543be0943a622a4ca3601d",
         "album": {
-          "uri": "spotify:album:56paKQ8XwNS0fSkWaMiJMm",
-          "name": "TABOLA BALE"
+          "uri": "spotify:album:275JZC2hPEmKHEpAZDAvEO",
+          "name": "Kaka Main Salah"
         },
         "artist": {
-          "uri": "spotify:artist:5naPJsWUJ6y22yKXA6dX36",
-          "name": "Silet Open Up, Jacson Seran, Juan Reza, Diva Aurel"
+          "uri": "spotify:artist:03viIgoUyg6gfAcID5hRCm",
+          "name": "Kapthenpurek, Silet Open Up"
         },
         "context": {
           "uri": "spotify:playlist:6gzRjcJqzdM1M6bpOZsWsl",
