@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1759772625934,
+      "timestamp": 1759773264414,
       "user": {
         "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
         "name": "poemstars🌼🌟",
         "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
       },
       "track": {
-        "uri": "spotify:track:4xLwkKcZIcwD71wdCgGsgE",
-        "name": "Dadidu di Dada",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27324d69d25b252f99f6abfa093",
+        "uri": "spotify:track:4LMaZ1F4bSDt8KAk7026i8",
+        "name": "Selimut Hati",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dec938eb0d10f6a6a9478af2",
         "album": {
-          "uri": "spotify:album:163yHPYgK5ScZO4YF1fYeB",
-          "name": "CAN MACHINES FALL IN LOVE?"
+          "uri": "spotify:album:1Q2GOq3a5fCDTww2740WCE",
+          "name": "Republik Cinta"
         },
         "artist": {
-          "uri": "spotify:artist:18PmEN8ZiHBQlDpxrgR2xs",
-          "name": "MALIQ & D'Essentials"
+          "uri": "spotify:artist:48bKH1ugFBhERC1rdojP9d",
+          "name": "Dewa 19"
         },
         "context": {
           "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy:collection",
