@@ -1,30 +1,3 @@
 {
-  "friends": [
-    {
-      "timestamp": 1759784051196,
-      "user": {
-        "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
-        "name": "poemstars🌼🌟",
-        "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
-      },
-      "track": {
-        "uri": "spotify:track:7BM3HvfTvOUZL0Fx1UwPtg",
-        "name": "Sekali Lagi (from \"Critical Eleven\")",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733fa0a90f04f3a889b343c28c",
-        "album": {
-          "uri": "spotify:album:4OTR3hEos8V9FqPZ754knV",
-          "name": "Paradox"
-        },
-        "artist": {
-          "uri": "spotify:artist:05CRzFTp7TouOXPuH6Tapu",
-          "name": "Isyana Sarasvati"
-        },
-        "context": {
-          "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy:collection",
-          "name": "collection",
-          "index": 0
-        }
-      }
-    }
-  ]
+  "friends": []
 }
