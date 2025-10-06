@@ -1,30 +1,3 @@
 {
-  "friends": [
-    {
-      "timestamp": 1759733860033,
-      "user": {
-        "uri": "spotify:user:dandyraka_",
-        "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=fbleBxqFzckQ7kNvwEtffTr&_nc_oc=AdlB13_Ps_Wm9S05unfpOXmzpwNJW9r7bUncAUHmuE08HAS2TMdHC8DEjzaqlUsD80ZqdBAMsjwUEZkr9StaMIVg&_nc_zt=24&_nc_ht=scontent-yyz1-1.xx&edm=AP4hL3IEAAAA&_nc_gid=qVpAnSpx9M-3b3-39OZ4FA&oh=00_AfdSHkybUuFugbjkukkCqKP3o4pcK6W9K2u_PxCYKPg1kw&oe=68E8A9A8"
-      },
-      "track": {
-        "uri": "spotify:track:0OjiV7FpVCrOIq53ZSH1EM",
-        "name": "Ya Sudahlah",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d0ba0e1970aadbdc66003d5c",
-        "album": {
-          "uri": "spotify:album:0LTNM8p3hEvAPbidxNtg7Q",
-          "name": "For All"
-        },
-        "artist": {
-          "uri": "spotify:artist:7b4mucf6X53D3pEaY1jWl6",
-          "name": "Bondan Prakoso, Fade2Black"
-        },
-        "context": {
-          "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
-          "name": "playlist",
-          "index": 0
-        }
-      }
-    }
-  ]
+  "friends": []
 }
