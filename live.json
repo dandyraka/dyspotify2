@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1759771873308,
+      "timestamp": 1759772625934,
       "user": {
         "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
         "name": "poemstars🌼🌟",
         "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
       },
       "track": {
-        "uri": "spotify:track:2LBqCSwhJGcFQeTHMVGwy3",
-        "name": "Die For You",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a048415db06a5b6fa7ec4e1a",
+        "uri": "spotify:track:4xLwkKcZIcwD71wdCgGsgE",
+        "name": "Dadidu di Dada",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27324d69d25b252f99f6abfa093",
         "album": {
-          "uri": "spotify:album:4AdZV63ycxFLF6Hcol0QnB",
-          "name": "Starboy"
+          "uri": "spotify:album:163yHPYgK5ScZO4YF1fYeB",
+          "name": "CAN MACHINES FALL IN LOVE?"
         },
         "artist": {
-          "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ",
-          "name": "The Weeknd"
+          "uri": "spotify:artist:18PmEN8ZiHBQlDpxrgR2xs",
+          "name": "MALIQ & D'Essentials"
         },
         "context": {
           "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy:collection",
