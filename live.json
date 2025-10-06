@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1759778817104,
+      "timestamp": 1759779455613,
       "user": {
         "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
         "name": "poemstars🌼🌟",
         "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
       },
       "track": {
-        "uri": "spotify:track:5iBUS6fqRWhwqRXXfKu3tV",
-        "name": "Happy Birthday",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27374c74247d425bbd5f497e86a",
+        "uri": "spotify:track:60a0Rd6pjrkxjPbaKzXjfq",
+        "name": "In the End",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a",
         "album": {
-          "uri": "spotify:album:0XPxK2qGH4BelboUUiVRvE",
-          "name": "Hers"
+          "uri": "spotify:album:6hPkbAV3ZXpGZBGUvL6jVM",
+          "name": "Hybrid Theory (Bonus Edition)"
         },
         "artist": {
-          "uri": "spotify:artist:12j6dJrPXanCBwY599pZxf",
-          "name": "Matt Maltese"
+          "uri": "spotify:artist:6XyY86QOPPrYVGvF9ch6wz",
+          "name": "Linkin Park"
         },
         "context": {
           "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy:collection",
