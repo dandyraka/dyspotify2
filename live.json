@@ -1,3 +1,30 @@
 {
-  "friends": []
+  "friends": [
+    {
+      "timestamp": 1759733332079,
+      "user": {
+        "uri": "spotify:user:dandyraka_",
+        "name": "Dandy 🫵🏻😁",
+        "imageUrl": "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=fbleBxqFzckQ7kNvwEtffTr&_nc_oc=AdlB13_Ps_Wm9S05unfpOXmzpwNJW9r7bUncAUHmuE08HAS2TMdHC8DEjzaqlUsD80ZqdBAMsjwUEZkr9StaMIVg&_nc_zt=24&_nc_ht=scontent-yyz1-1.xx&edm=AP4hL3IEAAAA&_nc_gid=qVpAnSpx9M-3b3-39OZ4FA&oh=00_AfdSHkybUuFugbjkukkCqKP3o4pcK6W9K2u_PxCYKPg1kw&oe=68E8A9A8"
+      },
+      "track": {
+        "uri": "spotify:track:5WmZRFvKHFghHRDyVpJIAM",
+        "name": "Curi Curi Pandang",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273469bd0bb3f9cf222cdaf2e2d",
+        "album": {
+          "uri": "spotify:album:6LxhRrWGNb4s5c7uhnGvCa",
+          "name": "Titik Cerah"
+        },
+        "artist": {
+          "uri": "spotify:artist:57A85GCAJn0reNAez6Hswt",
+          "name": "Naif"
+        },
+        "context": {
+          "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
+          "name": "playlist",
+          "index": 0
+        }
+      }
+    }
+  ]
 }

@@ -1,5 +1,59 @@
 [
   {
+    "timestamp": 1759733230107,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Sedang Ingin Bercinta",
+    "artist": "Dewa 19",
+    "uri": "spotify:track:44n4zJjacUQJSJncx0YW7h",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27369222d0908ecf5d22cc9d960"
+  },
+  {
+    "timestamp": 1759732989771,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Salam Rindu",
+    "artist": "Tipe-X",
+    "uri": "spotify:track:6O3LRhurLdkBNeAjXer6ye",
+    "imageUrl": "https://i.scdn.co/image/12133aef1ad3613eeda171dfb4288c740177fc9c"
+  },
+  {
+    "timestamp": 1759732749574,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Buka Semangat Baru",
+    "artist": "Marcello Tahitoe, Barry, Ipank, Lala Karmela",
+    "uri": "spotify:track:6lZKJkfn0eVCXvbh1jsO8a",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d462cb84c9899a5a132101a1"
+  },
+  {
+    "timestamp": 1759732509772,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "SKJ",
+    "artist": "ST12",
+    "uri": "spotify:track:3XIQA2XA9bce8GNrczvVwX",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273638c7c6bc078a923a14cdb85"
+  },
+  {
+    "timestamp": 1759732299670,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Patah Hati",
+    "artist": "Radja",
+    "uri": "spotify:track:0XPlaOiWyJHMt7WqLfpxnD",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731d21be89f4f8c8068871d061"
+  },
+  {
+    "timestamp": 1759732095227,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Patah Hati",
+    "artist": "Radja",
+    "uri": "spotify:track:0XPlaOiWyJHMt7WqLfpxnD",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731d21be89f4f8c8068871d061"
+  },
+  {
     "timestamp": 1759730420306,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -34,59 +88,5 @@
     "artist": "Juan Reza, Chesylino",
     "uri": "spotify:track:7dWwJjGOkC3XgauFujx8mI",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b581010bfe2e665e8f5f9cdf"
-  },
-  {
-    "timestamp": 1759726262596,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Kaka Main Salah",
-    "artist": "Kapthenpurek, Silet Open Up",
-    "uri": "spotify:track:5qIjpAWyp4De0E3qGTFw2U",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735b543be0943a622a4ca3601d"
-  },
-  {
-    "timestamp": 1759725992631,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Nyong Timur",
-    "artist": "Gihon Marel",
-    "uri": "spotify:track:5KcqsHMe8HE46OwALyGfat",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dde5f0cba07e98165c16bc67"
-  },
-  {
-    "timestamp": 1759725816708,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Paksa Rela",
-    "artist": "VEZTA",
-    "uri": "spotify:track:3j9fd8QpvafkmOW2hYOyvE",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731e8dd78c9eceaa772a83a918"
-  },
-  {
-    "timestamp": 1759725574077,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "TABOLA BALE",
-    "artist": "Silet Open Up, Jacson Seran, Juan Reza, Diva Aurel",
-    "uri": "spotify:track:6KfugJFINWqA42k59hmjFr",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27310df7b8e9b3ed2588888a8ae"
-  },
-  {
-    "timestamp": 1759725302620,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Lagu Pesta Timur Akades - Remastered 2023",
-    "artist": "Silet Open Up",
-    "uri": "spotify:track:49DjNBl1fifXz28oWBlLLc",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c178b3cb7d52a4795d8470f4"
-  },
-  {
-    "timestamp": 1759725062571,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "PICA PICA",
-    "artist": "Juan Reza",
-    "uri": "spotify:track:7lulQZKlbZzBKsK4rfP8h5",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739f9f290bf8491ef758344e5f"
   }
 ]
