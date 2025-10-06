@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1759777998119,
+      "timestamp": 1759778817104,
       "user": {
         "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
         "name": "poemstars🌼🌟",
         "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
       },
       "track": {
-        "uri": "spotify:track:2Q44ftk6lRes25tvoXlAqp",
-        "name": "Gemintang Hatiku",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273937d621f0025409ee44285d1",
+        "uri": "spotify:track:5iBUS6fqRWhwqRXXfKu3tV",
+        "name": "Happy Birthday",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27374c74247d425bbd5f497e86a",
         "album": {
-          "uri": "spotify:album:0jxUY7K5FdwJNl3SmnOZOl",
-          "name": "Tiara Andini"
+          "uri": "spotify:album:0XPxK2qGH4BelboUUiVRvE",
+          "name": "Hers"
         },
         "artist": {
-          "uri": "spotify:artist:0kPb52ySN2k9P6wEZPTUzm",
-          "name": "Tiara Andini"
+          "uri": "spotify:artist:12j6dJrPXanCBwY599pZxf",
+          "name": "Matt Maltese"
         },
         "context": {
           "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy:collection",
