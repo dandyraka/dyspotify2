@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1759822256315,
+      "timestamp": 1759823047446,
       "user": {
         "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
         "name": "poemstars🌼🌟",
         "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
       },
       "track": {
-        "uri": "spotify:track:08F2f8SFFC5UwPC3vo15he",
-        "name": "Abracadabra",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273da3dbb55034cdfcd7e58c53f",
+        "uri": "spotify:track:386RUes7n1uM1yfzgeUuwp",
+        "name": "The Lazy Song",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f60070dce96a2c1b70cf6ff0",
         "album": {
-          "uri": "spotify:album:6ebpXORmzTceh4jmAqeMAx",
-          "name": "99 Volume 1"
+          "uri": "spotify:album:6J84szYCnMfzEcvIcfWMFL",
+          "name": "Doo-Wops & Hooligans"
         },
         "artist": {
-          "uri": "spotify:artist:6ppmK4pjgILHNMd3RLlNCM",
-          "name": "Mulan Jameela"
+          "uri": "spotify:artist:0du5cEVh5yTK9QJze8zA0C",
+          "name": "Bruno Mars"
         },
         "context": {
           "uri": "spotify:playlist:66ZEBaxqAIufBoSKoQIUCM",
