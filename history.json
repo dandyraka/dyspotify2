@@ -1,5 +1,14 @@
 [
   {
+    "timestamp": 1759806356760,
+    "user": "poemstars🌼🌟",
+    "userId": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
+    "track": "Sekali Lagi (from \"Critical Eleven\")",
+    "artist": "Isyana Sarasvati",
+    "uri": "spotify:track:7BM3HvfTvOUZL0Fx1UwPtg",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733fa0a90f04f3a889b343c28c"
+  },
+  {
     "timestamp": 1759797925609,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -79,14 +88,5 @@
     "artist": "Ardhito Pramono",
     "uri": "spotify:track:396RNP40AV17s1SW4ucNZl",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27373c804828dd80f3f64c22862"
-  },
-  {
-    "timestamp": 1759781476592,
-    "user": "poemstars🌼🌟",
-    "userId": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
-    "track": "As Long As You Love Me",
-    "artist": "Justin Bieber, Big Sean",
-    "uri": "spotify:track:75lo8VozcCLRG9WGG674iD",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f1d02a6cec967f8b6b78f76e"
   }
 ]
