@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1759821477669,
+      "timestamp": 1759822256315,
       "user": {
         "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
         "name": "poemstars🌼🌟",
         "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
       },
       "track": {
-        "uri": "spotify:track:0Afs1hDADIDxx31FyJIEXm",
-        "name": "Cinta Terbaik",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c415d6b1d7b30905455c61b8",
+        "uri": "spotify:track:08F2f8SFFC5UwPC3vo15he",
+        "name": "Abracadabra",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273da3dbb55034cdfcd7e58c53f",
         "album": {
-          "uri": "spotify:album:1QZ1303FrXfo2SJJa6UC5K",
-          "name": "Cinta Terbaik"
+          "uri": "spotify:album:6ebpXORmzTceh4jmAqeMAx",
+          "name": "99 Volume 1"
         },
         "artist": {
-          "uri": "spotify:artist:0BUTvSwaoKcP9ucuEyyYpr",
-          "name": "Cassandra"
+          "uri": "spotify:artist:6ppmK4pjgILHNMd3RLlNCM",
+          "name": "Mulan Jameela"
         },
         "context": {
           "uri": "spotify:playlist:66ZEBaxqAIufBoSKoQIUCM",
