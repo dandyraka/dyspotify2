@@ -1,27 +1,27 @@
 {
   "friends": [
     {
-      "timestamp": 1759820201480,
+      "timestamp": 1759821477669,
       "user": {
         "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
         "name": "poemstars🌼🌟",
         "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
       },
       "track": {
-        "uri": "spotify:track:04DEVtU7IoCJAXfhY7uOLu",
-        "name": "Cinta Mati, Pt. 3",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273da3dbb55034cdfcd7e58c53f",
+        "uri": "spotify:track:0Afs1hDADIDxx31FyJIEXm",
+        "name": "Cinta Terbaik",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c415d6b1d7b30905455c61b8",
         "album": {
-          "uri": "spotify:album:6ebpXORmzTceh4jmAqeMAx",
-          "name": "99 Volume 1"
+          "uri": "spotify:album:1QZ1303FrXfo2SJJa6UC5K",
+          "name": "Cinta Terbaik"
         },
         "artist": {
-          "uri": "spotify:artist:6ppmK4pjgILHNMd3RLlNCM",
-          "name": "Mulan Jameela"
+          "uri": "spotify:artist:0BUTvSwaoKcP9ucuEyyYpr",
+          "name": "Cassandra"
         },
         "context": {
-          "uri": null,
-          "name": null,
+          "uri": "spotify:playlist:66ZEBaxqAIufBoSKoQIUCM",
+          "name": "playlist",
           "index": 0
         }
       }
