@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1759818173116,
+      "timestamp": 1759819664785,
       "user": {
         "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
         "name": "poemstars🌼🌟",
         "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
       },
       "track": {
-        "uri": "spotify:track:2LX3PA1hUCAkrJPsialnff",
-        "name": "Sendiri Dulu",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273887b017eccb4a78986c8b153",
+        "uri": "spotify:track:2DaZwW135RFWyUKpPiii02",
+        "name": "Kasih",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27398a68899a807277111a6dd8f",
         "album": {
-          "uri": "spotify:album:5mf1IdHQ6PUFmVc60vmptU",
-          "name": "Tak Selamanya Selingkuh Itu Indah"
+          "uri": "spotify:album:2iNeUFvgE7vgssswPKZdFd",
+          "name": "Salju"
         },
         "artist": {
-          "uri": "spotify:artist:0eQfspAj8GyT4C2oxatiuO",
-          "name": "Merpati Band"
+          "uri": "spotify:artist:63T1vowMbVxKKds78DMP66",
+          "name": "Salju"
         },
         "context": {
           "uri": null,
