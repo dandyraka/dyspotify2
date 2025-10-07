@@ -1,3 +1,30 @@
 {
-  "friends": []
+  "friends": [
+    {
+      "timestamp": 1759814186762,
+      "user": {
+        "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
+        "name": "poemstars🌼🌟",
+        "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
+      },
+      "track": {
+        "uri": "spotify:track:7EJn4U6IySwLSfLZX07muY",
+        "name": "Ngapain Repot",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27307278054d9d8abbaddd4228f",
+        "album": {
+          "uri": "spotify:album:0hEt3PH6b53bkKUcjG09Ee",
+          "name": "Ngapain Repot"
+        },
+        "artist": {
+          "uri": "spotify:artist:0v1axjG0KwIz3aciZffFMu",
+          "name": "Toton Caribo, Wizz Baker, Fresly Nikijuluw"
+        },
+        "context": {
+          "uri": null,
+          "name": null,
+          "index": 0
+        }
+      }
+    }
+  ]
 }
