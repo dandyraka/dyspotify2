@@ -1,3 +1,30 @@
 {
-  "friends": []
+  "friends": [
+    {
+      "timestamp": 1759929347665,
+      "user": {
+        "uri": "spotify:user:dandyraka_",
+        "name": "Dandy 🫵🏻😁",
+        "imageUrl": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=GoUy0AWLCdIQ7kNvwFr6fAu&_nc_oc=AdkCFT_m5dGy1Yz66KiBmLAitYRhQq6vh1KNR3Kuuk8DjuUBYmaAmkY0T037Ms-ZaSIoz31mfDzpabwf3AfEPP7q&_nc_zt=24&_nc_ht=scontent-cdg4-3.xx&edm=AP4hL3IEAAAA&_nc_gid=sBHxx1riYvu5nuOKM3u2EQ&oh=00_AfcmWXCm4BzIsuEdS_i4TJqbWw67fVouvUvWc8qmncIAXw&oe=68EC2DA8"
+      },
+      "track": {
+        "uri": "spotify:track:6KfugJFINWqA42k59hmjFr",
+        "name": "TABOLA BALE",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27310df7b8e9b3ed2588888a8ae",
+        "album": {
+          "uri": "spotify:album:56paKQ8XwNS0fSkWaMiJMm",
+          "name": "TABOLA BALE"
+        },
+        "artist": {
+          "uri": "spotify:artist:5naPJsWUJ6y22yKXA6dX36",
+          "name": "Silet Open Up, Jacson Seran, Juan Reza, Diva Aurel"
+        },
+        "context": {
+          "uri": "spotify:playlist:6gzRjcJqzdM1M6bpOZsWsl",
+          "name": "playlist",
+          "index": 0
+        }
+      }
+    }
+  ]
 }
