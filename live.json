@@ -1,26 +1,26 @@
 {
   "friends": [
     {
-      "timestamp": 1759937671544,
+      "timestamp": 1759938398309,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
         "imageUrl": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=GoUy0AWLCdIQ7kNvwEJbTaK&_nc_oc=AdmVGnoZYsp-S1o6qUEUqjdlpb024sGUp_iUrdZMTmoqDQ30mlvn2higNIKakrJrcvWMvo22-QvC9ME3YTmTNTQF&_nc_zt=24&_nc_ht=scontent-cdg4-3.xx&edm=AP4hL3IEAAAA&_nc_gid=YeUAitRMT992Qlj41hKzKg&oh=00_AfdGoF-AQCL000mCmcg6ZVTN5_E2hMVRflCOYmG-EB8HWg&oe=68EBF568"
       },
       "track": {
-        "uri": "spotify:track:59mnXxjpIkOodahw2K2Lih",
-        "name": "Pake Pake Kapa",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738206c0208a3d88417dc9f397",
+        "uri": "spotify:track:2uNmlrA4pmPokSeVVRdkWe",
+        "name": "Cari Jodoh",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273838205f888a6b4b28ceba0bf",
         "album": {
-          "uri": "spotify:album:0IdmcjxBBNnXAFT7VztEYn",
-          "name": "Pake Pake Kapa"
+          "uri": "spotify:album:2ZwI0a8y3FqWqTCxPnFR8v",
+          "name": "Cari Jodoh"
         },
         "artist": {
-          "uri": "spotify:artist:54f03CQWb5Wh7geWk3Le39",
-          "name": "Legi 483, Alta RapTwoW, Lhepe, Agung BlackZone"
+          "uri": "spotify:artist:5pnSNZZRyYViu2n58Zlw1J",
+          "name": "Wali"
         },
         "context": {
-          "uri": "spotify:playlist:6gzRjcJqzdM1M6bpOZsWsl",
+          "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
           "name": "playlist",
           "index": 0
         }
