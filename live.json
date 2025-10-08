@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1759936582891,
+      "timestamp": 1759937671544,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
         "imageUrl": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=GoUy0AWLCdIQ7kNvwEJbTaK&_nc_oc=AdmVGnoZYsp-S1o6qUEUqjdlpb024sGUp_iUrdZMTmoqDQ30mlvn2higNIKakrJrcvWMvo22-QvC9ME3YTmTNTQF&_nc_zt=24&_nc_ht=scontent-cdg4-3.xx&edm=AP4hL3IEAAAA&_nc_gid=YeUAitRMT992Qlj41hKzKg&oh=00_AfdGoF-AQCL000mCmcg6ZVTN5_E2hMVRflCOYmG-EB8HWg&oe=68EBF568"
       },
       "track": {
-        "uri": "spotify:track:5qIjpAWyp4De0E3qGTFw2U",
-        "name": "Kaka Main Salah",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735b543be0943a622a4ca3601d",
+        "uri": "spotify:track:59mnXxjpIkOodahw2K2Lih",
+        "name": "Pake Pake Kapa",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738206c0208a3d88417dc9f397",
         "album": {
-          "uri": "spotify:album:275JZC2hPEmKHEpAZDAvEO",
-          "name": "Kaka Main Salah"
+          "uri": "spotify:album:0IdmcjxBBNnXAFT7VztEYn",
+          "name": "Pake Pake Kapa"
         },
         "artist": {
-          "uri": "spotify:artist:03viIgoUyg6gfAcID5hRCm",
-          "name": "Kapthenpurek, Silet Open Up"
+          "uri": "spotify:artist:54f03CQWb5Wh7geWk3Le39",
+          "name": "Legi 483, Alta RapTwoW, Lhepe, Agung BlackZone"
         },
         "context": {
           "uri": "spotify:playlist:6gzRjcJqzdM1M6bpOZsWsl",
