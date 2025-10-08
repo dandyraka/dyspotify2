@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1759935023185,
+      "timestamp": 1759936582891,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=GoUy0AWLCdIQ7kNvwFr6fAu&_nc_oc=AdkCFT_m5dGy1Yz66KiBmLAitYRhQq6vh1KNR3Kuuk8DjuUBYmaAmkY0T037Ms-ZaSIoz31mfDzpabwf3AfEPP7q&_nc_zt=24&_nc_ht=scontent-cdg4-3.xx&edm=AP4hL3IEAAAA&_nc_gid=sBHxx1riYvu5nuOKM3u2EQ&oh=00_AfcmWXCm4BzIsuEdS_i4TJqbWw67fVouvUvWc8qmncIAXw&oe=68EC2DA8"
+        "imageUrl": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=GoUy0AWLCdIQ7kNvwEJbTaK&_nc_oc=AdmVGnoZYsp-S1o6qUEUqjdlpb024sGUp_iUrdZMTmoqDQ30mlvn2higNIKakrJrcvWMvo22-QvC9ME3YTmTNTQF&_nc_zt=24&_nc_ht=scontent-cdg4-3.xx&edm=AP4hL3IEAAAA&_nc_gid=YeUAitRMT992Qlj41hKzKg&oh=00_AfdGoF-AQCL000mCmcg6ZVTN5_E2hMVRflCOYmG-EB8HWg&oe=68EBF568"
       },
       "track": {
-        "uri": "spotify:track:3j9fd8QpvafkmOW2hYOyvE",
-        "name": "Paksa Rela",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27375979e34e88122381ec2bb92",
+        "uri": "spotify:track:5qIjpAWyp4De0E3qGTFw2U",
+        "name": "Kaka Main Salah",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735b543be0943a622a4ca3601d",
         "album": {
-          "uri": "spotify:album:7FtBoXDcZRWWVvhsXl99EP",
-          "name": "Paksa Rela"
+          "uri": "spotify:album:275JZC2hPEmKHEpAZDAvEO",
+          "name": "Kaka Main Salah"
         },
         "artist": {
-          "uri": "spotify:artist:5QXCcxxHa1JHarnTDy0AEm",
-          "name": "VEZTA"
+          "uri": "spotify:artist:03viIgoUyg6gfAcID5hRCm",
+          "name": "Kapthenpurek, Silet Open Up"
         },
         "context": {
           "uri": "spotify:playlist:6gzRjcJqzdM1M6bpOZsWsl",
