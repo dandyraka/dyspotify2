@@ -1,5 +1,32 @@
 [
   {
+    "timestamp": 1759935007194,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Jang Ganggu",
+    "artist": "Shine Of Black",
+    "uri": "spotify:track:6upSLCg8e44Zlzg1N8zVPf",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27374365f67183990b5c1684208"
+  },
+  {
+    "timestamp": 1759934762338,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Nyong Timur",
+    "artist": "Gihon Marel",
+    "uri": "spotify:track:5KcqsHMe8HE46OwALyGfat",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dde5f0cba07e98165c16bc67"
+  },
+  {
+    "timestamp": 1759934552788,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Lagu Pesta Timur Akades - Remastered 2023",
+    "artist": "Silet Open Up",
+    "uri": "spotify:track:49DjNBl1fifXz28oWBlLLc",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c178b3cb7d52a4795d8470f4"
+  },
+  {
     "timestamp": 1759934299151,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -61,32 +88,5 @@
     "artist": "Shine Of Black",
     "uri": "spotify:track:1EMfxq6OtWSmLlaAxQvdti",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27345c8fe56c8b894f0aecf3421"
-  },
-  {
-    "timestamp": 1759932994182,
-    "user": "poemstars🌼🌟",
-    "userId": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
-    "track": "Only 1",
-    "artist": "Ariana Grande",
-    "uri": "spotify:track:6LQzYkmd8ADbKOOEVDnlG4",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa"
-  },
-  {
-    "timestamp": 1759932803783,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "De Yang Gatal Gatal Sa",
-    "artist": "Aldo Bz, Deasy Agaki",
-    "uri": "spotify:track:15WaYwX7zrn42fp2Cg9f4R",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735358fa7ccc2d7ad6f397d0db"
-  },
-  {
-    "timestamp": 1759932573948,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Baju Hitam",
-    "artist": "Mace Purba, D'Ari",
-    "uri": "spotify:track:6QV8rPByMSy5Du6RepmXr9",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273931faef53da8aaca4cfe9eff"
   }
 ]
