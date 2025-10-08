@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1759938398309,
+      "timestamp": 1759938967691,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=GoUy0AWLCdIQ7kNvwEJbTaK&_nc_oc=AdmVGnoZYsp-S1o6qUEUqjdlpb024sGUp_iUrdZMTmoqDQ30mlvn2higNIKakrJrcvWMvo22-QvC9ME3YTmTNTQF&_nc_zt=24&_nc_ht=scontent-cdg4-3.xx&edm=AP4hL3IEAAAA&_nc_gid=YeUAitRMT992Qlj41hKzKg&oh=00_AfdGoF-AQCL000mCmcg6ZVTN5_E2hMVRflCOYmG-EB8HWg&oe=68EBF568"
+        "imageUrl": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=GoUy0AWLCdIQ7kNvwFr6fAu&_nc_oc=AdkCFT_m5dGy1Yz66KiBmLAitYRhQq6vh1KNR3Kuuk8DjuUBYmaAmkY0T037Ms-ZaSIoz31mfDzpabwf3AfEPP7q&_nc_zt=24&_nc_ht=scontent-cdg4-3.xx&edm=AP4hL3IEAAAA&_nc_gid=sBHxx1riYvu5nuOKM3u2EQ&oh=00_AfcmWXCm4BzIsuEdS_i4TJqbWw67fVouvUvWc8qmncIAXw&oe=68EC2DA8"
       },
       "track": {
-        "uri": "spotify:track:2uNmlrA4pmPokSeVVRdkWe",
-        "name": "Cari Jodoh",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273838205f888a6b4b28ceba0bf",
+        "uri": "spotify:track:21BwZoONcEt4PF4wLWwJhY",
+        "name": "Perempuan Paling Cantik Di Negriku Indonesia",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738f590be115c3bf883fae8ab0",
         "album": {
-          "uri": "spotify:album:2ZwI0a8y3FqWqTCxPnFR8v",
-          "name": "Cari Jodoh"
+          "uri": "spotify:album:0F4NwXus83yXUcHgzbb7gR",
+          "name": "Pop Terbaik Milenium"
         },
         "artist": {
-          "uri": "spotify:artist:5pnSNZZRyYViu2n58Zlw1J",
-          "name": "Wali"
+          "uri": "spotify:artist:48bKH1ugFBhERC1rdojP9d",
+          "name": "Dewa 19"
         },
         "context": {
           "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
