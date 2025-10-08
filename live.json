@@ -1,53 +1,27 @@
 {
   "friends": [
     {
-      "timestamp": 1759931638849,
+      "timestamp": 1759932931959,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=GoUy0AWLCdIQ7kNvwFr6fAu&_nc_oc=AdkCFT_m5dGy1Yz66KiBmLAitYRhQq6vh1KNR3Kuuk8DjuUBYmaAmkY0T037Ms-ZaSIoz31mfDzpabwf3AfEPP7q&_nc_zt=24&_nc_ht=scontent-cdg4-3.xx&edm=AP4hL3IEAAAA&_nc_gid=sBHxx1riYvu5nuOKM3u2EQ&oh=00_AfcmWXCm4BzIsuEdS_i4TJqbWw67fVouvUvWc8qmncIAXw&oe=68EC2DA8"
+        "imageUrl": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=GoUy0AWLCdIQ7kNvwEJbTaK&_nc_oc=AdmVGnoZYsp-S1o6qUEUqjdlpb024sGUp_iUrdZMTmoqDQ30mlvn2higNIKakrJrcvWMvo22-QvC9ME3YTmTNTQF&_nc_zt=24&_nc_ht=scontent-cdg4-3.xx&edm=AP4hL3IEAAAA&_nc_gid=YeUAitRMT992Qlj41hKzKg&oh=00_AfdGoF-AQCL000mCmcg6ZVTN5_E2hMVRflCOYmG-EB8HWg&oe=68EBF568"
       },
       "track": {
-        "uri": "spotify:track:32SKdsMjT9qO5e9yr4owvP",
-        "name": "DANSA",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273670e6235d80470ca5d78c2ff",
+        "uri": "spotify:track:1EMfxq6OtWSmLlaAxQvdti",
+        "name": "Ko Tipu",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27345c8fe56c8b894f0aecf3421",
         "album": {
-          "uri": "spotify:album:4tvqIBxejIoJKXgAOF6wZe",
-          "name": "Dansa"
+          "uri": "spotify:album:0vi2Uwke8DaEakRRe1HbyD",
+          "name": "Ko Tipu"
         },
         "artist": {
-          "uri": "spotify:artist:1BHC0jEJgDvNXlLhojMUbf",
-          "name": "Juan Reza, Chesylino"
+          "uri": "spotify:artist:7jRbJhZZdASLFILgTin8Tt",
+          "name": "Shine Of Black"
         },
         "context": {
           "uri": "spotify:playlist:6gzRjcJqzdM1M6bpOZsWsl",
           "name": "playlist",
-          "index": 0
-        }
-      }
-    },
-    {
-      "timestamp": 1759931639297,
-      "user": {
-        "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
-        "name": "poemstars🌼🌟",
-        "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
-      },
-      "track": {
-        "uri": "spotify:track:6LQzYkmd8ADbKOOEVDnlG4",
-        "name": "Only 1",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa",
-        "album": {
-          "uri": "spotify:album:6EVYTRG1drKdO8OnIQBeEj",
-          "name": "My Everything (Deluxe)"
-        },
-        "artist": {
-          "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR",
-          "name": "Ariana Grande"
-        },
-        "context": {
-          "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy:collection",
-          "name": "collection",
           "index": 0
         }
       }
