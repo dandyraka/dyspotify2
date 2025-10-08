@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1759920979713,
+      "timestamp": 1759922080608,
       "user": {
         "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
         "name": "poemstars🌼🌟",
         "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
       },
       "track": {
-        "uri": "spotify:track:07629kkrPnrEQaxdxt9sBT",
-        "name": "Dibalas Dengan Dusta (Remastered)",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c7edd341adcdbbe14a2dbfbc",
+        "uri": "spotify:track:0cbV99EGKS34lcXzy02Kqx",
+        "name": "Setia",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f9924da00f931bcf1a724e5e",
         "album": {
-          "uri": "spotify:album:3JBiM76qZnbP01MBGRnKiz",
-          "name": "The Best of Audy: 17"
+          "uri": "spotify:album:5zL5jMCkP8AN3JotQLr503",
+          "name": "Seribu Tahun (Edisi Khusus)"
         },
         "artist": {
-          "uri": "spotify:artist:611ajYp7fMbkU5CYF08tje",
-          "name": "Audy"
+          "uri": "spotify:artist:7CSVCLVcIfpaNCQh7BxqKN",
+          "name": "Jikustik"
         },
         "context": {
           "uri": null,
