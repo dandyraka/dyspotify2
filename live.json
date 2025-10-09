@@ -1,3 +1,30 @@
 {
-  "friends": []
+  "friends": [
+    {
+      "timestamp": 1760000215085,
+      "user": {
+        "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
+        "name": "poemstars🌼🌟",
+        "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
+      },
+      "track": {
+        "uri": "spotify:track:1bq8ZN5uNbUaQd5RA1yISg",
+        "name": "Dj Melody El Perdon Slow Mengkane - Remix",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ba7ad54364bd9c195a1098d6",
+        "album": {
+          "uri": "spotify:album:6VmjBoCHYnOdWGv83jZRYm",
+          "name": "Dj Melody El Perdon Slow Mengkane"
+        },
+        "artist": {
+          "uri": "spotify:artist:6dwUv1uPVnsvRFE0MCCdCB",
+          "name": "HRSDN, Rasam Fvnky Rmx"
+        },
+        "context": {
+          "uri": "spotify:playlist:7pmSQqNrDzrYB63KrvCu5e",
+          "name": "playlist",
+          "index": 0
+        }
+      }
+    }
+  ]
 }
