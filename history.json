@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": 1760024503837,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "De Yang Gatal Gatal Sa",
+    "artist": "Aldo Bz, Deasy Agaki",
+    "uri": "spotify:track:15WaYwX7zrn42fp2Cg9f4R",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735358fa7ccc2d7ad6f397d0db"
+  },
+  {
+    "timestamp": 1760024236863,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Aku & Bintang",
+    "artist": "Peterpan",
+    "uri": "spotify:track:4HV13HgOpbvckwS0R3JKLz",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ef6b4f2c2161b3462b0b6fa7"
+  },
+  {
     "timestamp": 1760023581690,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -70,23 +88,5 @@
     "artist": "Matta",
     "uri": "spotify:track:2otbTXxL9q2BcTOaMagLaT",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737017ef5b03a8e46e02965141"
-  },
-  {
-    "timestamp": 1760016511728,
-    "user": "poemstars🌼🌟",
-    "userId": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
-    "track": "I Love About You",
-    "artist": "Pamungkas",
-    "uri": "spotify:track:7CX6d03WPBX0P3ttSAtEcm",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fbb68c768e4ece5fe30bb05e"
-  },
-  {
-    "timestamp": 1760016444838,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Aku Bukan Pilihan Hatimu",
-    "artist": "Ungu",
-    "uri": "spotify:track:4oNenTOEtCyN2tLdz2ZktY",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ac3dc7cdc2b5798c5e82aa3d"
   }
 ]
