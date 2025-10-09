@@ -1,5 +1,14 @@
 [
   {
+    "timestamp": 1760023581690,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Emang Dasar",
+    "artist": "Wali",
+    "uri": "spotify:track:4MKwqMQv8PK4Ic0UVC0N8b",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737cfe7152860463888e971bde"
+  },
+  {
     "timestamp": 1760018550523,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -79,14 +88,5 @@
     "artist": "Ungu",
     "uri": "spotify:track:4oNenTOEtCyN2tLdz2ZktY",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ac3dc7cdc2b5798c5e82aa3d"
-  },
-  {
-    "timestamp": 1760016323146,
-    "user": "poemstars🌼🌟",
-    "userId": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
-    "track": "Outro II",
-    "artist": "Pamungkas",
-    "uri": "spotify:track:4LHNo9JhKj0BWw67oh5rXF",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fbb68c768e4ece5fe30bb05e"
   }
 ]
