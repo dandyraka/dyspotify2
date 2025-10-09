@@ -1,3 +1,56 @@
 {
-  "friends": []
+  "friends": [
+    {
+      "timestamp": 1759992787630,
+      "user": {
+        "uri": "spotify:user:dandyraka_",
+        "name": "Dandy 🫵🏻😁",
+        "imageUrl": "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=GoUy0AWLCdIQ7kNvwEmps3G&_nc_oc=Adl6Nl7C3IDSEnnc2M1_8MF_KFygZBaLv-O6FESVqiatT-2TSGZMLtLGGuVxAOiWaQqtgBzi9_raTVZP2g9qip6O&_nc_zt=24&_nc_ht=scontent-tpe1-1.xx&edm=AP4hL3IEAAAA&_nc_gid=z8cr9SCu39iLxDKSCXaU4Q&oh=00_Afdinn0wOizBpgOTNBH2_CbZ97MmAtDLPytFxT6KpKC_Kw&oe=68EC9E28"
+      },
+      "track": {
+        "uri": "spotify:track:1BaGfrlIWinaF77p7QASBH",
+        "name": "Seberapa Pantas",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27358961269cc5263913f9e0b40",
+        "album": {
+          "uri": "spotify:album:59MdGM9vovHOEqp40fpthI",
+          "name": "07 Des"
+        },
+        "artist": {
+          "uri": "spotify:artist:6q87vizIEdEN4NvlR6mjfT",
+          "name": "Sheila On 7"
+        },
+        "context": {
+          "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
+          "name": "playlist",
+          "index": 0
+        }
+      }
+    },
+    {
+      "timestamp": 1759992788247,
+      "user": {
+        "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
+        "name": "poemstars🌼🌟",
+        "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
+      },
+      "track": {
+        "uri": "spotify:track:0wH6QrjxtfuDRWJg4sr596",
+        "name": "Pikiran Yang Matang",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27387221ad6b867ad30afdf048c",
+        "album": {
+          "uri": "spotify:album:1Mhq1R6xMuXuWUgbl6B6Iv",
+          "name": "Dalam Dinamika"
+        },
+        "artist": {
+          "uri": "spotify:artist:0NbKRRBuiIUwS9irPvi7wD",
+          "name": "Perunggu"
+        },
+        "context": {
+          "uri": "spotify:album:1Mhq1R6xMuXuWUgbl6B6Iv",
+          "name": "album",
+          "index": 0
+        }
+      }
+    }
+  ]
 }
