@@ -1,30 +1,3 @@
 {
-  "friends": [
-    {
-      "timestamp": 1760002548203,
-      "user": {
-        "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
-        "name": "poemstars🌼🌟",
-        "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
-      },
-      "track": {
-        "uri": "spotify:track:2Y9vgGgCJR8tbY9W0IcwfI",
-        "name": "What are you doing now?",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b96cceda7bd5a48f83e3caec",
-        "album": {
-          "uri": "spotify:album:75SmCaec86NfcXYMaQX2mW",
-          "name": "The Way You Keep Friendship - SSaW Tribute Vol.4"
-        },
-        "artist": {
-          "uri": "spotify:artist:5TnQc2N1iKlFjYD7CPGvFc",
-          "name": "DAY6, Il-Hoon Cha"
-        },
-        "context": {
-          "uri": "spotify:album:75SmCaec86NfcXYMaQX2mW",
-          "name": "album",
-          "index": 0
-        }
-      }
-    }
-  ]
+  "friends": []
 }
