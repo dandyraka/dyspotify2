@@ -1,5 +1,14 @@
 [
   {
+    "timestamp": 1760018550523,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Kamu Ngga Sendirian",
+    "artist": "Tipe-X",
+    "uri": "spotify:track:6vkwqlK4h0rgpIgL9tChaz",
+    "imageUrl": "https://i.scdn.co/image/4e626b69239cbbdcb0d5517fd8b45fd91585135f"
+  },
+  {
     "timestamp": 1760017653125,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -79,14 +88,5 @@
     "artist": "Pamungkas",
     "uri": "spotify:track:4LHNo9JhKj0BWw67oh5rXF",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fbb68c768e4ece5fe30bb05e"
-  },
-  {
-    "timestamp": 1760016220435,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Kamu Kamu Lagi",
-    "artist": "The Sister",
-    "uri": "spotify:track:7nvWCu0Zg1ybEsqwcuwojx",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d5e87f16783f661a6d6a1b72"
   }
 ]
