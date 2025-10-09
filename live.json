@@ -1,26 +1,26 @@
 {
   "friends": [
     {
-      "timestamp": 1760000215085,
+      "timestamp": 1760001593081,
       "user": {
         "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
         "name": "poemstars🌼🌟",
         "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
       },
       "track": {
-        "uri": "spotify:track:1bq8ZN5uNbUaQd5RA1yISg",
-        "name": "Dj Melody El Perdon Slow Mengkane - Remix",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ba7ad54364bd9c195a1098d6",
+        "uri": "spotify:track:5GYbkDveRD2I8M5ZJ14hWn",
+        "name": "Never Say Never",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27349130b16d4190db1d6822e59",
         "album": {
-          "uri": "spotify:album:6VmjBoCHYnOdWGv83jZRYm",
-          "name": "Dj Melody El Perdon Slow Mengkane"
+          "uri": "spotify:album:0wZJCeyfJ0LVrrtH4CwQYw",
+          "name": "Never Say Never - The Remixes"
         },
         "artist": {
-          "uri": "spotify:artist:6dwUv1uPVnsvRFE0MCCdCB",
-          "name": "HRSDN, Rasam Fvnky Rmx"
+          "uri": "spotify:artist:1uNFoZAHBGtllmzznpCI3s",
+          "name": "Justin Bieber, Jaden"
         },
         "context": {
-          "uri": "spotify:playlist:7pmSQqNrDzrYB63KrvCu5e",
+          "uri": "spotify:playlist:70ks6Oli0Tfs8KMEPDsnjM",
           "name": "playlist",
           "index": 0
         }
