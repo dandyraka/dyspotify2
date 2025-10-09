@@ -1,3 +1,30 @@
 {
-  "friends": []
+  "friends": [
+    {
+      "timestamp": 1760003647699,
+      "user": {
+        "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
+        "name": "poemstars🌼🌟",
+        "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
+      },
+      "track": {
+        "uri": "spotify:track:6M3RefTc2jELfN7PoCFPza",
+        "name": "New Feeling",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fbb68c768e4ece5fe30bb05e",
+        "album": {
+          "uri": "spotify:album:1Rey8BJT0RtzfDfxGjnp23",
+          "name": "Hardcore Romance"
+        },
+        "artist": {
+          "uri": "spotify:artist:7d86ERlvO5UG44j7Va0Y0C",
+          "name": "Pamungkas"
+        },
+        "context": {
+          "uri": null,
+          "name": null,
+          "index": 0
+        }
+      }
+    }
+  ]
 }
