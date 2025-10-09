@@ -1,30 +1,3 @@
 {
-  "friends": [
-    {
-      "timestamp": 1759995868095,
-      "user": {
-        "uri": "spotify:user:dandyraka_",
-        "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=GoUy0AWLCdIQ7kNvwGkWdW8&_nc_oc=AdnH85Kn6kbpfeUM4tHjBJlU95-513UIglO0hcELk6q3KokOdwlIfvsUvVX6J2c1qLUFoEWaXpV2HJkw6JjYdjCy&_nc_zt=24&_nc_ht=scontent-tpe1-1.xx&edm=AP4hL3IEAAAA&_nc_gid=dyok3NEQb3TyXY9uwwh7WA&oh=00_Aff8UPbwXuVkxxrEutFHCvJ8O7yHkqRC88X7K9v6rdNKxg&oe=68ED0EA8"
-      },
-      "track": {
-        "uri": "spotify:track:15oVjL0H6IGFXQNhDVRmsY",
-        "name": "Berita Kepada Kawan",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dfb7e42d4f48c8d072a4d810",
-        "album": {
-          "uri": "spotify:album:2bnpk2g3kR51bSE1IlC7Er",
-          "name": "Masih Ada Waktu"
-        },
-        "artist": {
-          "uri": "spotify:artist:50l3hdnSiYODINDYhyP0QA",
-          "name": "Ebiet G. Ade"
-        },
-        "context": {
-          "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
-          "name": "playlist",
-          "index": 0
-        }
-      }
-    }
-  ]
+  "friends": []
 }
