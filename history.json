@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": 1759997569586,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Berita Kepada Kawan",
+    "artist": "Ebiet G. Ade",
+    "uri": "spotify:track:15oVjL0H6IGFXQNhDVRmsY",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dfb7e42d4f48c8d072a4d810"
+  },
+  {
+    "timestamp": 1759997569301,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Berita Kepada Kawan",
+    "artist": "Ebiet G. Ade",
+    "uri": "spotify:track:15oVjL0H6IGFXQNhDVRmsY",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dfb7e42d4f48c8d072a4d810"
+  },
+  {
     "timestamp": 1759995577467,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -70,23 +88,5 @@
     "artist": "Sal Priadi",
     "uri": "spotify:track:7COyf11vklAubv8HBNw3EO",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27383b0105f3ea493fcf0da7443"
-  },
-  {
-    "timestamp": 1759994107797,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Kupu - Kupu Malam",
-    "artist": "Peterpan",
-    "uri": "spotify:track:6w88ebfNDbESaEyLzuKlMh",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273016bfcc42c0be10cf2ffd8ed"
-  },
-  {
-    "timestamp": 1759993897704,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "OK",
-    "artist": "T2",
-    "uri": "spotify:track:5e0mXBWp0pd2sIWzoTEmoD",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738d5fa27495ca885e523a7397"
   }
 ]
