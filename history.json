@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": 1760017653125,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Genit",
+    "artist": "Tipe-X",
+    "uri": "spotify:track:1VqpUh3Qykgmr8snpr54An",
+    "imageUrl": "https://i.scdn.co/image/666cf91768154801a461482069b7ffbe0673d558"
+  },
+  {
+    "timestamp": 1760017453919,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Boyband",
+    "artist": "Tipe-X",
+    "uri": "spotify:track:3ftgXUTr0zAZLQsckXH6Cw",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cf2ded28aa16b72efec8d9b7"
+  },
+  {
     "timestamp": 1760017107372,
     "user": "poemstars🌼🌟",
     "userId": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
@@ -70,23 +88,5 @@
     "artist": "The Sister",
     "uri": "spotify:track:7nvWCu0Zg1ybEsqwcuwojx",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d5e87f16783f661a6d6a1b72"
-  },
-  {
-    "timestamp": 1760015943703,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Tak Kan Pernah Ada",
-    "artist": "Geisha",
-    "uri": "spotify:track:7N2iHqv7uTnxwuyOPrWCG0",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731e8b82b3712511dd627d60f0"
-  },
-  {
-    "timestamp": 1760015725687,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Dua Cincin",
-    "artist": "Hello",
-    "uri": "spotify:track:3irweHLECiMYidXkgcpuSL",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730367b25cea54b77307cd729b"
   }
 ]
