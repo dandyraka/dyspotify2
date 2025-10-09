@@ -1,30 +1,3 @@
 {
-  "friends": [
-    {
-      "timestamp": 1760007021397,
-      "user": {
-        "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
-        "name": "poemstars🌼🌟",
-        "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
-      },
-      "track": {
-        "uri": "spotify:track:1a9YW7fATU351ok4zWjU7a",
-        "name": "Brick by Boring Brick",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e01d7d558032457b0e4883f6",
-        "album": {
-          "uri": "spotify:album:27UqZoE1kV6sIV6uQcI28A",
-          "name": "Brand New Eyes"
-        },
-        "artist": {
-          "uri": "spotify:artist:74XFHRwlV6OrjEM0A2NCMF",
-          "name": "Paramore"
-        },
-        "context": {
-          "uri": "spotify:artist:74XFHRwlV6OrjEM0A2NCMF",
-          "name": "artist",
-          "index": 0
-        }
-      }
-    }
-  ]
+  "friends": []
 }

@@ -1,5 +1,14 @@
 [
   {
+    "timestamp": 1760007108359,
+    "user": "poemstars🌼🌟",
+    "userId": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
+    "track": "Brick by Boring Brick",
+    "artist": "Paramore",
+    "uri": "spotify:track:1a9YW7fATU351ok4zWjU7a",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e01d7d558032457b0e4883f6"
+  },
+  {
     "timestamp": 1760006868447,
     "user": "poemstars🌼🌟",
     "userId": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
@@ -79,14 +88,5 @@
     "artist": "Paramore",
     "uri": "spotify:track:1Bv3h7Vc4AaYA2BcSM3rVd",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e01d7d558032457b0e4883f6"
-  },
-  {
-    "timestamp": 1760003150372,
-    "user": "poemstars🌼🌟",
-    "userId": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
-    "track": "What are you doing now?",
-    "artist": "DAY6, Il-Hoon Cha",
-    "uri": "spotify:track:2Y9vgGgCJR8tbY9W0IcwfI",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b96cceda7bd5a48f83e3caec"
   }
 ]
