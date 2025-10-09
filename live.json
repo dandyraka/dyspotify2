@@ -1,30 +1,3 @@
 {
-  "friends": [
-    {
-      "timestamp": 1760028740072,
-      "user": {
-        "uri": "spotify:user:dandyraka_",
-        "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=GoUy0AWLCdIQ7kNvwHOs2Ue&_nc_oc=AdnttJnC0EFGFMLaWk9a_ibMfhEim9xsB5kJktJgu3nLD0AQxIi-gcczvwBTbZ0y_z29zO8LIV6P8vbA8JlPcGqF&_nc_zt=24&_nc_ht=scontent-tpe1-1.xx&edm=AP4hL3IEAAAA&_nc_gid=SJ1C-mtaXkP1pP3-OEt8sg&oh=00_Affz_9yD-g0OGAXDN1hqk4CU5M6JCBVIAqK8bHstOI8u9g&oe=68EDB768"
-      },
-      "track": {
-        "uri": "spotify:track:2ECbN3xQ7M6B7AI9BhhCy7",
-        "name": "Stecu Stecu",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273127703123a2875031dd3615c",
-        "album": {
-          "uri": "spotify:album:3SqI4Bef1HLRDBH9iGEyfg",
-          "name": "Stecu Stecu"
-        },
-        "artist": {
-          "uri": "spotify:artist:0WOBasNNoE4TJ3CV2xnUvX",
-          "name": "Faris Adam"
-        },
-        "context": {
-          "uri": "spotify:playlist:6gzRjcJqzdM1M6bpOZsWsl",
-          "name": "playlist",
-          "index": 0
-        }
-      }
-    }
-  ]
+  "friends": []
 }
