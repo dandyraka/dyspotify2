@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1759994107342,
+      "timestamp": 1759995049541,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=GoUy0AWLCdIQ7kNvwEmps3G&_nc_oc=Adl6Nl7C3IDSEnnc2M1_8MF_KFygZBaLv-O6FESVqiatT-2TSGZMLtLGGuVxAOiWaQqtgBzi9_raTVZP2g9qip6O&_nc_zt=24&_nc_ht=scontent-tpe1-1.xx&edm=AP4hL3IEAAAA&_nc_gid=z8cr9SCu39iLxDKSCXaU4Q&oh=00_Afdinn0wOizBpgOTNBH2_CbZ97MmAtDLPytFxT6KpKC_Kw&oe=68EC9E28"
+        "imageUrl": "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=GoUy0AWLCdIQ7kNvwGkWdW8&_nc_oc=AdnH85Kn6kbpfeUM4tHjBJlU95-513UIglO0hcELk6q3KokOdwlIfvsUvVX6J2c1qLUFoEWaXpV2HJkw6JjYdjCy&_nc_zt=24&_nc_ht=scontent-tpe1-1.xx&edm=AP4hL3IEAAAA&_nc_gid=dyok3NEQb3TyXY9uwwh7WA&oh=00_Aff8UPbwXuVkxxrEutFHCvJ8O7yHkqRC88X7K9v6rdNKxg&oe=68ED0EA8"
       },
       "track": {
-        "uri": "spotify:track:3Tf3j15oYuZracuCsa0DZ0",
-        "name": "Ay",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730b7fa8b7e56af7b569af3460",
+        "uri": "spotify:track:3YNMHA6FqeqWzZyw0JVyIi",
+        "name": "Terima Kasih Cinta",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735c7436a5d2ad3306c088db27",
         "album": {
-          "uri": "spotify:album:3H4EsR7A5DAi1J2mgX3BY0",
-          "name": "Yang No.1"
+          "uri": "spotify:album:1ahdxVWtqETWgYIuO4Uv8v",
+          "name": "Confession No.1"
         },
         "artist": {
-          "uri": "spotify:artist:6IVfG2b4I86tYdigTdpWUa",
-          "name": "D'Bagindas"
+          "uri": "spotify:artist:4cgBCGxtlfap2g6jveB7du",
+          "name": "Afgan"
         },
         "context": {
           "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
@@ -27,23 +27,23 @@
       }
     },
     {
-      "timestamp": 1759994107846,
+      "timestamp": 1759995049980,
       "user": {
         "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
         "name": "poemstars🌼🌟",
         "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
       },
       "track": {
-        "uri": "spotify:track:7COyf11vklAubv8HBNw3EO",
-        "name": "Nyala",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27383b0105f3ea493fcf0da7443",
+        "uri": "spotify:track:7soe3jUC7mHUbF6v2Sf3IW",
+        "name": "Pupus",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e15ac0d90ad533c2dc21008a",
         "album": {
-          "uri": "spotify:album:4gwRdhyoIngNRgbeP0C7Id",
-          "name": "Berhati"
+          "uri": "spotify:album:61fsvE00jD51mUkDPd1OlD",
+          "name": "Pupus / Risalah Hati"
         },
         "artist": {
-          "uri": "spotify:artist:1NjxFrpEGZTV2Ny0OJxeWu",
-          "name": "Sal Priadi"
+          "uri": "spotify:artist:7d86ERlvO5UG44j7Va0Y0C",
+          "name": "Pamungkas"
         },
         "context": {
           "uri": null,
