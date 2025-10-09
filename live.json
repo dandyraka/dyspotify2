@@ -1,30 +1,3 @@
 {
-  "friends": [
-    {
-      "timestamp": 1759998030063,
-      "user": {
-        "uri": "spotify:user:dandyraka_",
-        "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=GoUy0AWLCdIQ7kNvwEmps3G&_nc_oc=Adl6Nl7C3IDSEnnc2M1_8MF_KFygZBaLv-O6FESVqiatT-2TSGZMLtLGGuVxAOiWaQqtgBzi9_raTVZP2g9qip6O&_nc_zt=24&_nc_ht=scontent-tpe1-1.xx&edm=AP4hL3IEAAAA&_nc_gid=z8cr9SCu39iLxDKSCXaU4Q&oh=00_Afdinn0wOizBpgOTNBH2_CbZ97MmAtDLPytFxT6KpKC_Kw&oe=68EC9E28"
-      },
-      "track": {
-        "uri": "spotify:track:4wdfZU4oFm8CxZd4VN9Snt",
-        "name": "Slalu Mengalah",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27311c4516ec1d8214aced5a80a",
-        "album": {
-          "uri": "spotify:album:0N02sQ4t7ddWcD3oXhMoOl",
-          "name": "5ang Juara"
-        },
-        "artist": {
-          "uri": "spotify:artist:5uUb3J6HqLhBWwzuh84LUZ",
-          "name": "Seventeen"
-        },
-        "context": {
-          "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
-          "name": "playlist",
-          "index": 0
-        }
-      }
-    }
-  ]
+  "friends": []
 }
