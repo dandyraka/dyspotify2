@@ -1,27 +1,27 @@
 {
   "friends": [
     {
-      "timestamp": 1760091412455,
+      "timestamp": 1760092654653,
       "user": {
         "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
         "name": "poemstars🌼🌟",
         "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
       },
       "track": {
-        "uri": "spotify:track:3t5Ykewj6jc31qXvl6IQEA",
-        "name": "Dibalas Dengan Dusta",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732bd9b98aab0d7d3b313ea2bc",
+        "uri": "spotify:track:0PYrcn09qxYeOakSY8NlHP",
+        "name": "Kanyaah",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736d57a5c60decaa8fb39d5afb",
         "album": {
-          "uri": "spotify:album:6vfNYtKfXfK3rhyfmilAcE",
-          "name": "20 02"
+          "uri": "spotify:album:75KyCmWatZRvlMcMRed9BG",
+          "name": "Selamat Ulang Tahun"
         },
         "artist": {
-          "uri": "spotify:artist:611ajYp7fMbkU5CYF08tje",
-          "name": "Audy"
+          "uri": "spotify:artist:20zafXaLhm5IcXnSU93rNn",
+          "name": "Nadin Amizah"
         },
         "context": {
-          "uri": null,
-          "name": null,
+          "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy:collection",
+          "name": "collection",
           "index": 0
         }
       }
