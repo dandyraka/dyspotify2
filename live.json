@@ -1,30 +1,3 @@
 {
-  "friends": [
-    {
-      "timestamp": 1760180059502,
-      "user": {
-        "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
-        "name": "poemstars🌼🌟",
-        "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
-      },
-      "track": {
-        "uri": "spotify:track:6hnslQSTOCqvmoS8IowfJI",
-        "name": "Just the Way You Are",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f56524bbded92e40f1d06150",
-        "album": {
-          "uri": "spotify:album:1rTmsEGQyIBcrP0baYLZPb",
-          "name": "The Best Of Reggae Covers, Vol. 2"
-        },
-        "artist": {
-          "uri": "spotify:artist:1544E8MlTH2tHCuSp4huUS",
-          "name": "Jimi D"
-        },
-        "context": {
-          "uri": null,
-          "name": null,
-          "index": 0
-        }
-      }
-    }
-  ]
+  "friends": []
 }
