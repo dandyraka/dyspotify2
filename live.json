@@ -1,30 +1,3 @@
 {
-  "friends": [
-    {
-      "timestamp": 1760167629578,
-      "user": {
-        "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
-        "name": "poemstars🌼🌟",
-        "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
-      },
-      "track": {
-        "uri": "spotify:track:1wsVc1AxBq2xc8jwdHnlhk",
-        "name": "Curhat",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732226ff799752743ab0141045",
-        "album": {
-          "uri": "spotify:album:6HITlVNm2x9Led3xoCFRgo",
-          "name": "Numata"
-        },
-        "artist": {
-          "uri": "spotify:artist:03RBEZSKk4XMlAgrY3Ps7P",
-          "name": "Numata"
-        },
-        "context": {
-          "uri": null,
-          "name": null,
-          "index": 0
-        }
-      }
-    }
-  ]
+  "friends": []
 }
