@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1760190856957,
+      "timestamp": 1760191894965,
       "user": {
         "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
         "name": "poemstars🌼🌟",
         "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
       },
       "track": {
-        "uri": "spotify:track:1zQ00hCHOtGHVFRDrifmyM",
-        "name": "Don't Fall Asleep At The Helm",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273032fd22bde573d0746c87352",
+        "uri": "spotify:track:28u3vSLy2OyVsZOlIAR6ba",
+        "name": "Don't Try",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736bc83e4499ea89141125401a",
         "album": {
-          "uri": "spotify:album:1oRHYWmIhP5bmXYerh9qXj",
-          "name": "With Ears To See And Eyes To Hear"
+          "uri": "spotify:album:7fpFbFL4pSmgou3wF1l2Kc",
+          "name": "Pinkish / Don't Try"
         },
         "artist": {
-          "uri": "spotify:artist:3N8Hy6xQnQv1F1XCiyGQqA",
-          "name": "Sleeping With Sirens"
+          "uri": "spotify:artist:4YZ5ECfbM2xSTSQTJGBbO5",
+          "name": "Gerard Way"
         },
         "context": {
           "uri": "spotify:album:1oRHYWmIhP5bmXYerh9qXj",
