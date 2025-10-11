@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1760185630046,
+      "timestamp": 1760187448136,
       "user": {
         "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
         "name": "poemstars🌼🌟",
         "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
       },
       "track": {
-        "uri": "spotify:track:1hzPJvGgRT8iqw9eisCXxC",
-        "name": "You Kill Me (In A Good Way)",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273032fd22bde573d0746c87352",
+        "uri": "spotify:track:6zp8NntFClZNZsapjxH5sb",
+        "name": "Expensive Conversations In Cheap Motels",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b2957a2f3b7e99a46d68553b",
         "album": {
-          "uri": "spotify:album:1oRHYWmIhP5bmXYerh9qXj",
-          "name": "With Ears To See And Eyes To Hear"
+          "uri": "spotify:album:3VYqcMVkpPlUwoAaRjCO0y",
+          "name": "Devil"
         },
         "artist": {
-          "uri": "spotify:artist:3N8Hy6xQnQv1F1XCiyGQqA",
-          "name": "Sleeping With Sirens"
+          "uri": "spotify:artist:4ZIBrskTJWmkJUvM7uAu1o",
+          "name": "Chiodos"
         },
         "context": {
           "uri": "spotify:album:1oRHYWmIhP5bmXYerh9qXj",
