@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1760188897040,
+      "timestamp": 1760189787350,
       "user": {
         "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
         "name": "poemstars🌼🌟",
         "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
       },
       "track": {
-        "uri": "spotify:track:6FOWzfUUvKryjmmUjSu1pX",
-        "name": "This Close",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27303716938180fa7f952eb8660",
+        "uri": "spotify:track:75rctYH1J87zkJ51c4cxaq",
+        "name": "Guys Like You Make Us Look Bad",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732b99d1d1103ffba5e8baeeb5",
         "album": {
-          "uri": "spotify:album:1zRqUHW8OiYDVAJtJ1OdKg",
-          "name": "Memento Mori (Expanded)"
+          "uri": "spotify:album:3ANtCCvIfTVZexgdh0LXdM",
+          "name": "His Last Walk"
         },
         "artist": {
-          "uri": "spotify:artist:4IliztYDlfMvzQzbx50o60",
-          "name": "Flyleaf"
+          "uri": "spotify:artist:7t2C8WwLyKUKRe0LVh8zl9",
+          "name": "blessthefall"
         },
         "context": {
           "uri": "spotify:album:1oRHYWmIhP5bmXYerh9qXj",
