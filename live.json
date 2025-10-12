@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1760265190411,
+      "timestamp": 1760265842348,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
         "imageUrl": "https://scontent-syd2-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=uj86HnfayIYQ7kNvwHitt2I&_nc_oc=AdmVwJ7wcjfO93_ndWXBMZoFVcpeIhEneImQFtOjiMlsqpZn0DY3A8ujRKFOIrFJBYwJXZd6QbWFzav6YuVXMUPs&_nc_zt=24&_nc_ht=scontent-syd2-1.xx&edm=AP4hL3IEAAAA&_nc_gid=-lZvDasU8KQQCAknswuUug&oh=00_AffoyDotJnpsaAaD8IZ6en2FezhatQ-iQoCEqLuYaQseAQ&oe=68F13B68"
       },
       "track": {
-        "uri": "spotify:track:3v9PrJoLb4zYWluNRCGDGA",
-        "name": "Pergilah Kasih",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273faf9fa1b0163eb6f44c01054",
+        "uri": "spotify:track:0zKrmdvc6aZPhclMFsazsV",
+        "name": "Cinta Terlarang",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27394c4e00468c8aa79416570df",
         "album": {
-          "uri": "spotify:album:1A0lYCVDXPZbh369YmShld",
-          "name": "Greatest Hits"
+          "uri": "spotify:album:1tT6zH2M4ruayCLfiRvjba",
+          "name": "Yes I Am"
         },
         "artist": {
-          "uri": "spotify:artist:2NteKKMj3takKR3ABTd279",
-          "name": "Chrisye"
+          "uri": "spotify:artist:7tXc4Tew6Bnr4moD7OeBfJ",
+          "name": "The Virgin"
         },
         "context": {
           "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
