@@ -1,19 +1,19 @@
 {
   "friends": [
     {
-      "timestamp": 1760255179878,
+      "timestamp": 1760255693966,
       "user": {
         "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
         "name": "poemstars🌼🌟",
         "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
       },
       "track": {
-        "uri": "spotify:track:6SnlmOpkHlnudckNjSIzqU",
-        "name": "I Love You but I'm Letting Go",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733e2cf96ce4558b8f2376b79a",
+        "uri": "spotify:track:2TEQjp0rvFCkvblKvttwKf",
+        "name": "Wanna Be Yours",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fbb68c768e4ece5fe30bb05e",
         "album": {
-          "uri": "spotify:album:6CYiVTU1drHMvGHgMHmLQZ",
-          "name": "Walk the Talk"
+          "uri": "spotify:album:1Rey8BJT0RtzfDfxGjnp23",
+          "name": "Hardcore Romance"
         },
         "artist": {
           "uri": "spotify:artist:7d86ERlvO5UG44j7Va0Y0C",
