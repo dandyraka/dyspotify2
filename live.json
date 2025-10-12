@@ -1,30 +1,3 @@
 {
-  "friends": [
-    {
-      "timestamp": 1760270059700,
-      "user": {
-        "uri": "spotify:user:dandyraka_",
-        "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-syd2-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=uj86HnfayIYQ7kNvwHitt2I&_nc_oc=AdmVwJ7wcjfO93_ndWXBMZoFVcpeIhEneImQFtOjiMlsqpZn0DY3A8ujRKFOIrFJBYwJXZd6QbWFzav6YuVXMUPs&_nc_zt=24&_nc_ht=scontent-syd2-1.xx&edm=AP4hL3IEAAAA&_nc_gid=-lZvDasU8KQQCAknswuUug&oh=00_AffoyDotJnpsaAaD8IZ6en2FezhatQ-iQoCEqLuYaQseAQ&oe=68F13B68"
-      },
-      "track": {
-        "uri": "spotify:track:7srCrWQW2U9cCnhnVEEx6j",
-        "name": "R.I.P (Rhyme In Peace)",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734a73cf3d60f130db69c2b13e",
-        "album": {
-          "uri": "spotify:album:5ekLUfOzIbDZcJoYHkT2Pd",
-          "name": "Unity"
-        },
-        "artist": {
-          "uri": "spotify:artist:7b4mucf6X53D3pEaY1jWl6",
-          "name": "Bondan Prakoso, Fade2Black"
-        },
-        "context": {
-          "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
-          "name": "playlist",
-          "index": 0
-        }
-      }
-    }
-  ]
+  "friends": []
 }
