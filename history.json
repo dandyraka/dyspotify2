@@ -1,5 +1,14 @@
 [
   {
+    "timestamp": 1760269680793,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Tapi Bukan Aku",
+    "artist": "Kerispatih",
+    "uri": "spotify:track:0BrH4b7su9uLELM1h5Xlzw",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734986516d6ce56f0d19cdc41d"
+  },
+  {
     "timestamp": 1760269415036,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -79,14 +88,5 @@
     "artist": "Lobow",
     "uri": "spotify:track:1dDXZDCgyvioujRUDfKxCr",
     "imageUrl": "https://i.scdn.co/image/ccda6e9537350e5c4d67b07d2b4f809e0ddd790f"
-  },
-  {
-    "timestamp": 1760264873191,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Bukannya Aku Takut",
-    "artist": "Mulan Jameela",
-    "uri": "spotify:track:20cxd3BRDztgrbbV2UKgBk",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27332a51fd37dd14f2534222c46"
   }
 ]
