@@ -1,5 +1,32 @@
 [
   {
+    "timestamp": 1760266976032,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Tak Lekang Oleh Waktu",
+    "artist": "Kerispatih",
+    "uri": "spotify:track:3EQ3PxdbrwVSRGrUjTVptK",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273899fb8089df3acdc70fc2459"
+  },
+  {
+    "timestamp": 1760266714826,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Doaku Untukmu Sayang",
+    "artist": "Wali",
+    "uri": "spotify:track:29GszwSbH9jtj74nwNWf4Z",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ab85980da8a5c59d26309a6f"
+  },
+  {
+    "timestamp": 1760266493472,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "You Say Aq",
+    "artist": "Cinta Laura Kiehl",
+    "uri": "spotify:track:5cSlAS3wdDOSD1c3VGXZlb",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a8afe4ed525b12ec2bee5965"
+  },
+  {
     "timestamp": 1760266241140,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -61,32 +88,5 @@
     "artist": "Cinta Laura Kiehl",
     "uri": "spotify:track:5x5ckunfOsFPWskOluTHzp",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a8afe4ed525b12ec2bee5965"
-  },
-  {
-    "timestamp": 1760264459975,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Hari Bersamanya - Accoustic Version",
-    "artist": "Sheila On 7",
-    "uri": "spotify:track:52Z28hjK31wudUscWv1UjR",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273505fb06705d4823830ce5055"
-  },
-  {
-    "timestamp": 1760264227690,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Rasa Yang Tertinggal",
-    "artist": "ST12",
-    "uri": "spotify:track:7kbI5Pjz8A700D6J84D3an",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732e86ae25437d95fc6aa82549"
-  },
-  {
-    "timestamp": 1760263987439,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Tak Selamanya Selingkuh Itu Indah (TSSII)",
-    "artist": "Merpati Band",
-    "uri": "spotify:track:4a0RdUp9vYKJov5Z4wn808",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273887b017eccb4a78986c8b153"
   }
 ]
