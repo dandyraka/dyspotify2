@@ -1,3 +1,30 @@
 {
-  "friends": []
+  "friends": [
+    {
+      "timestamp": 1760263012340,
+      "user": {
+        "uri": "spotify:user:dandyraka_",
+        "name": "Dandy 🫵🏻😁",
+        "imageUrl": "https://scontent-syd2-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=uj86HnfayIYQ7kNvwFgBWrf&_nc_oc=Adlb5Ejav07pkcoyHN9R9ibuT93FHgBVFf4a6P4vk3TGQ4kOlcEBEK7l7Au53WrAnjWldFgWhdo2GEy3-w-SaYuZ&_nc_zt=24&_nc_ht=scontent-syd2-1.xx&edm=AP4hL3IEAAAA&_nc_gid=YeajQlKrNOGrUWMnFIHhyg&oh=00_AfeseSvcQd2CnXS0a_ZUgnm3BJgV9iI2aorZNTrJu6m3Gw&oe=68F10328"
+      },
+      "track": {
+        "uri": "spotify:track:5Si8LcQvqe9otCc2yj4Xky",
+        "name": "Isabella",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731df75d568ca8f23b424bf55b",
+        "album": {
+          "uri": "spotify:album:0iuEe3eqpYYUJsbqQivANE",
+          "name": "P.U.S.P.A."
+        },
+        "artist": {
+          "uri": "spotify:artist:09toGEEhpusLyZ6Nk9AmRf",
+          "name": "ST12"
+        },
+        "context": {
+          "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
+          "name": "playlist",
+          "index": 0
+        }
+      }
+    }
+  ]
 }
