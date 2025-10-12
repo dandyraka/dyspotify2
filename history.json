@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": 1760266241140,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Disco Lazy Time",
+    "artist": "Nidji",
+    "uri": "spotify:track:44E5ELQycUDcVSJghOJNAY",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273706b70b10dfbf83dd4b1e7d8"
+  },
+  {
+    "timestamp": 1760265991007,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Cinta Terlarang",
+    "artist": "The Virgin",
+    "uri": "spotify:track:3pF1OGQdqegfytyVY0dBeA",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27368abe80afccb7ad350ec10ac"
+  },
+  {
     "timestamp": 1760265732430,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -70,23 +88,5 @@
     "artist": "Merpati Band",
     "uri": "spotify:track:4a0RdUp9vYKJov5Z4wn808",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273887b017eccb4a78986c8b153"
-  },
-  {
-    "timestamp": 1760263709724,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Lelaki Buaya Darat",
-    "artist": "Ratu",
-    "uri": "spotify:track:7esAWY5aFUAGi59jpf1qzy",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273590a08574756e4b72b54d8c9"
-  },
-  {
-    "timestamp": 1760263513570,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Laskar Cinta (Chapter One)",
-    "artist": "Dewa 19",
-    "uri": "spotify:track:1kPFCVSVO0fibo8nV4njaF",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27369222d0908ecf5d22cc9d960"
   }
 ]

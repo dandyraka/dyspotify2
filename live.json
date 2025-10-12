@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1760265842348,
+      "timestamp": 1760266430235,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
         "imageUrl": "https://scontent-syd2-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=uj86HnfayIYQ7kNvwHitt2I&_nc_oc=AdmVwJ7wcjfO93_ndWXBMZoFVcpeIhEneImQFtOjiMlsqpZn0DY3A8ujRKFOIrFJBYwJXZd6QbWFzav6YuVXMUPs&_nc_zt=24&_nc_ht=scontent-syd2-1.xx&edm=AP4hL3IEAAAA&_nc_gid=-lZvDasU8KQQCAknswuUug&oh=00_AffoyDotJnpsaAaD8IZ6en2FezhatQ-iQoCEqLuYaQseAQ&oe=68F13B68"
       },
       "track": {
-        "uri": "spotify:track:0zKrmdvc6aZPhclMFsazsV",
-        "name": "Cinta Terlarang",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27394c4e00468c8aa79416570df",
+        "uri": "spotify:track:5cSlAS3wdDOSD1c3VGXZlb",
+        "name": "You Say Aq",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a8afe4ed525b12ec2bee5965",
         "album": {
-          "uri": "spotify:album:1tT6zH2M4ruayCLfiRvjba",
-          "name": "Yes I Am"
+          "uri": "spotify:album:5mm6E2mqMUFzPMR6z8kOkA",
+          "name": "Cinta Laura"
         },
         "artist": {
-          "uri": "spotify:artist:7tXc4Tew6Bnr4moD7OeBfJ",
-          "name": "The Virgin"
+          "uri": "spotify:artist:2hpcsQx9HOJnoKczjvXehn",
+          "name": "Cinta Laura Kiehl"
         },
         "context": {
           "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
