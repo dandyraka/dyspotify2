@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1760264227050,
+      "timestamp": 1760265190411,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-syd2-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=uj86HnfayIYQ7kNvwFgBWrf&_nc_oc=Adlb5Ejav07pkcoyHN9R9ibuT93FHgBVFf4a6P4vk3TGQ4kOlcEBEK7l7Au53WrAnjWldFgWhdo2GEy3-w-SaYuZ&_nc_zt=24&_nc_ht=scontent-syd2-1.xx&edm=AP4hL3IEAAAA&_nc_gid=YeajQlKrNOGrUWMnFIHhyg&oh=00_AfeseSvcQd2CnXS0a_ZUgnm3BJgV9iI2aorZNTrJu6m3Gw&oe=68F10328"
+        "imageUrl": "https://scontent-syd2-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=uj86HnfayIYQ7kNvwHitt2I&_nc_oc=AdmVwJ7wcjfO93_ndWXBMZoFVcpeIhEneImQFtOjiMlsqpZn0DY3A8ujRKFOIrFJBYwJXZd6QbWFzav6YuVXMUPs&_nc_zt=24&_nc_ht=scontent-syd2-1.xx&edm=AP4hL3IEAAAA&_nc_gid=-lZvDasU8KQQCAknswuUug&oh=00_AffoyDotJnpsaAaD8IZ6en2FezhatQ-iQoCEqLuYaQseAQ&oe=68F13B68"
       },
       "track": {
-        "uri": "spotify:track:52Z28hjK31wudUscWv1UjR",
-        "name": "Hari Bersamanya - Accoustic Version",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273505fb06705d4823830ce5055",
+        "uri": "spotify:track:3v9PrJoLb4zYWluNRCGDGA",
+        "name": "Pergilah Kasih",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273faf9fa1b0163eb6f44c01054",
         "album": {
-          "uri": "spotify:album:2yDNCNEbfaE2GnCSkY7yba",
-          "name": "Berlayar"
+          "uri": "spotify:album:1A0lYCVDXPZbh369YmShld",
+          "name": "Greatest Hits"
         },
         "artist": {
-          "uri": "spotify:artist:6q87vizIEdEN4NvlR6mjfT",
-          "name": "Sheila On 7"
+          "uri": "spotify:artist:2NteKKMj3takKR3ABTd279",
+          "name": "Chrisye"
         },
         "context": {
           "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
