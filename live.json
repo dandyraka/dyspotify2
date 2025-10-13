@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1760336675605,
+      "timestamp": 1760338225408,
       "user": {
         "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
         "name": "poemstars🌼🌟",
         "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
       },
       "track": {
-        "uri": "spotify:track:7w8Zq9M5dUiOvgcEqeoTtC",
-        "name": "Bukan Untuk Dimiliki - From \"Ayo Putus\"",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273acd028dc572c3bf101643bd4",
+        "uri": "spotify:track:23wKSIt6MA8S59ur78GLJr",
+        "name": "Cara Lupakanmu",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ed294aa4eab60b5a6c239be7",
         "album": {
-          "uri": "spotify:album:2D7x6M1EiqDvr4ZizO7kAA",
-          "name": "Bukan Untuk Dimiliki (From \"Ayo Putus\")"
+          "uri": "spotify:album:0T79di89D2MqBD2sHaVdid",
+          "name": "Perjalanan Berharga"
         },
         "artist": {
-          "uri": "spotify:artist:4qb81y9DFygggMTArjhQMn",
-          "name": "Mytha Lestari"
+          "uri": "spotify:artist:4L0t6db3fWWG07bh14TxUw",
+          "name": "Gisel"
         },
         "context": {
           "uri": null,
