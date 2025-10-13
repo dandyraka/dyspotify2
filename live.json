@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1760345264157,
+      "timestamp": 1760345929935,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
         "imageUrl": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=uj86HnfayIYQ7kNvwF27eUp&_nc_oc=Adnv2VsaGxa3sQov_MAcsNo_UUHXmEPBv_p2MhSR1nDpfPqBbkTpE3FZgeBlSnQ8NfxRlrtTAdmXwrNnI6CmqFX_&_nc_zt=24&_nc_ht=scontent-fra3-2.xx&edm=AP4hL3IEAAAA&_nc_gid=kDkfy5BAu8EYaqVVsvZWBA&oh=00_AfdVYlkenRYQTsa3fo4gPGwFf9z0p0x4IA8FHVSdfOzUSg&oe=68F28CE8"
       },
       "track": {
-        "uri": "spotify:track:1at0dTYo8Z3G1q3KnI3nxH",
-        "name": "Cari Pacar Lagi",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273abc4bed15afde0c6b159580a",
+        "uri": "spotify:track:5LqanqJSmZwbwPtIi2RwTb",
+        "name": "Kangen",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27354e8635a7af0b3f0c21ba401",
         "album": {
-          "uri": "spotify:album:2uy4WkOAatMqKXI3dtusiE",
-          "name": "P.U.S.P.A."
+          "uri": "spotify:album:3RmThGke3lT57syzThNWHH",
+          "name": "Kerajaan Cinta"
         },
         "artist": {
-          "uri": "spotify:artist:09toGEEhpusLyZ6Nk9AmRf",
-          "name": "ST12"
+          "uri": "spotify:artist:48bKH1ugFBhERC1rdojP9d",
+          "name": "Dewa 19"
         },
         "context": {
           "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
