@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1760345929935,
+      "timestamp": 1760347711385,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=uj86HnfayIYQ7kNvwF27eUp&_nc_oc=Adnv2VsaGxa3sQov_MAcsNo_UUHXmEPBv_p2MhSR1nDpfPqBbkTpE3FZgeBlSnQ8NfxRlrtTAdmXwrNnI6CmqFX_&_nc_zt=24&_nc_ht=scontent-fra3-2.xx&edm=AP4hL3IEAAAA&_nc_gid=kDkfy5BAu8EYaqVVsvZWBA&oh=00_AfdVYlkenRYQTsa3fo4gPGwFf9z0p0x4IA8FHVSdfOzUSg&oe=68F28CE8"
+        "imageUrl": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=uj86HnfayIYQ7kNvwHDMTST&_nc_oc=Adk4vYW8LXbS4z9bkkSJKu-BmdQOF0y3cHGK2ti0mij4eVgJI5HXcMI-mV5fQNUG-vSFuZGwgFc3Jsc41qZQOFgw&_nc_zt=24&_nc_ht=scontent-fra3-2.xx&edm=AP4hL3IEAAAA&_nc_gid=0NrtBE4NW3yjt09OkEe5sQ&oh=00_Affcrq0AhDS5aVk8PJ71C09Idh3tK-G2EHcdhiEFKK3zrQ&oe=68F1E428"
       },
       "track": {
-        "uri": "spotify:track:5LqanqJSmZwbwPtIi2RwTb",
-        "name": "Kangen",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27354e8635a7af0b3f0c21ba401",
+        "uri": "spotify:track:10giEVZwuCrTu39N2vqLJH",
+        "name": "Kekasih Yang Tak Dianggap",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27374cff47313e6b09f2513a271",
         "album": {
-          "uri": "spotify:album:3RmThGke3lT57syzThNWHH",
-          "name": "Kerajaan Cinta"
+          "uri": "spotify:album:0brmMx0Juz4XVzAwnNSqKV",
+          "name": "Wanita Terindah"
         },
         "artist": {
-          "uri": "spotify:artist:48bKH1ugFBhERC1rdojP9d",
-          "name": "Dewa 19"
+          "uri": "spotify:artist:0x2UsqHWuuMOm3UV4kyzpZ",
+          "name": "Pinkan Mambo"
         },
         "context": {
           "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
