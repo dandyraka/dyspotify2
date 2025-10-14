@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1760474035479,
+      "timestamp": 1760474759985,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
         "imageUrl": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=YKiOmiDSAf8Q7kNvwF8vbyA&_nc_oc=AdmS9eJ3c6OleTxiPETzt3QsfYI48U7DM83j74bCTK10Wxh5BoIHA9BUkvGaV9tczjrrfYmm_jq_juvk7CRS8QAE&_nc_zt=24&_nc_ht=scontent-cdg4-3.xx&edm=AP4hL3IEAAAA&_nc_gid=bOSdxh-yf55GU-kKdoVdug&oh=00_AfcGxH_DujgyA9Lbl14OUufGxNUXvl6QyNwx2ihVlzHruw&oe=68F3DE68"
       },
       "track": {
-        "uri": "spotify:track:7fJI7XBLDehft0PEE7OCPY",
-        "name": "Diculik Cinta",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27338f9defbd657d8ecde4d4d68",
+        "uri": "spotify:track:24g0FpFV0hew9pPdAM1FYx",
+        "name": "Teman Tapi Mesra",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f7c046b643d530f73d4327e4",
         "album": {
-          "uri": "spotify:album:5eXEjtkKSAQOXbjmjDXhzJ",
-          "name": "Diculik Cinta"
+          "uri": "spotify:album:0nTS0YslRD2OfkMT6OXevM",
+          "name": "Teman Tapi Mesra"
         },
         "artist": {
-          "uri": "spotify:artist:79hiSpofXIj7h1wD5KKsk3",
-          "name": "Gusti Irwan Wibowo"
+          "uri": "spotify:artist:0k51o3WzFXBLeVadcP8uNw",
+          "name": "Andre Taulany, Andre Taulany & Friends"
         },
         "context": {
           "uri": null,
