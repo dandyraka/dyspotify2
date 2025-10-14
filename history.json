@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": 1760474003098,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Hari Yang Mantap",
+    "artist": "Gusti Irwan Wibowo, Nehru Rindra",
+    "uri": "spotify:track:5upAkHGjeDlEQLP20QmKM6",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273eb2006662da030ea7b4c7a2c"
+  },
+  {
+    "timestamp": 1760473758451,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Yank",
+    "artist": "Wali",
+    "uri": "spotify:track:0C3xZJueyBvvMSsl0cETA6",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27333362fc53eb178af1f5e5bcb"
+  },
+  {
     "timestamp": 1760431478651,
     "user": "poemstars🌼🌟",
     "userId": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
@@ -70,23 +88,5 @@
     "artist": "She",
     "uri": "spotify:track:6U8DmeYavoWvKMp5GmxIOd",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fb055c47c9303f4836c253ec"
-  },
-  {
-    "timestamp": 1760358090196,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Takut",
-    "artist": "Vierra",
-    "uri": "spotify:track:35vw3FECIiK3sUQ5XfgsNp",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27318c5ae00eb3bee52e169d232"
-  },
-  {
-    "timestamp": 1760357800066,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Cinta 'Kan Membawamu Kembali",
-    "artist": "Dewa 19",
-    "uri": "spotify:track:6MwIBSBiAMGomp4I80Xkgw",
-    "imageUrl": "https://i.scdn.co/image/f59c02125f70dbce2385090ddde01625c7cfb5c1"
   }
 ]
