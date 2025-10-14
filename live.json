@@ -1,3 +1,30 @@
 {
-  "friends": []
+  "friends": [
+    {
+      "timestamp": 1760483620421,
+      "user": {
+        "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
+        "name": "poemstars🌼🌟",
+        "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
+      },
+      "track": {
+        "uri": "spotify:track:2Tc9VznHtQUmfOgE3L1RdN",
+        "name": "If You Can't Hang",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273800934f8144df91dae16b6e4",
+        "album": {
+          "uri": "spotify:album:3RSJ0kbP7TxLRqH7BqX8Gl",
+          "name": "Let's Cheers To This"
+        },
+        "artist": {
+          "uri": "spotify:artist:3N8Hy6xQnQv1F1XCiyGQqA",
+          "name": "Sleeping With Sirens"
+        },
+        "context": {
+          "uri": null,
+          "name": null,
+          "index": 0
+        }
+      }
+    }
+  ]
 }
