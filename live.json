@@ -1,30 +1,3 @@
 {
-  "friends": [
-    {
-      "timestamp": 1760537802304,
-      "user": {
-        "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
-        "name": "poemstars🌼🌟",
-        "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
-      },
-      "track": {
-        "uri": "spotify:track:5FEcywzPnpul59cCsBmZ6p",
-        "name": "Teka Teki",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ebbeac340a9e77f9f652eb15",
-        "album": {
-          "uri": "spotify:album:3ooYP9owXIGTAzOFLisMwB",
-          "name": "Heart To Heart"
-        },
-        "artist": {
-          "uri": "spotify:artist:5OZXWMwDhlYBRvoOfcX0sk",
-          "name": "Raisa"
-        },
-        "context": {
-          "uri": null,
-          "name": null,
-          "index": 0
-        }
-      }
-    }
-  ]
+  "friends": []
 }
