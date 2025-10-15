@@ -1,30 +1,3 @@
 {
-  "friends": [
-    {
-      "timestamp": 1760512954088,
-      "user": {
-        "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
-        "name": "poemstars🌼🌟",
-        "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
-      },
-      "track": {
-        "uri": "spotify:track:6i5sIqE4lglanzlXXl8gCj",
-        "name": "Usai Di Sini",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f018e2376d8060e0ba1112ab",
-        "album": {
-          "uri": "spotify:album:59KvITHzZaIAfs7lpHSbrY",
-          "name": "Handmade"
-        },
-        "artist": {
-          "uri": "spotify:artist:5OZXWMwDhlYBRvoOfcX0sk",
-          "name": "Raisa"
-        },
-        "context": {
-          "uri": "spotify:album:4SVd1APxtjPLbghqMzqmBq",
-          "name": "album",
-          "index": 0
-        }
-      }
-    }
-  ]
+  "friends": []
 }
