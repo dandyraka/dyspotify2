@@ -1,3 +1,30 @@
 {
-  "friends": []
+  "friends": [
+    {
+      "timestamp": 1760509647283,
+      "user": {
+        "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
+        "name": "poemstars🌼🌟",
+        "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
+      },
+      "track": {
+        "uri": "spotify:track:1kUJ7401ShEYzAgdTfg2Dp",
+        "name": "Don't Remind Me (with Anderson .Paak)",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d38e9545b73b9711204701f2",
+        "album": {
+          "uri": "spotify:album:5OKVgysqIZvSUMVdEmilCu",
+          "name": "Pretty Idea"
+        },
+        "artist": {
+          "uri": "spotify:artist:0tbeZu9lv8YEKSQ9tZSslu",
+          "name": "Amber Mark, Anderson .Paak"
+        },
+        "context": {
+          "uri": null,
+          "name": null,
+          "index": 0
+        }
+      }
+    }
+  ]
 }
