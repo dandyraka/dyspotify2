@@ -1,30 +1,3 @@
 {
-  "friends": [
-    {
-      "timestamp": 1760607721314,
-      "user": {
-        "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
-        "name": "poemstars🌼🌟",
-        "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
-      },
-      "track": {
-        "uri": "spotify:track:3fWibgdtgIie6LKTZ2rUoI",
-        "name": "So Far So Fake",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
-        "album": {
-          "uri": "spotify:album:5Am1LFOFRwS94TaVzrFQwZ",
-          "name": "The Jaws Of Life"
-        },
-        "artist": {
-          "uri": "spotify:artist:4iJLPqClelZOBCBifm8Fzv",
-          "name": "Pierce The Veil"
-        },
-        "context": {
-          "uri": "spotify:artist:4iJLPqClelZOBCBifm8Fzv",
-          "name": "artist",
-          "index": 0
-        }
-      }
-    }
-  ]
+  "friends": []
 }
