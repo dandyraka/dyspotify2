@@ -1,27 +1,27 @@
 {
   "friends": [
     {
-      "timestamp": 1760828039194,
+      "timestamp": 1760829199245,
       "user": {
         "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
         "name": "poemstars🌼🌟",
         "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
       },
       "track": {
-        "uri": "spotify:track:1lW3ssZ48W0VQw6tynWAXZ",
-        "name": "Begitulah",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732aea3fb8eb78755ea60fdd98",
+        "uri": "spotify:track:3EKh7JNsBrGoh2xqPotBKT",
+        "name": "Hell Above",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570",
         "album": {
-          "uri": "spotify:album:2HqzRuq6yoZrx4UI6hvt5U",
-          "name": "Cuma Punya Hati"
+          "uri": "spotify:album:661Hz0qJK8WIp7vAWsqKvk",
+          "name": "Collide With The Sky"
         },
         "artist": {
-          "uri": "spotify:artist:4qb81y9DFygggMTArjhQMn",
-          "name": "Mytha Lestari"
+          "uri": "spotify:artist:4iJLPqClelZOBCBifm8Fzv",
+          "name": "Pierce The Veil"
         },
         "context": {
-          "uri": "spotify:album:2HqzRuq6yoZrx4UI6hvt5U",
-          "name": "album",
+          "uri": "spotify:artist:4iJLPqClelZOBCBifm8Fzv",
+          "name": "artist",
           "index": 0
         }
       }
