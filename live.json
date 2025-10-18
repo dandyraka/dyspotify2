@@ -1,3 +1,30 @@
 {
-  "friends": []
+  "friends": [
+    {
+      "timestamp": 1760749773034,
+      "user": {
+        "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
+        "name": "poemstars🌼🌟",
+        "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
+      },
+      "track": {
+        "uri": "spotify:track:7c2BaCapEtAppjDOQieykA",
+        "name": "Bodoh",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d7105ffabf2ff9ddd265eab1",
+        "album": {
+          "uri": "spotify:album:6WyxwTMDu7MdmWKZ2m4lCe",
+          "name": "Devaki"
+        },
+        "artist": {
+          "uri": "spotify:artist:7lXTU6VtJQWfiN2vuZyzqf",
+          "name": "Anggis Devaki"
+        },
+        "context": {
+          "uri": null,
+          "name": null,
+          "index": 0
+        }
+      }
+    }
+  ]
 }
