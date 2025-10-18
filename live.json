@@ -1,30 +1,3 @@
 {
-  "friends": [
-    {
-      "timestamp": 1760761046769,
-      "user": {
-        "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
-        "name": "poemstars🌼🌟",
-        "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
-      },
-      "track": {
-        "uri": "spotify:track:2Jp7oaFGIyaSV30pFoALV5",
-        "name": "Tak Satu Cerita",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c5b4a9d8fdc63b9562a4d280",
-        "album": {
-          "uri": "spotify:album:3wcIIqXWuSAe0ULRsjpMpv",
-          "name": "Tak Satu Cerita"
-        },
-        "artist": {
-          "uri": "spotify:artist:6usptTdSkyzOX8rWIE4Y12",
-          "name": "Rizwan Fadilah, Nabila Taqiyyah"
-        },
-        "context": {
-          "uri": null,
-          "name": null,
-          "index": 0
-        }
-      }
-    }
-  ]
+  "friends": []
 }
