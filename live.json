@@ -1,3 +1,30 @@
 {
-  "friends": []
+  "friends": [
+    {
+      "timestamp": 1760781462652,
+      "user": {
+        "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
+        "name": "poemstars🌼🌟",
+        "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
+      },
+      "track": {
+        "uri": "spotify:track:3YT3oyGcXtaKuEgYtw3pt6",
+        "name": "Menghapus Yang Terukir",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732aea3fb8eb78755ea60fdd98",
+        "album": {
+          "uri": "spotify:album:2HqzRuq6yoZrx4UI6hvt5U",
+          "name": "Cuma Punya Hati"
+        },
+        "artist": {
+          "uri": "spotify:artist:4qb81y9DFygggMTArjhQMn",
+          "name": "Mytha Lestari"
+        },
+        "context": {
+          "uri": "spotify:album:2HqzRuq6yoZrx4UI6hvt5U",
+          "name": "album",
+          "index": 0
+        }
+      }
+    }
+  ]
 }
