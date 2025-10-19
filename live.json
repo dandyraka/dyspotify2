@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1760866786867,
+      "timestamp": 1760867314828,
       "user": {
         "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
         "name": "poemstars🌼🌟",
         "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
       },
       "track": {
-        "uri": "spotify:track:2QjOHCTQ1Jl3zawyYOpxh6",
-        "name": "Sweater Weather",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738265a736a1eb838ad5a0b921",
+        "uri": "spotify:track:31er9IGsfFbwqy1pH4aiTP",
+        "name": "I Have Nothing",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273456c0b5d0316a80dc600802e",
         "album": {
-          "uri": "spotify:album:4xkM0BwLM9H2IUcbYzpcBI",
-          "name": "I Love You."
+          "uri": "spotify:album:7JVJlkNNobS0GSoy4tCS96",
+          "name": "The Bodyguard - Original Soundtrack Album"
         },
         "artist": {
-          "uri": "spotify:artist:77SW9BnxLY8rJ0RciFqkHh",
-          "name": "The Neighbourhood"
+          "uri": "spotify:artist:6XpaIBNiVzIetEPCWDvAFP",
+          "name": "Whitney Houston"
         },
         "context": {
           "uri": null,
