@@ -1,19 +1,19 @@
 {
   "friends": [
     {
-      "timestamp": 1760873779495,
+      "timestamp": 1760874307288,
       "user": {
         "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
         "name": "poemstars🌼🌟",
         "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
       },
       "track": {
-        "uri": "spotify:track:5j9tdGzuCDzYrz5Eey4q3N",
-        "name": "Kultusan",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27383b0105f3ea493fcf0da7443",
+        "uri": "spotify:track:1E7zLPDdqo0OvzVmGj5aoV",
+        "name": "Ada titik-titik di ujung doa",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273686acaaa87bfc6ebb42b3bd2",
         "album": {
-          "uri": "spotify:album:4gwRdhyoIngNRgbeP0C7Id",
-          "name": "Berhati"
+          "uri": "spotify:album:5uAcLj2EJLtQtKMyDYCI0Q",
+          "name": "MARKERS AND SUCH PENS FLASHDISKS"
         },
         "artist": {
           "uri": "spotify:artist:1NjxFrpEGZTV2Ny0OJxeWu",
