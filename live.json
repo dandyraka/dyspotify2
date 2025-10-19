@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1760866171888,
+      "timestamp": 1760866786867,
       "user": {
         "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
         "name": "poemstars🌼🌟",
         "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
       },
       "track": {
-        "uri": "spotify:track:48td6xvpokdYwvbl3JIiXP",
-        "name": "Love Never Felt So Good",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27384dc5d0b8018238584522562",
+        "uri": "spotify:track:2QjOHCTQ1Jl3zawyYOpxh6",
+        "name": "Sweater Weather",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738265a736a1eb838ad5a0b921",
         "album": {
-          "uri": "spotify:album:7pomP86PUhoJpY3fsC0WDQ",
-          "name": "XSCAPE"
+          "uri": "spotify:album:4xkM0BwLM9H2IUcbYzpcBI",
+          "name": "I Love You."
         },
         "artist": {
-          "uri": "spotify:artist:3fMbdgg4jU18AjLCKBhRSm",
-          "name": "Michael Jackson, Justin Timberlake"
+          "uri": "spotify:artist:77SW9BnxLY8rJ0RciFqkHh",
+          "name": "The Neighbourhood"
         },
         "context": {
           "uri": null,
