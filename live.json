@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1760865259056,
+      "timestamp": 1760866171888,
       "user": {
         "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
         "name": "poemstars🌼🌟",
         "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
       },
       "track": {
-        "uri": "spotify:track:0nJW01T7XtvILxQgC5J7Wh",
-        "name": "When I Was Your Man",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273926f43e7cce571e62720fd46",
+        "uri": "spotify:track:48td6xvpokdYwvbl3JIiXP",
+        "name": "Love Never Felt So Good",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27384dc5d0b8018238584522562",
         "album": {
-          "uri": "spotify:album:58ufpQsJ1DS5kq4hhzQDiI",
-          "name": "Unorthodox Jukebox"
+          "uri": "spotify:album:7pomP86PUhoJpY3fsC0WDQ",
+          "name": "XSCAPE"
         },
         "artist": {
-          "uri": "spotify:artist:0du5cEVh5yTK9QJze8zA0C",
-          "name": "Bruno Mars"
+          "uri": "spotify:artist:3fMbdgg4jU18AjLCKBhRSm",
+          "name": "Michael Jackson, Justin Timberlake"
         },
         "context": {
           "uri": null,
