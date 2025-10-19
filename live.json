@@ -1,30 +1,3 @@
 {
-  "friends": [
-    {
-      "timestamp": 1760867841002,
-      "user": {
-        "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
-        "name": "poemstars🌼🌟",
-        "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
-      },
-      "track": {
-        "uri": "spotify:track:0B0tYbVp7pDQAqKDhgMeaL",
-        "name": "Too Good to Say Goodbye",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5",
-        "album": {
-          "uri": "spotify:album:4PgleR09JVnm3zY1fW3XBA",
-          "name": "24K Magic"
-        },
-        "artist": {
-          "uri": "spotify:artist:0du5cEVh5yTK9QJze8zA0C",
-          "name": "Bruno Mars"
-        },
-        "context": {
-          "uri": null,
-          "name": null,
-          "index": 0
-        }
-      }
-    }
-  ]
+  "friends": []
 }
