@@ -1,3 +1,30 @@
 {
-  "friends": []
+  "friends": [
+    {
+      "timestamp": 1760966395072,
+      "user": {
+        "uri": "spotify:user:dandyraka_",
+        "name": "Dandy 🫵🏻😁",
+        "imageUrl": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=ZZ5Bwiwp3HwQ7kNvwH0f1uK&_nc_oc=AdkAIDK0pP4gDQknn9cJnETZGBBXFBA-gn1gsLwtUrmZBq48mO7EjYzVejnmuc4Ss84I_p2DqXtoTN1eA0ytAgJs&_nc_zt=24&_nc_ht=scontent-ams2-1.xx&edm=AP4hL3IEAAAA&_nc_gid=7r3o0jC30mcNfX0IOFpPwA&oh=00_AfcCsaAvjfpyn46m_gXV3mBjCiIWsUflJtGlcuQY6lVWpQ&oe=68FB8F28"
+      },
+      "track": {
+        "uri": "spotify:track:2LMwYJXgdb5QaCCy0a20Ly",
+        "name": "Cukuplah Sudah",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e4d88690881127387c47816c",
+        "album": {
+          "uri": "spotify:album:2hcHsG982OWWaAz5mFzKu7",
+          "name": "Xtraordinary"
+        },
+        "artist": {
+          "uri": "spotify:artist:51K9vezoBTOBDsnjBu2hsW",
+          "name": "XO-IX"
+        },
+        "context": {
+          "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
+          "name": "playlist",
+          "index": 0
+        }
+      }
+    }
+  ]
 }
