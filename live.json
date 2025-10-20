@@ -1,3 +1,30 @@
 {
-  "friends": []
+  "friends": [
+    {
+      "timestamp": 1760945027893,
+      "user": {
+        "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
+        "name": "poemstars🌼🌟",
+        "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
+      },
+      "track": {
+        "uri": "spotify:track:5l3jhWIfRg1FeKgw7R1jWb",
+        "name": "Keras Kepala",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273781bc09c9a335b823a8cf707",
+        "album": {
+          "uri": "spotify:album:7lhbsQ75nktdtQNlwa06Gy",
+          "name": "Hanya Figuran"
+        },
+        "artist": {
+          "uri": "spotify:artist:1ZT1OfVAO3kpOEHVejBxV8",
+          "name": "Meiska"
+        },
+        "context": {
+          "uri": null,
+          "name": null,
+          "index": 0
+        }
+      }
+    }
+  ]
 }
