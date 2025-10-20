@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": 1760975748808,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Bunga",
+    "artist": "Bondan Prakoso, Fade2Black",
+    "uri": "spotify:track:35pyjflc2ZpxxpdmgSDn3D",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738ea76cc9c1d7bcbedf9a6a6d"
+  },
+  {
+    "timestamp": 1760975523019,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Duka",
+    "artist": "Last Child",
+    "uri": "spotify:track:5MIpcd16T59wFeqAChSYwC",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733e19058e3db31816a65baf39"
+  },
+  {
     "timestamp": 1760975204112,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -70,23 +88,5 @@
     "artist": "Astrid",
     "uri": "spotify:track:73PIm6P5ruqBmcEVtzcop2",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731a0378422d6100ef70acf740"
-  },
-  {
-    "timestamp": 1760968670599,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Parasit",
-    "artist": "Gita Gutawa",
-    "uri": "spotify:track:4t3bfrYjCSr0nfvu24otR6",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f3fdd334787dfc14b9117696"
-  },
-  {
-    "timestamp": 1760968419978,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Karena Kucinta Kau",
-    "artist": "Bunga Citra Lestari",
-    "uri": "spotify:track:4WxpqDEOIqjx9Ux2J63K9u",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e826c6346023bbc8af3e6247"
   }
 ]
