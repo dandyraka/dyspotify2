@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": 1760979196331,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Dealova",
+    "artist": "Once Mekel",
+    "uri": "spotify:track:4Eybcl06frChLYoXm0sxJi",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bbf16732627e8276f755a33e"
+  },
+  {
+    "timestamp": 1760978936049,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Bila Aku Jatuh Cinta",
+    "artist": "Nidji",
+    "uri": "spotify:track:5FHTGleM9Jg9BpQ2c0tf3N",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273706b70b10dfbf83dd4b1e7d8"
+  },
+  {
     "timestamp": 1760978701626,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -70,23 +88,5 @@
     "artist": "Peterpan",
     "uri": "spotify:track:1ek8UP8J0cHPVx9vGIztSi",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734dcef3dbcf98750fb1411fcb"
-  },
-  {
-    "timestamp": 1760976832275,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Semakin Ku Kejar Semakin Kau Jauh (SKSJ)",
-    "artist": "Five Minutes",
-    "uri": "spotify:track:5USlcP7gkpSzzdGGCAZ4ya",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273778f75f6ababf2eb1eb6d148"
-  },
-  {
-    "timestamp": 1760976581521,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "JODI (Jomblo Ditinggal Mati)",
-    "artist": "Wali",
-    "uri": "spotify:track:6PfzC2yEFCRjR0CWuXu8HL",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27333362fc53eb178af1f5e5bcb"
   }
 ]

@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1760978711817,
+      "timestamp": 1760979370541,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=ZZ5Bwiwp3HwQ7kNvwEmatRr&_nc_oc=Adnk_dkGmei3_bbZREvlzP-sFPmANmgYfRtWNgHmzCwIwYfZ_4G9KW8raVXq7UlWLxQWEe5hfaA0dGFSutJICCZd&_nc_zt=24&_nc_ht=scontent-ams2-1.xx&edm=AP4hL3IEAAAA&_nc_gid=0YlQQJYEpOrW4Gg31TdsMw&oh=00_AfeNVriSnuDz7c9kynomVD894G8JDE-PHmQIYYdrlnymCw&oe=68FBC768"
+        "imageUrl": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=ZZ5Bwiwp3HwQ7kNvwHi4i0b&_nc_oc=AdlWhLmJ3i_pSYtBFY89oF-IC4A2ob-husAcr41ZSDt8LbwRUyrPVuO-LtaUZP62wQnLH6hTujjgaAwy1PNmeOLu&_nc_zt=24&_nc_ht=scontent-ams2-1.xx&edm=AP4hL3IEAAAA&_nc_gid=bvWc1_DMiBkRrTwexhyYCw&oh=00_Aff3SaVZ4AO_65Uvhomo62sKPGMAZl6CFlnd1BlVXUARog&oe=68FC37E8"
       },
       "track": {
-        "uri": "spotify:track:5FHTGleM9Jg9BpQ2c0tf3N",
-        "name": "Bila Aku Jatuh Cinta",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273706b70b10dfbf83dd4b1e7d8",
+        "uri": "spotify:track:112PgZaSiXk8Mqem2Krgtq",
+        "name": "Selimut Hati",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27369222d0908ecf5d22cc9d960",
         "album": {
-          "uri": "spotify:album:0VwLB6mtRWsd0Rd9XVGr1X",
-          "name": "Breakthru"
+          "uri": "spotify:album:2hwNRtZyqmEcCzV47OUAlN",
+          "name": "The 2000's Greatest"
         },
         "artist": {
-          "uri": "spotify:artist:4sEWznAKWWNcicTuLxzb6d",
-          "name": "Nidji"
+          "uri": "spotify:artist:48bKH1ugFBhERC1rdojP9d",
+          "name": "Dewa 19"
         },
         "context": {
           "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
