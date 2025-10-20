@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1760977482701,
+      "timestamp": 1760978711817,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
         "imageUrl": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=ZZ5Bwiwp3HwQ7kNvwEmatRr&_nc_oc=Adnk_dkGmei3_bbZREvlzP-sFPmANmgYfRtWNgHmzCwIwYfZ_4G9KW8raVXq7UlWLxQWEe5hfaA0dGFSutJICCZd&_nc_zt=24&_nc_ht=scontent-ams2-1.xx&edm=AP4hL3IEAAAA&_nc_gid=0YlQQJYEpOrW4Gg31TdsMw&oh=00_AfeNVriSnuDz7c9kynomVD894G8JDE-PHmQIYYdrlnymCw&oe=68FBC768"
       },
       "track": {
-        "uri": "spotify:track:1jRH4WK8HRxXVrIZRb8ZgM",
-        "name": "Rasa Yang Tertinggal",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273abc4bed15afde0c6b159580a",
+        "uri": "spotify:track:5FHTGleM9Jg9BpQ2c0tf3N",
+        "name": "Bila Aku Jatuh Cinta",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273706b70b10dfbf83dd4b1e7d8",
         "album": {
-          "uri": "spotify:album:2uy4WkOAatMqKXI3dtusiE",
-          "name": "P.U.S.P.A."
+          "uri": "spotify:album:0VwLB6mtRWsd0Rd9XVGr1X",
+          "name": "Breakthru"
         },
         "artist": {
-          "uri": "spotify:artist:09toGEEhpusLyZ6Nk9AmRf",
-          "name": "ST12"
+          "uri": "spotify:artist:4sEWznAKWWNcicTuLxzb6d",
+          "name": "Nidji"
         },
         "context": {
           "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
