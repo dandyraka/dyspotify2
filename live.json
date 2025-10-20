@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1760979370541,
+      "timestamp": 1760980530426,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
         "imageUrl": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=ZZ5Bwiwp3HwQ7kNvwHi4i0b&_nc_oc=AdlWhLmJ3i_pSYtBFY89oF-IC4A2ob-husAcr41ZSDt8LbwRUyrPVuO-LtaUZP62wQnLH6hTujjgaAwy1PNmeOLu&_nc_zt=24&_nc_ht=scontent-ams2-1.xx&edm=AP4hL3IEAAAA&_nc_gid=bvWc1_DMiBkRrTwexhyYCw&oh=00_Aff3SaVZ4AO_65Uvhomo62sKPGMAZl6CFlnd1BlVXUARog&oe=68FC37E8"
       },
       "track": {
-        "uri": "spotify:track:112PgZaSiXk8Mqem2Krgtq",
-        "name": "Selimut Hati",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27369222d0908ecf5d22cc9d960",
+        "uri": "spotify:track:0v4X2eZzunpJmnsciaNmd2",
+        "name": "Gubrak!!",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27307c11e54d56c6464812d584e",
         "album": {
-          "uri": "spotify:album:2hwNRtZyqmEcCzV47OUAlN",
-          "name": "The 2000's Greatest"
+          "uri": "spotify:album:0zk8QF2XYBh4N91oRBAV1y",
+          "name": "Salut"
         },
         "artist": {
-          "uri": "spotify:artist:48bKH1ugFBhERC1rdojP9d",
-          "name": "Dewa 19"
+          "uri": "spotify:artist:6OrgWDdAicR9NhmEpDBYmN",
+          "name": "Intan Nuraini"
         },
         "context": {
           "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
