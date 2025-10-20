@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1760981552083,
+      "timestamp": 1760982281383,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=ZZ5Bwiwp3HwQ7kNvwHKHzgN&_nc_oc=AdkmcWSzaj3VI1ily5Q-75dGiqM8iph8g8f0oWEmq8tbDe0KvmYXERS9Rw7zSxDSCEHasWHQqHOeeYCtpsEH6QHA&_nc_zt=24&_nc_ht=scontent-ams2-1.xx&edm=AP4hL3IEAAAA&_nc_gid=vxb43MauDDa0kiCN9NtJkQ&oh=00_AfcOQZqotHHk7Wak9Db2CplSH8A3KikIR4P5V_gGk2egbA&oe=68FC37E8"
+        "imageUrl": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=ZZ5Bwiwp3HwQ7kNvwHi4i0b&_nc_oc=AdlWhLmJ3i_pSYtBFY89oF-IC4A2ob-husAcr41ZSDt8LbwRUyrPVuO-LtaUZP62wQnLH6hTujjgaAwy1PNmeOLu&_nc_zt=24&_nc_ht=scontent-ams2-1.xx&edm=AP4hL3IEAAAA&_nc_gid=bvWc1_DMiBkRrTwexhyYCw&oh=00_Aff3SaVZ4AO_65Uvhomo62sKPGMAZl6CFlnd1BlVXUARog&oe=68FC37E8"
       },
       "track": {
-        "uri": "spotify:track:0O4deQeDLOk7gfpTXx7Nk5",
-        "name": "Nenekku Pahlawanku",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c734b10546cc11341a4bb766",
+        "uri": "spotify:track:5SONgS4WAxN7YxuLFBg2dF",
+        "name": "Mungkin Nanti",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733c8b30d134ed6377ad703419",
         "album": {
-          "uri": "spotify:album:3tJ2FdfpXKoTJPPyXYEjZF",
-          "name": "Aku Bukan Bang Toyib"
+          "uri": "spotify:album:2DB5bJUqbchn7wYTHtz4eH",
+          "name": "Sebuah Nama, Sebuah Cerita"
         },
         "artist": {
-          "uri": "spotify:artist:5pnSNZZRyYViu2n58Zlw1J",
-          "name": "Wali"
+          "uri": "spotify:artist:29vPfjqj8X5ri4AJRt8wVM",
+          "name": "Peterpan"
         },
         "context": {
           "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
