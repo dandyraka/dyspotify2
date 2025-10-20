@@ -1,5 +1,14 @@
 [
   {
+    "timestamp": 1760975204112,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Kecewa",
+    "artist": "Bunga Citra Lestari",
+    "uri": "spotify:track:1sDfnkQge4Nmkp8sgLgH1i",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730d1374b9fe6b1300deaa0565"
+  },
+  {
     "timestamp": 1760970364429,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -79,14 +88,5 @@
     "artist": "Bunga Citra Lestari",
     "uri": "spotify:track:4WxpqDEOIqjx9Ux2J63K9u",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e826c6346023bbc8af3e6247"
-  },
-  {
-    "timestamp": 1760968120421,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Pelan Pelan Saja",
-    "artist": "Kotak",
-    "uri": "spotify:track:3XH8xjp75m3QVstVfX6orj",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731b7a0350ff2314ca558fad44"
   }
 ]
