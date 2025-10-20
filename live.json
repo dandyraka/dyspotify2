@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1760967792831,
+      "timestamp": 1760968450916,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=ZZ5Bwiwp3HwQ7kNvwEmatRr&_nc_oc=Adnk_dkGmei3_bbZREvlzP-sFPmANmgYfRtWNgHmzCwIwYfZ_4G9KW8raVXq7UlWLxQWEe5hfaA0dGFSutJICCZd&_nc_zt=24&_nc_ht=scontent-ams2-1.xx&edm=AP4hL3IEAAAA&_nc_gid=0YlQQJYEpOrW4Gg31TdsMw&oh=00_AfeNVriSnuDz7c9kynomVD894G8JDE-PHmQIYYdrlnymCw&oe=68FBC768"
+        "imageUrl": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=ZZ5Bwiwp3HwQ7kNvwH0f1uK&_nc_oc=AdkAIDK0pP4gDQknn9cJnETZGBBXFBA-gn1gsLwtUrmZBq48mO7EjYzVejnmuc4Ss84I_p2DqXtoTN1eA0ytAgJs&_nc_zt=24&_nc_ht=scontent-ams2-1.xx&edm=AP4hL3IEAAAA&_nc_gid=7r3o0jC30mcNfX0IOFpPwA&oh=00_AfcCsaAvjfpyn46m_gXV3mBjCiIWsUflJtGlcuQY6lVWpQ&oe=68FB8F28"
       },
       "track": {
-        "uri": "spotify:track:0720bfEE7w0diQAZUKHRev",
-        "name": "Kekasih Sejati",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738a5aec28f0e2750ebfefde33",
+        "uri": "spotify:track:4t3bfrYjCSr0nfvu24otR6",
+        "name": "Parasit",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f3fdd334787dfc14b9117696",
         "album": {
-          "uri": "spotify:album:5LzimGAss58bgBq3CT9uAD",
-          "name": "Kemenangan Hati"
+          "uri": "spotify:album:34PXMpG45YYByyuYG81BGv",
+          "name": "Harmoni Cinta"
         },
         "artist": {
-          "uri": "spotify:artist:7Ln5yumFjHCkeZ8bAzHUcp",
-          "name": "Yovie Widianto, Monita"
+          "uri": "spotify:artist:4V1Io5SwSO4CwaUbgLMYvz",
+          "name": "Gita Gutawa"
         },
         "context": {
           "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
