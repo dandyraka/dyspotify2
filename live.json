@@ -1,19 +1,19 @@
 {
   "friends": [
     {
-      "timestamp": 1761032653118,
+      "timestamp": 1761033275902,
       "user": {
         "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
         "name": "poemstars🌼🌟",
         "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
       },
       "track": {
-        "uri": "spotify:track:0NrGEbLL9aggrUwsWJUWaT",
-        "name": "Pengganti Aku",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273390b568b7e725b7039585800",
+        "uri": "spotify:track:1UJn9fyMNelBMvWTWu6FDZ",
+        "name": "Tak Berharap Lagi",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27307be1344b144e28ff93cad9a",
         "album": {
-          "uri": "spotify:album:4SVd1APxtjPLbghqMzqmBq",
-          "name": "ambiVert"
+          "uri": "spotify:album:4yCbbBKsNxrDLXUs1INARs",
+          "name": "Tak Berharap Lagi"
         },
         "artist": {
           "uri": "spotify:artist:5OZXWMwDhlYBRvoOfcX0sk",
