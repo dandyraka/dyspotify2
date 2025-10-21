@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1761028165261,
+      "timestamp": 1761029437466,
       "user": {
         "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
         "name": "poemstars🌼🌟",
         "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
       },
       "track": {
-        "uri": "spotify:track:47ZMWI1QLORF4wGMd9YpZa",
-        "name": "Salahkah Aku Terlalu Mencintaimu",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273849705320e694daf5d328cac",
+        "uri": "spotify:track:2h8AfboQ0rTGJKg71CpzKz",
+        "name": "Malaikat Juga Tahu",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730b5955553fb2a60018d7e858",
         "album": {
-          "uri": "spotify:album:7C0YJ8nBCeViW2agixbokz",
-          "name": "Bersama"
+          "uri": "spotify:album:7zP5RHtPjWIrPjMiwV5oCd",
+          "name": "Rectoverso"
         },
         "artist": {
-          "uri": "spotify:artist:44XAmn8OQeCCeigsJuju7D",
-          "name": "Ratu"
+          "uri": "spotify:artist:1mCcTwpEABnSVB4D8rXfRN",
+          "name": "Dee Lestari"
         },
         "context": {
           "uri": null,
