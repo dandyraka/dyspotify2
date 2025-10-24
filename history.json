@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": 1761321266594,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Hanya Memuji",
+    "artist": "Shanty",
+    "uri": "spotify:track:3jjehnH4E0KENjcEGnK9nm",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e5f56fa9cd66dc3d170d102c"
+  },
+  {
+    "timestamp": 1761321068857,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Kangen",
+    "artist": "Dewa 19",
+    "uri": "spotify:track:3ZyMRe0jlSqffPBMeHUZFX",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27369222d0908ecf5d22cc9d960"
+  },
+  {
     "timestamp": 1761320772780,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -70,23 +88,5 @@
     "artist": "The Changcuters",
     "uri": "spotify:track:2F8nJ7yF9GN5ONBHnmzy1h",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273503637ccb15e00eb225a564c"
-  },
-  {
-    "timestamp": 1761318756782,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Beraksi",
-    "artist": "Kotak",
-    "uri": "spotify:track:1x1zmEE1YLQLSlXkZr4dzv",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27355fcbac77e9be79cffca62e4"
-  },
-  {
-    "timestamp": 1761318556746,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Pergilah Kasih",
-    "artist": "D’MASIV",
-    "uri": "spotify:track:0YfscnvXldBX790yR8OXXm",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733acb3a4f3ab6ceee27d1b552"
   }
 ]

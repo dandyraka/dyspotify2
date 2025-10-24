@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1761320782188,
+      "timestamp": 1761321320740,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=UuxmoBm4MK4Q7kNvwFJgEwc&_nc_oc=AdlEAN4JtP_I446nKEIC16xlWJdchXGBtvLnx-0gJnRjBSWO2EN6HqOqNwWuOUp6ojLeIMp9Eg87HRsARhiYudiD&_nc_zt=24&_nc_ht=scontent-cdg4-3.xx&edm=AP4hL3IEAAAA&_nc_gid=P59cgorVo6wizxEJcCNzeA&_nc_tpa=Q5bMBQHwtYb7kcpnBndJQGpKDT4d6j0XBMFSj63NkwXdQTanuZ9eTka-Cmvm8sY-qZl1Hh_D3QKC&oh=00_Afcui09FVAddjt-GPuoaqHAtEkrwkzePHCifYvjfi_xYuA&oe=6900D528"
+        "imageUrl": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=UuxmoBm4MK4Q7kNvwEqSXqV&_nc_oc=AdnKfcjhBL-qgUHwWZ_Fsn9q7i8KAD94yOT0xo1tqESXVZqxEitLnVgaqeDA2EjIKKc_A3tvEC0S1UeCSoWzwAHg&_nc_zt=24&_nc_ht=scontent-cdg4-3.xx&edm=AP4hL3IEAAAA&_nc_gid=_YDfbYTIJC1CxFZaKMOF5Q&_nc_tpa=Q5bMBQEpSEGwi4iurlCX-VVDKF__RHhvmlNYHP23k34xgtzNh0NJJtSRiCY_NQZEdGD1S-Izxg1G&oh=00_AfdaPCTM8mSKs7tZbuRsdV-eng-LQomyQ7xQVF8NT6jDuQ&oe=69010D68"
       },
       "track": {
-        "uri": "spotify:track:5LqanqJSmZwbwPtIi2RwTb",
-        "name": "Kangen",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27354e8635a7af0b3f0c21ba401",
+        "uri": "spotify:track:6PfzC2yEFCRjR0CWuXu8HL",
+        "name": "JODI (Jomblo Ditinggal Mati)",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27333362fc53eb178af1f5e5bcb",
         "album": {
-          "uri": "spotify:album:3RmThGke3lT57syzThNWHH",
-          "name": "Kerajaan Cinta"
+          "uri": "spotify:album:33R1KrmztvFvWsbz8T71Ke",
+          "name": "Cari Jodoh"
         },
         "artist": {
-          "uri": "spotify:artist:48bKH1ugFBhERC1rdojP9d",
-          "name": "Dewa 19"
+          "uri": "spotify:artist:5pnSNZZRyYViu2n58Zlw1J",
+          "name": "Wali"
         },
         "context": {
           "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
