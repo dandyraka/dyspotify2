@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1761324976731,
+      "timestamp": 1761326139893,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=UuxmoBm4MK4Q7kNvwFJgEwc&_nc_oc=AdlEAN4JtP_I446nKEIC16xlWJdchXGBtvLnx-0gJnRjBSWO2EN6HqOqNwWuOUp6ojLeIMp9Eg87HRsARhiYudiD&_nc_zt=24&_nc_ht=scontent-cdg4-3.xx&edm=AP4hL3IEAAAA&_nc_gid=P59cgorVo6wizxEJcCNzeA&_nc_tpa=Q5bMBQHwtYb7kcpnBndJQGpKDT4d6j0XBMFSj63NkwXdQTanuZ9eTka-Cmvm8sY-qZl1Hh_D3QKC&oh=00_Afcui09FVAddjt-GPuoaqHAtEkrwkzePHCifYvjfi_xYuA&oe=6900D528"
+        "imageUrl": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=UuxmoBm4MK4Q7kNvwGmrjwG&_nc_oc=AdltEqmppk37OiHBJT65QwCQKy1-AJbIlWqOGzGBBn8j_CYuB-kdAvU1kH6OLModUTGE73TwjAYpuhQ9ecOvjJe7&_nc_zt=24&_nc_ht=scontent-cdg4-3.xx&edm=AP4hL3IEAAAA&_nc_gid=h676sRS-MeBO8eKOiSZnXg&_nc_tpa=Q5bMBQHm--Ljh31FhKp4XS6b52MRACTrHJHgD_rriwezDXiDwwg4QuzUgBd7g5xzBV6UXtluN8pg&oh=00_AfcF7tksQBIatKkCbfwqsQgwLE6jNqX5b_ch3FXjRi-HEg&oe=69017DE8"
       },
       "track": {
-        "uri": "spotify:track:7gWcfdZVM1uunqG6trmQVG",
-        "name": "Mabuk Cinta",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f1c411e94c33fdd57edd9a69",
+        "uri": "spotify:track:7dlnTQMqvzoJe649aLgUdb",
+        "name": "Mungkinkah",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731478f987f79b3a31169235fa",
         "album": {
-          "uri": "spotify:album:78rrGhb8kb4g0P8ewToKIo",
-          "name": "Satu Hati Sejuta Cinta"
+          "uri": "spotify:album:0Qr0iCnH1uBJK1wosvzeXV",
+          "name": "Mungkinkah"
         },
         "artist": {
-          "uri": "spotify:artist:6H857CtcaYMSxOB4jvSIZf",
-          "name": "Armada"
+          "uri": "spotify:artist:0maYWdjsjEafkPBTylPU12",
+          "name": "Stinky"
         },
         "context": {
           "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",

@@ -1,5 +1,41 @@
 [
   {
+    "timestamp": 1761325865976,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Jangan Ganggu Dulu",
+    "artist": "Mahkota",
+    "uri": "spotify:track:7s2TBOeaXI43wmkQTJk9LX",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273121430f86b7e4d84ad437107"
+  },
+  {
+    "timestamp": 1761325639280,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Aw Aw",
+    "artist": "The Potters",
+    "uri": "spotify:track:3lhPmT4dRQHmWoEjdFq8tf",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737716f5ec6b8b56c765d608b7"
+  },
+  {
+    "timestamp": 1761325399610,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Doremi",
+    "artist": "Budi Doremi",
+    "uri": "spotify:track:4XyAYEVNRiMFWm17HkRnnk",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273db80402ee1d664e9c4670d50"
+  },
+  {
+    "timestamp": 1761325174378,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Mabuk Cinta",
+    "artist": "Armada",
+    "uri": "spotify:track:7gWcfdZVM1uunqG6trmQVG",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f1c411e94c33fdd57edd9a69"
+  },
+  {
     "timestamp": 1761324931915,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -52,41 +88,5 @@
     "artist": "Seventeen",
     "uri": "spotify:track:3YZQseFqB5LVy9VcfVv7dp",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27380fc9f89ca88ed1b77eb12b7"
-  },
-  {
-    "timestamp": 1761323468778,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Lumpuhkan Ingatanku",
-    "artist": "Geisha",
-    "uri": "spotify:track:7vcoZ5pFHObFaToqGNtTlB",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733c5c304f2033c0d77de42af4"
-  },
-  {
-    "timestamp": 1761323215753,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Dibalik Hari Esok",
-    "artist": "Pee Wee Gaskins",
-    "uri": "spotify:track:04IkYmTypMMIbFEjmlxWqQ",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27307480204c7e0094eec316851"
-  },
-  {
-    "timestamp": 1761322932290,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Seluruh Nafas Ini",
-    "artist": "Last Child, Gisel",
-    "uri": "spotify:track:2vzpoecVhBE1pKtHzKONaN",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273382b1b7f79e2e760b9ac188e"
-  },
-  {
-    "timestamp": 1761322643810,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Sempurna",
-    "artist": "Andra & The Backbone",
-    "uri": "spotify:track:2UgCs0i0rNHUH2jKE5NZHE",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730df7dec70511dd4f2e69dc34"
   }
 ]
