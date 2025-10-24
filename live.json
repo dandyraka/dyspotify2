@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1761318983429,
+      "timestamp": 1761320062254,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=UuxmoBm4MK4Q7kNvwEqSXqV&_nc_oc=AdnKfcjhBL-qgUHwWZ_Fsn9q7i8KAD94yOT0xo1tqESXVZqxEitLnVgaqeDA2EjIKKc_A3tvEC0S1UeCSoWzwAHg&_nc_zt=24&_nc_ht=scontent-cdg4-3.xx&edm=AP4hL3IEAAAA&_nc_gid=_YDfbYTIJC1CxFZaKMOF5Q&_nc_tpa=Q5bMBQEpSEGwi4iurlCX-VVDKF__RHhvmlNYHP23k34xgtzNh0NJJtSRiCY_NQZEdGD1S-Izxg1G&oh=00_AfdaPCTM8mSKs7tZbuRsdV-eng-LQomyQ7xQVF8NT6jDuQ&oe=69010D68"
+        "imageUrl": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=UuxmoBm4MK4Q7kNvwFJgEwc&_nc_oc=AdlEAN4JtP_I446nKEIC16xlWJdchXGBtvLnx-0gJnRjBSWO2EN6HqOqNwWuOUp6ojLeIMp9Eg87HRsARhiYudiD&_nc_zt=24&_nc_ht=scontent-cdg4-3.xx&edm=AP4hL3IEAAAA&_nc_gid=P59cgorVo6wizxEJcCNzeA&_nc_tpa=Q5bMBQHwtYb7kcpnBndJQGpKDT4d6j0XBMFSj63NkwXdQTanuZ9eTka-Cmvm8sY-qZl1Hh_D3QKC&oh=00_Afcui09FVAddjt-GPuoaqHAtEkrwkzePHCifYvjfi_xYuA&oe=6900D528"
       },
       "track": {
-        "uri": "spotify:track:2F8nJ7yF9GN5ONBHnmzy1h",
-        "name": "Racun Dunia",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273503637ccb15e00eb225a564c",
+        "uri": "spotify:track:6ZxHIAQuyQIvpKbnPteDuf",
+        "name": "Hanya Ingin Kau Tahu",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27302e29c2d99f0be6ddd0c104e",
         "album": {
-          "uri": "spotify:album:3jEGzRT0B9NZ7NvQqLLbRi",
-          "name": "Mencoba Sukses Kembali"
+          "uri": "spotify:album:352xHnFndZuRIc2yJrKy3o",
+          "name": "Punya Arti"
         },
         "artist": {
-          "uri": "spotify:artist:1DZs8IjMvRQqB3i0uvgCc5",
-          "name": "The Changcuters"
+          "uri": "spotify:artist:7tohsn2AQCjic6ktgTbhU4",
+          "name": "Repvblik"
         },
         "context": {
           "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
