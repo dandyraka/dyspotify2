@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1761322776756,
+      "timestamp": 1761324193863,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
         "imageUrl": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=UuxmoBm4MK4Q7kNvwFJgEwc&_nc_oc=AdlEAN4JtP_I446nKEIC16xlWJdchXGBtvLnx-0gJnRjBSWO2EN6HqOqNwWuOUp6ojLeIMp9Eg87HRsARhiYudiD&_nc_zt=24&_nc_ht=scontent-cdg4-3.xx&edm=AP4hL3IEAAAA&_nc_gid=P59cgorVo6wizxEJcCNzeA&_nc_tpa=Q5bMBQHwtYb7kcpnBndJQGpKDT4d6j0XBMFSj63NkwXdQTanuZ9eTka-Cmvm8sY-qZl1Hh_D3QKC&oh=00_Afcui09FVAddjt-GPuoaqHAtEkrwkzePHCifYvjfi_xYuA&oe=6900D528"
       },
       "track": {
-        "uri": "spotify:track:2vzpoecVhBE1pKtHzKONaN",
-        "name": "Seluruh Nafas Ini",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273382b1b7f79e2e760b9ac188e",
+        "uri": "spotify:track:65gsUZoagiuguDtYqwXJGB",
+        "name": "Ya.. Ya.. Ya..",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e169dc6741cd9e7fcff27e43",
         "album": {
-          "uri": "spotify:album:0lmWHPA0DAJY2xKscafErm",
-          "name": "Our Biggest Thing Ever"
+          "uri": "spotify:album:77MimE9K5xOwQUT4NfrJob",
+          "name": "GIGI"
         },
         "artist": {
-          "uri": "spotify:artist:1v1khTmozNfxB2ET1Ep288",
-          "name": "Last Child, Gisel"
+          "uri": "spotify:artist:2Gp3RWqEXPEV38Oqv5ZiNf",
+          "name": "Gigi"
         },
         "context": {
           "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
