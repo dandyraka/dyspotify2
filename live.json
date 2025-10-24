@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1761316703237,
+      "timestamp": 1761317459123,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
         "imageUrl": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=UuxmoBm4MK4Q7kNvwFJgEwc&_nc_oc=AdlEAN4JtP_I446nKEIC16xlWJdchXGBtvLnx-0gJnRjBSWO2EN6HqOqNwWuOUp6ojLeIMp9Eg87HRsARhiYudiD&_nc_zt=24&_nc_ht=scontent-cdg4-3.xx&edm=AP4hL3IEAAAA&_nc_gid=P59cgorVo6wizxEJcCNzeA&_nc_tpa=Q5bMBQHwtYb7kcpnBndJQGpKDT4d6j0XBMFSj63NkwXdQTanuZ9eTka-Cmvm8sY-qZl1Hh_D3QKC&oh=00_Afcui09FVAddjt-GPuoaqHAtEkrwkzePHCifYvjfi_xYuA&oe=6900D528"
       },
       "track": {
-        "uri": "spotify:track:04DEVtU7IoCJAXfhY7uOLu",
-        "name": "Cinta Mati, Pt. 3",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273da3dbb55034cdfcd7e58c53f",
+        "uri": "spotify:track:0BrH4b7su9uLELM1h5Xlzw",
+        "name": "Tapi Bukan Aku",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734986516d6ce56f0d19cdc41d",
         "album": {
-          "uri": "spotify:album:6ebpXORmzTceh4jmAqeMAx",
-          "name": "99 Volume 1"
+          "uri": "spotify:album:61AGUY22dIy89vcxCUvC00",
+          "name": "Kenyataan Perasaan"
         },
         "artist": {
-          "uri": "spotify:artist:6ppmK4pjgILHNMd3RLlNCM",
-          "name": "Mulan Jameela"
+          "uri": "spotify:artist:73OtDyghUEJ9QfGtu1pkaJ",
+          "name": "Kerispatih"
         },
         "context": {
           "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
