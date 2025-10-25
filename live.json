@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1761386039929,
+      "timestamp": 1761387259834,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=UuxmoBm4MK4Q7kNvwGBp3JU&_nc_oc=AdkJ6f9GDnXFwCYPFL2QLptIdV4EAMte_XwnMsSwJ9QBdv71VwPAqhSut3EChIz3c5mvmTVB2Db9QIfPijMG3C07&_nc_zt=24&_nc_ht=scontent-cdg4-3.xx&edm=AP4hL3IEAAAA&_nc_gid=8fzx8IixdTjyrXhFfKtvgQ&_nc_tpa=Q5bMBQFLKSfnc7dx9F8sx_6Pvy0MBosPlLJmv47H7_1FujNp9GycWkLekQeZzf7eUH63XW83WcME&oh=00_AfekwzMzxDcBVH8x3-7dfUjb7WTaWVkGBpq0-YLmdAT_fw&oe=690226A8"
+        "imageUrl": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=UuxmoBm4MK4Q7kNvwGGPFij&_nc_oc=AdmKB1J1iqlJdPywFouUAfaDHBgMK2tmFke13Pmanid3umXs9ru9wnycyB2URuhXvI7fzoS80BkOJeR7oxWSELxC&_nc_zt=24&_nc_ht=scontent-cdg4-3.xx&edm=AP4hL3IEAAAA&_nc_gid=KS883QIPqdg-ups5tDp6Zg&_nc_tpa=Q5bMBQGVWuUA7MJGVd6ngNXUZqzjQTNbXQw39lllkpi3gidq_O_Y3pvH8NnYQFpMX9EZ6ZKyy52p&oh=00_AfeqG1gGkQYx9m4d_yT3zMmcKXHytbKjfAgn9-pTYwgx8w&oe=690226A8"
       },
       "track": {
-        "uri": "spotify:track:6epn3r7S14KUqlReYr77hA",
-        "name": "Baby",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273629dc9e2e3bc20bbd7d92e4a",
+        "uri": "spotify:track:1XGmzt0PVuFgQYYnV2It7A",
+        "name": "Payphone",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fc8633e22a7dba6aab817bff",
         "album": {
-          "uri": "spotify:album:3BmcYMh0KYsimWL6p2gPa9",
-          "name": "My World 2.0"
+          "uri": "spotify:album:6ijGiBcBfUwkoyHn5VUHU2",
+          "name": "Overexposed Track By Track"
         },
         "artist": {
-          "uri": "spotify:artist:1uNFoZAHBGtllmzznpCI3s",
-          "name": "Justin Bieber, Ludacris"
+          "uri": "spotify:artist:04gDigrS5kc9YWfZHwBETP",
+          "name": "Maroon 5, Wiz Khalifa"
         },
         "context": {
           "uri": "spotify:playlist:0QEo3ruU2D2yDwBoQBm3M8",
