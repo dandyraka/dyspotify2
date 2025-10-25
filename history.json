@@ -1,5 +1,14 @@
 [
   {
+    "timestamp": 1761385007356,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Mungkinkah",
+    "artist": "Stinky",
+    "uri": "spotify:track:7dlnTQMqvzoJe649aLgUdb",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731478f987f79b3a31169235fa"
+  },
+  {
     "timestamp": 1761325865976,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -79,14 +88,5 @@
     "artist": "Bondan Prakoso, Fade2Black",
     "uri": "spotify:track:0yyq5KJy05sDtzuzQnQAWR",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d0ba0e1970aadbdc66003d5c"
-  },
-  {
-    "timestamp": 1761323750044,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Jaga Slalu Hatimu",
-    "artist": "Seventeen",
-    "uri": "spotify:track:3YZQseFqB5LVy9VcfVv7dp",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27380fc9f89ca88ed1b77eb12b7"
   }
 ]
