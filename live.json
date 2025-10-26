@@ -1,3 +1,30 @@
 {
-  "friends": []
+  "friends": [
+    {
+      "timestamp": 1761522862795,
+      "user": {
+        "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
+        "name": "poemstars🌼🌟",
+        "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
+      },
+      "track": {
+        "uri": "spotify:track:1xFliXOpcu7E89AsDAZ7JV",
+        "name": "Breathe Again",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d54131134a4b22bf1ccd6042",
+        "album": {
+          "uri": "spotify:album:73ojqvZakvdkBxSg9pyPqz",
+          "name": "Toni Braxton"
+        },
+        "artist": {
+          "uri": "spotify:artist:3X458ddYA2YcVWuVIGGOYe",
+          "name": "Toni Braxton"
+        },
+        "context": {
+          "uri": null,
+          "name": null,
+          "index": 0
+        }
+      }
+    }
+  ]
 }
