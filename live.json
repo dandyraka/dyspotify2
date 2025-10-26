@@ -1,3 +1,30 @@
 {
-  "friends": []
+  "friends": [
+    {
+      "timestamp": 1761474819421,
+      "user": {
+        "uri": "spotify:user:dandyraka_",
+        "name": "Dandy 🫵🏻😁",
+        "imageUrl": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=v_AZfweufPQQ7kNvwF_aPlv&_nc_oc=AdlJgxNWflZD0rO2szkzNSXocEvk1Okx6a-kPxRuCjF0aKChn0NutLc61KpeuOn4Ul8Hyc7g-RtoSNPFL8asRMHn&_nc_zt=24&_nc_ht=scontent-fra3-2.xx&edm=AP4hL3IEAAAA&_nc_gid=mUfmOrBz_gil-lGD7dkCag&_nc_tpa=Q5bMBQEw7ly27eyszS4OF7yO_xSy78mMFLpQAFwx4EpsT8Syb2s37RMnDs4nxlVsGUNnxvwq6-ql&oh=00_Afd5N4HW7u2wSNUGsLu30kibxNvKMDCldrwSypVQHRO_Cw&oe=69037828"
+      },
+      "track": {
+        "uri": "spotify:track:5qIjpAWyp4De0E3qGTFw2U",
+        "name": "Kaka Main Salah",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735b543be0943a622a4ca3601d",
+        "album": {
+          "uri": "spotify:album:275JZC2hPEmKHEpAZDAvEO",
+          "name": "Kaka Main Salah"
+        },
+        "artist": {
+          "uri": "spotify:artist:03viIgoUyg6gfAcID5hRCm",
+          "name": "Kapthenpurek, Silet Open Up"
+        },
+        "context": {
+          "uri": "spotify:playlist:6gzRjcJqzdM1M6bpOZsWsl",
+          "name": "playlist",
+          "index": 0
+        }
+      }
+    }
+  ]
 }
