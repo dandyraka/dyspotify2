@@ -1,3 +1,30 @@
 {
-  "friends": []
+  "friends": [
+    {
+      "timestamp": 1761564596087,
+      "user": {
+        "uri": "spotify:user:dandyraka_",
+        "name": "Dandy 🫵🏻😁",
+        "imageUrl": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=v_AZfweufPQQ7kNvwErUzf3&_nc_oc=Adm_tit3ttRKhWxV1Y9mPJfS3WNM1UlmzsuXKP39HhnZ3XqSwYXx-NixDnH9ZA-IbrrPNK4FHXQylvmLjx4tUq4e&_nc_zt=24&_nc_ht=scontent-ord5-1.xx&edm=AP4hL3IEAAAA&_nc_gid=Yb3_SMBJvfLdzdOaqfYSdA&_nc_tpa=Q5bMBQHz4d2jqZP_Dmsy5U-cYmRmUTmZS0w6tKKueoN1g6r6IAr-61ZMYH8-TylnkaJqYkKvjWhy&oh=00_Afd_ufN-gpgZZLf_ivlq2xyghiTyRBkw3WQekKq0mnccfA&oe=6904C9A8"
+      },
+      "track": {
+        "uri": "spotify:track:49DjNBl1fifXz28oWBlLLc",
+        "name": "Lagu Pesta Timur Akades - Remastered 2023",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c178b3cb7d52a4795d8470f4",
+        "album": {
+          "uri": "spotify:album:0jtvEaRfluXMGWKbTB8rlJ",
+          "name": "Lagu Pesta Timur Akades (Remastered 2023)"
+        },
+        "artist": {
+          "uri": "spotify:artist:5naPJsWUJ6y22yKXA6dX36",
+          "name": "Silet Open Up"
+        },
+        "context": {
+          "uri": "spotify:playlist:6gzRjcJqzdM1M6bpOZsWsl",
+          "name": "playlist",
+          "index": 0
+        }
+      }
+    }
+  ]
 }
