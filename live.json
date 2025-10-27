@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1761564596087,
+      "timestamp": 1761565295886,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=v_AZfweufPQQ7kNvwErUzf3&_nc_oc=Adm_tit3ttRKhWxV1Y9mPJfS3WNM1UlmzsuXKP39HhnZ3XqSwYXx-NixDnH9ZA-IbrrPNK4FHXQylvmLjx4tUq4e&_nc_zt=24&_nc_ht=scontent-ord5-1.xx&edm=AP4hL3IEAAAA&_nc_gid=Yb3_SMBJvfLdzdOaqfYSdA&_nc_tpa=Q5bMBQHz4d2jqZP_Dmsy5U-cYmRmUTmZS0w6tKKueoN1g6r6IAr-61ZMYH8-TylnkaJqYkKvjWhy&oh=00_Afd_ufN-gpgZZLf_ivlq2xyghiTyRBkw3WQekKq0mnccfA&oe=6904C9A8"
+        "imageUrl": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=v_AZfweufPQQ7kNvwF95qz3&_nc_oc=AdmIntgDzXp-odapeE3V2goKj2wbhUOniezfuxiohWYpCT-yNAEeBU50zNV2G7Es33IceNDlXP9xRKrZ9O4xHhn0&_nc_zt=24&_nc_ht=scontent-ord5-1.xx&edm=AP4hL3IEAAAA&_nc_gid=hrKKSZ8Y_uYZcPhvJ4UFVw&_nc_tpa=Q5bMBQG132CFjwh2YF9UA_m3tOalA09ajN1g_KyIBjcKc5ZivzCKvE7IMYCHBuUTf4jz8ttISRZ6&oh=00_Affr129FrVwrehR2GkQRxQxPsBV3XuWBn1rShPjYo7riLg&oe=690501E8"
       },
       "track": {
-        "uri": "spotify:track:49DjNBl1fifXz28oWBlLLc",
-        "name": "Lagu Pesta Timur Akades - Remastered 2023",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c178b3cb7d52a4795d8470f4",
+        "uri": "spotify:track:2QaGt9fGIRwUP0WFN2A2cv",
+        "name": "Kaka Gaya Lambat",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ad4fe10f0f6b0241b04de438",
         "album": {
-          "uri": "spotify:album:0jtvEaRfluXMGWKbTB8rlJ",
-          "name": "Lagu Pesta Timur Akades (Remastered 2023)"
+          "uri": "spotify:album:4pm7j2UFgjewFTCmIR1QI5",
+          "name": "Kaka Gaya Lambat"
         },
         "artist": {
-          "uri": "spotify:artist:5naPJsWUJ6y22yKXA6dX36",
-          "name": "Silet Open Up"
+          "uri": "spotify:artist:1BGc4YCX6U5kgJSwvNXE72",
+          "name": "Ona Hetharua"
         },
         "context": {
           "uri": "spotify:playlist:6gzRjcJqzdM1M6bpOZsWsl",
