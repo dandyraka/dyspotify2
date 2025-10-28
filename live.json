@@ -1,30 +1,3 @@
 {
-  "friends": [
-    {
-      "timestamp": 1761688455820,
-      "user": {
-        "uri": "spotify:user:dandyraka_",
-        "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=v_AZfweufPQQ7kNvwHtDTPz&_nc_oc=Adnnio1ZEObiSr44-oGZkr0rLXubmFZyqdOzSx6aQnAVkxUo8u0aatDgQWvy5GogeLJIRxTc9F9A8HF-TMhViN68&_nc_zt=24&_nc_ht=scontent-yyz1-1.xx&edm=AP4hL3IEAAAA&_nc_gid=UHVpz43vEUT3wh72pkPpUg&_nc_tpa=Q5bMBQGkwyt3Vx5wZ1Se10YmqqE7PhoWyq2psahfOUR3W44OjW88wqxI9o0THw0_yTSW1njG7uFW&oh=00_AffNM-7jL2TVUu8C7mm-swCYA4X096e-CLsyFmmJtitdaQ&oe=6906FC28"
-      },
-      "track": {
-        "uri": "spotify:track:7EJn4U6IySwLSfLZX07muY",
-        "name": "Ngapain Repot",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27307278054d9d8abbaddd4228f",
-        "album": {
-          "uri": "spotify:album:0hEt3PH6b53bkKUcjG09Ee",
-          "name": "Ngapain Repot"
-        },
-        "artist": {
-          "uri": "spotify:artist:0v1axjG0KwIz3aciZffFMu",
-          "name": "Toton Caribo, Wizz Baker, Fresly Nikijuluw"
-        },
-        "context": {
-          "uri": "spotify:playlist:6gzRjcJqzdM1M6bpOZsWsl",
-          "name": "playlist",
-          "index": 0
-        }
-      }
-    }
-  ]
+  "friends": []
 }
