@@ -1,5 +1,14 @@
 [
   {
+    "timestamp": 1761688281285,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Kaka Gaya Lambat",
+    "artist": "Ona Hetharua",
+    "uri": "spotify:track:2QaGt9fGIRwUP0WFN2A2cv",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ad4fe10f0f6b0241b04de438"
+  },
+  {
     "timestamp": 1761565186036,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -79,14 +88,5 @@
     "artist": "Juan Reza",
     "uri": "spotify:track:7lulQZKlbZzBKsK4rfP8h5",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739f9f290bf8491ef758344e5f"
-  },
-  {
-    "timestamp": 1761474529852,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Stecu Stecu",
-    "artist": "Faris Adam",
-    "uri": "spotify:track:7KH83MvjlmxclCUTRE9zw2",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27384fed351956ace33dd5b249a"
   }
 ]
