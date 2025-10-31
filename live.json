@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1761893372231,
+      "timestamp": 1761893955897,
       "user": {
         "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
         "name": "poemstars🌼🌟",
         "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
       },
       "track": {
-        "uri": "spotify:track:7ojaR6Rp7lgu64RoOaSn6a",
-        "name": "Biar Menjadi Kenangan",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732b19a0f454d82ac1ac8004ab",
+        "uri": "spotify:track:0FERqRAVmXwPasxY5Jt8k1",
+        "name": "Biarkanlah",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f018e2376d8060e0ba1112ab",
         "album": {
-          "uri": "spotify:album:7b9Lm3r0MDZM4MCreFJi9c",
-          "name": "Biar Menjadi Kenangan"
+          "uri": "spotify:album:59KvITHzZaIAfs7lpHSbrY",
+          "name": "Handmade"
         },
         "artist": {
           "uri": "spotify:artist:5OZXWMwDhlYBRvoOfcX0sk",
-          "name": "Raisa, Ahmad Dhani"
+          "name": "Raisa"
         },
         "context": {
           "uri": null,
