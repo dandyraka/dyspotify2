@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1762007463491,
+      "timestamp": 1762008242358,
       "user": {
         "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
         "name": "poemstars🌼🌟",
         "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
       },
       "track": {
-        "uri": "spotify:track:6kE1B8FpJhVRR14jDleyHY",
-        "name": "Lain Punya Story",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735f7013b5001d648b298e0b5e",
+        "uri": "spotify:track:5CKHQCnxs8gXpsiCmMBMXO",
+        "name": "Di Bawah Bulan",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27399645863bdc0b9734f646e10",
         "album": {
-          "uri": "spotify:album:4olOxa7IXJABWbz9c4FO3y",
-          "name": "Lain Punya Story"
+          "uri": "spotify:album:2F3M39tS7SpDui9wSfm8EU",
+          "name": "Di Bawah Bulan Di Atas Atap"
         },
         "artist": {
-          "uri": "spotify:artist:3N6IubtRCAAGAhxFVD6lVH",
-          "name": "Fury+, Concerto"
+          "uri": "spotify:artist:6oW4eaSyUiBItGKBghBSTe",
+          "name": "PORIS, Bhanz, Wicigo Shawty, Concerto"
         },
         "context": {
           "uri": null,
