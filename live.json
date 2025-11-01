@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1762008242358,
+      "timestamp": 1762008830143,
       "user": {
         "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
         "name": "poemstars🌼🌟",
         "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
       },
       "track": {
-        "uri": "spotify:track:5CKHQCnxs8gXpsiCmMBMXO",
-        "name": "Di Bawah Bulan",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27399645863bdc0b9734f646e10",
+        "uri": "spotify:track:29oaLVw5BEusRDauIyCfwK",
+        "name": "Minggu",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c7c2993e34888daca00f8c25",
         "album": {
-          "uri": "spotify:album:2F3M39tS7SpDui9wSfm8EU",
-          "name": "Di Bawah Bulan Di Atas Atap"
+          "uri": "spotify:album:20BlkwZZJfzNj6xTxPrehi",
+          "name": "Minggu"
         },
         "artist": {
-          "uri": "spotify:artist:6oW4eaSyUiBItGKBghBSTe",
-          "name": "PORIS, Bhanz, Wicigo Shawty, Concerto"
+          "uri": "spotify:artist:5L3RqiyBaI1VDhbNkzhdjc",
+          "name": "White Chorus, Dzulfahmi"
         },
         "context": {
           "uri": null,
