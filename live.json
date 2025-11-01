@@ -1,19 +1,19 @@
 {
   "friends": [
     {
-      "timestamp": 1761982111423,
+      "timestamp": 1761982694283,
       "user": {
         "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
         "name": "poemstars🌼🌟",
         "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
       },
       "track": {
-        "uri": "spotify:track:3V38fhMHZvF8blUSepXWcn",
-        "name": "Lagu Terakhir Untukmu",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c6954b8d6cb1637075223bcc",
+        "uri": "spotify:track:47fft3IJn3KKpC1nrJnOBg",
+        "name": "Percayalah - New",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273382b1b7f79e2e760b9ac188e",
         "album": {
-          "uri": "spotify:album:54kJ2LnLUi8jhkgtgJaIXc",
-          "name": "Everything We Are Everything"
+          "uri": "spotify:album:0lmWHPA0DAJY2xKscafErm",
+          "name": "Our Biggest Thing Ever"
         },
         "artist": {
           "uri": "spotify:artist:1v1khTmozNfxB2ET1Ep288",
