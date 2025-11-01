@@ -1,3 +1,30 @@
 {
-  "friends": []
+  "friends": [
+    {
+      "timestamp": 1762007463491,
+      "user": {
+        "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
+        "name": "poemstars🌼🌟",
+        "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
+      },
+      "track": {
+        "uri": "spotify:track:6kE1B8FpJhVRR14jDleyHY",
+        "name": "Lain Punya Story",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735f7013b5001d648b298e0b5e",
+        "album": {
+          "uri": "spotify:album:4olOxa7IXJABWbz9c4FO3y",
+          "name": "Lain Punya Story"
+        },
+        "artist": {
+          "uri": "spotify:artist:3N6IubtRCAAGAhxFVD6lVH",
+          "name": "Fury+, Concerto"
+        },
+        "context": {
+          "uri": null,
+          "name": null,
+          "index": 0
+        }
+      }
+    }
+  ]
 }
