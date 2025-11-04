@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1762249545331,
+      "timestamp": 1762250069428,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=L8QK87KhFFQQ7kNvwGYRMsV&_nc_oc=AdmJqgf9xuUoIK81jb9CWWwEcxfSQ6Voepxruc61W-AMf1PiZbpQ6nfolY3qt2l3jQIsVUSO3dpFTkeLD4aesh8A&_nc_zt=24&_nc_ht=scontent-tpe1-1.xx&edm=AP4hL3IEAAAA&_nc_gid=yo2hYb17Q8vW1LcHKXutaw&_nc_tpa=Q5bMBQGE1Fj6Fw523JPBi3qQQE7ZtBKczXp8_Gr0_ow_MHxUkUhRcXZ_CRGDw7LNcGFwirCJ13HI&oh=00_Afhmq-RPORkOI8VpQgWd10rAJ_wxwL0XXQ6zIQDW99Rihw&oe=690EE528"
+        "imageUrl": "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=L8QK87KhFFQQ7kNvwFVg88I&_nc_oc=Adm4IGAI9fqlQgQyya_xLFLfaBBsAeRjkriyHEIIVAFXLCjmVfoRcwFRsuPhGLYZnFR7VZ9v-dWJ_4ygnrvqKfLJ&_nc_zt=24&_nc_ht=scontent-tpe1-1.xx&edm=AP4hL3IEAAAA&_nc_gid=DUxN5hwgbh4ZDYUUrLz_hA&_nc_tpa=Q5bMBQHMuegc8QbxvmLHDKiEQfKN4k1F1DSNhHBgfahQHjG60XNdYYwwWnIzdlGkU_R1cR3m9A-1&oh=00_AfiR3QClVmhTpMjvLxJTCc1dbKgRcLMIXxpKUaSw5ZFCBQ&oe=690F55A8"
       },
       "track": {
-        "uri": "spotify:track:7cuu0RqA5ZXghqrD202NZB",
-        "name": "Turun Naik Oles Trus",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27309595400b2797263bdcbe7a9",
+        "uri": "spotify:track:1UR1rZWFMNPSQXPzXRDbOD",
+        "name": "CARI JALAN",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d7af988aadb791c8fbc25446",
         "album": {
-          "uri": "spotify:album:3Pmth0V0P9SqSdhN429dSU",
-          "name": "Turun Naik Oles Trus"
+          "uri": "spotify:album:5fyE1jguD8jamDc00FKi0l",
+          "name": "CARI JALAN"
         },
         "artist": {
-          "uri": "spotify:artist:38knw6ieb18VEEjlcc3j5S",
-          "name": "Fresh Boy, Blasta Rap Family"
+          "uri": "spotify:artist:33NVGhA6i1idU7DQEt1EIE",
+          "name": "ALAN DARMAWAN, Eno Smaper"
         },
         "context": {
           "uri": "spotify:playlist:6gzRjcJqzdM1M6bpOZsWsl",
