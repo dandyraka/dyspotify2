@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1762246099407,
+      "timestamp": 1762246797865,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=L8QK87KhFFQQ7kNvwGYRMsV&_nc_oc=AdmJqgf9xuUoIK81jb9CWWwEcxfSQ6Voepxruc61W-AMf1PiZbpQ6nfolY3qt2l3jQIsVUSO3dpFTkeLD4aesh8A&_nc_zt=24&_nc_ht=scontent-tpe1-1.xx&edm=AP4hL3IEAAAA&_nc_gid=yo2hYb17Q8vW1LcHKXutaw&_nc_tpa=Q5bMBQGE1Fj6Fw523JPBi3qQQE7ZtBKczXp8_Gr0_ow_MHxUkUhRcXZ_CRGDw7LNcGFwirCJ13HI&oh=00_Afhmq-RPORkOI8VpQgWd10rAJ_wxwL0XXQ6zIQDW99Rihw&oe=690EE528"
+        "imageUrl": "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=L8QK87KhFFQQ7kNvwFVg88I&_nc_oc=Adm4IGAI9fqlQgQyya_xLFLfaBBsAeRjkriyHEIIVAFXLCjmVfoRcwFRsuPhGLYZnFR7VZ9v-dWJ_4ygnrvqKfLJ&_nc_zt=24&_nc_ht=scontent-tpe1-1.xx&edm=AP4hL3IEAAAA&_nc_gid=DUxN5hwgbh4ZDYUUrLz_hA&_nc_tpa=Q5bMBQHMuegc8QbxvmLHDKiEQfKN4k1F1DSNhHBgfahQHjG60XNdYYwwWnIzdlGkU_R1cR3m9A-1&oh=00_AfiR3QClVmhTpMjvLxJTCc1dbKgRcLMIXxpKUaSw5ZFCBQ&oe=690F55A8"
       },
       "track": {
-        "uri": "spotify:track:3t5KeMCQvibkmtydu4MZ1x",
-        "name": "Manyasal",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273644d16b8cebfd583b1aea623",
+        "uri": "spotify:track:2ee0BmPJ5TreZZHpXfgFy4",
+        "name": "Bola Bola",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737bc2ad3108da68f4ccc2bae3",
         "album": {
-          "uri": "spotify:album:1x4ctXNqKIekB98UQ68XCr",
-          "name": "Manyasal"
+          "uri": "spotify:album:0ufYBJRrFv1eBvaQ50aZME",
+          "name": "Bola Bola"
         },
         "artist": {
-          "uri": "spotify:artist:1BGc4YCX6U5kgJSwvNXE72",
-          "name": "Ona Hetharua"
+          "uri": "spotify:artist:0v1axjG0KwIz3aciZffFMu",
+          "name": "Toton Caribo"
         },
         "context": {
           "uri": null,
