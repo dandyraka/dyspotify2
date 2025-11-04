@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1762251515373,
+      "timestamp": 1762253001294,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=L8QK87KhFFQQ7kNvwFVg88I&_nc_oc=Adm4IGAI9fqlQgQyya_xLFLfaBBsAeRjkriyHEIIVAFXLCjmVfoRcwFRsuPhGLYZnFR7VZ9v-dWJ_4ygnrvqKfLJ&_nc_zt=24&_nc_ht=scontent-tpe1-1.xx&edm=AP4hL3IEAAAA&_nc_gid=DUxN5hwgbh4ZDYUUrLz_hA&_nc_tpa=Q5bMBQHMuegc8QbxvmLHDKiEQfKN4k1F1DSNhHBgfahQHjG60XNdYYwwWnIzdlGkU_R1cR3m9A-1&oh=00_AfiR3QClVmhTpMjvLxJTCc1dbKgRcLMIXxpKUaSw5ZFCBQ&oe=690F55A8"
+        "imageUrl": "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=L8QK87KhFFQQ7kNvwGX2ach&_nc_oc=Adly3yHL7n6EZdQAgYZQlXgA9skA8YeJmed1oXMl0CrZqotdFaGwUH5kGiSMB6bTbo1o37SFdZs7QCgy9UlcbyKy&_nc_zt=24&_nc_ht=scontent-tpe1-1.xx&edm=AP4hL3IEAAAA&_nc_gid=kNBzI12RwQkxTGXnBwxaIQ&_nc_tpa=Q5bMBQE1d9Gv7yl3RaV5qqq08KXQlUOtOYv_hcs1C1qX6RhQj1eMb4jUYtkkyOySpxZWk0cURE6M&oh=00_AficD1t3EBX_5UFwknXINCGeweOTAfdlrQ_Mv0rlR83bEg&oe=690FC628"
       },
       "track": {
-        "uri": "spotify:track:35Iek1qE9CnIDyKhKHoItA",
-        "name": "BOLEH COBA _ Nnyot Di Kenyot Blubujeo",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735cd1dd3e9d00a329854ce126",
+        "uri": "spotify:track:6s8DcPi9rizkWTm3EXfmY5",
+        "name": "Busu Setia (Buset) - Remastered 2023",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b7c3789eec2bdc3a769a627c",
         "album": {
-          "uri": "spotify:album:6hFET1ebTmMSAX8yTHxJLl",
-          "name": "BOLEH COBA _ Nnyot Di Kenyot Blubujeo"
+          "uri": "spotify:album:0N3uyxQHEJL2hNvVWQ7uCk",
+          "name": "Busu Setia (Buset) [Remastered 2023]"
         },
         "artist": {
-          "uri": "spotify:artist:5mEKmpxzVVsChteXXXvohM",
-          "name": "Kevin Rater, Embo Yodox"
+          "uri": "spotify:artist:5naPJsWUJ6y22yKXA6dX36",
+          "name": "Silet Open Up, KAKA ANDII, KHAPTENPUREK"
         },
         "context": {
           "uri": "spotify:playlist:6gzRjcJqzdM1M6bpOZsWsl",
