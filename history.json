@@ -1,5 +1,14 @@
 [
   {
+    "timestamp": 1762417719914,
+    "user": "poemstars🌼🌟",
+    "userId": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
+    "track": "Usai Di Sini",
+    "artist": "Raisa",
+    "uri": "spotify:track:6i5sIqE4lglanzlXXl8gCj",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f018e2376d8060e0ba1112ab"
+  },
+  {
     "timestamp": 1762414684920,
     "user": "poemstars🌼🌟",
     "userId": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
@@ -79,14 +88,5 @@
     "artist": "aiCHILOT, RYAN TMR",
     "uri": "spotify:track:58SF8TH8Az8x5s2ABMsFfd",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27354578c8844195923047cb78a"
-  },
-  {
-    "timestamp": 1762252611450,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Ubur Ubur Ikan Lele",
-    "artist": "Juan Reza, Jacson Zeran, Chesylino",
-    "uri": "spotify:track:3VoNMCYW9sID4Mi0Q6E8u8",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273522455caf8351f61c0242f43"
   }
 ]
