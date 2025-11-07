@@ -1,5 +1,14 @@
 [
   {
+    "timestamp": 1762498645034,
+    "user": "poemstars🌼🌟",
+    "userId": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
+    "track": "Tak Berharap Lagi",
+    "artist": "Raisa",
+    "uri": "spotify:track:1UJn9fyMNelBMvWTWu6FDZ",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27307be1344b144e28ff93cad9a"
+  },
+  {
     "timestamp": 1762417719914,
     "user": "poemstars🌼🌟",
     "userId": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
@@ -79,14 +88,5 @@
     "artist": "Silet Open Up, KAKA ANDII, KHAPTENPUREK",
     "uri": "spotify:track:6s8DcPi9rizkWTm3EXfmY5",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b7c3789eec2bdc3a769a627c"
-  },
-  {
-    "timestamp": 1762252786189,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "RASA SAYANGE - Remix",
-    "artist": "aiCHILOT, RYAN TMR",
-    "uri": "spotify:track:58SF8TH8Az8x5s2ABMsFfd",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27354578c8844195923047cb78a"
   }
 ]
