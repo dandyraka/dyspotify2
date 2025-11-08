@@ -1,3 +1,30 @@
 {
-  "friends": []
+  "friends": [
+    {
+      "timestamp": 1762584874248,
+      "user": {
+        "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
+        "name": "poemstars🌼🌟",
+        "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
+      },
+      "track": {
+        "uri": "spotify:track:7aeMU6Rw4yxTD4e4Cn13HU",
+        "name": "Penantian",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c6954b8d6cb1637075223bcc",
+        "album": {
+          "uri": "spotify:album:54kJ2LnLUi8jhkgtgJaIXc",
+          "name": "Everything We Are Everything"
+        },
+        "artist": {
+          "uri": "spotify:artist:1v1khTmozNfxB2ET1Ep288",
+          "name": "Last Child"
+        },
+        "context": {
+          "uri": null,
+          "name": null,
+          "index": 0
+        }
+      }
+    }
+  ]
 }
