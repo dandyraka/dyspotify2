@@ -1,26 +1,26 @@
 {
   "friends": [
     {
-      "timestamp": 1762586019970,
+      "timestamp": 1762586923401,
       "user": {
         "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
         "name": "poemstars🌼🌟",
         "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
       },
       "track": {
-        "uri": "spotify:track:7aeMU6Rw4yxTD4e4Cn13HU",
-        "name": "Penantian",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c6954b8d6cb1637075223bcc",
+        "uri": "spotify:track:25SGHunHyazw8bWc88qJiV",
+        "name": "Ku Tak Mendua",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e0c5a00e4f420075996b593d",
         "album": {
-          "uri": "spotify:album:54kJ2LnLUi8jhkgtgJaIXc",
-          "name": "Everything We Are Everything"
+          "uri": "spotify:album:7bdaCUKy7JYtvkD0ynRtny",
+          "name": "Marcell (Bonus Version)"
         },
         "artist": {
-          "uri": "spotify:artist:1v1khTmozNfxB2ET1Ep288",
-          "name": "Last Child"
+          "uri": "spotify:artist:0JvUFDnuWPbuyRa6ptVkLk",
+          "name": "Marcell"
         },
         "context": {
-          "uri": "spotify:album:54kJ2LnLUi8jhkgtgJaIXc",
+          "uri": "spotify:album:5hSfmtI2yqt541RTjuC8TU",
           "name": "album",
           "index": 0
         }
