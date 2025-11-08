@@ -1,7 +1,7 @@
 {
   "friends": [
     {
-      "timestamp": 1762584874248,
+      "timestamp": 1762586019970,
       "user": {
         "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
         "name": "poemstars🌼🌟",
@@ -20,8 +20,8 @@
           "name": "Last Child"
         },
         "context": {
-          "uri": null,
-          "name": null,
+          "uri": "spotify:album:54kJ2LnLUi8jhkgtgJaIXc",
+          "name": "album",
           "index": 0
         }
       }
