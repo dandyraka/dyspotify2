@@ -1,27 +1,27 @@
 {
   "friends": [
     {
-      "timestamp": 1762757706579,
+      "timestamp": 1762758955890,
       "user": {
         "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
         "name": "poemstars🌼🌟",
         "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
       },
       "track": {
-        "uri": "spotify:track:52vj070nfk5z3ZCAcXPQmZ",
-        "name": "Orang Ke 3",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738cf8c7b78984661aad7b590a",
+        "uri": "spotify:track:0FERqRAVmXwPasxY5Jt8k1",
+        "name": "Biarkanlah",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f018e2376d8060e0ba1112ab",
         "album": {
-          "uri": "spotify:album:1omMrtVETWau6zIf3ff4ae",
-          "name": "Say Hi To Hivi!"
+          "uri": "spotify:album:59KvITHzZaIAfs7lpHSbrY",
+          "name": "Handmade"
         },
         "artist": {
-          "uri": "spotify:artist:4ubEZ6sMsrrbQChueyouCC",
-          "name": "Hivi!"
+          "uri": "spotify:artist:5OZXWMwDhlYBRvoOfcX0sk",
+          "name": "Raisa"
         },
         "context": {
-          "uri": null,
-          "name": null,
+          "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy:collection",
+          "name": "collection",
           "index": 0
         }
       }
