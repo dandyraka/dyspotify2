@@ -1,3 +1,30 @@
 {
-  "friends": []
+  "friends": [
+    {
+      "timestamp": 1762757706579,
+      "user": {
+        "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
+        "name": "poemstars🌼🌟",
+        "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
+      },
+      "track": {
+        "uri": "spotify:track:52vj070nfk5z3ZCAcXPQmZ",
+        "name": "Orang Ke 3",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738cf8c7b78984661aad7b590a",
+        "album": {
+          "uri": "spotify:album:1omMrtVETWau6zIf3ff4ae",
+          "name": "Say Hi To Hivi!"
+        },
+        "artist": {
+          "uri": "spotify:artist:4ubEZ6sMsrrbQChueyouCC",
+          "name": "Hivi!"
+        },
+        "context": {
+          "uri": null,
+          "name": null,
+          "index": 0
+        }
+      }
+    }
+  ]
 }
