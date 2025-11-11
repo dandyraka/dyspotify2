@@ -1,26 +1,26 @@
 {
   "friends": [
     {
-      "timestamp": 1762851504311,
+      "timestamp": 1762853204145,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
         "imageUrl": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=B_zCqEefuTcQ7kNvwHw03-o&_nc_oc=AdnUYEM0a2WTx4LCtCZYsZctjVHqHU98ayGV0QbHedgBfkXF8no_SUP7Vg6gS7ehwyO8_5pnot7bnh6iAAVFvxqC&_nc_zt=24&_nc_ht=scontent-cdg4-3.xx&edm=AP4hL3IEAAAA&_nc_gid=2XaUcEN7-8_R_L89o-UbHw&_nc_tpa=Q5bMBQFrXKTY6kApj9wT09k_GEn7g6lELN3nDKRCOeOjydniPuadMh02Uz0IrVdVgEavhQcenAKQ&oh=00_AfgdztFRd2UDz1JtmBZG8W0YFIF4Xz1GnqfhOee3yh7TtA&oe=69189028"
       },
       "track": {
-        "uri": "spotify:track:0J5CHRWnxQOPleOM3coNBE",
-        "name": "TRAUMA",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730fea3e9ccdc29aeb2d3dfe1a",
+        "uri": "spotify:track:4Z0TOhOmRqyVqJHzF1BQFu",
+        "name": "Tenda Biru",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d534aaaa229b49280d97b134",
         "album": {
-          "uri": "spotify:album:180HfoxYvZltVcdbGicPhC",
-          "name": "TRAUMA"
+          "uri": "spotify:album:0zyNqF00StJ0Zr20glnwKr",
+          "name": "Artis Terfavorit (1999 - 2000)"
         },
         "artist": {
-          "uri": "spotify:artist:1ifI2LYQ6Z5aobCTFvVYDz",
-          "name": "Jemz Beat, Mr Crazzy, Nox, NMK, Ez Mexican, LESTO BACO RAP, BRINGIN HOME"
+          "uri": "spotify:artist:34dliIKstHRew0OYRELvOL",
+          "name": "Desy Ratnasari"
         },
         "context": {
-          "uri": "spotify:playlist:6gzRjcJqzdM1M6bpOZsWsl",
+          "uri": "spotify:playlist:4cVKuwtxurQ2ixsY33amnZ",
           "name": "playlist",
           "index": 0
         }
