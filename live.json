@@ -1,19 +1,19 @@
 {
   "friends": [
     {
-      "timestamp": 1762854830480,
+      "timestamp": 1762856279128,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=B_zCqEefuTcQ7kNvwEVitKH&_nc_oc=Adlt268AXptOfQNNQygYL8NVs06mL1bpGNnYXLcCxjfT2IisGvmSkXMF0uXqqcNqvexD3fRNAUJz393eRw8EhaLZ&_nc_zt=24&_nc_ht=scontent-cdg4-3.xx&edm=AP4hL3IEAAAA&_nc_gid=J3JihhnxirNK20dQ-LLK-w&_nc_tpa=Q5bMBQEsLyr9C8Npt3AFIHOZZEs6tO80qDNBGArIocmCFPhldsBYA9TEY5RGeIavllm_0nVGyGSB&oh=00_AfisdL93xbL8w9_kg5eNkaxHQnEJBN8YO7I-NttT7BO47A&oe=6918C868"
+        "imageUrl": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=B_zCqEefuTcQ7kNvwHw03-o&_nc_oc=AdnUYEM0a2WTx4LCtCZYsZctjVHqHU98ayGV0QbHedgBfkXF8no_SUP7Vg6gS7ehwyO8_5pnot7bnh6iAAVFvxqC&_nc_zt=24&_nc_ht=scontent-cdg4-3.xx&edm=AP4hL3IEAAAA&_nc_gid=2XaUcEN7-8_R_L89o-UbHw&_nc_tpa=Q5bMBQFrXKTY6kApj9wT09k_GEn7g6lELN3nDKRCOeOjydniPuadMh02Uz0IrVdVgEavhQcenAKQ&oh=00_AfgdztFRd2UDz1JtmBZG8W0YFIF4Xz1GnqfhOee3yh7TtA&oe=69189028"
       },
       "track": {
-        "uri": "spotify:track:5LVv7eT7LU7xplNtYiRpkK",
-        "name": "Cinta Dan Permata",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27341569a72e14c297cdaf79b8f",
+        "uri": "spotify:track:6KhxYrAuZAQlvVQRQBo4zA",
+        "name": "Gereja Tua",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738b9e6192c42ae20942bd4c9d",
         "album": {
-          "uri": "spotify:album:5KovFQfxEge5311hwHhSY8",
-          "name": "Best of The Best PANBERS vol. 1"
+          "uri": "spotify:album:5iC7a1X8UOMc3Yem6WzwtI",
+          "name": "35 Tahun Album Special Platinum Panbers"
         },
         "artist": {
           "uri": "spotify:artist:1cYy6SfKdpAPH83wIR7GBb",
