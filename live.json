@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1762853204145,
+      "timestamp": 1762854139798,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
         "imageUrl": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=B_zCqEefuTcQ7kNvwHw03-o&_nc_oc=AdnUYEM0a2WTx4LCtCZYsZctjVHqHU98ayGV0QbHedgBfkXF8no_SUP7Vg6gS7ehwyO8_5pnot7bnh6iAAVFvxqC&_nc_zt=24&_nc_ht=scontent-cdg4-3.xx&edm=AP4hL3IEAAAA&_nc_gid=2XaUcEN7-8_R_L89o-UbHw&_nc_tpa=Q5bMBQFrXKTY6kApj9wT09k_GEn7g6lELN3nDKRCOeOjydniPuadMh02Uz0IrVdVgEavhQcenAKQ&oh=00_AfgdztFRd2UDz1JtmBZG8W0YFIF4Xz1GnqfhOee3yh7TtA&oe=69189028"
       },
       "track": {
-        "uri": "spotify:track:4Z0TOhOmRqyVqJHzF1BQFu",
-        "name": "Tenda Biru",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d534aaaa229b49280d97b134",
+        "uri": "spotify:track:2NsErYCkQuoIOzSd1WSDHV",
+        "name": "Akhir Cinta",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27341569a72e14c297cdaf79b8f",
         "album": {
-          "uri": "spotify:album:0zyNqF00StJ0Zr20glnwKr",
-          "name": "Artis Terfavorit (1999 - 2000)"
+          "uri": "spotify:album:5KovFQfxEge5311hwHhSY8",
+          "name": "Best of The Best PANBERS vol. 1"
         },
         "artist": {
-          "uri": "spotify:artist:34dliIKstHRew0OYRELvOL",
-          "name": "Desy Ratnasari"
+          "uri": "spotify:artist:1cYy6SfKdpAPH83wIR7GBb",
+          "name": "Panbers"
         },
         "context": {
           "uri": "spotify:playlist:4cVKuwtxurQ2ixsY33amnZ",
