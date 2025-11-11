@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1762849273325,
+      "timestamp": 1762850816843,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
         "imageUrl": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=B_zCqEefuTcQ7kNvwHw03-o&_nc_oc=AdnUYEM0a2WTx4LCtCZYsZctjVHqHU98ayGV0QbHedgBfkXF8no_SUP7Vg6gS7ehwyO8_5pnot7bnh6iAAVFvxqC&_nc_zt=24&_nc_ht=scontent-cdg4-3.xx&edm=AP4hL3IEAAAA&_nc_gid=2XaUcEN7-8_R_L89o-UbHw&_nc_tpa=Q5bMBQFrXKTY6kApj9wT09k_GEn7g6lELN3nDKRCOeOjydniPuadMh02Uz0IrVdVgEavhQcenAKQ&oh=00_AfgdztFRd2UDz1JtmBZG8W0YFIF4Xz1GnqfhOee3yh7TtA&oe=69189028"
       },
       "track": {
-        "uri": "spotify:track:59mnXxjpIkOodahw2K2Lih",
-        "name": "Pake Pake Kapa",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738206c0208a3d88417dc9f397",
+        "uri": "spotify:track:7LICSAp0PaQIloW8U2myuU",
+        "name": "Rindu Ambon",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731d8de12ab27590227b7a4011",
         "album": {
-          "uri": "spotify:album:0IdmcjxBBNnXAFT7VztEYn",
-          "name": "Pake Pake Kapa"
+          "uri": "spotify:album:2JyKVhvNvACTvPN4P8AEAU",
+          "name": "Rindu Ambon"
         },
         "artist": {
-          "uri": "spotify:artist:54f03CQWb5Wh7geWk3Le39",
-          "name": "Legi 483, Alta RapTwoW, Lhepe, Agung BlackZone"
+          "uri": "spotify:artist:4xiMaogVfKykfqg9Z4fBYw",
+          "name": "Chaken Supusepa"
         },
         "context": {
           "uri": "spotify:playlist:6gzRjcJqzdM1M6bpOZsWsl",
