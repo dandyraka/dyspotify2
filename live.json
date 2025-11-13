@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1763018143455,
+      "timestamp": 1763019143547,
       "user": {
         "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
         "name": "poemstars🌼🌟",
         "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
       },
       "track": {
-        "uri": "spotify:track:4Gmkqn3V7IMTkOmmiX7cbb",
-        "name": "On Bended Knee",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a94a1672a1fc0373b3e9aa7b",
+        "uri": "spotify:track:1CRtJS94Hq3PbBZT9LuF90",
+        "name": "Don't You Remember",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273164feb363334f93b6458d2a9",
         "album": {
-          "uri": "spotify:album:1DjxZpmeR9Dzu9tF4J44S7",
-          "name": "II"
+          "uri": "spotify:album:5duyQokC4FMcWPYTV9Gpf9",
+          "name": "21"
         },
         "artist": {
-          "uri": "spotify:artist:6O74knDqdv3XaWtkII7Xjp",
-          "name": "Boyz II Men"
+          "uri": "spotify:artist:4dpARuHxo51G3z768sgnrY",
+          "name": "Adele"
         },
         "context": {
           "uri": null,
