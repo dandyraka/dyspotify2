@@ -1,3 +1,30 @@
 {
-  "friends": []
+  "friends": [
+    {
+      "timestamp": 1763016643682,
+      "user": {
+        "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
+        "name": "poemstars🌼🌟",
+        "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
+      },
+      "track": {
+        "uri": "spotify:track:3l9OCOG3Vt6c2lxeMyGSIY",
+        "name": "One Last Cry",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ad04fbeaa120fc4782eda283",
+        "album": {
+          "uri": "spotify:album:2LftuOQxTIDRfHYOGaCJJG",
+          "name": "Brian McKnight"
+        },
+        "artist": {
+          "uri": "spotify:artist:6k0IBR0lU42s2GYpNX7kA9",
+          "name": "Brian McKnight"
+        },
+        "context": {
+          "uri": null,
+          "name": null,
+          "index": 0
+        }
+      }
+    }
+  ]
 }
