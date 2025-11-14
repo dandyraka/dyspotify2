@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1763127549314,
+      "timestamp": 1763128225418,
       "user": {
         "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
         "name": "poemstars🌼🌟",
         "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
       },
       "track": {
-        "uri": "spotify:track:5GMJVKfh0TbV1TjqBUa2et",
-        "name": "Masalah Masa Depan",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27349bdf0e981cbba25d48b44e0",
+        "uri": "spotify:track:2QMar9IHgWODGBsTnhtZTE",
+        "name": "Tentang Masa Depan / Satu Dua Langkah",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731c0fa89e0cfb7a1657dd94e1",
         "album": {
-          "uri": "spotify:album:0DMdiWcqnutCi81EqBXkF8",
-          "name": "Lagipula Hidup Akan Berakhir"
+          "uri": "spotify:album:14mGAUDDAdhy1Tsl67Ptdf",
+          "name": "Kelahiran Kala Nanti"
         },
         "artist": {
-          "uri": "spotify:artist:51kyrUsAVqUBcoDEMFkX12",
-          "name": "Hindia"
+          "uri": "spotify:artist:6Sp5KtLrCKSA0eLp0sHptK",
+          "name": "tradeto, Hindia"
         },
         "context": {
           "uri": null,
