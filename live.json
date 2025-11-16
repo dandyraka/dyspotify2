@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1763291518317,
+      "timestamp": 1763292408832,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
         "imageUrl": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=DmiUgoussG8Q7kNvwHK7Z6H&_nc_oc=AdnWtsGxd1LiGAwKzOhi-K0h22_MArRab5lflIJgj4MasWRhLIB8mYc3LRGyvzOvVGXA8_Ob-InLqBwwYMraA6QU&_nc_zt=24&_nc_ht=scontent-ams2-1.xx&edm=AP4hL3IEAAAA&_nc_gid=sjCYQxkEoZLVVpP5J6KS5g&_nc_tpa=Q5bMBQFy7BygtZQbN24zjkFR1njNWMU2EY5xIPFrBQQbBXxf8542RwMAJ-WEqJTLhfvfEU29_oCn&oh=00_Afhe3SNPOlB65U-07rouXlI4ytTjSoaVEQ8Z9Ex6TqejsA&oe=691F5FE8"
       },
       "track": {
-        "uri": "spotify:track:2Q04yYboBvjndrY8UlOy6K",
-        "name": "Cuma Saya",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dd4ddeb512f4bb9f918eccfc",
+        "uri": "spotify:track:3j9fd8QpvafkmOW2hYOyvE",
+        "name": "Paksa Rela",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27375979e34e88122381ec2bb92",
         "album": {
-          "uri": "spotify:album:3TTGQ6irk792JANS3QJ1OM",
-          "name": "Cuma Saya"
+          "uri": "spotify:album:7FtBoXDcZRWWVvhsXl99EP",
+          "name": "Paksa Rela"
         },
         "artist": {
-          "uri": "spotify:artist:3rwqNiaXGjSupUuLYwIc8j",
-          "name": "M.A.C"
+          "uri": "spotify:artist:5QXCcxxHa1JHarnTDy0AEm",
+          "name": "VEZTA"
         },
         "context": {
           "uri": "spotify:playlist:6gzRjcJqzdM1M6bpOZsWsl",
