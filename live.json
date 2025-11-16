@@ -1,3 +1,30 @@
 {
-  "friends": []
+  "friends": [
+    {
+      "timestamp": 1763289278987,
+      "user": {
+        "uri": "spotify:user:dandyraka_",
+        "name": "Dandy 🫵🏻😁",
+        "imageUrl": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=DmiUgoussG8Q7kNvwHHKQaX&_nc_oc=AdlLzAuAKe-ARx9ip9mcXwdXdQ_TrSTinJzwMpMzb9VWuHe48yDtgmA9QdYylw0fdYqVIZjEcRBhbibv1PmlOrSI&_nc_zt=24&_nc_ht=scontent-ams2-1.xx&edm=AP4hL3IEAAAA&_nc_gid=nsC9AlyIdjTLJXndQv65OQ&_nc_tpa=Q5bMBQHkqZtGgffH0Rp3wcp3Ln3RQJ8d0P7CDHI0nkm9FF3tTRz0I3J6BXmvHsKI4cIakZ2Q9z8f&oh=00_Afi_-JE4Iq12Q3PQDZSVOkV6Rn96p5psCYo0XzLnizIVfQ&oe=691EEF68"
+      },
+      "track": {
+        "uri": "spotify:track:4OpJlN1Jnxyy5LDjq6SQ7q",
+        "name": "Good Vibes Only",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27375d40e668e25406c946ac9b4",
+        "album": {
+          "uri": "spotify:album:44yIUDtGVfywiO9NmoLMcn",
+          "name": "Good Vibes Only"
+        },
+        "artist": {
+          "uri": "spotify:artist:6NGoDLVPJSucMbfLtU4LCU",
+          "name": "eSPe"
+        },
+        "context": {
+          "uri": "spotify:playlist:6gzRjcJqzdM1M6bpOZsWsl",
+          "name": "playlist",
+          "index": 0
+        }
+      }
+    }
+  ]
 }
