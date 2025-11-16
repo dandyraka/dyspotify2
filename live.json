@@ -1,30 +1,3 @@
 {
-  "friends": [
-    {
-      "timestamp": 1763286838946,
-      "user": {
-        "uri": "spotify:user:dandyraka_",
-        "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=DmiUgoussG8Q7kNvwHK7Z6H&_nc_oc=AdnWtsGxd1LiGAwKzOhi-K0h22_MArRab5lflIJgj4MasWRhLIB8mYc3LRGyvzOvVGXA8_Ob-InLqBwwYMraA6QU&_nc_zt=24&_nc_ht=scontent-ams2-1.xx&edm=AP4hL3IEAAAA&_nc_gid=sjCYQxkEoZLVVpP5J6KS5g&_nc_tpa=Q5bMBQFy7BygtZQbN24zjkFR1njNWMU2EY5xIPFrBQQbBXxf8542RwMAJ-WEqJTLhfvfEU29_oCn&oh=00_Afhe3SNPOlB65U-07rouXlI4ytTjSoaVEQ8Z9Ex6TqejsA&oe=691F5FE8"
-      },
-      "track": {
-        "uri": "spotify:track:5KcqsHMe8HE46OwALyGfat",
-        "name": "Nyong Timur",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730253de8c172433c4602db6c1",
-        "album": {
-          "uri": "spotify:album:5XUZIOCjBaPyc6JHHUJqDc",
-          "name": "Nyong Timur"
-        },
-        "artist": {
-          "uri": "spotify:artist:1xYlgkaNkn8iIJRpwJoqqM",
-          "name": "Gihon Marel"
-        },
-        "context": {
-          "uri": "spotify:playlist:6gzRjcJqzdM1M6bpOZsWsl",
-          "name": "playlist",
-          "index": 0
-        }
-      }
-    }
-  ]
+  "friends": []
 }
