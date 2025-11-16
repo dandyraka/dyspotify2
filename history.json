@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": 1763294016656,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Dai Tra Rindu",
+    "artist": "Ona Hetharua",
+    "uri": "spotify:track:5hgQ9WG1fugWsOdY4anawL",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734221108aeea6aaf4487d8b42"
+  },
+  {
+    "timestamp": 1763293720056,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Ko Tipu",
+    "artist": "Shine Of Black",
+    "uri": "spotify:track:1EMfxq6OtWSmLlaAxQvdti",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27345c8fe56c8b894f0aecf3421"
+  },
+  {
     "timestamp": 1763293439027,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -70,23 +88,5 @@
     "artist": "M.A.C",
     "uri": "spotify:track:2Q04yYboBvjndrY8UlOy6K",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dd4ddeb512f4bb9f918eccfc"
-  },
-  {
-    "timestamp": 1763291440551,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "De Yang Gatal Gatal Sa",
-    "artist": "Aldo Bz, Deasy Agaki",
-    "uri": "spotify:track:15WaYwX7zrn42fp2Cg9f4R",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735358fa7ccc2d7ad6f397d0db"
-  },
-  {
-    "timestamp": 1763291223883,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Tamang Pung Kisah",
-    "artist": "Fresly Nikijuluw",
-    "uri": "spotify:track:3jNA1yS1crzUeb4irPHIP2",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273559aaf8558fe417ca4d08c30"
   }
 ]
