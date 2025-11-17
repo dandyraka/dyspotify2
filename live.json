@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1763361253570,
+      "timestamp": 1763362510364,
       "user": {
         "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
         "name": "poemstars🌼🌟",
         "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
       },
       "track": {
-        "uri": "spotify:track:1myE3bHoWoSO5hyr3MxdHJ",
-        "name": "DYNAMITE",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ae830ccdfabaa96edefe9408",
+        "uri": "spotify:track:1xOqGUkyxGQRdCvGpvWKmL",
+        "name": "Gabriela",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f8d4d00ffe09373efb13ce29",
         "album": {
-          "uri": "spotify:album:0mk0S1Ytt2fDJYvc4AdzAQ",
-          "name": "DYNAMITE"
+          "uri": "spotify:album:6rpin9IVOuBEWBYnrA9hft",
+          "name": "Gabriela"
         },
         "artist": {
-          "uri": "spotify:artist:3SozjO3Lat463tQICI9LcE",
-          "name": "Tyla, Wizkid"
+          "uri": "spotify:artist:3c0gDdb9lhnHGFtP4prQpn",
+          "name": "KATSEYE"
         },
         "context": {
           "uri": null,

@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": 1763362085047,
+    "user": "poemstars🌼🌟",
+    "userId": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
+    "track": "Truth or Dare",
+    "artist": "Tyla",
+    "uri": "spotify:track:7axl6v0Yv4ksLVMt6XItpc",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d69acad4d4918387c0c8626f"
+  },
+  {
+    "timestamp": 1763361814912,
+    "user": "poemstars🌼🌟",
+    "userId": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
+    "track": "CHANEL",
+    "artist": "Tyla",
+    "uri": "spotify:track:4VxTzYm00mg82MuoT35Ja7",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733046c6716febe621c7a04cc8"
+  },
+  {
     "timestamp": 1763360994283,
     "user": "poemstars🌼🌟",
     "userId": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
@@ -70,23 +88,5 @@
     "artist": "Toton Caribo, Wizz Baker, Fresly Nikijuluw",
     "uri": "spotify:track:2e70v3Urrt8X2Ogz9ON1nM",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732d97f6574c38c3610a5235dc"
-  },
-  {
-    "timestamp": 1763294253486,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "MODE PESAWAT",
-    "artist": "Dandy Barakati, Dante Nababan",
-    "uri": "spotify:track:2LZONY3XRqbWYQcm3mRb1l",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27394b2fc77dd7b4a66bdcf2609"
-  },
-  {
-    "timestamp": 1763294016656,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Dai Tra Rindu",
-    "artist": "Ona Hetharua",
-    "uri": "spotify:track:5hgQ9WG1fugWsOdY4anawL",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734221108aeea6aaf4487d8b42"
   }
 ]
