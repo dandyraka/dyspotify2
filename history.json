@@ -1,5 +1,14 @@
 [
   {
+    "timestamp": 1763382971668,
+    "user": "poemstars🌼🌟",
+    "userId": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
+    "track": "Can't Keep My Cool",
+    "artist": "Durand Jones & The Indications, Durand Jones",
+    "uri": "spotify:track:3oFBSEqwzzaqHbiGMNdtVM",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27390310b29c260b6e29fea1f69"
+  },
+  {
     "timestamp": 1763365707817,
     "user": "poemstars🌼🌟",
     "userId": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
@@ -79,14 +88,5 @@
     "artist": "Justin Bieber, Chance the Rapper",
     "uri": "spotify:track:3JsydWaf2Ev4ehaLUjj3SY",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27358ae8fddecbd2630005409c9"
-  },
-  {
-    "timestamp": 1763362894821,
-    "user": "poemstars🌼🌟",
-    "userId": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
-    "track": "Cintai Aku Lagi",
-    "artist": "Agatha Suci",
-    "uri": "spotify:track:2oO1LitSJilTjmHCkX8xbi",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273eb982561aad87c65d56eb172"
   }
 ]
