@@ -1,30 +1,3 @@
 {
-  "friends": [
-    {
-      "timestamp": 1763567723565,
-      "user": {
-        "uri": "spotify:user:dandyraka_",
-        "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=IzrCHYhnqbAQ7kNvwE7Jd0_&_nc_oc=AdnT0HY-WV-mhKPutELgVimtp2VBIq1lG1hwezHhzx0BRapIY3kkb2_DOo6CN7qtutreXsp5R5upmwZvQ547LBnb&_nc_zt=24&_nc_ht=scontent-cdg4-3.xx&edm=AP4hL3IEAAAA&_nc_gid=n-25V199nmmw0KMvGYP9Xw&_nc_tpa=Q5bMBQHyZw5_a_oA5x7xs15t3g9trhRQLXtrptxROjH6Ovy2msCrVwzkVfLPCPW2ISfXhWnfKAVl&oh=00_AfhxSBcG8vj7v9mr19Ij3f9dtkRZC2MZNZ5bDLT8quKz7g&oe=69231C28"
-      },
-      "track": {
-        "uri": "spotify:track:09pjOS7jbVp1ahW8igArTZ",
-        "name": "DOLA",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e0a21500ce257ebea2d847a3",
-        "album": {
-          "uri": "spotify:album:1htw4rhCdHzbAW08LZRSTK",
-          "name": "DOLA"
-        },
-        "artist": {
-          "uri": "spotify:artist:2VyXluaQ6KiQdNLecBtLXY",
-          "name": "ANGGA DERMAWAN"
-        },
-        "context": {
-          "uri": "spotify:playlist:6gzRjcJqzdM1M6bpOZsWsl",
-          "name": "playlist",
-          "index": 0
-        }
-      }
-    }
-  ]
+  "friends": []
 }

@@ -1,5 +1,14 @@
 [
   {
+    "timestamp": 1763567861013,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "DOLA",
+    "artist": "ANGGA DERMAWAN",
+    "uri": "spotify:track:09pjOS7jbVp1ahW8igArTZ",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e0a21500ce257ebea2d847a3"
+  },
+  {
     "timestamp": 1763567622218,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -79,14 +88,5 @@
     "artist": "Ariana Grande",
     "uri": "spotify:track:6d8XhbAw4IoKPnVD07Sb9b",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ea28881e9e363244a4a2347b"
-  },
-  {
-    "timestamp": 1763365269054,
-    "user": "poemstars🌼🌟",
-    "userId": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
-    "track": "Problem",
-    "artist": "Ariana Grande, Iggy Azalea",
-    "uri": "spotify:track:7vS3Y0IKjde7Xg85LWIEdP",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa"
   }
 ]
