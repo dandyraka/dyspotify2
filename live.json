@@ -1,3 +1,30 @@
 {
-  "friends": []
+  "friends": [
+    {
+      "timestamp": 1763623906676,
+      "user": {
+        "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
+        "name": "poemstars🌼🌟",
+        "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
+      },
+      "track": {
+        "uri": "spotify:track:5iNFwT632oCjJPR5xi3lHn",
+        "name": "Denganmu Cinta",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732aea3fb8eb78755ea60fdd98",
+        "album": {
+          "uri": "spotify:album:2HqzRuq6yoZrx4UI6hvt5U",
+          "name": "Cuma Punya Hati"
+        },
+        "artist": {
+          "uri": "spotify:artist:4qb81y9DFygggMTArjhQMn",
+          "name": "Mytha Lestari"
+        },
+        "context": {
+          "uri": "spotify:playlist:37i9dQZF1E8JcBMjPBG2TU",
+          "name": "playlist",
+          "index": 0
+        }
+      }
+    }
+  ]
 }
