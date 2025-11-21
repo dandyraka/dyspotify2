@@ -1,3 +1,30 @@
 {
-  "friends": []
+  "friends": [
+    {
+      "timestamp": 1763740460408,
+      "user": {
+        "uri": "spotify:user:dandyraka_",
+        "name": "Dandy 🫵🏻😁",
+        "imageUrl": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=IzrCHYhnqbAQ7kNvwErMpkB&_nc_oc=AdloY-5H30TV5dAygfa98Umvf0jdIU8C80A7BgYEaYaJEw9YNH9u_HmgYU1PtDYnLN7qA3BWWcI7IEdahFxrwjT7&_nc_zt=24&_nc_ht=scontent-cdg4-3.xx&edm=AP4hL3IEAAAA&_nc_gid=3VNMU-YEx09Otu4ye836_w&_nc_tpa=Q5bMBQER029RqGqzINlpwqjrXcp9EhW9yH-qXA28IBVj0I7g_LPPwVN6OPibNSsnByZydA2xVuCU&oh=00_AfiJ7QjCw0h3JeSXvRzLcQ1OyEIZzFXBpUzd-rKaPoSD4Q&oe=69262FA8"
+      },
+      "track": {
+        "uri": "spotify:track:60jpDubMmVyR5molJp2TCm",
+        "name": "Ice Cream (with Selena Gomez)",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dea19d0032ddc086dabbe3c8",
+        "album": {
+          "uri": "spotify:album:0J1uiXQshfRtz2R8lgUlQk",
+          "name": "Ice Cream (with Selena Gomez)"
+        },
+        "artist": {
+          "uri": "spotify:artist:41MozSoPIsD1dJM0CLPjZF",
+          "name": "BLACKPINK, Selena Gomez"
+        },
+        "context": {
+          "uri": "spotify:playlist:2ewv9rVyhBylr8APFh9KMn",
+          "name": "playlist",
+          "index": 0
+        }
+      }
+    }
+  ]
 }

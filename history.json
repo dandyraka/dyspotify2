@@ -1,5 +1,14 @@
 [
   {
+    "timestamp": 1763740327146,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Violet",
+    "artist": "Connor Price, Killa",
+    "uri": "spotify:track:3zb9k8UUuKz5tYmKJvNqQA",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273222239adf28232f0153cbecf"
+  },
+  {
     "timestamp": 1763726737941,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -79,14 +88,5 @@
     "artist": "Armani White, Denzel Curry",
     "uri": "spotify:track:2PWVxWymGDZKj5BZJB7dAR",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273632256808cfff32df450f159"
-  },
-  {
-    "timestamp": 1763725199474,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "BAND4BAND (feat. Lil Baby)",
-    "artist": "Central Cee, Lil Baby",
-    "uri": "spotify:track:7iabz12vAuVQYyekFIWJxD",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ef0fcfed0cbc8fe11672b641"
   }
 ]
