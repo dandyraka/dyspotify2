@@ -1,19 +1,19 @@
 {
   "friends": [
     {
-      "timestamp": 1763721568868,
+      "timestamp": 1763722295644,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
         "imageUrl": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=IzrCHYhnqbAQ7kNvwH8H87r&_nc_oc=AdmdNJTTOMKuPEy4Ae13zAFadRQiUqVvwtDbRM09ygU6un7EwDLfJGJ7gXU8f5TecEIqJvmYhxIX6tkb3nB81oYD&_nc_zt=24&_nc_ht=scontent-cdg4-3.xx&edm=AP4hL3IEAAAA&_nc_gid=j0T6soof4984gHEXboacJQ&_nc_tpa=Q5bMBQGJNkQhN3XgtPdBLoRYQUod5N89WORrqTXOV2f4Oe_gSWFgUdWGLDx5p7GgRIOEPulaPcIh&oh=00_Afh_q0zsdUK9v2oheud5nFwI3KYwUCUmHfwNzeLp0_77MA&oe=692586E8"
       },
       "track": {
-        "uri": "spotify:track:3yfqSUWxFvZELEM4PmlwIR",
-        "name": "The Real Slim Shady",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dbb3dd82da45b7d7f31b1b42",
+        "uri": "spotify:track:7lQ8MOhq6IN2w8EYcFNSUk",
+        "name": "Without Me",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736ca5c90113b30c3c43ffb8f4",
         "album": {
-          "uri": "spotify:album:6t7956yu5zYf5A829XRiHC",
-          "name": "The Marshall Mathers LP"
+          "uri": "spotify:album:2cWBwpqMsDJC1ZUwz813lo",
+          "name": "The Eminem Show"
         },
         "artist": {
           "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR",
