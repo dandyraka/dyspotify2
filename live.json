@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1763725190939,
+      "timestamp": 1763725739311,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=IzrCHYhnqbAQ7kNvwH8H87r&_nc_oc=AdmdNJTTOMKuPEy4Ae13zAFadRQiUqVvwtDbRM09ygU6un7EwDLfJGJ7gXU8f5TecEIqJvmYhxIX6tkb3nB81oYD&_nc_zt=24&_nc_ht=scontent-cdg4-3.xx&edm=AP4hL3IEAAAA&_nc_gid=j0T6soof4984gHEXboacJQ&_nc_tpa=Q5bMBQGJNkQhN3XgtPdBLoRYQUod5N89WORrqTXOV2f4Oe_gSWFgUdWGLDx5p7GgRIOEPulaPcIh&oh=00_Afh_q0zsdUK9v2oheud5nFwI3KYwUCUmHfwNzeLp0_77MA&oe=692586E8"
+        "imageUrl": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=IzrCHYhnqbAQ7kNvwErMpkB&_nc_oc=AdloY-5H30TV5dAygfa98Umvf0jdIU8C80A7BgYEaYaJEw9YNH9u_HmgYU1PtDYnLN7qA3BWWcI7IEdahFxrwjT7&_nc_zt=24&_nc_ht=scontent-cdg4-3.xx&edm=AP4hL3IEAAAA&_nc_gid=3VNMU-YEx09Otu4ye836_w&_nc_tpa=Q5bMBQER029RqGqzINlpwqjrXcp9EhW9yH-qXA28IBVj0I7g_LPPwVN6OPibNSsnByZydA2xVuCU&oh=00_AfiJ7QjCw0h3JeSXvRzLcQ1OyEIZzFXBpUzd-rKaPoSD4Q&oe=69262FA8"
       },
       "track": {
-        "uri": "spotify:track:7iabz12vAuVQYyekFIWJxD",
-        "name": "BAND4BAND (feat. Lil Baby)",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ef0fcfed0cbc8fe11672b641",
+        "uri": "spotify:track:0mBP9X2gPCuapvpZ7TGDk3",
+        "name": "Left and Right (Feat. Jung Kook of BTS)",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731c069c836dc6cd5b34c310fe",
         "album": {
-          "uri": "spotify:album:4AzPr5SUpNF553eC1d3aRy",
-          "name": "BAND4BAND (feat. Lil Baby)"
+          "uri": "spotify:album:4LyiYe4wZ6XwzUne79hidF",
+          "name": "Left and Right (Feat. Jung Kook of BTS)"
         },
         "artist": {
-          "uri": "spotify:artist:5H4yInM5zmHqpKIoMNAx4r",
-          "name": "Central Cee, Lil Baby"
+          "uri": "spotify:artist:6VuMaDnrHyPL1p4EHjYLi7",
+          "name": "Charlie Puth, Jung Kook, BTS"
         },
         "context": {
           "uri": "spotify:playlist:2ewv9rVyhBylr8APFh9KMn",
