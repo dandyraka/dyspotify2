@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1763723620010,
+      "timestamp": 1763724540080,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
         "imageUrl": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=IzrCHYhnqbAQ7kNvwH8H87r&_nc_oc=AdmdNJTTOMKuPEy4Ae13zAFadRQiUqVvwtDbRM09ygU6un7EwDLfJGJ7gXU8f5TecEIqJvmYhxIX6tkb3nB81oYD&_nc_zt=24&_nc_ht=scontent-cdg4-3.xx&edm=AP4hL3IEAAAA&_nc_gid=j0T6soof4984gHEXboacJQ&_nc_tpa=Q5bMBQGJNkQhN3XgtPdBLoRYQUod5N89WORrqTXOV2f4Oe_gSWFgUdWGLDx5p7GgRIOEPulaPcIh&oh=00_Afh_q0zsdUK9v2oheud5nFwI3KYwUCUmHfwNzeLp0_77MA&oe=692586E8"
       },
       "track": {
-        "uri": "spotify:track:1gH1h30wkQdd9zhY3j7a8T",
-        "name": "THE SHADE",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273761dc49441e6d2a991d46dc7",
+        "uri": "spotify:track:6AI3ezQ4o3HUoP6Dhudph3",
+        "name": "Not Like Us",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731ea0c62b2339cbf493a999ad",
         "album": {
-          "uri": "spotify:album:2yI4m5Yu2tl8v0It5P9WVz",
-          "name": "WHO CARES?"
+          "uri": "spotify:album:5JjnoGJyOxfSZUZtk2rRwZ",
+          "name": "Not Like Us"
         },
         "artist": {
-          "uri": "spotify:artist:7pbDxGE6nQSZVfiFdq9lOL",
-          "name": "Rex Orange County"
+          "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg",
+          "name": "Kendrick Lamar"
         },
         "context": {
           "uri": "spotify:playlist:2ewv9rVyhBylr8APFh9KMn",
