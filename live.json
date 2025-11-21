@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1763718847096,
+      "timestamp": 1763720200890,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=IzrCHYhnqbAQ7kNvwHFkoyn&_nc_oc=AdnSe3FBjCFpD-gYRgz3iq1eFqMvaF5rH6dliYEE7kx3XsHxdHBer_YPiv2AEokEK4adoSHYi87bDrHsXhRgWd99&_nc_zt=24&_nc_ht=scontent-cdg4-3.xx&edm=AP4hL3IEAAAA&_nc_gid=D9bLvE_PtYYSYRL-mM4VrA&_nc_tpa=Q5bMBQEh1tv6dEe-8LGMcV0hSelNJDCaqUUcy0l0ac6vha1_CLWrSfbQWHg_9PGsIusEsYhAwIqd&oh=00_AfhZJTjnksTOYznnt02EiYMtfChzVZDZKI9kh4AQcap3AA&oe=69254EA8"
+        "imageUrl": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=IzrCHYhnqbAQ7kNvwH8H87r&_nc_oc=AdmdNJTTOMKuPEy4Ae13zAFadRQiUqVvwtDbRM09ygU6un7EwDLfJGJ7gXU8f5TecEIqJvmYhxIX6tkb3nB81oYD&_nc_zt=24&_nc_ht=scontent-cdg4-3.xx&edm=AP4hL3IEAAAA&_nc_gid=j0T6soof4984gHEXboacJQ&_nc_tpa=Q5bMBQGJNkQhN3XgtPdBLoRYQUod5N89WORrqTXOV2f4Oe_gSWFgUdWGLDx5p7GgRIOEPulaPcIh&oh=00_Afh_q0zsdUK9v2oheud5nFwI3KYwUCUmHfwNzeLp0_77MA&oe=692586E8"
       },
       "track": {
-        "uri": "spotify:track:74tLlkN3rgVzRqQJgPfink",
-        "name": "Money Trees",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732cd55246d935a8a77cb4859e",
+        "uri": "spotify:track:2FDTHlrBguDzQkp7PVj16Q",
+        "name": "Sprinter",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e3a09a9ae3f1fa102c110e60",
         "album": {
-          "uri": "spotify:album:0Oq3mWfexhsjUh0aNNBB5u",
-          "name": "good kid, m.A.A.d city"
+          "uri": "spotify:album:5l0QlaI3wdZpE7ggoO5Rwg",
+          "name": "Sprinter"
         },
         "artist": {
-          "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg",
-          "name": "Kendrick Lamar, Jay Rock"
+          "uri": "spotify:artist:6Ip8FS7vWT1uKkJSweANQK",
+          "name": "Dave, Central Cee"
         },
         "context": {
           "uri": "spotify:playlist:2ewv9rVyhBylr8APFh9KMn",
