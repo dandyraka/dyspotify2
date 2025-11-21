@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1763724540080,
+      "timestamp": 1763725190939,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
         "imageUrl": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=IzrCHYhnqbAQ7kNvwH8H87r&_nc_oc=AdmdNJTTOMKuPEy4Ae13zAFadRQiUqVvwtDbRM09ygU6un7EwDLfJGJ7gXU8f5TecEIqJvmYhxIX6tkb3nB81oYD&_nc_zt=24&_nc_ht=scontent-cdg4-3.xx&edm=AP4hL3IEAAAA&_nc_gid=j0T6soof4984gHEXboacJQ&_nc_tpa=Q5bMBQGJNkQhN3XgtPdBLoRYQUod5N89WORrqTXOV2f4Oe_gSWFgUdWGLDx5p7GgRIOEPulaPcIh&oh=00_Afh_q0zsdUK9v2oheud5nFwI3KYwUCUmHfwNzeLp0_77MA&oe=692586E8"
       },
       "track": {
-        "uri": "spotify:track:6AI3ezQ4o3HUoP6Dhudph3",
-        "name": "Not Like Us",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731ea0c62b2339cbf493a999ad",
+        "uri": "spotify:track:7iabz12vAuVQYyekFIWJxD",
+        "name": "BAND4BAND (feat. Lil Baby)",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ef0fcfed0cbc8fe11672b641",
         "album": {
-          "uri": "spotify:album:5JjnoGJyOxfSZUZtk2rRwZ",
-          "name": "Not Like Us"
+          "uri": "spotify:album:4AzPr5SUpNF553eC1d3aRy",
+          "name": "BAND4BAND (feat. Lil Baby)"
         },
         "artist": {
-          "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg",
-          "name": "Kendrick Lamar"
+          "uri": "spotify:artist:5H4yInM5zmHqpKIoMNAx4r",
+          "name": "Central Cee, Lil Baby"
         },
         "context": {
           "uri": "spotify:playlist:2ewv9rVyhBylr8APFh9KMn",

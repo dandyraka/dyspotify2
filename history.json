@@ -1,5 +1,32 @@
 [
   {
+    "timestamp": 1763725064290,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "California (feat. Warren Hue)",
+    "artist": "88rising, Rich Brian, NIKI, Warren Hue",
+    "uri": "spotify:track:0nhjj0YiyxWv2oOYpwrfCR",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27349f649f3c6b64f896ce34468"
+  },
+  {
+    "timestamp": 1763724839213,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Lose",
+    "artist": "NIKI",
+    "uri": "spotify:track:530l1XggFTVKZIM3khE10r",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27359c7637acca66e35930f4b14"
+  },
+  {
+    "timestamp": 1763724587451,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Not Like Us",
+    "artist": "Kendrick Lamar",
+    "uri": "spotify:track:6AI3ezQ4o3HUoP6Dhudph3",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731ea0c62b2339cbf493a999ad"
+  },
+  {
     "timestamp": 1763724317724,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -61,32 +88,5 @@
     "artist": "Kendrick Lamar",
     "uri": "spotify:track:7KXjTSCq5nL1LoYtL7XAwS",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699"
-  },
-  {
-    "timestamp": 1763722990099,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "After School",
-    "artist": "Weeekly",
-    "uri": "spotify:track:52CBUrIdyf8tbZaUY9iawE",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27318a15ed7d84a6c773126b12b"
-  },
-  {
-    "timestamp": 1763722789316,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Getcho Mans",
-    "artist": "Rich Brian, Warren Hue",
-    "uri": "spotify:track:1fkhjt9HkmRoxqAfzP4zgv",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c6362c120a27f78bb3b67563"
-  },
-  {
-    "timestamp": 1763722583455,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Without Me",
-    "artist": "Eminem",
-    "uri": "spotify:track:7lQ8MOhq6IN2w8EYcFNSUk",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736ca5c90113b30c3c43ffb8f4"
   }
 ]
