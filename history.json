@@ -1,5 +1,32 @@
 [
   {
+    "timestamp": 1763797129410,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Kesepian Kita (feat. Tere)",
+    "artist": "Pas Band, Tere",
+    "uri": "spotify:track:2L12TgtkatZ5fcHuioCQ2M",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a6bd8cd66e851396cf945184"
+  },
+  {
+    "timestamp": 1763796846780,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Sedang Ingin Bercinta",
+    "artist": "Dewa 19",
+    "uri": "spotify:track:44n4zJjacUQJSJncx0YW7h",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27369222d0908ecf5d22cc9d960"
+  },
+  {
+    "timestamp": 1763796611965,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Jantung Hati",
+    "artist": "Lyla",
+    "uri": "spotify:track:46XqfONaXMgmct0VYF7YuY",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273526d88c3cb4293f880c800d8"
+  },
+  {
     "timestamp": 1763796379023,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -61,32 +88,5 @@
     "artist": "ALAN DARMAWAN, Eno Smaper",
     "uri": "spotify:track:1UR1rZWFMNPSQXPzXRDbOD",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d7af988aadb791c8fbc25446"
-  },
-  {
-    "timestamp": 1763794664040,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Not Shy",
-    "artist": "ITZY",
-    "uri": "spotify:track:1ehags7lQMM1qX94VJkoaf",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732f74587e89fe803fa61d748e"
-  },
-  {
-    "timestamp": 1763763435227,
-    "user": "poemstars🌼🌟",
-    "userId": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
-    "track": "Malaikat Berputar di Atas Pencakar Langit",
-    "artist": "Hindia",
-    "uri": "spotify:track:6ccuuWVjSdvF1XdxS2ocqp",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27349bdf0e981cbba25d48b44e0"
-  },
-  {
-    "timestamp": 1763741150914,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "DNA.",
-    "artist": "Kendrick Lamar",
-    "uri": "spotify:track:6HZILIRieu8S0iqY8kIKhj",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699"
   }
 ]

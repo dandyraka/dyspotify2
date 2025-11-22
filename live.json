@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1763796545490,
+      "timestamp": 1763797142988,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=e42QIpdgv8YQ7kNvwH5D7zP&_nc_oc=Adngg8EioRX_Ge4iVc5xKSomNFqV_2TGQUcT5dIWFUazO1D_U9YPxwqoSC2kPAJg81zmAAMTqwB3Q5H2gjKaQn1f&_nc_zt=24&_nc_ht=scontent-fra3-2.xx&edm=AP4hL3IEAAAA&_nc_gid=oY2wm7rbJN9QNCmN0hT7HA&_nc_tpa=Q5bMBQG_NFqZhc_Z3FLDgab2-FT2F-BHT0IPK9VqW-lu8rAVLFiJyqnvPHdKcA0YR11_2rTr-6yZ&oh=00_AfisZYU-g0UmbwNwqemWmffo-jNFfEwk1afiLdRhYoPAcA&oe=6926A028"
+        "imageUrl": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=e42QIpdgv8YQ7kNvwHRZL7O&_nc_oc=Adlurci-hEQEnYblreIOqMFkJNE5lhDmmVTF0MvAMGTRVGzrzInnaQkD3LRml58wzoWqBCkinVl6wt4GVzeyjWof&_nc_zt=24&_nc_ht=scontent-fra3-2.xx&edm=AP4hL3IEAAAA&_nc_gid=psxNB8xGnzsl-kkiKVLBeA&_nc_tpa=Q5bMBQFZT5egefwBJuoMlxfBb7NjDuhn4mVlIZTNCtW0YLLf4ulY0a9uu8yWk5vt5ObTx9fuVeO6&oh=00_Afj_-DSyRNhBPiT50T4eXMchkh-TffQowzfiqQqUdnaRzg&oe=6926D868"
       },
       "track": {
-        "uri": "spotify:track:3Q7S90mIA4PjvLglBzUbAs",
-        "name": "Jantung Hati",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b1454de001302e03bf4eee94",
+        "uri": "spotify:track:6JxvawyvhfDMZyYNSkT4Em",
+        "name": "Disaat Aku Mencintaimu",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27302092a5334ed3c787e078a0c",
         "album": {
-          "uri": "spotify:album:5RKkK41Ej5dDXnlpCpazMX",
-          "name": "Ga Romantis"
+          "uri": "spotify:album:1QfT7TMHZodN0hgyoqHYCx",
+          "name": "Disaat Aku Mencintaimu"
         },
         "artist": {
-          "uri": "spotify:artist:3GheatPWdVzxqmRXOKxHTb",
-          "name": "Lyla"
+          "uri": "spotify:artist:4J4X9maePktDRDgRBI004W",
+          "name": "Dadali"
         },
         "context": {
           "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
