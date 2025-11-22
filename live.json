@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1763799747625,
+      "timestamp": 1763800998610,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
         "imageUrl": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=e42QIpdgv8YQ7kNvwHRZL7O&_nc_oc=Adlurci-hEQEnYblreIOqMFkJNE5lhDmmVTF0MvAMGTRVGzrzInnaQkD3LRml58wzoWqBCkinVl6wt4GVzeyjWof&_nc_zt=24&_nc_ht=scontent-fra3-2.xx&edm=AP4hL3IEAAAA&_nc_gid=psxNB8xGnzsl-kkiKVLBeA&_nc_tpa=Q5bMBQFZT5egefwBJuoMlxfBb7NjDuhn4mVlIZTNCtW0YLLf4ulY0a9uu8yWk5vt5ObTx9fuVeO6&oh=00_Afj_-DSyRNhBPiT50T4eXMchkh-TffQowzfiqQqUdnaRzg&oe=6926D868"
       },
       "track": {
-        "uri": "spotify:track:65PjFLm6X567f52At4CI1N",
-        "name": "Benci Untuk Mencinta",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e4d084a54bcdd3e2feb80b68",
+        "uri": "spotify:track:5TtmfZaNSYEcTR49cureT0",
+        "name": "Kenangan Terindah",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273607aaef4f806cb926096f1ae",
         "album": {
-          "uri": "spotify:album:2WhmHOuv105dRcvCnCRyCR",
-          "name": "Retropolis - City Of Joy"
+          "uri": "spotify:album:7Ls7Id4vLjwONTyxywzrg7",
+          "name": "Naluri Lelaki (Special Edition)"
         },
         "artist": {
-          "uri": "spotify:artist:57A85GCAJn0reNAez6Hswt",
-          "name": "Naif"
+          "uri": "spotify:artist:6HHje5tfmzWK8PsSaoJ9Xp",
+          "name": "SAMSONS"
         },
         "context": {
           "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
