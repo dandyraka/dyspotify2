@@ -1,3 +1,30 @@
 {
-  "friends": []
+  "friends": [
+    {
+      "timestamp": 1763826852825,
+      "user": {
+        "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
+        "name": "poemstars🌼🌟",
+        "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
+      },
+      "track": {
+        "uri": "spotify:track:27MYjBobSHlWMaE0MslyAD",
+        "name": "The Quiet Kind",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e7c9d9ce6f27adbf4d66f3a3",
+        "album": {
+          "uri": "spotify:album:1qLXw57VMnPHOoeg7p2538",
+          "name": "The Quiet Kind"
+        },
+        "artist": {
+          "uri": "spotify:artist:4XbnhifKeOnyfTsCInrQsX",
+          "name": "No Spirit, morningtime, Fugee"
+        },
+        "context": {
+          "uri": null,
+          "name": null,
+          "index": 0
+        }
+      }
+    }
+  ]
 }
