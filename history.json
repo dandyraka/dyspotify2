@@ -1,5 +1,32 @@
 [
   {
+    "timestamp": 1763796379023,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Kau Cantik Hari Ini",
+    "artist": "Lobow",
+    "uri": "spotify:track:1dDXZDCgyvioujRUDfKxCr",
+    "imageUrl": "https://i.scdn.co/image/ccda6e9537350e5c4d67b07d2b4f809e0ddd790f"
+  },
+  {
+    "timestamp": 1763796099059,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Teruskanlah",
+    "artist": "Agnes Monica",
+    "uri": "spotify:track:2Wf39Vi50VoL7bQLNOf1ne",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273512fb6bff1ff64278fce9e25"
+  },
+  {
+    "timestamp": 1763795828571,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Bintang Di Surga",
+    "artist": "Peterpan",
+    "uri": "spotify:track:0VBYPurR0c3hlxZOn2twBt",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d41db981af67267ff9145438"
+  },
+  {
     "timestamp": 1763795533497,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -61,32 +88,5 @@
     "artist": "Kendrick Lamar",
     "uri": "spotify:track:6HZILIRieu8S0iqY8kIKhj",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699"
-  },
-  {
-    "timestamp": 1763740999551,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "edamame",
-    "artist": "bbno$, Rich Brian",
-    "uri": "spotify:track:1golLrmqyxDWedF7YUHCOD",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27390e72fba2f3f0f9889091c15"
-  },
-  {
-    "timestamp": 1763740841484,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Mood (feat. iann dior)",
-    "artist": "24kGoldn, iann dior",
-    "uri": "spotify:track:4jPy3l0RUwlUI9T5XHBW2m",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b4141fad9af613c35f55d589"
-  },
-  {
-    "timestamp": 1763740705384,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "December (again) [feat. Mark Hoppus]",
-    "artist": "Neck Deep",
-    "uri": "spotify:track:1Ztka7fCyxUv46FW1mZH9T",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e70bc643bf8fa257f341a4ed"
   }
 ]
