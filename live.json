@@ -1,3 +1,30 @@
 {
-  "friends": []
+  "friends": [
+    {
+      "timestamp": 1763795648372,
+      "user": {
+        "uri": "spotify:user:dandyraka_",
+        "name": "Dandy 🫵🏻😁",
+        "imageUrl": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=e42QIpdgv8YQ7kNvwH5D7zP&_nc_oc=Adngg8EioRX_Ge4iVc5xKSomNFqV_2TGQUcT5dIWFUazO1D_U9YPxwqoSC2kPAJg81zmAAMTqwB3Q5H2gjKaQn1f&_nc_zt=24&_nc_ht=scontent-fra3-2.xx&edm=AP4hL3IEAAAA&_nc_gid=oY2wm7rbJN9QNCmN0hT7HA&_nc_tpa=Q5bMBQG_NFqZhc_Z3FLDgab2-FT2F-BHT0IPK9VqW-lu8rAVLFiJyqnvPHdKcA0YR11_2rTr-6yZ&oh=00_AfisZYU-g0UmbwNwqemWmffo-jNFfEwk1afiLdRhYoPAcA&oe=6926A028"
+      },
+      "track": {
+        "uri": "spotify:track:1Yt1NSttVejPE0tAKZHHQy",
+        "name": "Bintang Di Surga",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733c8b30d134ed6377ad703419",
+        "album": {
+          "uri": "spotify:album:2DB5bJUqbchn7wYTHtz4eH",
+          "name": "Sebuah Nama, Sebuah Cerita"
+        },
+        "artist": {
+          "uri": "spotify:artist:29vPfjqj8X5ri4AJRt8wVM",
+          "name": "Peterpan"
+        },
+        "context": {
+          "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
+          "name": "playlist",
+          "index": 0
+        }
+      }
+    }
+  ]
 }
