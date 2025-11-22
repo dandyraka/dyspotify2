@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1763798178308,
+      "timestamp": 1763799747625,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
         "imageUrl": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=e42QIpdgv8YQ7kNvwHRZL7O&_nc_oc=Adlurci-hEQEnYblreIOqMFkJNE5lhDmmVTF0MvAMGTRVGzrzInnaQkD3LRml58wzoWqBCkinVl6wt4GVzeyjWof&_nc_zt=24&_nc_ht=scontent-fra3-2.xx&edm=AP4hL3IEAAAA&_nc_gid=psxNB8xGnzsl-kkiKVLBeA&_nc_tpa=Q5bMBQFZT5egefwBJuoMlxfBb7NjDuhn4mVlIZTNCtW0YLLf4ulY0a9uu8yWk5vt5ObTx9fuVeO6&oh=00_Afj_-DSyRNhBPiT50T4eXMchkh-TffQowzfiqQqUdnaRzg&oe=6926D868"
       },
       "track": {
-        "uri": "spotify:track:3CdW4rUSzzRis0lgSskErL",
-        "name": "Dimana Hatimu",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27307bd0c96ae5941423f29ca3e",
+        "uri": "spotify:track:65PjFLm6X567f52At4CI1N",
+        "name": "Benci Untuk Mencinta",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e4d084a54bcdd3e2feb80b68",
         "album": {
-          "uri": "spotify:album:5td1OWGv0MVFiR6eESxmrs",
-          "name": "Dimana Hatimu"
+          "uri": "spotify:album:2WhmHOuv105dRcvCnCRyCR",
+          "name": "Retropolis - City Of Joy"
         },
         "artist": {
-          "uri": "spotify:artist:7tvLVH9DBiCZxcvyXfcWm7",
-          "name": "Papinka"
+          "uri": "spotify:artist:57A85GCAJn0reNAez6Hswt",
+          "name": "Naif"
         },
         "context": {
           "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
