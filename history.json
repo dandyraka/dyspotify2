@@ -1,5 +1,14 @@
 [
   {
+    "timestamp": 1764067130929,
+    "user": "poemstars🌼🌟",
+    "userId": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
+    "track": "Hari Ini",
+    "artist": "Isyana Sarasvati, Hindia",
+    "uri": "spotify:track:1dQyemVE2fMcwf3w2ISoFx",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730db889b70a2882a61b472e3b"
+  },
+  {
     "timestamp": 1763943585747,
     "user": "poemstars🌼🌟",
     "userId": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
@@ -79,14 +88,5 @@
     "artist": "Cherrybelle",
     "uri": "spotify:track:54hwAFt5hfHwGmhzjY0RmE",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733ad38432e5772bf80a9a2483"
-  },
-  {
-    "timestamp": 1763801785335,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Rahasia Hati",
-    "artist": "Element",
-    "uri": "spotify:track:2qesxmkERgsBDoZvoDkDFq",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730263ffc0d021d1fb21cc9174"
   }
 ]
