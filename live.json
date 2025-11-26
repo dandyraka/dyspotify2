@@ -1,30 +1,3 @@
 {
-  "friends": [
-    {
-      "timestamp": 1764141373555,
-      "user": {
-        "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
-        "name": "poemstars🌼🌟",
-        "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
-      },
-      "track": {
-        "uri": "spotify:track:5lE2EFXt4muvLFMGQg4hZN",
-        "name": "Hypotheticals",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fbcf73d482a33264a852eebd",
-        "album": {
-          "uri": "spotify:album:2Zi7uv234eNZJfLPGUIkSD",
-          "name": "Obviously"
-        },
-        "artist": {
-          "uri": "spotify:artist:3nuc29fYGlQbIrwh4yrNWd",
-          "name": "Lake Street Dive"
-        },
-        "context": {
-          "uri": "spotify:playlist:6tf5TDIQ2pF8pRJICkG2B2",
-          "name": "playlist",
-          "index": 0
-        }
-      }
-    }
-  ]
+  "friends": []
 }
