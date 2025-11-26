@@ -1,27 +1,27 @@
 {
   "friends": [
     {
-      "timestamp": 1764140035009,
+      "timestamp": 1764141373555,
       "user": {
         "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
         "name": "poemstars🌼🌟",
         "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
       },
       "track": {
-        "uri": "spotify:track:6v0UJD4a2FtleHeSYVX02A",
-        "name": "I Drink Wine",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c6b577e4c4a6d326354a89f7",
+        "uri": "spotify:track:5lE2EFXt4muvLFMGQg4hZN",
+        "name": "Hypotheticals",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fbcf73d482a33264a852eebd",
         "album": {
-          "uri": "spotify:album:21jF5jlMtzo94wbxmJ18aa",
-          "name": "30"
+          "uri": "spotify:album:2Zi7uv234eNZJfLPGUIkSD",
+          "name": "Obviously"
         },
         "artist": {
-          "uri": "spotify:artist:4dpARuHxo51G3z768sgnrY",
-          "name": "Adele"
+          "uri": "spotify:artist:3nuc29fYGlQbIrwh4yrNWd",
+          "name": "Lake Street Dive"
         },
         "context": {
-          "uri": "spotify:album:21jF5jlMtzo94wbxmJ18aa",
-          "name": "album",
+          "uri": "spotify:playlist:6tf5TDIQ2pF8pRJICkG2B2",
+          "name": "playlist",
           "index": 0
         }
       }
