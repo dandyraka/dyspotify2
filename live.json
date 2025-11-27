@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1764228862893,
+      "timestamp": 1764229524160,
       "user": {
         "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
         "name": "poemstars🌼🌟",
         "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
       },
       "track": {
-        "uri": "spotify:track:3nqqDo8CcCLke3ZoTgiOKf",
-        "name": "The Man Who Can't Be Moved",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f33a9f529c12f79b116eb218",
+        "uri": "spotify:track:2uvE4L5ZsYKpv8hbK4TIOt",
+        "name": "MUTT",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737fc4fb3453f841652d2e4814",
         "album": {
-          "uri": "spotify:album:1r5J0N6Ep181K0i8YuTYgO",
-          "name": "The Script"
+          "uri": "spotify:album:0SzoksypeognxYJJOJEYip",
+          "name": "MUTT"
         },
         "artist": {
-          "uri": "spotify:artist:3AQRLZ9PuTAozP28Skbq8V",
-          "name": "The Script"
+          "uri": "spotify:artist:0nnBZ8FXWjG9wZgM2cpfeb",
+          "name": "Leon Thomas"
         },
         "context": {
           "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy:collection",
