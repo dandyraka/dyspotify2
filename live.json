@@ -1,27 +1,27 @@
 {
   "friends": [
     {
-      "timestamp": 1764227837119,
+      "timestamp": 1764228862893,
       "user": {
         "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
         "name": "poemstars🌼🌟",
         "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
       },
       "track": {
-        "uri": "spotify:track:2ZzsUu74KQFwnkBIOryp0d",
-        "name": "Rahasia Hati - Remastered 2023",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739fc054f6018d3f633b8ed765",
+        "uri": "spotify:track:3nqqDo8CcCLke3ZoTgiOKf",
+        "name": "The Man Who Can't Be Moved",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f33a9f529c12f79b116eb218",
         "album": {
-          "uri": "spotify:album:4QCGE9az4wKzhytBcgoZbm",
-          "name": "Perjalanan 1999 - 2003 (Remastered 2023)"
+          "uri": "spotify:album:1r5J0N6Ep181K0i8YuTYgO",
+          "name": "The Script"
         },
         "artist": {
-          "uri": "spotify:artist:053tL050frPJyo9lPXTUFb",
-          "name": "Element"
+          "uri": "spotify:artist:3AQRLZ9PuTAozP28Skbq8V",
+          "name": "The Script"
         },
         "context": {
-          "uri": null,
-          "name": null,
+          "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy:collection",
+          "name": "collection",
           "index": 0
         }
       }
