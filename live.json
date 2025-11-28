@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1764345443792,
+      "timestamp": 1764347225722,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=nMFK5cxyYGMQ7kNvwFO2hlm&_nc_oc=Adm6PWsKecKdWQwTFze5iv8G_iugyoD9K5jTact3usmhmzKa3pcsr5zGF0ipB_NdwfIr2Yl2f1Ok5q9US9epAtw3&_nc_zt=24&_nc_ht=scontent-ord5-1.xx&edm=AP4hL3IEAAAA&_nc_gid=Xfd1FtRoNIdtCzz5WxeMzg&_nc_tpa=Q5bMBQHzeNIAO0qDVtkBMADQ8UcnKDFSlLuWqIpTPTTThK-b0JbyZ07LQVrlGaYGxK8HYQ0VA21i&oh=00_Afh-g33urGupAeSujGErHQP_pHG0CIBk3hsMTB4ZknIysQ&oe=692F31E8"
+        "imageUrl": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=nMFK5cxyYGMQ7kNvwEGy-21&_nc_oc=Adkbs_u3HgGpWGomFzplvVUSdx5L1eviyr6UDcDsSOOc99oqr9U9vmVWSOv0pAd-Wnq1BOZrOQbrVMYWLJ8Xoj3w&_nc_zt=24&_nc_ht=scontent-ord5-1.xx&edm=AP4hL3IEAAAA&_nc_gid=TLHPCDA-JfTlufQT6i2ASA&_nc_tpa=Q5bMBQHoOhmE6QvKofT9yeJoaybkX8d1A9ex17zg6embL4pwH2enrrNf-ISZYa1cW8vav5_AsQHh&oh=00_AfhHjrPnzC98t12Jha72QboWQWBmg5c_b7Y1TwiR7pjZeQ&oe=692EF9A8"
       },
       "track": {
-        "uri": "spotify:track:2tDOCMuKSX9IEo9TJ4pBBk",
-        "name": "BILLIE EILISH.",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b91b4ade012ef3a2448e3a96",
+        "uri": "spotify:track:4Oun2ylbjFKMPTiaSbbCih",
+        "name": "WAP (feat. Megan Thee Stallion)",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c450c89d3eb750d3535b0a0c",
         "album": {
-          "uri": "spotify:album:6xwrN7rxXUYGogRCLlYhvv",
-          "name": "Road to CASABLANCO."
+          "uri": "spotify:album:2ogiazbrNEx0kQHGl5ZBTQ",
+          "name": "WAP (feat. Megan Thee Stallion)"
         },
         "artist": {
-          "uri": "spotify:artist:2qAwMsiIjTzlmfAkXKvhVA",
-          "name": "Armani White"
+          "uri": "spotify:artist:4kYSro6naA4h99UJvo89HB",
+          "name": "Cardi B, Megan Thee Stallion"
         },
         "context": {
           "uri": "spotify:playlist:2ewv9rVyhBylr8APFh9KMn",
