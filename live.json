@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1764343219375,
+      "timestamp": 1764344347497,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=nMFK5cxyYGMQ7kNvwEGy-21&_nc_oc=Adkbs_u3HgGpWGomFzplvVUSdx5L1eviyr6UDcDsSOOc99oqr9U9vmVWSOv0pAd-Wnq1BOZrOQbrVMYWLJ8Xoj3w&_nc_zt=24&_nc_ht=scontent-ord5-1.xx&edm=AP4hL3IEAAAA&_nc_gid=TLHPCDA-JfTlufQT6i2ASA&_nc_tpa=Q5bMBQHoOhmE6QvKofT9yeJoaybkX8d1A9ex17zg6embL4pwH2enrrNf-ISZYa1cW8vav5_AsQHh&oh=00_AfhHjrPnzC98t12Jha72QboWQWBmg5c_b7Y1TwiR7pjZeQ&oe=692EF9A8"
+        "imageUrl": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=nMFK5cxyYGMQ7kNvwFO2hlm&_nc_oc=Adm6PWsKecKdWQwTFze5iv8G_iugyoD9K5jTact3usmhmzKa3pcsr5zGF0ipB_NdwfIr2Yl2f1Ok5q9US9epAtw3&_nc_zt=24&_nc_ht=scontent-ord5-1.xx&edm=AP4hL3IEAAAA&_nc_gid=Xfd1FtRoNIdtCzz5WxeMzg&_nc_tpa=Q5bMBQHzeNIAO0qDVtkBMADQ8UcnKDFSlLuWqIpTPTTThK-b0JbyZ07LQVrlGaYGxK8HYQ0VA21i&oh=00_Afh-g33urGupAeSujGErHQP_pHG0CIBk3hsMTB4ZknIysQ&oe=692F31E8"
       },
       "track": {
-        "uri": "spotify:track:68HocO7fx9z0MgDU0ZPHro",
-        "name": "Every Summertime",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e81fd3b9a7230db447f38182",
+        "uri": "spotify:track:2M9j38t0cz0lGTtLqxRT3r",
+        "name": "Love In My Pocket",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731599b648bb173d94f6f904e1",
         "album": {
-          "uri": "spotify:album:2HPj0XZe9WduSsyKTQqgVa",
-          "name": "Every Summertime"
+          "uri": "spotify:album:4kILzL9HLKqLJiEaDUSzdh",
+          "name": "Love In My Pocket"
         },
         "artist": {
-          "uri": "spotify:artist:2kxP07DLgs4xlWz8YHlvfh",
-          "name": "NIKI"
+          "uri": "spotify:artist:2IDLDx25HU1nQMKde4n61a",
+          "name": "Rich Brian"
         },
         "context": {
           "uri": "spotify:playlist:2ewv9rVyhBylr8APFh9KMn",
