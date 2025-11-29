@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": 1764442398770,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Hapus Aku",
+    "artist": "Nidji",
+    "uri": "spotify:track:0gwOixLwtjRpnC52W7aHYR",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273706b70b10dfbf83dd4b1e7d8"
+  },
+  {
+    "timestamp": 1764442151017,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Takkan Pisah",
+    "artist": "EREN",
+    "uri": "spotify:track:2EhShoJnzM5iodIVJI3gH8",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735e76069a713a6e84582c5ff2"
+  },
+  {
     "timestamp": 1764441866669,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -70,23 +88,5 @@
     "artist": "T.R.I.A.D",
     "uri": "spotify:track:44jm7VMs3gZlzZMnwa3Wt3",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27354370e2a4432f21c8d16f5cc"
-  },
-  {
-    "timestamp": 1764439697406,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Bawa Aku Lari",
-    "artist": "Govinda",
-    "uri": "spotify:track:6aZyTfo6EJPsOELTLYRP35",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730492d17791e3ec7f92c7b41c"
-  },
-  {
-    "timestamp": 1764439512423,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Beraksi",
-    "artist": "Kotak",
-    "uri": "spotify:track:1x1zmEE1YLQLSlXkZr4dzv",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27355fcbac77e9be79cffca62e4"
   }
 ]
