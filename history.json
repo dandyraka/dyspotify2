@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": 1764427807231,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Cerita",
+    "artist": "Mace Purba, D'Ari",
+    "uri": "spotify:track:675W9yMvXvBXsychqn4itW",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bd5e905402a0a9b6b094092c"
+  },
+  {
+    "timestamp": 1764427633357,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Tamang Mabo",
+    "artist": "Fresly Nikijuluw",
+    "uri": "spotify:track:4qLFqcbJzpiu4HpyNL5SLW",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27312bde1c091c64498bfb7bfd1"
+  },
+  {
     "timestamp": 1764427427005,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -70,23 +88,5 @@
     "artist": "Toton Caribo, Wizz Baker, Fresly Nikijuluw",
     "uri": "spotify:track:7EJn4U6IySwLSfLZX07muY",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27307278054d9d8abbaddd4228f"
-  },
-  {
-    "timestamp": 1764425631491,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Penasaran",
-    "artist": "Ona Hetharua",
-    "uri": "spotify:track:7olJxKsFlSIEgCv42binWw",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ee07c4e0531f1cbe0b7ab703"
-  },
-  {
-    "timestamp": 1764425424892,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Tenda Biru",
-    "artist": "Desy Ratnasari",
-    "uri": "spotify:track:2Rom0HN5nJgLdWi5JMmkwE",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273840533b0b23193819fe2ace1"
   }
 ]
