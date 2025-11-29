@@ -1,5 +1,14 @@
 [
   {
+    "timestamp": 1764434499635,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Kangen",
+    "artist": "Dewa 19",
+    "uri": "spotify:track:3ZyMRe0jlSqffPBMeHUZFX",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27369222d0908ecf5d22cc9d960"
+  },
+  {
     "timestamp": 1764434204732,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -79,14 +88,5 @@
     "artist": "Ebiet G. Ade",
     "uri": "spotify:track:5OmWxlD2WFRqhGOsUejGLk",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ee40f9f00bb0951771941db0"
-  },
-  {
-    "timestamp": 1764431547021,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Buka Hatimu",
-    "artist": "Armada",
-    "uri": "spotify:track:2uy1RsdzULhpzJCiWoTlK3",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d67195a1fc32eae4835450ae"
   }
 ]
