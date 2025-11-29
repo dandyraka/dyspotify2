@@ -1,5 +1,32 @@
 [
   {
+    "timestamp": 1764431547021,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Buka Hatimu",
+    "artist": "Armada",
+    "uri": "spotify:track:2uy1RsdzULhpzJCiWoTlK3",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d67195a1fc32eae4835450ae"
+  },
+  {
+    "timestamp": 1764431278663,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Senyum Semangat",
+    "artist": "SMASH",
+    "uri": "spotify:track:58eJBGE97mSjXztTc0cHmk",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739aa84db83f30fa0e2af3f885"
+  },
+  {
+    "timestamp": 1764431093860,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Di Belakangku - From \"Alexandria\" Soundtrack",
+    "artist": "Peterpan",
+    "uri": "spotify:track:1s1zRFro4UyhTbKqSILEJd",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27300f98503376497ab98757f0a"
+  },
+  {
     "timestamp": 1764430886599,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -61,32 +88,5 @@
     "artist": "Aldo Bz, Deasy Agaki",
     "uri": "spotify:track:15WaYwX7zrn42fp2Cg9f4R",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735358fa7ccc2d7ad6f397d0db"
-  },
-  {
-    "timestamp": 1764429307999,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Jang Balikan",
-    "artist": "Wizz Baker, Toton Caribo, Jacson Zeran",
-    "uri": "spotify:track:6bQxom7HOonyycV5ESPBLh",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730d4cdac68ebfcf4748115d96"
-  },
-  {
-    "timestamp": 1764429126293,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "YOLANDA",
-    "artist": "EXCELENT VOICE",
-    "uri": "spotify:track:5Y9iMDk2QW6Wm6A4uVLG8v",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273acd17b4e311f0cb915befc38"
-  },
-  {
-    "timestamp": 1764428767855,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Orang Baru Lebe Gacor",
-    "artist": "Ecko Show, Juan Reza, Chesylino",
-    "uri": "spotify:track:3dANqzstXrnHIUh1r7JrGZ",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e650a23cce85ff0f02a0d61f"
   }
 ]
