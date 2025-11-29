@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": 1764438209152,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Hey Ladies",
+    "artist": "Rossa",
+    "uri": "spotify:track:2qldhmNix7gpFi2FnGBA4F",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273144c4ea5cb365da60c64abef"
+  },
+  {
+    "timestamp": 1764437831645,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Kamu Kamu Lagi",
+    "artist": "The Sister",
+    "uri": "spotify:track:7nvWCu0Zg1ybEsqwcuwojx",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d5e87f16783f661a6d6a1b72"
+  },
+  {
     "timestamp": 1764437116835,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -70,23 +88,5 @@
     "artist": "Ariel NOAH, Uki, Lukman, Reza, David, Momo",
     "uri": "spotify:track:2mzFdWYz0WdercZrBacQyZ",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f030056b651132942b80e492"
-  },
-  {
-    "timestamp": 1764433904732,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Cinderella",
-    "artist": "Radja",
-    "uri": "spotify:track:3nWlfhNCcDhAxlsHmcggEG",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c510878448e2867f46d3e57b"
-  },
-  {
-    "timestamp": 1764433697130,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Bukan Superstar",
-    "artist": "Project Pop",
-    "uri": "spotify:track:5MyLxFB5P4ghczddvudKXk",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730bc98285f5d5bcdad3b1d9e3"
   }
 ]

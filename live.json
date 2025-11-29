@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1764437482070,
+      "timestamp": 1764438229174,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=nMFK5cxyYGMQ7kNvwE3Kg-m&_nc_oc=AdkjfhWGaLZqjHT0mbAQsO-fmdJV-NjuaKDCqyQObzvO9dKG_IEUIfH2hC2xqwh31UPYKog422GlmgHB2A91XuM9&_nc_zt=24&_nc_ht=scontent-cdg4-3.xx&edm=AP4hL3IEAAAA&_nc_gid=scjmAmSdUrlYtKMSy0Fznw&_nc_tpa=Q5bMBQGWNVGxubk75UJdukZTbsNCP3L67iQFAwHrtuL6tS8AHH9G1TmDR8mrZxhQv5UueNgXWisA&oh=00_AfiD1F-_o--VDQPc_IY7Qz2NpTNbVTJlMYrt6mdqqjxgjA&oe=69304B28"
+        "imageUrl": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=nMFK5cxyYGMQ7kNvwF4FRzU&_nc_oc=AdkEbnPJOHU7opgSS2ByGgRqG-7HpkbVYIsx274m4XM0_NNjjJLYr5RqWENLqk1lZXbCKScIaICeXqgw72EpVwvJ&_nc_zt=24&_nc_ht=scontent-cdg4-3.xx&edm=AP4hL3IEAAAA&_nc_gid=rUVVtg98bZp-1WEGMCGBlA&_nc_tpa=Q5bMBQFFTU61zfvzNt5S_NWKG5Lpj2EO6678IIcZ7eAwbUw7n8vGc1KW7y53dh68wmNKh38W5dYk&oh=00_AfhqDVORIkXRBsg-XxD7h5wx9koCVoCI-di_kwI07s4HRw&oe=69308368"
       },
       "track": {
-        "uri": "spotify:track:4HM7F8ymm5Ice2If8vRUfl",
-        "name": "Lepaskan Diriku",
-        "imageUrl": "https://i.scdn.co/image/7108ccb29d7ccbbfbc71a887fca12acbae745746",
+        "uri": "spotify:track:29GszwSbH9jtj74nwNWf4Z",
+        "name": "Doaku Untukmu Sayang",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ab85980da8a5c59d26309a6f",
         "album": {
-          "uri": "spotify:album:7quLoOufagoezwwYjEDDqs",
-          "name": "Topeng Sahabat"
+          "uri": "spotify:album:4SU72f8lCnTr1GM9GPkFPY",
+          "name": "Aku Bukan Bang Toyib"
         },
         "artist": {
-          "uri": "spotify:artist:3zkqzEu0nHPDeP93vvY49U",
-          "name": "J-Rocks"
+          "uri": "spotify:artist:5pnSNZZRyYViu2n58Zlw1J",
+          "name": "Wali"
         },
         "context": {
           "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
