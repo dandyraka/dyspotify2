@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1764440478485,
+      "timestamp": 1764441990804,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
         "imageUrl": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=nMFK5cxyYGMQ7kNvwETm3fa&_nc_oc=AdkhqxsjbLbMTQWQLEc9Phb7CA8llBeTeFfSDbaw7-61O36j1qGkcea9KW4m7y4O7D2hpXOTXpSxEQgS10dhCNf9&_nc_zt=24&_nc_ht=scontent-fra3-2.xx&edm=AP4hL3IEAAAA&_nc_gid=TVhPLM9FsqrlWOZLpz1nig&_nc_tpa=Q5bMBQHerxKnZfu4a1dop1oS_cbiuyUnmj-sM1dUVNNn2nqwrEUy-YfVkTJTaZxsGVytVdRIP_K2&oh=00_AfiSThLjdjVycpv-D3-7gj0ttKb8CshdrWmc6Vf9bZx41g&oe=6930F3E8"
       },
       "track": {
-        "uri": "spotify:track:1yPmDkwWq9CqXjsiGM001g",
-        "name": "Bila Aku Jatuh Cinta",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27372898f4caedef1c1d339964d",
+        "uri": "spotify:track:2EhShoJnzM5iodIVJI3gH8",
+        "name": "Takkan Pisah",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735e76069a713a6e84582c5ff2",
         "album": {
-          "uri": "spotify:album:36l5n8elwO3DvbrIdMxndi",
-          "name": "Breakthru"
+          "uri": "spotify:album:20z1Bzj1YrfPEyvry5K32k",
+          "name": "Perubahan"
         },
         "artist": {
-          "uri": "spotify:artist:4sEWznAKWWNcicTuLxzb6d",
-          "name": "Nidji"
+          "uri": "spotify:artist:2XJf65MedE2ykxrgV4ON37",
+          "name": "EREN"
         },
         "context": {
           "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
