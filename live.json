@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1764442554253,
+      "timestamp": 1764443593126,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
         "imageUrl": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=nMFK5cxyYGMQ7kNvwETm3fa&_nc_oc=AdkhqxsjbLbMTQWQLEc9Phb7CA8llBeTeFfSDbaw7-61O36j1qGkcea9KW4m7y4O7D2hpXOTXpSxEQgS10dhCNf9&_nc_zt=24&_nc_ht=scontent-fra3-2.xx&edm=AP4hL3IEAAAA&_nc_gid=TVhPLM9FsqrlWOZLpz1nig&_nc_tpa=Q5bMBQHerxKnZfu4a1dop1oS_cbiuyUnmj-sM1dUVNNn2nqwrEUy-YfVkTJTaZxsGVytVdRIP_K2&oh=00_AfiSThLjdjVycpv-D3-7gj0ttKb8CshdrWmc6Vf9bZx41g&oe=6930F3E8"
       },
       "track": {
-        "uri": "spotify:track:6PY4SQue8uzeN3GrLaHwgF",
-        "name": "Malam Biru",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27373d99e3f8cf1165a26608b54",
+        "uri": "spotify:track:150GrtIUJF0IDT1KQb8JR8",
+        "name": "Demi Waktu",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730f1c818c3d95a460cef8410f",
         "album": {
-          "uri": "spotify:album:24k3Yl1sgc3U9P2VpPDYpD",
-          "name": "Sandhy Sondoro"
+          "uri": "spotify:album:6PxHRLYt5tTsX8xSoeRVAt",
+          "name": "Melayang"
         },
         "artist": {
-          "uri": "spotify:artist:4sZCNSc9bpEa6bjM8Z3NOu",
-          "name": "Sandhy Sondoro"
+          "uri": "spotify:artist:4HHdjvdn30koo54zQ6QeF5",
+          "name": "Ungu"
         },
         "context": {
           "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
