@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1764428032843,
+      "timestamp": 1764429265218,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
         "imageUrl": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=nMFK5cxyYGMQ7kNvwE3Kg-m&_nc_oc=AdkjfhWGaLZqjHT0mbAQsO-fmdJV-NjuaKDCqyQObzvO9dKG_IEUIfH2hC2xqwh31UPYKog422GlmgHB2A91XuM9&_nc_zt=24&_nc_ht=scontent-cdg4-3.xx&edm=AP4hL3IEAAAA&_nc_gid=scjmAmSdUrlYtKMSy0Fznw&_nc_tpa=Q5bMBQGWNVGxubk75UJdukZTbsNCP3L67iQFAwHrtuL6tS8AHH9G1TmDR8mrZxhQv5UueNgXWisA&oh=00_AfiD1F-_o--VDQPc_IY7Qz2NpTNbVTJlMYrt6mdqqjxgjA&oe=69304B28"
       },
       "track": {
-        "uri": "spotify:track:5IfoyJvgfYOStzWuhVdwoS",
-        "name": "Nikah Kapan?",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739ee1107d517ada9648d1ee41",
+        "uri": "spotify:track:6bQxom7HOonyycV5ESPBLh",
+        "name": "Jang Balikan",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730d4cdac68ebfcf4748115d96",
         "album": {
-          "uri": "spotify:album:0gKfDsTb54YR5cTqJdGcD1",
-          "name": "Nikah Kapan?"
+          "uri": "spotify:album:3XCPS4fgfGsPJgCTdxsfz1",
+          "name": "Jang Balikan"
         },
         "artist": {
           "uri": "spotify:artist:4PUHVTv6waMpd1JUP7G6n2",
-          "name": "Wizz Baker, Toton Caribo, Vicky Salamor, Jacson Zeran"
+          "name": "Wizz Baker, Toton Caribo, Jacson Zeran"
         },
         "context": {
           "uri": "spotify:playlist:6gzRjcJqzdM1M6bpOZsWsl",
