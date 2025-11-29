@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1764425636095,
+      "timestamp": 1764426787371,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
         "imageUrl": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=nMFK5cxyYGMQ7kNvwE3Kg-m&_nc_oc=AdkjfhWGaLZqjHT0mbAQsO-fmdJV-NjuaKDCqyQObzvO9dKG_IEUIfH2hC2xqwh31UPYKog422GlmgHB2A91XuM9&_nc_zt=24&_nc_ht=scontent-cdg4-3.xx&edm=AP4hL3IEAAAA&_nc_gid=scjmAmSdUrlYtKMSy0Fznw&_nc_tpa=Q5bMBQGWNVGxubk75UJdukZTbsNCP3L67iQFAwHrtuL6tS8AHH9G1TmDR8mrZxhQv5UueNgXWisA&oh=00_AfiD1F-_o--VDQPc_IY7Qz2NpTNbVTJlMYrt6mdqqjxgjA&oe=69304B28"
       },
       "track": {
-        "uri": "spotify:track:7EJn4U6IySwLSfLZX07muY",
-        "name": "Ngapain Repot",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27307278054d9d8abbaddd4228f",
+        "uri": "spotify:track:1kHSV9ytBvQY6MWG6svX5m",
+        "name": "Jangan Buru Buru",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e6f38b6bd1d617b6c56f0aff",
         "album": {
-          "uri": "spotify:album:0hEt3PH6b53bkKUcjG09Ee",
-          "name": "Ngapain Repot"
+          "uri": "spotify:album:77ttLgTAlwBKTAs8lkozoR",
+          "name": "Jangan Buru Buru"
         },
         "artist": {
-          "uri": "spotify:artist:0v1axjG0KwIz3aciZffFMu",
-          "name": "Toton Caribo, Wizz Baker, Fresly Nikijuluw"
+          "uri": "spotify:artist:5tlV5x2EI6p2H9kkBxXvlQ",
+          "name": "Kanzer Pmce, Kaka Andy"
         },
         "context": {
           "uri": "spotify:playlist:6gzRjcJqzdM1M6bpOZsWsl",
