@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": 1764437116835,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Sahabat Sejati",
+    "artist": "Sheila On 7",
+    "uri": "spotify:track:6WUqv9T3RPTHHNKw0zVJuM",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e8d4f0596d66ccbe5241918d"
+  },
+  {
+    "timestamp": 1764436579651,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Percayakan",
+    "artist": "Lyla",
+    "uri": "spotify:track:2eHZDpLIyJwvX1lOul9rel",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732ca100742f583f8cbfd22843"
+  },
+  {
     "timestamp": 1764436216461,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -70,23 +88,5 @@
     "artist": "Project Pop",
     "uri": "spotify:track:5MyLxFB5P4ghczddvudKXk",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730bc98285f5d5bcdad3b1d9e3"
-  },
-  {
-    "timestamp": 1764433465749,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Kamu Ngga Sendirian",
-    "artist": "Tipe-X",
-    "uri": "spotify:track:6vkwqlK4h0rgpIgL9tChaz",
-    "imageUrl": "https://i.scdn.co/image/4e626b69239cbbdcb0d5517fd8b45fd91585135f"
-  },
-  {
-    "timestamp": 1764433188529,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "O o o Love U No More",
-    "artist": "Dragonboyz",
-    "uri": "spotify:track:3mNrxLyzNG2S2RN4oRtMaJ",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273055304c06c5ed5f75ad57afa"
   }
 ]
