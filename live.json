@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1764435256664,
+      "timestamp": 1764436404536,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
         "imageUrl": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=nMFK5cxyYGMQ7kNvwE3Kg-m&_nc_oc=AdkjfhWGaLZqjHT0mbAQsO-fmdJV-NjuaKDCqyQObzvO9dKG_IEUIfH2hC2xqwh31UPYKog422GlmgHB2A91XuM9&_nc_zt=24&_nc_ht=scontent-cdg4-3.xx&edm=AP4hL3IEAAAA&_nc_gid=scjmAmSdUrlYtKMSy0Fznw&_nc_tpa=Q5bMBQGWNVGxubk75UJdukZTbsNCP3L67iQFAwHrtuL6tS8AHH9G1TmDR8mrZxhQv5UueNgXWisA&oh=00_AfiD1F-_o--VDQPc_IY7Qz2NpTNbVTJlMYrt6mdqqjxgjA&oe=69304B28"
       },
       "track": {
-        "uri": "spotify:track:7dlnTQMqvzoJe649aLgUdb",
-        "name": "Mungkinkah",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731478f987f79b3a31169235fa",
+        "uri": "spotify:track:4SehJJPSAb0BYgNZ6MQpoJ",
+        "name": "Percayakan",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a7d2f77f823bfe2be4153521",
         "album": {
-          "uri": "spotify:album:0Qr0iCnH1uBJK1wosvzeXV",
-          "name": "Mungkinkah"
+          "uri": "spotify:album:1YQAbCtNKCACnMwuqFkwvP",
+          "name": "Yang Tak Terlupakan"
         },
         "artist": {
-          "uri": "spotify:artist:0maYWdjsjEafkPBTylPU12",
-          "name": "Stinky"
+          "uri": "spotify:artist:3GheatPWdVzxqmRXOKxHTb",
+          "name": "Lyla"
         },
         "context": {
           "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
