@@ -1,30 +1,3 @@
 {
-  "friends": [
-    {
-      "timestamp": 1764494115101,
-      "user": {
-        "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
-        "name": "poemstars🌼🌟",
-        "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
-      },
-      "track": {
-        "uri": "spotify:track:3FNy4yzOhHhFBeA5p4ofoq",
-        "name": "Young, Wild & Free (feat. Bruno Mars)",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fbd3128cc27caae9c0f1c03a",
-        "album": {
-          "uri": "spotify:album:1LMcmxhxL1g2GXj0X3w3sQ",
-          "name": "Young, Wild & Free (feat. Bruno Mars)"
-        },
-        "artist": {
-          "uri": "spotify:artist:7hJcb9fa4alzcOq3EaNPoG",
-          "name": "Snoop Dogg, Wiz Khalifa, Bruno Mars"
-        },
-        "context": {
-          "uri": null,
-          "name": null,
-          "index": 0
-        }
-      }
-    }
-  ]
+  "friends": []
 }
