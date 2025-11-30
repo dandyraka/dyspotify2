@@ -1,27 +1,27 @@
 {
   "friends": [
     {
-      "timestamp": 1764490775135,
+      "timestamp": 1764491998344,
       "user": {
         "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
         "name": "poemstars🌼🌟",
         "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
       },
       "track": {
-        "uri": "spotify:track:6QFCMUUq1T2Vf5sFUXcuQ7",
-        "name": "Beauty And A Beat",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f1d02a6cec967f8b6b78f76e",
+        "uri": "spotify:track:59dLtGBS26x7kc0rHbaPrq",
+        "name": "Nothin' on You (feat. Bruno Mars)",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273484d121f0e2d2caf87d5d10b",
         "album": {
-          "uri": "spotify:album:5cxMa6oLINJzmZ8lF7wWQN",
-          "name": "Believe"
+          "uri": "spotify:album:7apLPYT8szV1IqTxyVSy5P",
+          "name": "B.o.B Presents: The Adventures of Bobby Ray"
         },
         "artist": {
-          "uri": "spotify:artist:1uNFoZAHBGtllmzznpCI3s",
-          "name": "Justin Bieber, Nicki Minaj"
+          "uri": "spotify:artist:5ndkK3dpZLKtBklKjxNQwT",
+          "name": "B.o.B, Bruno Mars"
         },
         "context": {
-          "uri": "spotify:playlist:70ks6Oli0Tfs8KMEPDsnjM",
-          "name": "playlist",
+          "uri": null,
+          "name": null,
           "index": 0
         }
       }
