@@ -1,27 +1,27 @@
 {
   "friends": [
     {
-      "timestamp": 1764489248981,
+      "timestamp": 1764490775135,
       "user": {
         "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
         "name": "poemstars🌼🌟",
         "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
       },
       "track": {
-        "uri": "spotify:track:4bdJHQp90ymjEIkkYhcENB",
-        "name": "Dat $tick",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27356d07ba65b4442f0597c602d",
+        "uri": "spotify:track:6QFCMUUq1T2Vf5sFUXcuQ7",
+        "name": "Beauty And A Beat",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f1d02a6cec967f8b6b78f76e",
         "album": {
-          "uri": "spotify:album:7AKJUjNR4hlNcbj55lP5LA",
-          "name": "Dat $tick"
+          "uri": "spotify:album:5cxMa6oLINJzmZ8lF7wWQN",
+          "name": "Believe"
         },
         "artist": {
-          "uri": "spotify:artist:2IDLDx25HU1nQMKde4n61a",
-          "name": "Rich Brian"
+          "uri": "spotify:artist:1uNFoZAHBGtllmzznpCI3s",
+          "name": "Justin Bieber, Nicki Minaj"
         },
         "context": {
-          "uri": "spotify:artist:2IDLDx25HU1nQMKde4n61a",
-          "name": "artist",
+          "uri": "spotify:playlist:70ks6Oli0Tfs8KMEPDsnjM",
+          "name": "playlist",
           "index": 0
         }
       }
