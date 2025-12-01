@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1764611023081,
+      "timestamp": 1764611791865,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
         "imageUrl": "https://scontent-zrh1-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=dO43hCD6fjEQ7kNvwHyyDAt&_nc_oc=AdmCY_Rcf_4UjFpQ5UWv_EZfXx8E5ZHIeBUH0QAjjU6wkZwnjp1mcjckEzGN0QU3nO5V6fY9wY5DAW7B6U4fipWa&_nc_zt=24&_nc_ht=scontent-zrh1-1.xx&edm=AP4hL3IEAAAA&_nc_gid=kJ4VAkMxRiX6q-Lpgo876Q&_nc_tpa=Q5bMBQEhiAJRzzW3QtRhJy4GzZ7eYZtjvYkIXwGYIqEgrU1rrsQZz1w3gVfaQ2GTwYNZYoxHYNnJ&oh=00_AfjQtmJbtDkX0PtxSb2KiJTjzUhU1Q5DqKVAJUUdjzjSww&oe=69332668"
       },
       "track": {
-        "uri": "spotify:track:0Eh8SOr2vaWuaVBEJBzTF3",
-        "name": "Candu",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734c16fb252d41c3f78f09dd80",
+        "uri": "spotify:track:1UR1rZWFMNPSQXPzXRDbOD",
+        "name": "CARI JALAN",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d7af988aadb791c8fbc25446",
         "album": {
-          "uri": "spotify:album:1U3o50Q1VNbPJUmZKoTPlD",
-          "name": "Candu"
+          "uri": "spotify:album:5fyE1jguD8jamDc00FKi0l",
+          "name": "CARI JALAN"
         },
         "artist": {
-          "uri": "spotify:artist:4mou4PtjCF4kd8D6kuMXZb",
-          "name": "Randy Husain"
+          "uri": "spotify:artist:33NVGhA6i1idU7DQEt1EIE",
+          "name": "ALAN DARMAWAN, Eno Smaper"
         },
         "context": {
           "uri": "spotify:playlist:6gzRjcJqzdM1M6bpOZsWsl",
