@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1764611791865,
+      "timestamp": 1764613954919,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-zrh1-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=dO43hCD6fjEQ7kNvwHyyDAt&_nc_oc=AdmCY_Rcf_4UjFpQ5UWv_EZfXx8E5ZHIeBUH0QAjjU6wkZwnjp1mcjckEzGN0QU3nO5V6fY9wY5DAW7B6U4fipWa&_nc_zt=24&_nc_ht=scontent-zrh1-1.xx&edm=AP4hL3IEAAAA&_nc_gid=kJ4VAkMxRiX6q-Lpgo876Q&_nc_tpa=Q5bMBQEhiAJRzzW3QtRhJy4GzZ7eYZtjvYkIXwGYIqEgrU1rrsQZz1w3gVfaQ2GTwYNZYoxHYNnJ&oh=00_AfjQtmJbtDkX0PtxSb2KiJTjzUhU1Q5DqKVAJUUdjzjSww&oe=69332668"
+        "imageUrl": "https://scontent-zrh1-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=dO43hCD6fjEQ7kNvwFuPl9A&_nc_oc=AdnFepAEpYV4VVeD27TEwbDaAo1P3GWuXLXRgy3fGkLJr51RoAVlaBqA89b-TezhCsnFvD7xcxUtf_AgQf5zA-se&_nc_zt=24&_nc_ht=scontent-zrh1-1.xx&edm=AP4hL3IEAAAA&_nc_gid=NfUt840UVx9KLa9-c_11dw&_nc_tpa=Q5bMBQFjjNwdH6eyh1NwQvb9VuQk4CFwufdm5m2gSqOYuU2WZykZokzk-tx7pqtDHGGP2HRC9Qin&oh=00_AfjpRnmZ75UA4--W2IeYp7_JylC33s78edLN8vLPYyyKhg&oe=69335EA8"
       },
       "track": {
-        "uri": "spotify:track:1UR1rZWFMNPSQXPzXRDbOD",
-        "name": "CARI JALAN",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d7af988aadb791c8fbc25446",
+        "uri": "spotify:track:7EJn4U6IySwLSfLZX07muY",
+        "name": "Ngapain Repot",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27307278054d9d8abbaddd4228f",
         "album": {
-          "uri": "spotify:album:5fyE1jguD8jamDc00FKi0l",
-          "name": "CARI JALAN"
+          "uri": "spotify:album:0hEt3PH6b53bkKUcjG09Ee",
+          "name": "Ngapain Repot"
         },
         "artist": {
-          "uri": "spotify:artist:33NVGhA6i1idU7DQEt1EIE",
-          "name": "ALAN DARMAWAN, Eno Smaper"
+          "uri": "spotify:artist:0v1axjG0KwIz3aciZffFMu",
+          "name": "Toton Caribo, Wizz Baker, Fresly Nikijuluw"
         },
         "context": {
           "uri": "spotify:playlist:6gzRjcJqzdM1M6bpOZsWsl",
