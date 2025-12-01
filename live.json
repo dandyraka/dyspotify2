@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1764613954919,
+      "timestamp": 1764615555168,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-zrh1-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=dO43hCD6fjEQ7kNvwFuPl9A&_nc_oc=AdnFepAEpYV4VVeD27TEwbDaAo1P3GWuXLXRgy3fGkLJr51RoAVlaBqA89b-TezhCsnFvD7xcxUtf_AgQf5zA-se&_nc_zt=24&_nc_ht=scontent-zrh1-1.xx&edm=AP4hL3IEAAAA&_nc_gid=NfUt840UVx9KLa9-c_11dw&_nc_tpa=Q5bMBQFjjNwdH6eyh1NwQvb9VuQk4CFwufdm5m2gSqOYuU2WZykZokzk-tx7pqtDHGGP2HRC9Qin&oh=00_AfjpRnmZ75UA4--W2IeYp7_JylC33s78edLN8vLPYyyKhg&oe=69335EA8"
+        "imageUrl": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=dO43hCD6fjEQ7kNvwFguslw&_nc_oc=AdniwhH78ODZBBswKSwsGqu1nVfbZoJE4rb5b0xggfEbDFFydeqYsXpsCCehrc4_8gPGd12nfzRFRO2jRrUTfvfh&_nc_zt=24&_nc_ht=scontent-iad3-2.xx&edm=AP4hL3IEAAAA&_nc_gid=sZ6nmrO7pTN6ZUJuaYsKhw&_nc_tpa=Q5bMBQEX9tmKOCOjHe_5VEu8t7quYgKZrqK5cA6fQdrJwt1gf9AKl4XjXSPydyLFJXfWyzBQyQbW&oh=00_AfgkUJVpQNctYpj7i6SLaa4M4dZeiH-4IQVK9dfBsm2Htw&oe=6933CF28"
       },
       "track": {
-        "uri": "spotify:track:7EJn4U6IySwLSfLZX07muY",
-        "name": "Ngapain Repot",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27307278054d9d8abbaddd4228f",
+        "uri": "spotify:track:5IJVc5fCYHK1IWy4WIVyvy",
+        "name": "Aseba - Ade Senyum Bahaya",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f2fd824caf9099c7cd2b44b7",
         "album": {
-          "uri": "spotify:album:0hEt3PH6b53bkKUcjG09Ee",
-          "name": "Ngapain Repot"
+          "uri": "spotify:album:1VZANFa3m34DFwSxRXruss",
+          "name": "Aseba (Ade Senyum Bahaya)"
         },
         "artist": {
-          "uri": "spotify:artist:0v1axjG0KwIz3aciZffFMu",
-          "name": "Toton Caribo, Wizz Baker, Fresly Nikijuluw"
+          "uri": "spotify:artist:5naPJsWUJ6y22yKXA6dX36",
+          "name": "Silet Open Up, Inggid Wakano"
         },
         "context": {
           "uri": "spotify:playlist:6gzRjcJqzdM1M6bpOZsWsl",
