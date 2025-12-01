@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1764603796542,
+      "timestamp": 1764604574194,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
         "imageUrl": "https://scontent-zrh1-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=dO43hCD6fjEQ7kNvwHyyDAt&_nc_oc=AdmCY_Rcf_4UjFpQ5UWv_EZfXx8E5ZHIeBUH0QAjjU6wkZwnjp1mcjckEzGN0QU3nO5V6fY9wY5DAW7B6U4fipWa&_nc_zt=24&_nc_ht=scontent-zrh1-1.xx&edm=AP4hL3IEAAAA&_nc_gid=kJ4VAkMxRiX6q-Lpgo876Q&_nc_tpa=Q5bMBQEhiAJRzzW3QtRhJy4GzZ7eYZtjvYkIXwGYIqEgrU1rrsQZz1w3gVfaQ2GTwYNZYoxHYNnJ&oh=00_AfjQtmJbtDkX0PtxSb2KiJTjzUhU1Q5DqKVAJUUdjzjSww&oe=69332668"
       },
       "track": {
-        "uri": "spotify:track:2UMK6GSqdB8sIaXtOAuQi8",
-        "name": "TERSERAH",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273aa0d1354a136b0fda38097be",
+        "uri": "spotify:track:6SZLZhWC88UHEw24VZJhdy",
+        "name": "Baju Hitam",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731099cb12dc9f2c0c2ab8ac76",
         "album": {
-          "uri": "spotify:album:6Bvxp7cCaY4PIXmhtZypiL",
-          "name": "TERSERAH"
+          "uri": "spotify:album:4qhWSAqGU6KOiHUkQgPyPa",
+          "name": "Baju Hitam"
         },
         "artist": {
-          "uri": "spotify:artist:3LgpEnxGl51dSvzKJTNPNR",
-          "name": "Chesylino"
+          "uri": "spotify:artist:2VrSthzetu4LhbDSjCaV4n",
+          "name": "Mace Purba, D'Ari"
         },
         "context": {
           "uri": "spotify:playlist:6gzRjcJqzdM1M6bpOZsWsl",
