@@ -1,30 +1,3 @@
 {
-  "friends": [
-    {
-      "timestamp": 1764618059529,
-      "user": {
-        "uri": "spotify:user:dandyraka_",
-        "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-zrh1-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=dO43hCD6fjEQ7kNvwFuPl9A&_nc_oc=AdnFepAEpYV4VVeD27TEwbDaAo1P3GWuXLXRgy3fGkLJr51RoAVlaBqA89b-TezhCsnFvD7xcxUtf_AgQf5zA-se&_nc_zt=24&_nc_ht=scontent-zrh1-1.xx&edm=AP4hL3IEAAAA&_nc_gid=NfUt840UVx9KLa9-c_11dw&_nc_tpa=Q5bMBQFjjNwdH6eyh1NwQvb9VuQk4CFwufdm5m2gSqOYuU2WZykZokzk-tx7pqtDHGGP2HRC9Qin&oh=00_AfjpRnmZ75UA4--W2IeYp7_JylC33s78edLN8vLPYyyKhg&oe=69335EA8"
-      },
-      "track": {
-        "uri": "spotify:track:5Y9iMDk2QW6Wm6A4uVLG8v",
-        "name": "YOLANDA",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273acd17b4e311f0cb915befc38",
-        "album": {
-          "uri": "spotify:album:4MwisXLWc2UkhTARNRBEfy",
-          "name": "YOLANDA"
-        },
-        "artist": {
-          "uri": "spotify:artist:16dtuKHW6gqruFp3IgCPpc",
-          "name": "EXCELENT VOICE"
-        },
-        "context": {
-          "uri": "spotify:playlist:6gzRjcJqzdM1M6bpOZsWsl",
-          "name": "playlist",
-          "index": 0
-        }
-      }
-    }
-  ]
+  "friends": []
 }
