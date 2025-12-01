@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1764602732171,
+      "timestamp": 1764603796542,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-zrh1-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=dO43hCD6fjEQ7kNvwGzmNPR&_nc_oc=Adn2GxFgs8J5FEyVx6IBHAoz-u957QBBhT5OINYpWk-FaHNtXqKQOGS27u5zKGbULmp0rOD3u2a2xVg9YTxb-hd1&_nc_zt=24&_nc_ht=scontent-zrh1-1.xx&edm=AP4hL3IEAAAA&_nc_gid=x6M1n-Ze_c-4AkApCvvj2w&_nc_tpa=Q5bMBQHMZ7byO0IR4kyrmWuH1GIneU6pjhAGZxCWUD9W9HTJ_KG8EhwdI3mi3q4MJ3ttfCz_24fV&oh=00_AfjKP58h2GN3p1j1oaPHS3t6xdP2BIP5TVkw7a8bytoxaA&oe=69335EA8"
+        "imageUrl": "https://scontent-zrh1-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=dO43hCD6fjEQ7kNvwHyyDAt&_nc_oc=AdmCY_Rcf_4UjFpQ5UWv_EZfXx8E5ZHIeBUH0QAjjU6wkZwnjp1mcjckEzGN0QU3nO5V6fY9wY5DAW7B6U4fipWa&_nc_zt=24&_nc_ht=scontent-zrh1-1.xx&edm=AP4hL3IEAAAA&_nc_gid=kJ4VAkMxRiX6q-Lpgo876Q&_nc_tpa=Q5bMBQEhiAJRzzW3QtRhJy4GzZ7eYZtjvYkIXwGYIqEgrU1rrsQZz1w3gVfaQ2GTwYNZYoxHYNnJ&oh=00_AfjQtmJbtDkX0PtxSb2KiJTjzUhU1Q5DqKVAJUUdjzjSww&oe=69332668"
       },
       "track": {
-        "uri": "spotify:track:5sry8z5nXvvTHpUDmThvkw",
-        "name": "Ikan Nae Di Pante",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734af024f6cf04466de5219c73",
+        "uri": "spotify:track:2UMK6GSqdB8sIaXtOAuQi8",
+        "name": "TERSERAH",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273aa0d1354a136b0fda38097be",
         "album": {
-          "uri": "spotify:album:0Ppznjsb8omLgZ5F2RZQrf",
-          "name": "Ikan Nae Di Pante"
+          "uri": "spotify:album:6Bvxp7cCaY4PIXmhtZypiL",
+          "name": "TERSERAH"
         },
         "artist": {
-          "uri": "spotify:artist:2RtfaqXJSBmhV30WOHnUAc",
-          "name": "Alfred Gare, PAX Group"
+          "uri": "spotify:artist:3LgpEnxGl51dSvzKJTNPNR",
+          "name": "Chesylino"
         },
         "context": {
           "uri": "spotify:playlist:6gzRjcJqzdM1M6bpOZsWsl",
