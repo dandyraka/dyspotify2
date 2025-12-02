@@ -1,5 +1,14 @@
 [
   {
+    "timestamp": 1764664878323,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Cerita",
+    "artist": "Mace Purba, D'Ari",
+    "uri": "spotify:track:675W9yMvXvBXsychqn4itW",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bd5e905402a0a9b6b094092c"
+  },
+  {
     "timestamp": 1764618654177,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -79,14 +88,5 @@
     "artist": "Aldo Bz, Deasy Agaki",
     "uri": "spotify:track:15WaYwX7zrn42fp2Cg9f4R",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735358fa7ccc2d7ad6f397d0db"
-  },
-  {
-    "timestamp": 1764616463029,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Jang Balikan",
-    "artist": "Wizz Baker, Toton Caribo, Jacson Zeran",
-    "uri": "spotify:track:6bQxom7HOonyycV5ESPBLh",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730d4cdac68ebfcf4748115d96"
   }
 ]
