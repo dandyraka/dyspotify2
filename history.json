@@ -1,5 +1,14 @@
 [
   {
+    "timestamp": 1764709088173,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "CARI JALAN",
+    "artist": "ALAN DARMAWAN, Eno Smaper",
+    "uri": "spotify:track:1UR1rZWFMNPSQXPzXRDbOD",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d7af988aadb791c8fbc25446"
+  },
+  {
     "timestamp": 1764664878323,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -79,14 +88,5 @@
     "artist": "Tampias Fams",
     "uri": "spotify:track:2pF10cIfGuvXzbKzJERJtY",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b5ebd0f9c60a32462ab8d4ef"
-  },
-  {
-    "timestamp": 1764616679954,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "De Yang Gatal Gatal Sa",
-    "artist": "Aldo Bz, Deasy Agaki",
-    "uri": "spotify:track:15WaYwX7zrn42fp2Cg9f4R",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735358fa7ccc2d7ad6f397d0db"
   }
 ]
