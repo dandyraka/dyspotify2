@@ -1,3 +1,30 @@
 {
-  "friends": []
+  "friends": [
+    {
+      "timestamp": 1764769956685,
+      "user": {
+        "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
+        "name": "poemstars🌼🌟",
+        "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
+      },
+      "track": {
+        "uri": "spotify:track:74tLlkN3rgVzRqQJgPfink",
+        "name": "Money Trees",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732cd55246d935a8a77cb4859e",
+        "album": {
+          "uri": "spotify:album:0Oq3mWfexhsjUh0aNNBB5u",
+          "name": "good kid, m.A.A.d city"
+        },
+        "artist": {
+          "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg",
+          "name": "Kendrick Lamar, Jay Rock"
+        },
+        "context": {
+          "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg",
+          "name": "artist",
+          "index": 0
+        }
+      }
+    }
+  ]
 }
