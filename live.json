@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1764830264418,
+      "timestamp": 1764831471302,
       "user": {
         "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
         "name": "poemstars🌼🌟",
         "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
       },
       "track": {
-        "uri": "spotify:track:6REbwUNlppTfcnV4d4ZoZi",
-        "name": "Swimming Pools (Drank)",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b5ef185d28724c5573c2ac9c",
+        "uri": "spotify:track:7xHWNBFm6ObGEQPaUxHuKO",
+        "name": "The Greatest (feat. Kendrick Lamar)",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27309fc2936525fc269032451c9",
         "album": {
-          "uri": "spotify:album:2XPrwlaAHHXnJzP9tBcIzH",
-          "name": "Swimming Pools (Drank)"
+          "uri": "spotify:album:2eV6DIPDnGl1idcjww6xyX",
+          "name": "This Is Acting (Deluxe Version)"
         },
         "artist": {
-          "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg",
-          "name": "Kendrick Lamar"
+          "uri": "spotify:artist:5WUlDfRSoLAfcVSX1WnrxN",
+          "name": "Sia, Kendrick Lamar"
         },
         "context": {
           "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg",
