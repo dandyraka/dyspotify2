@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": 1764848396060,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Satu Bintang",
+    "artist": "AntiQue",
+    "uri": "spotify:track:1iwmCEU8lMgMxs4AgZItwW",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27311c1886934534ef872190d20"
+  },
+  {
+    "timestamp": 1764848216783,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Sephia",
+    "artist": "Sheila On 7",
+    "uri": "spotify:track:5gkTGkjFB5wAd3mSBEcQPY",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e8d4f0596d66ccbe5241918d"
+  },
+  {
     "timestamp": 1764847930958,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -70,23 +88,5 @@
     "artist": "Sheila On 7",
     "uri": "spotify:track:1nfOP7xNHeFSPOlziXswJc",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273505fb06705d4823830ce5055"
-  },
-  {
-    "timestamp": 1764846668190,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Tentang Rasa",
-    "artist": "Astrid",
-    "uri": "spotify:track:73PIm6P5ruqBmcEVtzcop2",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731a0378422d6100ef70acf740"
-  },
-  {
-    "timestamp": 1764846419809,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Kepompong",
-    "artist": "sind3ntosca",
-    "uri": "spotify:track:59Ct5oxViBiOGsByOYzC39",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c023b5c40943d13b56f4404e"
   }
 ]
