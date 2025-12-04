@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1764845811928,
+      "timestamp": 1764847161820,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
         "imageUrl": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=5krJxq9DnbwQ7kNvwFzSiuO&_nc_oc=AdkZzVBLVyzRm_F63aSOnt8qzd7_fP1FSSnwE_pVQUbdHTkICCMRHsQjbvPPkWW5tkkuw_4gh5RLYmm0ZDGVXnmJ&_nc_zt=24&_nc_ht=scontent-ams2-1.xx&edm=AP4hL3IEAAAA&_nc_gid=5YWmRJZPTuxUGdlLh_7R1A&_nc_tpa=Q5bMBQEplAFyKvexDDKhipGp30-ull3L7vt1lGXJBiuabRjn1UmUOPuEgPMZd3BM-47HisxIWEox&oh=00_AfkEpDXMjoS39FNu590z1HSEGMvLH9bTrBEbl7yBQXogfg&oe=69371AE8"
       },
       "track": {
-        "uri": "spotify:track:3EELZDQN6F4eKmSOYnBddR",
-        "name": "Sedang Ingin Bercinta",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b24cd5b48c64f2b335135b5d",
+        "uri": "spotify:track:7ADK1rnMzP6PGWhoqWirBJ",
+        "name": "Pupus",
+        "imageUrl": "https://i.scdn.co/image/4998f20672f6783f7448f1266973a9e0595d5ea5",
         "album": {
-          "uri": "spotify:album:1Q02X3GfyfbgqnhewTdexN",
-          "name": "The 2000's Greatest"
+          "uri": "spotify:album:6ifjItwHx7S2mhoX6tWSlK",
+          "name": "Cintailah Cinta"
         },
         "artist": {
-          "uri": "spotify:artist:48bKH1ugFBhERC1rdojP9d",
-          "name": "Dewa 19"
+          "uri": "spotify:artist:35dWPb7Tmq0WESp6KAUJ8w",
+          "name": "Dewa"
         },
         "context": {
           "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",

@@ -1,5 +1,41 @@
 [
   {
+    "timestamp": 1764847066150,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Sedang Ingin Bercinta",
+    "artist": "Dewa 19",
+    "uri": "spotify:track:44n4zJjacUQJSJncx0YW7h",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27369222d0908ecf5d22cc9d960"
+  },
+  {
+    "timestamp": 1764846893154,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Hari Bersamanya",
+    "artist": "Sheila On 7",
+    "uri": "spotify:track:1nfOP7xNHeFSPOlziXswJc",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273505fb06705d4823830ce5055"
+  },
+  {
+    "timestamp": 1764846668190,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Tentang Rasa",
+    "artist": "Astrid",
+    "uri": "spotify:track:73PIm6P5ruqBmcEVtzcop2",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731a0378422d6100ef70acf740"
+  },
+  {
+    "timestamp": 1764846419809,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Kepompong",
+    "artist": "sind3ntosca",
+    "uri": "spotify:track:59Ct5oxViBiOGsByOYzC39",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c023b5c40943d13b56f4404e"
+  },
+  {
     "timestamp": 1764845757840,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -52,41 +88,5 @@
     "artist": "Kangen Band",
     "uri": "spotify:track:0MhNhoGoKkOILkpAq80cdc",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ba8d883787d66e655c9b87a6"
-  },
-  {
-    "timestamp": 1764844217885,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Doaku Untukmu Sayang",
-    "artist": "Wali",
-    "uri": "spotify:track:29GszwSbH9jtj74nwNWf4Z",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ab85980da8a5c59d26309a6f"
-  },
-  {
-    "timestamp": 1764843936135,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Ular Berbisa",
-    "artist": "Hello",
-    "uri": "spotify:track:0UlanUvwxdIg3fGAISwEfQ",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739c32cd16725781cfbcadb65c"
-  },
-  {
-    "timestamp": 1764843726182,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Jangan Tutup Dirimu",
-    "artist": "Stinky",
-    "uri": "spotify:track:12Q6hgcXGjhKN2gPqaInAG",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731235258a65eded3eb20fea66"
-  },
-  {
-    "timestamp": 1764843429756,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Resah Tanpamu",
-    "artist": "Titi Kamal, Anji",
-    "uri": "spotify:track:4UNUyeGaZVszl2oQEqzn6u",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735a9f1d5c837f60fd6b5c5ced"
   }
 ]
