@@ -1,5 +1,32 @@
 [
   {
+    "timestamp": 1764845757840,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Mungkinkah",
+    "artist": "Stinky",
+    "uri": "spotify:track:7dlnTQMqvzoJe649aLgUdb",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731478f987f79b3a31169235fa"
+  },
+  {
+    "timestamp": 1764845390180,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Dokter Cinta",
+    "artist": "Dewi - Dewi",
+    "uri": "spotify:track:1j2SFEkeV91HJCBAhpKU5f",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730dfa48cd32a485064ba64804"
+  },
+  {
+    "timestamp": 1764845164451,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Selimut Hati",
+    "artist": "Dewa 19",
+    "uri": "spotify:track:112PgZaSiXk8Mqem2Krgtq",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27369222d0908ecf5d22cc9d960"
+  },
+  {
     "timestamp": 1764844885454,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -61,32 +88,5 @@
     "artist": "Titi Kamal, Anji",
     "uri": "spotify:track:4UNUyeGaZVszl2oQEqzn6u",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735a9f1d5c837f60fd6b5c5ced"
-  },
-  {
-    "timestamp": 1764843134011,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Hanya Memuji",
-    "artist": "Shanty",
-    "uri": "spotify:track:3jjehnH4E0KENjcEGnK9nm",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e5f56fa9cd66dc3d170d102c"
-  },
-  {
-    "timestamp": 1764842939977,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Sumpah I Love You",
-    "artist": "Mahadewi",
-    "uri": "spotify:track:0Vhpedvy2kmw6yzPLfxJL4",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273074fdfdf06d84c49d205581e"
-  },
-  {
-    "timestamp": 1764842527708,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Yang Terbaik Bagimu (Jangan Lupakan Ayah) [feat. Gita Gutawa]",
-    "artist": "Ada Band, Gita Gutawa",
-    "uri": "spotify:track:0hcshcvKuOODyfuvkfoW9S",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732b1ac7ae8f3ef6c11cc6eca5"
   }
 ]
