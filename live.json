@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1764859377337,
+      "timestamp": 1764860274388,
       "user": {
         "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
         "name": "poemstars🌼🌟",
         "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
       },
       "track": {
-        "uri": "spotify:track:6AI3ezQ4o3HUoP6Dhudph3",
-        "name": "Not Like Us",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731ea0c62b2339cbf493a999ad",
+        "uri": "spotify:track:2CGNAOSuO1MEFCbBRgUzjd",
+        "name": "luther (with sza)",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27309d6ed214f03fbb663e46531",
         "album": {
-          "uri": "spotify:album:5JjnoGJyOxfSZUZtk2rRwZ",
-          "name": "Not Like Us"
+          "uri": "spotify:album:1Ss0ArMRr91m83mOgRBjSZ",
+          "name": "GNX"
         },
         "artist": {
           "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg",
-          "name": "Kendrick Lamar"
+          "name": "Kendrick Lamar, SZA"
         },
         "context": {
           "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg",
