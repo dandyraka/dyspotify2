@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1764857850614,
+      "timestamp": 1764859377337,
       "user": {
         "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
         "name": "poemstars🌼🌟",
         "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
       },
       "track": {
-        "uri": "spotify:track:5nkUIVKqOqdpB6ApKgEMkv",
-        "name": "Stay Ready (What A Life)",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a0fa057b8ad3f3c4969f0c97",
+        "uri": "spotify:track:6AI3ezQ4o3HUoP6Dhudph3",
+        "name": "Not Like Us",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731ea0c62b2339cbf493a999ad",
         "album": {
-          "uri": "spotify:album:73TNMu44lT0m1h1Nn6Bfiq",
-          "name": "Sail Out"
+          "uri": "spotify:album:5JjnoGJyOxfSZUZtk2rRwZ",
+          "name": "Not Like Us"
         },
         "artist": {
-          "uri": "spotify:artist:5ZS223C6JyBfXasXxrRqOk",
-          "name": "Jhené Aiko, Kendrick Lamar"
+          "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg",
+          "name": "Kendrick Lamar"
         },
         "context": {
           "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg",
