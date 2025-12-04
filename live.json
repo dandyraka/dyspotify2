@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1764860274388,
+      "timestamp": 1764862072582,
       "user": {
         "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
         "name": "poemstars🌼🌟",
         "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
       },
       "track": {
-        "uri": "spotify:track:2CGNAOSuO1MEFCbBRgUzjd",
-        "name": "luther (with sza)",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27309d6ed214f03fbb663e46531",
+        "uri": "spotify:track:0yhMmqax6HRAZxI7udEask",
+        "name": "Bitch, Don’t Kill My Vibe",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732cd55246d935a8a77cb4859e",
         "album": {
-          "uri": "spotify:album:1Ss0ArMRr91m83mOgRBjSZ",
-          "name": "GNX"
+          "uri": "spotify:album:0Oq3mWfexhsjUh0aNNBB5u",
+          "name": "good kid, m.A.A.d city"
         },
         "artist": {
           "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg",
-          "name": "Kendrick Lamar, SZA"
+          "name": "Kendrick Lamar"
         },
         "context": {
           "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg",
