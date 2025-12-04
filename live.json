@@ -1,3 +1,30 @@
 {
-  "friends": []
+  "friends": [
+    {
+      "timestamp": 1764857850614,
+      "user": {
+        "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
+        "name": "poemstars🌼🌟",
+        "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
+      },
+      "track": {
+        "uri": "spotify:track:5nkUIVKqOqdpB6ApKgEMkv",
+        "name": "Stay Ready (What A Life)",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a0fa057b8ad3f3c4969f0c97",
+        "album": {
+          "uri": "spotify:album:73TNMu44lT0m1h1Nn6Bfiq",
+          "name": "Sail Out"
+        },
+        "artist": {
+          "uri": "spotify:artist:5ZS223C6JyBfXasXxrRqOk",
+          "name": "Jhené Aiko, Kendrick Lamar"
+        },
+        "context": {
+          "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg",
+          "name": "artist",
+          "index": 0
+        }
+      }
+    }
+  ]
 }
