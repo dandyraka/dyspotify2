@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1764840026593,
+      "timestamp": 1764841450542,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=5krJxq9DnbwQ7kNvwFzSiuO&_nc_oc=AdkZzVBLVyzRm_F63aSOnt8qzd7_fP1FSSnwE_pVQUbdHTkICCMRHsQjbvPPkWW5tkkuw_4gh5RLYmm0ZDGVXnmJ&_nc_zt=24&_nc_ht=scontent-ams2-1.xx&edm=AP4hL3IEAAAA&_nc_gid=5YWmRJZPTuxUGdlLh_7R1A&_nc_tpa=Q5bMBQEplAFyKvexDDKhipGp30-ull3L7vt1lGXJBiuabRjn1UmUOPuEgPMZd3BM-47HisxIWEox&oh=00_AfkEpDXMjoS39FNu590z1HSEGMvLH9bTrBEbl7yBQXogfg&oe=69371AE8"
+        "imageUrl": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=5krJxq9DnbwQ7kNvwEwdrGb&_nc_oc=AdkAGtied8f6OOo5Kkisunqw75fkf2zQ37syHZ3nDnD3Ce5MIFiGFA9MqBPW8UIVdyaOH8CEEvetrJ2HpuyYIsuP&_nc_zt=24&_nc_ht=scontent-ams2-1.xx&edm=AP4hL3IEAAAA&_nc_gid=QhzxcbUK_aVb45as_Qi8qg&_nc_tpa=Q5bMBQEqIHROUT7PSXPsfj_T5yOUXkjte2Ddj3y5-qrWYxJjVwLr1DZpZ6Mbkz5ooXGflJfFLOgT&oh=00_AflvkN0hfxgucVkMKTdLGFV6AbkdeYmsKHpBx2FkVfdiwQ&oe=69371AE8"
       },
       "track": {
-        "uri": "spotify:track:5Y9iMDk2QW6Wm6A4uVLG8v",
-        "name": "YOLANDA",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273acd17b4e311f0cb915befc38",
+        "uri": "spotify:track:20Wgvycfgegj8WdM7f7tX7",
+        "name": "Tunggu Tunggu",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733187a031152d9bc4af85f357",
         "album": {
-          "uri": "spotify:album:4MwisXLWc2UkhTARNRBEfy",
-          "name": "YOLANDA"
+          "uri": "spotify:album:1TnLrTkTjTMqyEPkpkEYVT",
+          "name": "Tunggu Tunggu"
         },
         "artist": {
-          "uri": "spotify:artist:16dtuKHW6gqruFp3IgCPpc",
-          "name": "EXCELENT VOICE"
+          "uri": "spotify:artist:6fw0T0BKVLyk6NpjyMCM7A",
+          "name": "Kelvin Remixer"
         },
         "context": {
           "uri": "spotify:playlist:6gzRjcJqzdM1M6bpOZsWsl",
