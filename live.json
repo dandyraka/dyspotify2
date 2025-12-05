@@ -1,3 +1,30 @@
 {
-  "friends": []
+  "friends": [
+    {
+      "timestamp": 1764921301099,
+      "user": {
+        "uri": "spotify:user:dandyraka_",
+        "name": "Dandy 🫵🏻😁",
+        "imageUrl": "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=5krJxq9DnbwQ7kNvwGSOQt_&_nc_oc=AdnRpcHnu_xbe7EXu1l26lCyCXXHnIWffuLzsX3SJwehFuSCRWUCvEAWsN2BlI4d-cZ2Gf8vSTGtItruTxZrXG6J&_nc_zt=24&_nc_ht=scontent-tpe1-1.xx&edm=AP4hL3IEAAAA&_nc_gid=iRNolARhW6kUiMLD7z-LoQ&_nc_tpa=Q5bMBQFMZMf46A5yYoHEmnKL5Fdghtso39QYhxQ-vnOJsaw9XiHzsBP2hJF29ZQRAP8cLOTZUxZw&oh=00_AflTmi2noIvOj4DcA1j3muIG9VOXZOHTI76zFfBqrL2bpQ&oe=69386C68"
+      },
+      "track": {
+        "uri": "spotify:track:3VoNMCYW9sID4Mi0Q6E8u8",
+        "name": "Ubur Ubur Ikan Lele",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273522455caf8351f61c0242f43",
+        "album": {
+          "uri": "spotify:album:4NX2KpmzuljaenpnnK7OAW",
+          "name": "Ubur Ubur Ikan Lele"
+        },
+        "artist": {
+          "uri": "spotify:artist:1BHC0jEJgDvNXlLhojMUbf",
+          "name": "Juan Reza, Jacson Zeran, Chesylino"
+        },
+        "context": {
+          "uri": "spotify:playlist:6gzRjcJqzdM1M6bpOZsWsl",
+          "name": "playlist",
+          "index": 0
+        }
+      }
+    }
+  ]
 }
