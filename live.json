@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1765031554923,
+      "timestamp": 1765032295622,
       "user": {
         "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
         "name": "poemstars🌼🌟",
         "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
       },
       "track": {
-        "uri": "spotify:track:77DRzu7ERs0TX3roZcre7Q",
-        "name": "euphoria",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737587213b1be294ac4000f648",
+        "uri": "spotify:track:6glsMWIMIxQ4BedzLqGVi4",
+        "name": "So Fresh, So Clean",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273153b3d6495031cb813a7451c",
         "album": {
-          "uri": "spotify:album:32bR4LcEc1PvJEhaKoo4ZN",
-          "name": "euphoria"
+          "uri": "spotify:album:2tm3Ht61kqqRZtIYsBjxEj",
+          "name": "Stankonia"
         },
         "artist": {
-          "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg",
-          "name": "Kendrick Lamar"
+          "uri": "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7",
+          "name": "Outkast"
         },
         "context": {
           "uri": null,
