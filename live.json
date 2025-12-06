@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1765007632295,
+      "timestamp": 1765009201294,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=5krJxq9DnbwQ7kNvwGkpepo&_nc_oc=AdmtTSU30zzQJGhgxqFPAzrYttbi2RCHvXrl_CzngTxAzcSpocFfcb_cH-HnIe2plOi5Q3AmSL11PX4q51vEwznX&_nc_zt=24&_nc_ht=scontent-ams2-1.xx&edm=AP4hL3IEAAAA&_nc_gid=dqiOcym89VZSvmkHU76eNw&_nc_tpa=Q5bMBQH8vPHfcyrzJU-KF3PdsjqX8tpzotd3YvD4itMbFSM62VQKJL87YJIz7fJRWe-qztoB0lRZ&oh=00_Afk0uMGRg1AA5a5tqiJytfNBxssZ2yvmf3TH560VcS7lCQ&oe=69391528"
+        "imageUrl": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=5krJxq9DnbwQ7kNvwHmNpgK&_nc_oc=Adn8SgxMuMV1Y7lb0o3hwqsmblvsoVC3zjb54wSTeNrfP9DkPNEXLPZs78Vnmys_A5Gx759-bJ9ecWkO0_eIPokC&_nc_zt=24&_nc_ht=scontent-ams2-1.xx&edm=AP4hL3IEAAAA&_nc_gid=EyaGl-9PpWbQQXYP1TycPA&_nc_tpa=Q5bMBQENtO6BIuhxoOqTEiGHJ688T7MFHSTNgeqCia2kMJuHDd0DWwaPm6pDetax1hRNDX6FvYM8&oh=00_AfnQrEJ5d8n-nW6uVlep3X350yHILZP--rWZaFdInXNkVA&oe=69391528"
       },
       "track": {
-        "uri": "spotify:track:1mRS2sYCpebzPPccW5AlLW",
-        "name": "Sa Te Mabuk",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27305db7d0dcd62a051bf60c071",
+        "uri": "spotify:track:3m3T1jzWyJHdh6DcQOXxnY",
+        "name": "Hello Guys",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737ce150a783096f78f617478d",
         "album": {
-          "uri": "spotify:album:32m64F78a30SSBRA3XcOei",
-          "name": "Sa Te Mabuk"
+          "uri": "spotify:album:4mtWoBwy10Jm7pxCWkEe98",
+          "name": "Hello Guys"
         },
         "artist": {
-          "uri": "spotify:artist:03viIgoUyg6gfAcID5hRCm",
-          "name": "Kapthenpurek, Kanzer PMC, Astoozgila, Emanem"
+          "uri": "spotify:artist:4KZJwTxdTD6PWqe5kxdPCw",
+          "name": "Mona Latumahina"
         },
         "context": {
           "uri": "spotify:playlist:6gzRjcJqzdM1M6bpOZsWsl",
