@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1765026376148,
+      "timestamp": 1765028048488,
       "user": {
         "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
         "name": "poemstars🌼🌟",
         "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
       },
       "track": {
-        "uri": "spotify:track:6BU1RZexmvJcBjgagVVt3M",
-        "name": "Count Me Out",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732e02117d76426a08ac7c174f",
+        "uri": "spotify:track:3w3y8KPTfNeOKPiqUTakBh",
+        "name": "Locked out of Heaven",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273926f43e7cce571e62720fd46",
         "album": {
-          "uri": "spotify:album:79ONNoS4M9tfIA1mYLBYVX",
-          "name": "Mr. Morale & The Big Steppers"
+          "uri": "spotify:album:58ufpQsJ1DS5kq4hhzQDiI",
+          "name": "Unorthodox Jukebox"
         },
         "artist": {
-          "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg",
-          "name": "Kendrick Lamar"
+          "uri": "spotify:artist:0du5cEVh5yTK9QJze8zA0C",
+          "name": "Bruno Mars"
         },
         "context": {
           "uri": null,
