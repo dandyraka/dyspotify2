@@ -1,5 +1,14 @@
 [
   {
+    "timestamp": 1765035523810,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "TABOLA BALE",
+    "artist": "Silet Open Up, Jacson Seran, Juan Reza, Diva Aurel",
+    "uri": "spotify:track:6KfugJFINWqA42k59hmjFr",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27310df7b8e9b3ed2588888a8ae"
+  },
+  {
     "timestamp": 1765035021199,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -79,14 +88,5 @@
     "artist": "Doechii",
     "uri": "spotify:track:1eTaznNW4Xxtx9za2SMTXB",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b245099fe26319344ddf6054"
-  },
-  {
-    "timestamp": 1765033151587,
-    "user": "poemstars🌼🌟",
-    "userId": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
-    "track": "Can't Tell Me Nothing",
-    "artist": "Kanye West",
-    "uri": "spotify:track:0mEdbdeRFQwBhN4xfyIeUM",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a"
   }
 ]

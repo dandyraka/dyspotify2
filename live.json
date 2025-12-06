@@ -1,53 +1,27 @@
 {
   "friends": [
     {
-      "timestamp": 1765035064908,
+      "timestamp": 1765035824114,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
         "imageUrl": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=5krJxq9DnbwQ7kNvwFMIY7N&_nc_oc=AdlL-iWEUIqLcBD-cGEAL0t4xIFS47OafqJ1Ie0Q8Lvuh3kWl2twwInLbSeAzV-piLKUOIl_9f-tWrzcrEOCfSjb&_nc_zt=24&_nc_ht=scontent-ams2-1.xx&edm=AP4hL3IEAAAA&_nc_gid=JovPThOK5qeF0P8a8yL5rQ&_nc_tpa=Q5bMBQEYtQiR3-ZEIqHiKvQa2p3rK4EDjJwrZ__ZHrfOiBIcr9X2jwrBpoxRfRk_b4bcpQLf8YNa&oh=00_AfkmL5eDWOAbAu-x4YILcBUogkqgfwwl5zhU_iovEmJ7EQ&oe=6939BDE8"
       },
       "track": {
-        "uri": "spotify:track:6idKb8F9rnzTIltYgJsTNZ",
-        "name": "Ora Urus",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735a04ca47c01ab82da69edb66",
+        "uri": "spotify:track:7EJn4U6IySwLSfLZX07muY",
+        "name": "Ngapain Repot",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27307278054d9d8abbaddd4228f",
         "album": {
-          "uri": "spotify:album:0KLclsdbFxqetxAmaJNzAJ",
-          "name": "Ora Urus"
+          "uri": "spotify:album:0hEt3PH6b53bkKUcjG09Ee",
+          "name": "Ngapain Repot"
         },
         "artist": {
           "uri": "spotify:artist:0v1axjG0KwIz3aciZffFMu",
-          "name": "Toton Caribo, Justy Aldrin, Wizz Baker, Jacson Zeran"
+          "name": "Toton Caribo, Wizz Baker, Fresly Nikijuluw"
         },
         "context": {
           "uri": "spotify:playlist:6gzRjcJqzdM1M6bpOZsWsl",
           "name": "playlist",
-          "index": 0
-        }
-      }
-    },
-    {
-      "timestamp": 1765035065897,
-      "user": {
-        "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
-        "name": "poemstars🌼🌟",
-        "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
-      },
-      "track": {
-        "uri": "spotify:track:51EC3I1nQXpec4gDk0mQyP",
-        "name": "90210 (feat. Kacy Hill)",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d3b5affd8824b4ed301b7137",
-        "album": {
-          "uri": "spotify:album:4PWBTB6NYSKQwfo79I3prg",
-          "name": "Rodeo"
-        },
-        "artist": {
-          "uri": "spotify:artist:0Y5tJX1MQlPlqiwlOH1tJY",
-          "name": "Travis Scott, Kacy Hill"
-        },
-        "context": {
-          "uri": null,
-          "name": null,
           "index": 0
         }
       }
