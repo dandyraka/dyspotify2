@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1765009201294,
+      "timestamp": 1765010496491,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
         "imageUrl": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=5krJxq9DnbwQ7kNvwHmNpgK&_nc_oc=Adn8SgxMuMV1Y7lb0o3hwqsmblvsoVC3zjb54wSTeNrfP9DkPNEXLPZs78Vnmys_A5Gx759-bJ9ecWkO0_eIPokC&_nc_zt=24&_nc_ht=scontent-ams2-1.xx&edm=AP4hL3IEAAAA&_nc_gid=EyaGl-9PpWbQQXYP1TycPA&_nc_tpa=Q5bMBQENtO6BIuhxoOqTEiGHJ688T7MFHSTNgeqCia2kMJuHDd0DWwaPm6pDetax1hRNDX6FvYM8&oh=00_AfnQrEJ5d8n-nW6uVlep3X350yHILZP--rWZaFdInXNkVA&oe=69391528"
       },
       "track": {
-        "uri": "spotify:track:3m3T1jzWyJHdh6DcQOXxnY",
-        "name": "Hello Guys",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737ce150a783096f78f617478d",
+        "uri": "spotify:track:6QjESPurgiRVWZeWv6sj4W",
+        "name": "MASIH KACILI SO GARIDA",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27333ebc94e89c8f7f11dee69c7",
         "album": {
-          "uri": "spotify:album:4mtWoBwy10Jm7pxCWkEe98",
-          "name": "Hello Guys"
+          "uri": "spotify:album:6agH2ijW2jhMd0Ka1PpIrY",
+          "name": "MASIH KACILI SO GARIDA"
         },
         "artist": {
-          "uri": "spotify:artist:4KZJwTxdTD6PWqe5kxdPCw",
-          "name": "Mona Latumahina"
+          "uri": "spotify:artist:1DUe4IZUNzPmSC07uQqyaL",
+          "name": "Coco Lense, NOLDY MAVIA"
         },
         "context": {
           "uri": "spotify:playlist:6gzRjcJqzdM1M6bpOZsWsl",
