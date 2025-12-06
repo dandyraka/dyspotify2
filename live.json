@@ -1,19 +1,19 @@
 {
   "friends": [
     {
-      "timestamp": 1765028048488,
+      "timestamp": 1765028733014,
       "user": {
         "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
         "name": "poemstars🌼🌟",
         "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
       },
       "track": {
-        "uri": "spotify:track:3w3y8KPTfNeOKPiqUTakBh",
-        "name": "Locked out of Heaven",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273926f43e7cce571e62720fd46",
+        "uri": "spotify:track:4LjkHlY5qDz0hhFJJH5M7a",
+        "name": "Our First Time",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f60070dce96a2c1b70cf6ff0",
         "album": {
-          "uri": "spotify:album:58ufpQsJ1DS5kq4hhzQDiI",
-          "name": "Unorthodox Jukebox"
+          "uri": "spotify:album:6J84szYCnMfzEcvIcfWMFL",
+          "name": "Doo-Wops & Hooligans"
         },
         "artist": {
           "uri": "spotify:artist:0du5cEVh5yTK9QJze8zA0C",
