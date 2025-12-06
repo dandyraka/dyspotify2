@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1765042283905,
+      "timestamp": 1765043026305,
       "user": {
         "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
         "name": "poemstars🌼🌟",
         "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
       },
       "track": {
-        "uri": "spotify:track:2NsakyMtLkF202GZQT4klh",
-        "name": "The Heart Pt3",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dd1e5c4720d00722fa0cd3dc",
+        "uri": "spotify:track:55HpRb1dWGT3JeX9RpDpLa",
+        "name": "MILLION DOLLAR BABY (VHS)",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27301c0cd5da820e6128655854f",
         "album": {
-          "uri": "spotify:album:7ql2A3kwa0MUy2vH2nMf6d",
-          "name": "Black Hippy 2"
+          "uri": "spotify:album:2Z1gnUf3nbn6DtwZSUIH54",
+          "name": "MILLION DOLLAR BABY"
         },
         "artist": {
-          "uri": "spotify:artist:7a9KRWdaSZktpGGnWndzbC",
-          "name": "Black Hippy, Kendrick Lamar, Ab-Soul, Jay Rock, ScHoolboy Q"
+          "uri": "spotify:artist:1WaFQSHVGZQJTbf0BdxdNo",
+          "name": "Tommy Richman"
         },
         "context": {
           "uri": null,
