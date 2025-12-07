@@ -1,3 +1,30 @@
 {
-  "friends": []
+  "friends": [
+    {
+      "timestamp": 1765095567004,
+      "user": {
+        "uri": "spotify:user:dandyraka_",
+        "name": "Dandy 🫵🏻😁",
+        "imageUrl": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=wklGibDb__IQ7kNvwGV2Gmz&_nc_oc=AdkhC_GPM0YnXErumLw8-SKEjAhVsyiKjjsGlhnWAa_t-UTsMjVeRpoa_Zd2LBojjbVwdm5oh66YdOBsOrmQgui7&_nc_zt=24&_nc_ht=scontent-cdg4-3.xx&edm=AP4hL3IEAAAA&_nc_gid=rXAw764Fp1e4nQLtft-UpA&_nc_tpa=Q5bMBQEbDt8YKx-cW5jahxGQfGsnw7QeN7BwBBIydNarwXbzmVBKzqUV-CYeIJBB34e7FU2oQf3D&oh=00_Afnol9Kcc31BxaoDnE6lCWHtR_SsvrnpgI6FzVwrYHTLtg&oe=693A66A8"
+      },
+      "track": {
+        "uri": "spotify:track:5hgQ9WG1fugWsOdY4anawL",
+        "name": "Dai Tra Rindu",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734221108aeea6aaf4487d8b42",
+        "album": {
+          "uri": "spotify:album:4kRIeLFN11cVrtu9IqsGtD",
+          "name": "Dai Tra Rindu"
+        },
+        "artist": {
+          "uri": "spotify:artist:1BGc4YCX6U5kgJSwvNXE72",
+          "name": "Ona Hetharua"
+        },
+        "context": {
+          "uri": "spotify:playlist:6gzRjcJqzdM1M6bpOZsWsl",
+          "name": "playlist",
+          "index": 0
+        }
+      }
+    }
+  ]
 }
