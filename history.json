@@ -1,5 +1,14 @@
 [
   {
+    "timestamp": 1765108397391,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Ora Urus",
+    "artist": "Toton Caribo, Justy Aldrin, Wizz Baker, Jacson Zeran",
+    "uri": "spotify:track:6idKb8F9rnzTIltYgJsTNZ",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735a04ca47c01ab82da69edb66"
+  },
+  {
     "timestamp": 1765095943387,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -79,14 +88,5 @@
     "artist": "Black Hippy, Kendrick Lamar, Ab-Soul, Jay Rock, ScHoolboy Q",
     "uri": "spotify:track:2NsakyMtLkF202GZQT4klh",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dd1e5c4720d00722fa0cd3dc"
-  },
-  {
-    "timestamp": 1765042111828,
-    "user": "poemstars🌼🌟",
-    "userId": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
-    "track": "euphoria",
-    "artist": "Kendrick Lamar",
-    "uri": "spotify:track:77DRzu7ERs0TX3roZcre7Q",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737587213b1be294ac4000f648"
   }
 ]
