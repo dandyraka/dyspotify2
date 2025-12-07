@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": 1765095943387,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "PICA PICA",
+    "artist": "Juan Reza",
+    "uri": "spotify:track:7lulQZKlbZzBKsK4rfP8h5",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739f9f290bf8491ef758344e5f"
+  },
+  {
+    "timestamp": 1765095744053,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Dai Tra Rindu",
+    "artist": "Ona Hetharua",
+    "uri": "spotify:track:5hgQ9WG1fugWsOdY4anawL",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734221108aeea6aaf4487d8b42"
+  },
+  {
     "timestamp": 1765095446913,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -70,23 +88,5 @@
     "artist": "Kendrick Lamar",
     "uri": "spotify:track:77DRzu7ERs0TX3roZcre7Q",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737587213b1be294ac4000f648"
-  },
-  {
-    "timestamp": 1765041710616,
-    "user": "poemstars🌼🌟",
-    "userId": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
-    "track": "90210 (feat. Kacy Hill)",
-    "artist": "Travis Scott, Kacy Hill",
-    "uri": "spotify:track:51EC3I1nQXpec4gDk0mQyP",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d3b5affd8824b4ed301b7137"
-  },
-  {
-    "timestamp": 1765035523810,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "TABOLA BALE",
-    "artist": "Silet Open Up, Jacson Seran, Juan Reza, Diva Aurel",
-    "uri": "spotify:track:6KfugJFINWqA42k59hmjFr",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27310df7b8e9b3ed2588888a8ae"
   }
 ]
