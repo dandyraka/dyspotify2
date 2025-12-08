@@ -1,3 +1,30 @@
 {
-  "friends": []
+  "friends": [
+    {
+      "timestamp": 1765175304489,
+      "user": {
+        "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
+        "name": "poemstars🌼🌟",
+        "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
+      },
+      "track": {
+        "uri": "spotify:track:7uVKvaDWDpss7Ldj9kypLX",
+        "name": "Gorilla (feat. R. Kelly and Pharrell) - G-Mix",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a13b695805ff7b0e176f76e8",
+        "album": {
+          "uri": "spotify:album:07OCQAUAQaZmKORKt2StFm",
+          "name": "Gorilla (feat. R. Kelly And Pharrell) [G-Mix]"
+        },
+        "artist": {
+          "uri": "spotify:artist:0du5cEVh5yTK9QJze8zA0C",
+          "name": "Bruno Mars, R Kelly And Pharrell"
+        },
+        "context": {
+          "uri": null,
+          "name": null,
+          "index": 0
+        }
+      }
+    }
+  ]
 }
