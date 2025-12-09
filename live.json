@@ -1,3 +1,30 @@
 {
-  "friends": []
+  "friends": [
+    {
+      "timestamp": 1765272222341,
+      "user": {
+        "uri": "spotify:user:dandyraka_",
+        "name": "Dandy 🫵🏻😁",
+        "imageUrl": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=wklGibDb__IQ7kNvwG9_uhk&_nc_oc=AdmuUyfbYDn0v7t2DAMtgVe47Nn4Pn6Hi0YqwiDFRod7HCD-GuBfb9cQtBqhFvNhqc2-PgLRrdORjDIJfAyfpq6J&_nc_zt=24&_nc_ht=scontent-cdg4-3.xx&edm=AP4hL3IEAAAA&_nc_gid=xC9AUCpgyvXo3Oud9u_wEg&_nc_tpa=Q5bMBQFjiNxq7qfD9cNvrDsYZkOy-cfowTYU1FCEZhDktjvi8WbloBeZSBD_IFII1G7g7F9L9oqn&oh=00_AfnE0B1OTFpLjeSaszxzguwzJ6irghxMxTg9XA838OpxEg&oe=693D41E8"
+      },
+      "track": {
+        "uri": "spotify:track:4khLhBMi9ADY35snCDiOZX",
+        "name": "Katong Basodara",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738c07937697201519e0ef9a4a",
+        "album": {
+          "uri": "spotify:album:1Qdgn4xCVHIqUpkkozvijf",
+          "name": "Katong Basodara"
+        },
+        "artist": {
+          "uri": "spotify:artist:05SX82MrLGINe3UBFiMZhf",
+          "name": "Encho DC, Denny Gadi"
+        },
+        "context": {
+          "uri": "spotify:playlist:6gzRjcJqzdM1M6bpOZsWsl",
+          "name": "playlist",
+          "index": 0
+        }
+      }
+    }
+  ]
 }
