@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1765274101013,
+      "timestamp": 1765275571419,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=wklGibDb__IQ7kNvwHVrGxs&_nc_oc=AdnaTHrYIaU3mar7t_zbAv3_wZRKQhBixrZCB8mnWebYsvMK7qZVJ_RsEK_UnXmrO5mwVduuVlblfsyLz2RM0foo&_nc_zt=24&_nc_ht=scontent-cdg4-3.xx&edm=AP4hL3IEAAAA&_nc_gid=lLM0wPBcZbwibefLIRZqrw&_nc_tpa=Q5bMBQHUBfPoi2xHFgt8DwD2KaC2fy5uDEaiE8drGvZShHAKsaHiIhmfqUSXs_HWcPDDVmGkYFzn&oh=00_AfmbcID3D4CZVkEkY9QL0EbfafQ-XY0ghlHIB8c74YY79A&oe=693D7A28"
+        "imageUrl": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=wklGibDb__IQ7kNvwG9_uhk&_nc_oc=AdmuUyfbYDn0v7t2DAMtgVe47Nn4Pn6Hi0YqwiDFRod7HCD-GuBfb9cQtBqhFvNhqc2-PgLRrdORjDIJfAyfpq6J&_nc_zt=24&_nc_ht=scontent-cdg4-3.xx&edm=AP4hL3IEAAAA&_nc_gid=xC9AUCpgyvXo3Oud9u_wEg&_nc_tpa=Q5bMBQFjiNxq7qfD9cNvrDsYZkOy-cfowTYU1FCEZhDktjvi8WbloBeZSBD_IFII1G7g7F9L9oqn&oh=00_AfnE0B1OTFpLjeSaszxzguwzJ6irghxMxTg9XA838OpxEg&oe=693D41E8"
       },
       "track": {
-        "uri": "spotify:track:5sry8z5nXvvTHpUDmThvkw",
-        "name": "Ikan Nae Di Pante",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734af024f6cf04466de5219c73",
+        "uri": "spotify:track:2iozgPm6dw3hZR5DRAFanC",
+        "name": "AKE KACO",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b18116bf5f4916c01f7f7f99",
         "album": {
-          "uri": "spotify:album:0Ppznjsb8omLgZ5F2RZQrf",
-          "name": "Ikan Nae Di Pante"
+          "uri": "spotify:album:28hqaCdpr7a4y80Wrck12F",
+          "name": "AKE KACO"
         },
         "artist": {
-          "uri": "spotify:artist:2RtfaqXJSBmhV30WOHnUAc",
-          "name": "Alfred Gare, PAX Group"
+          "uri": "spotify:artist:2R9BBBgo8pmoX1GKMVmVu1",
+          "name": "kanzer pmc, Astooz, Jimmy"
         },
         "context": {
           "uri": "spotify:playlist:6gzRjcJqzdM1M6bpOZsWsl",
