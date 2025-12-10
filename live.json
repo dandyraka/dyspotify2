@@ -1,3 +1,30 @@
 {
-  "friends": []
+  "friends": [
+    {
+      "timestamp": 1765358433331,
+      "user": {
+        "uri": "spotify:user:dandyraka_",
+        "name": "Dandy 🫵🏻😁",
+        "imageUrl": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=saVmdhJ0uwkQ7kNvwFY586W&_nc_oc=AdkqmZwf5AXBgkMTeCvTAYuginWVDCrQBw6PMOK10E--l5XKfPIK8en9zi9jXBihuCwvORzhxPDXjsmiZEWjvrlO&_nc_zt=24&_nc_ht=scontent-cdg4-3.xx&edm=AP4hL3IEAAAA&_nc_gid=SZb_KvfvepAiphJBIrezXQ&_nc_tpa=Q5bMBQFIEjndYkHk4CiphZAjQ4u7MwCimG3Nm4dnKU4UATP9_f6S_8HGtaISgskswNrhisdAdScB&oh=00_AfmhoEjPVBzJOk-txb7xEXtCYevtbPHzQRHiqemY7tN2sA&oe=693E9368"
+      },
+      "track": {
+        "uri": "spotify:track:10b0n4KwuRyNteJ9WNjrdj",
+        "name": "Getcho Mans",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732bb23b6519784ea65df29a8b",
+        "album": {
+          "uri": "spotify:album:41f4EFQKt0oSJjq8KCClJZ",
+          "name": "Brightside"
+        },
+        "artist": {
+          "uri": "spotify:artist:2IDLDx25HU1nQMKde4n61a",
+          "name": "Rich Brian, Warren Hue"
+        },
+        "context": {
+          "uri": "spotify:playlist:2ewv9rVyhBylr8APFh9KMn",
+          "name": "playlist",
+          "index": 0
+        }
+      }
+    }
+  ]
 }
