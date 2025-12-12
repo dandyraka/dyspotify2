@@ -1,30 +1,3 @@
 {
-  "friends": [
-    {
-      "timestamp": 1765508413123,
-      "user": {
-        "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
-        "name": "poemstars🌼🌟",
-        "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
-      },
-      "track": {
-        "uri": "spotify:track:08RvcLNc26GX3vHgOzv4wV",
-        "name": "3D",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736528321b63c185328a1e3047",
-        "album": {
-          "uri": "spotify:album:3EgTVeUoYg0TCvPdt6Myh3",
-          "name": "Animal"
-        },
-        "artist": {
-          "uri": "spotify:artist:698hF4vcwHwPy8ltmXermq",
-          "name": "Far East Movement, Bruno Mars"
-        },
-        "context": {
-          "uri": null,
-          "name": null,
-          "index": 0
-        }
-      }
-    }
-  ]
+  "friends": []
 }
