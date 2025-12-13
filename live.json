@@ -1,3 +1,30 @@
 {
-  "friends": []
+  "friends": [
+    {
+      "timestamp": 1765629543295,
+      "user": {
+        "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
+        "name": "poemstars🌼🌟",
+        "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
+      },
+      "track": {
+        "uri": "spotify:track:77DRzu7ERs0TX3roZcre7Q",
+        "name": "euphoria",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737587213b1be294ac4000f648",
+        "album": {
+          "uri": "spotify:album:32bR4LcEc1PvJEhaKoo4ZN",
+          "name": "euphoria"
+        },
+        "artist": {
+          "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg",
+          "name": "Kendrick Lamar"
+        },
+        "context": {
+          "uri": "spotify:playlist:37i9dQZF1E8L06Jv9sHXAz",
+          "name": "playlist",
+          "index": 0
+        }
+      }
+    }
+  ]
 }
