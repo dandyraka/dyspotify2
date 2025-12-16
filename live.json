@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1765871650186,
+      "timestamp": 1765873499701,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
         "imageUrl": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=MuFvxagHmmgQ7kNvwFu93jW&_nc_oc=AdkikMiOgwW88LFkF2jYRbeO0zEVJ7dFCVzNb0E7DqosT8qLYRABbn8J1pTjdNSq3nVPxKQnzt4nENpiB4rdbKeQ&_nc_zt=24&_nc_ht=scontent-fra3-2.xx&edm=AP4hL3IEAAAA&_nc_gid=4oTsXayeeSvLwvnIB-12yQ&_nc_tpa=Q5bMBQFOMlBWelHJM8oprWCD4IlZTO3A1BpB56ZPromQZP0zx7jqrA6FHMgga_jAkXtTyOVx31k4&oh=00_Afkcv0eZuVcp3u6w-Jt4RVktXyiPR0klba-SWfnSM7djSg&oe=69467C68"
       },
       "track": {
-        "uri": "spotify:track:2eSet0cvo4hssjDW2Y5VzU",
-        "name": "Doo Be Doo",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734d5d857ff307b4bd64c1481e",
+        "uri": "spotify:track:6huCMN7mPawHEjECjO1avn",
+        "name": "Seperti Yang Kau Minta",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27329ada78d30dc87ae93f011df",
         "album": {
-          "uri": "spotify:album:0832LRZDeHUzDMBh9OPKA0",
-          "name": "Gita Gutawa"
+          "uri": "spotify:album:0mh1bnnzjy3roagxgdcNn9",
+          "name": "Dekade"
         },
         "artist": {
-          "uri": "spotify:artist:4V1Io5SwSO4CwaUbgLMYvz",
-          "name": "Gita Gutawa"
+          "uri": "spotify:artist:2NteKKMj3takKR3ABTd279",
+          "name": "Chrisye"
         },
         "context": {
           "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
