@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1765879056254,
+      "timestamp": 1765880875785,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=MuFvxagHmmgQ7kNvwFz5lKt&_nc_oc=AdmnLO1QKYDPB39IAtSxP9PBFkOOFWRfdrMp4W0gWmCmuwCF_Hwo3t3jcdFQzjULESygwpye77sNpJNKNPvq9KAc&_nc_zt=24&_nc_ht=scontent-fra3-2.xx&edm=AP4hL3IEAAAA&_nc_gid=DZDr4EOucwMWtrap_jvFmw&_nc_tpa=Q5bMBQHHoo63miXVcDAU5BDodP7CQfWxOQ6rQAx-hypocggDTX-mQ1Fh7h7kDrlV_v8GV9lRY7hI&oh=00_AfmM95tQNeZy2emIsCcQCHw4uo1_3kNILRcLbQQKST___w&oe=6946ECE8"
+        "imageUrl": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=MuFvxagHmmgQ7kNvwFK8Nf2&_nc_oc=Adm-LlftiCBj-dRnpO6vx1YatlZE9GFLygVu44XVzapBZ0PQ9rlnAUrGmaAuOAm4zFzpFgu4ybbpJbf3pNwtjT8Z&_nc_zt=24&_nc_ht=scontent-fra3-2.xx&edm=AP4hL3IEAAAA&_nc_gid=tHWrsJK8f1ikOtpIARJvlw&_nc_tpa=Q5bMBQF8WzO24-jC7jOHTo-6srufCP6IStUbEL8PlqQE6ig3_n2fpimi2WSV87VKlWOstzvoMPTQ&oh=00_Afm1sE3LoXU7DySQNBFzrfVaVi3bjcwyWUlfaRvwJ5ML2A&oe=6946ECE8"
       },
       "track": {
-        "uri": "spotify:track:7HQHopoa9BdKlGkCOgqMXO",
-        "name": "Aku Masih Sayang",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bdd075380562e1a8ff8647f1",
+        "uri": "spotify:track:7cEiPsmPbdwcYxHAYqtW5v",
+        "name": "Separuh Nafas",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27354e8635a7af0b3f0c21ba401",
         "album": {
-          "uri": "spotify:album:6A5YhGgwsjVHSIekeSctTA",
-          "name": "Jalan Terbaik"
+          "uri": "spotify:album:3RmThGke3lT57syzThNWHH",
+          "name": "Kerajaan Cinta"
         },
         "artist": {
-          "uri": "spotify:artist:09toGEEhpusLyZ6Nk9AmRf",
-          "name": "ST12"
+          "uri": "spotify:artist:48bKH1ugFBhERC1rdojP9d",
+          "name": "Dewa 19"
         },
         "context": {
           "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
