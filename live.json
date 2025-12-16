@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1765886135732,
+      "timestamp": 1765888701522,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=MuFvxagHmmgQ7kNvwFK8Nf2&_nc_oc=Adm-LlftiCBj-dRnpO6vx1YatlZE9GFLygVu44XVzapBZ0PQ9rlnAUrGmaAuOAm4zFzpFgu4ybbpJbf3pNwtjT8Z&_nc_zt=24&_nc_ht=scontent-fra3-2.xx&edm=AP4hL3IEAAAA&_nc_gid=tHWrsJK8f1ikOtpIARJvlw&_nc_tpa=Q5bMBQF8WzO24-jC7jOHTo-6srufCP6IStUbEL8PlqQE6ig3_n2fpimi2WSV87VKlWOstzvoMPTQ&oh=00_Afm1sE3LoXU7DySQNBFzrfVaVi3bjcwyWUlfaRvwJ5ML2A&oe=6946ECE8"
+        "imageUrl": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=MuFvxagHmmgQ7kNvwFz5lKt&_nc_oc=AdmnLO1QKYDPB39IAtSxP9PBFkOOFWRfdrMp4W0gWmCmuwCF_Hwo3t3jcdFQzjULESygwpye77sNpJNKNPvq9KAc&_nc_zt=24&_nc_ht=scontent-fra3-2.xx&edm=AP4hL3IEAAAA&_nc_gid=DZDr4EOucwMWtrap_jvFmw&_nc_tpa=Q5bMBQHHoo63miXVcDAU5BDodP7CQfWxOQ6rQAx-hypocggDTX-mQ1Fh7h7kDrlV_v8GV9lRY7hI&oh=00_AfmM95tQNeZy2emIsCcQCHw4uo1_3kNILRcLbQQKST___w&oe=6946ECE8"
       },
       "track": {
-        "uri": "spotify:track:01NxFtuXZ30sDVfdErskKl",
-        "name": "Malaikat Juga Tahu",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27329bd5b9b3abf0dbc56f4d34f",
+        "uri": "spotify:track:6TqtFqq6QgYhQVCM87GKVF",
+        "name": "Kembali Pulang",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ba8d883787d66e655c9b87a6",
         "album": {
-          "uri": "spotify:album:5NEQMtVC3NuKMOZbPgXLal",
-          "name": "Rectoverso"
+          "uri": "spotify:album:23PcuqYnz3OktPUQmckYMR",
+          "name": "Bintang 14 Hari"
         },
         "artist": {
-          "uri": "spotify:artist:1mCcTwpEABnSVB4D8rXfRN",
-          "name": "Dee Lestari"
+          "uri": "spotify:artist:2I3STBPK1DymMXPCjg3UIT",
+          "name": "Kangen Band"
         },
         "context": {
           "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
