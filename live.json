@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1765875148212,
+      "timestamp": 1765876930070,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=MuFvxagHmmgQ7kNvwFK8Nf2&_nc_oc=Adm-LlftiCBj-dRnpO6vx1YatlZE9GFLygVu44XVzapBZ0PQ9rlnAUrGmaAuOAm4zFzpFgu4ybbpJbf3pNwtjT8Z&_nc_zt=24&_nc_ht=scontent-fra3-2.xx&edm=AP4hL3IEAAAA&_nc_gid=tHWrsJK8f1ikOtpIARJvlw&_nc_tpa=Q5bMBQF8WzO24-jC7jOHTo-6srufCP6IStUbEL8PlqQE6ig3_n2fpimi2WSV87VKlWOstzvoMPTQ&oh=00_Afm1sE3LoXU7DySQNBFzrfVaVi3bjcwyWUlfaRvwJ5ML2A&oe=6946ECE8"
+        "imageUrl": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=MuFvxagHmmgQ7kNvwFu93jW&_nc_oc=AdkikMiOgwW88LFkF2jYRbeO0zEVJ7dFCVzNb0E7DqosT8qLYRABbn8J1pTjdNSq3nVPxKQnzt4nENpiB4rdbKeQ&_nc_zt=24&_nc_ht=scontent-fra3-2.xx&edm=AP4hL3IEAAAA&_nc_gid=4oTsXayeeSvLwvnIB-12yQ&_nc_tpa=Q5bMBQFOMlBWelHJM8oprWCD4IlZTO3A1BpB56ZPromQZP0zx7jqrA6FHMgga_jAkXtTyOVx31k4&oh=00_Afkcv0eZuVcp3u6w-Jt4RVktXyiPR0klba-SWfnSM7djSg&oe=69467C68"
       },
       "track": {
-        "uri": "spotify:track:7KwnrVNUAkIZFqEc0FM9Zg",
-        "name": "Naluri Lelaki",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273607aaef4f806cb926096f1ae",
+        "uri": "spotify:track:73G02acf7TUKgeJ3a5SYTd",
+        "name": "Wonder Woman",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b566af0d2fe961d9bc9b1cad",
         "album": {
-          "uri": "spotify:album:7Ls7Id4vLjwONTyxywzrg7",
-          "name": "Naluri Lelaki (Special Edition)"
+          "uri": "spotify:album:20X1rH6W0gwQFQMC4PsKoG",
+          "name": "Mulan Jameela"
         },
         "artist": {
-          "uri": "spotify:artist:6HHje5tfmzWK8PsSaoJ9Xp",
-          "name": "SAMSONS"
+          "uri": "spotify:artist:6ppmK4pjgILHNMd3RLlNCM",
+          "name": "Mulan Jameela"
         },
         "context": {
           "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
