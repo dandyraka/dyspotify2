@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1765869774038,
+      "timestamp": 1765870947670,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=H9XPk_3ALawQ7kNvwHFw2KJ&_nc_oc=AdnE1yc1tpJiEuz1LZKYlOmcEOzCCJXnCno4ff89kmOQF7cMr5xqUqectoMhC8B0lLOO7vbCvdOJNdxyuOJ3N9ZP&_nc_zt=24&_nc_ht=scontent-fra3-2.xx&edm=AP4hL3IEAAAA&_nc_gid=MpAlu9PTEJWu7I8F6_oJyg&_nc_tpa=Q5bMBQGA38X3eFuFX3GDV6tOUZ3Ht0r7KznNhRnxvZzsxWlWXuqWiDmK4hRMTdnttLlOl-ymOjs9&oh=00_AfnC9K_TRuku5mfjeRnOTYgJIEJyTzhvgSKVXFDL8p26aA&oe=69464428"
+        "imageUrl": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=MuFvxagHmmgQ7kNvwFK8Nf2&_nc_oc=Adm-LlftiCBj-dRnpO6vx1YatlZE9GFLygVu44XVzapBZ0PQ9rlnAUrGmaAuOAm4zFzpFgu4ybbpJbf3pNwtjT8Z&_nc_zt=24&_nc_ht=scontent-fra3-2.xx&edm=AP4hL3IEAAAA&_nc_gid=tHWrsJK8f1ikOtpIARJvlw&_nc_tpa=Q5bMBQF8WzO24-jC7jOHTo-6srufCP6IStUbEL8PlqQE6ig3_n2fpimi2WSV87VKlWOstzvoMPTQ&oh=00_Afm1sE3LoXU7DySQNBFzrfVaVi3bjcwyWUlfaRvwJ5ML2A&oe=6946ECE8"
       },
       "track": {
-        "uri": "spotify:track:7CvPwW48ZZA8UFKKRxRRCh",
-        "name": "Ada Apa Denganmu",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a0dd1888b72f925c2f85c706",
+        "uri": "spotify:track:67HBWKVl0RWVe0A8LHmZxR",
+        "name": "Selalu Menunggumu",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734b1f3c0a44c80b356e0d255a",
         "album": {
-          "uri": "spotify:album:3Ueq8a3O5g7EXbORDFyAhJ",
-          "name": "Bintang Di Surga"
+          "uri": "spotify:album:2WxFo6dnkY40Ru8qfXNiwb",
+          "name": "Selalu Menunggumu"
         },
         "artist": {
-          "uri": "spotify:artist:29vPfjqj8X5ri4AJRt8wVM",
-          "name": "Peterpan"
+          "uri": "spotify:artist:1jpcciDZSo632cA34WIfTX",
+          "name": "Five Minutes"
         },
         "context": {
           "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
