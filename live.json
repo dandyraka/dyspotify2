@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1765884809941,
+      "timestamp": 1765885593630,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=MuFvxagHmmgQ7kNvwFK8Nf2&_nc_oc=Adm-LlftiCBj-dRnpO6vx1YatlZE9GFLygVu44XVzapBZ0PQ9rlnAUrGmaAuOAm4zFzpFgu4ybbpJbf3pNwtjT8Z&_nc_zt=24&_nc_ht=scontent-fra3-2.xx&edm=AP4hL3IEAAAA&_nc_gid=tHWrsJK8f1ikOtpIARJvlw&_nc_tpa=Q5bMBQF8WzO24-jC7jOHTo-6srufCP6IStUbEL8PlqQE6ig3_n2fpimi2WSV87VKlWOstzvoMPTQ&oh=00_Afm1sE3LoXU7DySQNBFzrfVaVi3bjcwyWUlfaRvwJ5ML2A&oe=6946ECE8"
+        "imageUrl": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=MuFvxagHmmgQ7kNvwFz5lKt&_nc_oc=AdmnLO1QKYDPB39IAtSxP9PBFkOOFWRfdrMp4W0gWmCmuwCF_Hwo3t3jcdFQzjULESygwpye77sNpJNKNPvq9KAc&_nc_zt=24&_nc_ht=scontent-fra3-2.xx&edm=AP4hL3IEAAAA&_nc_gid=DZDr4EOucwMWtrap_jvFmw&_nc_tpa=Q5bMBQHHoo63miXVcDAU5BDodP7CQfWxOQ6rQAx-hypocggDTX-mQ1Fh7h7kDrlV_v8GV9lRY7hI&oh=00_AfmM95tQNeZy2emIsCcQCHw4uo1_3kNILRcLbQQKST___w&oe=6946ECE8"
       },
       "track": {
-        "uri": "spotify:track:1qLVXyGMKxRr0cAjqC2N8U",
-        "name": "Melepasmu",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734ac1f220aa7bec8aa2f260dd",
+        "uri": "spotify:track:5gkTGkjFB5wAd3mSBEcQPY",
+        "name": "Sephia",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e8d4f0596d66ccbe5241918d",
         "album": {
-          "uri": "spotify:album:4BBleSGRgVccRkbxvc2b6m",
-          "name": "Kita Untuk Selamanya"
+          "uri": "spotify:album:4bPUtZdWsvU1eTPmJFuvwm",
+          "name": "Kisah Klasik Untuk Masa Depan"
         },
         "artist": {
-          "uri": "spotify:artist:1DgveZI0VAdnZxNiEsZPuF",
-          "name": "Drive"
+          "uri": "spotify:artist:6q87vizIEdEN4NvlR6mjfT",
+          "name": "Sheila On 7"
         },
         "context": {
           "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
