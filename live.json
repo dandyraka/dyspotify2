@@ -1,27 +1,27 @@
 {
   "friends": [
     {
-      "timestamp": 1766130822903,
+      "timestamp": 1766132596897,
       "user": {
         "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
         "name": "poemstars🌼🌟",
         "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
       },
       "track": {
-        "uri": "spotify:track:2LQZ32XuFlkcoEUDSG6BMT",
-        "name": "Untuk Apa / Untuk Apa?",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d623688488865906052ef96b",
+        "uri": "spotify:track:7HFoENbY8E6WmJNFlbk61K",
+        "name": "(mimi)",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27305898628baab6ef07a0a4d03",
         "album": {
-          "uri": "spotify:album:1DAuVHMlBvIjzWZALSUXbn",
-          "name": "Menari Dengan Bayangan"
+          "uri": "spotify:album:6HiRRMXgflIyrpjCiPW8rU",
+          "name": "Doves, '25 on Blank Canvas"
         },
         "artist": {
           "uri": "spotify:artist:51kyrUsAVqUBcoDEMFkX12",
           "name": "Hindia"
         },
         "context": {
-          "uri": null,
-          "name": null,
+          "uri": "spotify:album:6HiRRMXgflIyrpjCiPW8rU",
+          "name": "album",
           "index": 0
         }
       }
