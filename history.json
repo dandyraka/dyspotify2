@@ -1,5 +1,14 @@
 [
   {
+    "timestamp": 1766122097253,
+    "user": "poemstars🌼🌟",
+    "userId": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
+    "track": "Kesempatan Kedua",
+    "artist": "Tangga",
+    "uri": "spotify:track:6W9EPH4b6fkgkERorDnuRz",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731aac1c15810ad41ab344b615"
+  },
+  {
     "timestamp": 1766065784150,
     "user": "poemstars🌼🌟",
     "userId": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
@@ -79,14 +88,5 @@
     "artist": "Jamrud",
     "uri": "spotify:track:0yCXPhBN9nNh3CVBmc96EQ",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e2d279ae69c326c6f3c02365"
-  },
-  {
-    "timestamp": 1765893376893,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "J.A.P",
-    "artist": "Sheila On 7",
-    "uri": "spotify:track:0MuoB1kwBnXzA0b6eOggDY",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739c5397f4251f7137ac19d93e"
   }
 ]

@@ -1,3 +1,30 @@
 {
-  "friends": []
+  "friends": [
+    {
+      "timestamp": 1766122460934,
+      "user": {
+        "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
+        "name": "poemstars🌼🌟",
+        "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
+      },
+      "track": {
+        "uri": "spotify:track:5ry2OE6R2zPQFDO85XkgRb",
+        "name": "Money In The Grave (Drake ft. Rick Ross)",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733f3b653b0a7b9e889a712c3d",
+        "album": {
+          "uri": "spotify:album:00HZxSA1sOS9T3nA950sg4",
+          "name": "The Best In The World Pack"
+        },
+        "artist": {
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake, Rick Ross"
+        },
+        "context": {
+          "uri": null,
+          "name": null,
+          "index": 0
+        }
+      }
+    }
+  ]
 }
