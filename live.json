@@ -1,3 +1,30 @@
 {
-  "friends": []
+  "friends": [
+    {
+      "timestamp": 1766130038892,
+      "user": {
+        "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
+        "name": "poemstars🌼🌟",
+        "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
+      },
+      "track": {
+        "uri": "spotify:track:3lyNwsohK73iKsGWHLFtMp",
+        "name": "Satu Hari Lagi",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d58121433ea3e6c4822ac494",
+        "album": {
+          "uri": "spotify:album:2kgo1jbmAmaANgE8EaIrKX",
+          "name": "Lagipula Hidup Akan Berakhir"
+        },
+        "artist": {
+          "uri": "spotify:artist:51kyrUsAVqUBcoDEMFkX12",
+          "name": "Hindia"
+        },
+        "context": {
+          "uri": null,
+          "name": null,
+          "index": 0
+        }
+      }
+    }
+  ]
 }
