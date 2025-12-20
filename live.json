@@ -1,27 +1,27 @@
 {
   "friends": [
     {
-      "timestamp": 1766239061369,
+      "timestamp": 1766240377246,
       "user": {
         "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
         "name": "poemstars🌼🌟",
         "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
       },
       "track": {
-        "uri": "spotify:track:1IbpTcFDHRD87cGQOhVCDP",
-        "name": "KILLING ME",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738b94794b8aa12407bf838d7d",
+        "uri": "spotify:track:42tFTth2jcF7iSo0RBjfJF",
+        "name": "Peek-A-Boo",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736538b8e1b5c7b2a9d2211769",
         "album": {
-          "uri": "spotify:album:6RZYa7F18bu7mmeT8qxWqh",
-          "name": "NEW KIDS REPACKAGE : THE NEW KIDS"
+          "uri": "spotify:album:0rvrbZvaDX5S9ZBhwOwFfH",
+          "name": "Perfect Velvet - The 2nd Album"
         },
         "artist": {
-          "uri": "spotify:artist:5qRSs6mvI17zrkJpOHkCoM",
-          "name": "iKON"
+          "uri": "spotify:artist:1z4g3DjTBBZKhvAroFlhOM",
+          "name": "Red Velvet"
         },
         "context": {
-          "uri": null,
-          "name": null,
+          "uri": "spotify:artist:1z4g3DjTBBZKhvAroFlhOM",
+          "name": "artist",
           "index": 0
         }
       }
