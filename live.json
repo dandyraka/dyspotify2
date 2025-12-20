@@ -1,3 +1,30 @@
 {
-  "friends": []
+  "friends": [
+    {
+      "timestamp": 1766238538445,
+      "user": {
+        "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
+        "name": "poemstars🌼🌟",
+        "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
+      },
+      "track": {
+        "uri": "spotify:track:5FwK2EZJUy6uHEzENJtHQ5",
+        "name": "BLING BLING",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738b94794b8aa12407bf838d7d",
+        "album": {
+          "uri": "spotify:album:6RZYa7F18bu7mmeT8qxWqh",
+          "name": "NEW KIDS REPACKAGE : THE NEW KIDS"
+        },
+        "artist": {
+          "uri": "spotify:artist:5qRSs6mvI17zrkJpOHkCoM",
+          "name": "iKON"
+        },
+        "context": {
+          "uri": null,
+          "name": null,
+          "index": 0
+        }
+      }
+    }
+  ]
 }
