@@ -1,30 +1,3 @@
 {
-  "friends": [
-    {
-      "timestamp": 1766303648623,
-      "user": {
-        "uri": "spotify:user:dandyraka_",
-        "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=r-zIJZN2u3IQ7kNvwF9oS6c&_nc_oc=AdnyqY7WdvhIQ0EVZDm2DLw2frg1fz6oQFZ23H-TdK6qjK8S0c-xNc-_Mv9RQaQG_Jen0XejHhNmakuhY8grKW6v&_nc_zt=24&_nc_ht=scontent-ams2-1.xx&edm=AP4hL3IEAAAA&_nc_gid=TX2Ty2NHLPDCR7OUnN8taQ&_nc_tpa=Q5bMBQGuFgBnORWwLQI9PRJKuuuFy8i_z6oWxslaPuR0LIYCgRoG8sHVzuhLUYpD1EIiwERGLpx4&oh=00_AfkJQ2lRIG72AL2DHvoZB4gSLgRcR4-1HVeHadgqHJf9Yg&oe=694D8468"
-      },
-      "track": {
-        "uri": "spotify:track:1iIa6fBmoL3ailD5uJC1Ml",
-        "name": "Mabo Mabo",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735e16e61a52e0c42499a12d52",
-        "album": {
-          "uri": "spotify:album:000MZPSItj6FS21SnHGuSv",
-          "name": "Mabo Mabo"
-        },
-        "artist": {
-          "uri": "spotify:artist:0hgTcvYhaN4NlIBB2vtL0s",
-          "name": "NANI LATU, Rafa, Randy Agiel Sapulette"
-        },
-        "context": {
-          "uri": "spotify:playlist:6gzRjcJqzdM1M6bpOZsWsl",
-          "name": "playlist",
-          "index": 0
-        }
-      }
-    }
-  ]
+  "friends": []
 }
