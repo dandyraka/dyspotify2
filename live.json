@@ -1,3 +1,30 @@
 {
-  "friends": []
+  "friends": [
+    {
+      "timestamp": 1766296080235,
+      "user": {
+        "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
+        "name": "poemstars🌼🌟",
+        "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
+      },
+      "track": {
+        "uri": "spotify:track:70t7Q6AYG6ZgTYmJWcnkUM",
+        "name": "I AM",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8",
+        "album": {
+          "uri": "spotify:album:38VzP4yWfHdHafITKKRHEB",
+          "name": "I've IVE"
+        },
+        "artist": {
+          "uri": "spotify:artist:6RHTUrRF63xao58xh9FXYJ",
+          "name": "IVE"
+        },
+        "context": {
+          "uri": null,
+          "name": null,
+          "index": 0
+        }
+      }
+    }
+  ]
 }
