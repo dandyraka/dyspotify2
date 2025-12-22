@@ -1,5 +1,14 @@
 [
   {
+    "timestamp": 1766430527346,
+    "user": "poemstars🌼🌟",
+    "userId": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
+    "track": "ZEN",
+    "artist": "JENNIE",
+    "uri": "spotify:track:2chbuybiy6aDDBC985tJcP",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dcf27dec5e479b2e39c4c993"
+  },
+  {
     "timestamp": 1766428711106,
     "user": "poemstars🌼🌟",
     "userId": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
@@ -79,14 +88,5 @@
     "artist": "ANGGA DERMAWAN",
     "uri": "spotify:track:09pjOS7jbVp1ahW8igArTZ",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e0a21500ce257ebea2d847a3"
-  },
-  {
-    "timestamp": 1766408837027,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "PICA PICA",
-    "artist": "Juan Reza",
-    "uri": "spotify:track:7lulQZKlbZzBKsK4rfP8h5",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739f9f290bf8491ef758344e5f"
   }
 ]
