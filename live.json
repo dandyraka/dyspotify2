@@ -1,30 +1,3 @@
 {
-  "friends": [
-    {
-      "timestamp": 1766376764379,
-      "user": {
-        "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
-        "name": "poemstars🌼🌟",
-        "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
-      },
-      "track": {
-        "uri": "spotify:track:1Qrg8KqiBpW07V7PNxwwwL",
-        "name": "Kill Bill",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c5276ed6cb0287df8d9be07f",
-        "album": {
-          "uri": "spotify:album:1nrVofqDRs7cpWXJ49qTnP",
-          "name": "SOS"
-        },
-        "artist": {
-          "uri": "spotify:artist:7tYKF4w9nC0nq9CsPZTHyP",
-          "name": "SZA"
-        },
-        "context": {
-          "uri": "spotify:album:5JjnoGJyOxfSZUZtk2rRwZ",
-          "name": "album",
-          "index": 0
-        }
-      }
-    }
-  ]
+  "friends": []
 }
