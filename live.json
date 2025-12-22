@@ -1,3 +1,30 @@
 {
-  "friends": []
+  "friends": [
+    {
+      "timestamp": 1766429585336,
+      "user": {
+        "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
+        "name": "poemstars🌼🌟",
+        "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
+      },
+      "track": {
+        "uri": "spotify:track:2chbuybiy6aDDBC985tJcP",
+        "name": "ZEN",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dcf27dec5e479b2e39c4c993",
+        "album": {
+          "uri": "spotify:album:1vWMw6pu3err6qqZzI3RhH",
+          "name": "Ruby"
+        },
+        "artist": {
+          "uri": "spotify:artist:250b0Wlc5Vk0CoUsaCY84M",
+          "name": "JENNIE"
+        },
+        "context": {
+          "uri": "spotify:album:1vWMw6pu3err6qqZzI3RhH",
+          "name": "album",
+          "index": 0
+        }
+      }
+    }
+  ]
 }
