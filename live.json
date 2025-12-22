@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1766446376593,
+      "timestamp": 1766447174268,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-mrs2-3.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=6isUBXQZjVwQ7kNvwHWbIwH&_nc_oc=Adno8mljRfpSfd9lj0ukpbQVpOPhB0hV2kwNjK2LoXJLFQa1BW1AbcVUWU7_gbaYDzrTMZSsJ__GXbNVCdgFQPkh&_nc_zt=24&_nc_ht=scontent-mrs2-3.xx&edm=AP4hL3IEAAAA&_nc_gid=9tYBT_Y1v3vOmQ-1OcmKNg&_nc_tpa=Q5bMBQHxRE3de9JOAB3-YHu2AF5v6ZyxXhPSWkMiyU9Omhn89gk0n6ilGchPMljuKDL9SS2sI5bz&oh=00_AfmkZw2CnvlcGYCuabU5nesSMk_oyzLaZqBDfMz0Y8DKtA&oe=694F7EA8"
+        "imageUrl": "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=6isUBXQZjVwQ7kNvwGc8L99&_nc_oc=AdkcJbXIfhBOd4szdNic7JjPM7nIy9RdYzzd7sIYSBHrBQ054HrJHm60gYFus25Z6B4MRUD5LNpBsR109PkjAh9u&_nc_zt=24&_nc_ht=scontent-tpe1-1.xx&edm=AP4hL3IEAAAA&_nc_gid=M3a5FNhNtQLc0OK0rn6fzQ&_nc_tpa=Q5bMBQH7O1wRwnPsGpdIhWZj9Q3m3qCzVQ8gohFQEI-oDCPqtvNKRh69Ae6nwhAZleombaulmgc9&oh=00_AfmWUJfE96TVl6QZAYx2Qwjhv3z1Dc0gLiVy1_El4PsExw&oe=694F0E28"
       },
       "track": {
-        "uri": "spotify:track:6XmdwXqM9TAhB7mf8W84SL",
-        "name": "Pica Pica 2",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ede112611b02a5b69deaaaa2",
+        "uri": "spotify:track:2IkV3HamCLiiyngLk1S9wf",
+        "name": "I LOVE U MAMA",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d8d4f2d1fe6acbaaeeb5ec61",
         "album": {
-          "uri": "spotify:album:41mzz9HimE0PJGJqw1X4OC",
-          "name": "Pica Pica 2"
+          "uri": "spotify:album:6KcI1KD8OeeGyjIcgLqYmx",
+          "name": "I LOVE U MAMA"
         },
         "artist": {
-          "uri": "spotify:artist:1BHC0jEJgDvNXlLhojMUbf",
-          "name": "Juan Reza"
+          "uri": "spotify:artist:0v1axjG0KwIz3aciZffFMu",
+          "name": "Toton Caribo"
         },
         "context": {
           "uri": "spotify:playlist:6gzRjcJqzdM1M6bpOZsWsl",
