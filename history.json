@@ -1,5 +1,14 @@
 [
   {
+    "timestamp": 1766510375028,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Aku Jatuh Cinta",
+    "artist": "Roulette",
+    "uri": "spotify:track:6BRo0Pj24EP8VVo9ZUFiUH",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d1c080ebc0853c53b896aaf4"
+  },
+  {
     "timestamp": 1766510078308,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -79,14 +88,5 @@
     "artist": "Numata",
     "uri": "spotify:track:4MDKRISLEUxCCeacrORrjg",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cb461fd4c7ad4d9e5f8165cd"
-  },
-  {
-    "timestamp": 1766507782489,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Aw Aw Aw",
-    "artist": "Super Girlies",
-    "uri": "spotify:track:2Uqy6SoBJzduGvgInGLs7k",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a0b6b2ed46779558f2906546"
   }
 ]

@@ -1,30 +1,3 @@
 {
-  "friends": [
-    {
-      "timestamp": 1766510219114,
-      "user": {
-        "uri": "spotify:user:dandyraka_",
-        "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-mrs2-3.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=6isUBXQZjVwQ7kNvwFJvszI&_nc_oc=AdnWPwPjC3qyLgPZDbSh4ipRDmKw7XQ8FbqGhkfQBSoTpXIoim8WBfh-fPkoIIxPY2fZDIzGONHN8miVJ--RATI-&_nc_zt=24&_nc_ht=scontent-mrs2-3.xx&edm=AP4hL3IEAAAA&_nc_gid=mfJp77tjWsgva0GaCQwHgA&_nc_tpa=Q5bMBQGKpgcu3EyZSpuT1N4JYkj7MIHqmzBdTm5K68TJn7y3ZyWNsiDLTCvfmPwkM93J6JiWjaF1&oh=00_AfmzHS68DOgybtWJkAYLAXDEQL-1dfVW3-pGXrsKJ10NDQ&oe=69502768"
-      },
-      "track": {
-        "uri": "spotify:track:6BRo0Pj24EP8VVo9ZUFiUH",
-        "name": "Aku Jatuh Cinta",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d1c080ebc0853c53b896aaf4",
-        "album": {
-          "uri": "spotify:album:2xKEFQnfD80NuaFqtFFFWP",
-          "name": "Berdiri Dengan Cinta"
-        },
-        "artist": {
-          "uri": "spotify:artist:2PRi0DhfvxfMXrFubTUs2h",
-          "name": "Roulette"
-        },
-        "context": {
-          "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
-          "name": "playlist",
-          "index": 0
-        }
-      }
-    }
-  ]
+  "friends": []
 }
