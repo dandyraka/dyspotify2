@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1766507034587,
+      "timestamp": 1766508623639,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=6isUBXQZjVwQ7kNvwE7Hj8R&_nc_oc=AdkgAY7tIEkhdR2WUOSQkUYz8Ymj19vtGkn3zwQcOcLLlTn1rL5x0VI4gWrgil9aPcl570va42A9IU6Y93Y44wPY&_nc_zt=24&_nc_ht=scontent-fra3-2.xx&edm=AP4hL3IEAAAA&_nc_gid=DgR0fRy1b0sT-bRxl_lDTw&_nc_tpa=Q5bMBQFXUnNGqx1jzUzElmdDJyr9Ro4Dr4by-ZSyobLo17Xkb42VyFTNmc7uU1ksXP2NVZd9vk17&oh=00_Afli6-Vvmm64WAPmSd8wVy28Z5ZCIaeTwy8cO8J0bWg3IQ&oe=695097E8"
+        "imageUrl": "https://scontent-mrs2-3.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=6isUBXQZjVwQ7kNvwFJvszI&_nc_oc=AdnWPwPjC3qyLgPZDbSh4ipRDmKw7XQ8FbqGhkfQBSoTpXIoim8WBfh-fPkoIIxPY2fZDIzGONHN8miVJ--RATI-&_nc_zt=24&_nc_ht=scontent-mrs2-3.xx&edm=AP4hL3IEAAAA&_nc_gid=mfJp77tjWsgva0GaCQwHgA&_nc_tpa=Q5bMBQGKpgcu3EyZSpuT1N4JYkj7MIHqmzBdTm5K68TJn7y3ZyWNsiDLTCvfmPwkM93J6JiWjaF1&oh=00_AfmzHS68DOgybtWJkAYLAXDEQL-1dfVW3-pGXrsKJ10NDQ&oe=69502768"
       },
       "track": {
-        "uri": "spotify:track:7yxXxh9hMbcxdCdWJWRZmk",
-        "name": "Pergilah Kasih",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f596ea1b60c2a41eec9d1036",
+        "uri": "spotify:track:57xPfpeNDGkaaQC8WRKGYh",
+        "name": "Juminten",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273870d7ae2b96d7741cc5dc416",
         "album": {
-          "uri": "spotify:album:3pNpnSobFtR2tm0m541EsP",
-          "name": "PERGILAH KASIH"
+          "uri": "spotify:album:4WDP59JSYfpS6Jk6qh6582",
+          "name": "Pujaan Hati"
         },
         "artist": {
-          "uri": "spotify:artist:2NteKKMj3takKR3ABTd279",
-          "name": "Chrisye"
+          "uri": "spotify:artist:2I3STBPK1DymMXPCjg3UIT",
+          "name": "Kangen Band"
         },
         "context": {
           "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
