@@ -1,3 +1,30 @@
 {
-  "friends": []
+  "friends": [
+    {
+      "timestamp": 1766500887175,
+      "user": {
+        "uri": "spotify:user:dandyraka_",
+        "name": "Dandy 🫵🏻😁",
+        "imageUrl": "https://scontent-mrs2-3.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=6isUBXQZjVwQ7kNvwGrGj5_&_nc_oc=Adm9dXL6n2kBIE_bvy2mv6QAwxQ6lVyBfcN6R-sL8BfTRXYyk2VAKwITQyyLe5_faQhSAnxqkE-LjBAxFxgW8Lo3&_nc_zt=24&_nc_ht=scontent-mrs2-3.xx&edm=AP4hL3IEAAAA&_nc_gid=fJmq1LTx-TuPEJqXZXREJQ&_nc_tpa=Q5bMBQFePPB-gz0hKUn9FRkV8mSP_ZwMIcABHe676r764747aCHfAT8fFLcip59PjqH8WVX79gGF&oh=00_AfnbFXNHY7EDdvqSVfr-vdYSsEJ0UJoct6Bw7rClgNUR3g&oe=694FEF28"
+      },
+      "track": {
+        "uri": "spotify:track:3jjehnH4E0KENjcEGnK9nm",
+        "name": "Hanya Memuji",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e5f56fa9cd66dc3d170d102c",
+        "album": {
+          "uri": "spotify:album:53H3wFUOxbAK4nk8JyHD3o",
+          "name": "9907"
+        },
+        "artist": {
+          "uri": "spotify:artist:7d2iWImkHTGIJ1upSfN45E",
+          "name": "Shanty"
+        },
+        "context": {
+          "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
+          "name": "playlist",
+          "index": 0
+        }
+      }
+    }
+  ]
 }
