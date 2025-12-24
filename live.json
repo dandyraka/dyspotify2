@@ -1,3 +1,30 @@
 {
-  "friends": []
+  "friends": [
+    {
+      "timestamp": 1766562173761,
+      "user": {
+        "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
+        "name": "poemstars🌼🌟",
+        "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
+      },
+      "track": {
+        "uri": "spotify:track:1OBb2wZMXKNmtdyyejLIyL",
+        "name": "Uh-Oh",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27363c22b0fbe7426efcf5f86e6",
+        "album": {
+          "uri": "spotify:album:3PzrNuMGWGpp8WOfrmpkaU",
+          "name": "Uh-Oh"
+        },
+        "artist": {
+          "uri": "spotify:artist:2AfmfGFbe0A0WsTYm0SDTx",
+          "name": "i-dle"
+        },
+        "context": {
+          "uri": null,
+          "name": null,
+          "index": 0
+        }
+      }
+    }
+  ]
 }
