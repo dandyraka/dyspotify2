@@ -1,3 +1,30 @@
 {
-  "friends": []
+  "friends": [
+    {
+      "timestamp": 1766674275113,
+      "user": {
+        "uri": "spotify:user:dandyraka_",
+        "name": "Dandy 🫵🏻😁",
+        "imageUrl": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=tZVI5j587GgQ7kNvwE1qY0_&_nc_oc=AdmIhvSw2UQ3o7Og7_5xJqksEs9_r_c_EOzjnRgbA3VLJ-039_efVhb3_IUW0CNsa8PfrUjLSrvnaMozJKTswST4&_nc_zt=24&_nc_ht=scontent-fra3-2.xx&edm=AP4hL3IEAAAA&_nc_gid=eqHR9PqnlpcBK2alJGlS9A&_nc_tpa=Q5bMBQFyChJkEdliqbU4iYh3YJWG7ZUB9OuXEmPVH5X0iT5uCT8iA6YStp2MMBteNbVJ53oUI81o&oh=00_AflEHXeGIeEkuZlMA2pecycebD7X_GTiooei6IJUK_UIPg&oe=6952CA68"
+      },
+      "track": {
+        "uri": "spotify:track:1jEuwSmGejLMt3zKfPYS5j",
+        "name": "Rasa Ini",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738b3aa092abed86170e7c92de",
+        "album": {
+          "uri": "spotify:album:24o9lTxgIc0GMdcbsPsmFw",
+          "name": "The Titans"
+        },
+        "artist": {
+          "uri": "spotify:artist:5AiS0FZ2u5eVAjfXunQ89m",
+          "name": "The Titans"
+        },
+        "context": {
+          "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
+          "name": "playlist",
+          "index": 0
+        }
+      }
+    }
+  ]
 }
