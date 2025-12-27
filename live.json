@@ -1,3 +1,30 @@
 {
-  "friends": []
+  "friends": [
+    {
+      "timestamp": 1766819723959,
+      "user": {
+        "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
+        "name": "poemstars🌼🌟",
+        "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
+      },
+      "track": {
+        "uri": "spotify:track:63irPUP3xB74fHdw1Aw9zR",
+        "name": "MANIAC",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733613e1e0d35867a0814005a9",
+        "album": {
+          "uri": "spotify:album:0Gmf4pfe0POEQq2FgGAj2q",
+          "name": "ODDINARY"
+        },
+        "artist": {
+          "uri": "spotify:artist:2dIgFjalVxs4ThymZ67YCE",
+          "name": "Stray Kids"
+        },
+        "context": {
+          "uri": null,
+          "name": null,
+          "index": 0
+        }
+      }
+    }
+  ]
 }
