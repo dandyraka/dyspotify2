@@ -1,3 +1,30 @@
 {
-  "friends": []
+  "friends": [
+    {
+      "timestamp": 1767000381223,
+      "user": {
+        "uri": "spotify:user:dandyraka_",
+        "name": "Dandy 🫵🏻😁",
+        "imageUrl": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=LKeLkUEdWVwQ7kNvwGhKZrB&_nc_oc=AdnaR13P0CnEf8jba2FLZCTjwEZazID1QWOKDPT0jox9fhQBHg8K17w6TnaDHkmPMm9ViassgXEI-dXgoZVUVeJr&_nc_zt=24&_nc_ht=scontent-ord5-1.xx&edm=AP4hL3IEAAAA&_nc_gid=dCrTL6lX8qX9iCnnS60zMQ&_nc_tpa=Q5bMBQEqOPiw7ZgiKrT3mRwR1N15GCmCouHKrOddquyC8R9xh748jEU1EQSNq9DlXsbzPQo_sqJf&oh=00_AfnHJVx7BV4AUm4qoiK5DLLHQ31a2syVC7nlB-tIm11MoQ&oe=6957D828"
+      },
+      "track": {
+        "uri": "spotify:track:3dANqzstXrnHIUh1r7JrGZ",
+        "name": "Orang Baru Lebe Gacor",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e650a23cce85ff0f02a0d61f",
+        "album": {
+          "uri": "spotify:album:5Q8d3MSnlhjlUhiuBOdC1B",
+          "name": "Orang Baru Lebe Gacor"
+        },
+        "artist": {
+          "uri": "spotify:artist:3oh5PUaDZkd57Yp1jsA6gp",
+          "name": "Ecko Show, Juan Reza, Chesylino"
+        },
+        "context": {
+          "uri": null,
+          "name": null,
+          "index": 0
+        }
+      }
+    }
+  ]
 }
