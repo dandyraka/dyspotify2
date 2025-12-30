@@ -1,3 +1,30 @@
 {
-  "friends": []
+  "friends": [
+    {
+      "timestamp": 1767077758459,
+      "user": {
+        "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
+        "name": "poemstars🌼🌟",
+        "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
+      },
+      "track": {
+        "uri": "spotify:track:0xq4ZTcmwBfkPGo4RRKmMe",
+        "name": "Gotta Go",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733de8d21c10a5beed844bba5b",
+        "album": {
+          "uri": "spotify:album:7BYCvUqCaeIo2jgOl9iAGr",
+          "name": "Gotta Go"
+        },
+        "artist": {
+          "uri": "spotify:artist:2PSJ6YriU7JsFucxACpU7Y",
+          "name": "CHUNG HA"
+        },
+        "context": {
+          "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy:collection",
+          "name": "collection",
+          "index": 0
+        }
+      }
+    }
+  ]
 }
