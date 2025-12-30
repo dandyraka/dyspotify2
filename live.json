@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1767093581795,
+      "timestamp": 1767094498053,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=LKeLkUEdWVwQ7kNvwGUCJo_&_nc_oc=AdmpN932bdC4X58MTXSwGYcipWogQhMkjATYcO9VL9H2ZdHxXfIMkUoF-vtAFPejMmt3Z0slzYfEUJ2gkls8wB6P&_nc_zt=24&_nc_ht=scontent-ams2-1.xx&edm=AP4hL3IEAAAA&_nc_gid=8Upfq2Bb9bIPByzi9IoHfg&_nc_tpa=Q5bMBQFuEn_8AYV4Zqn-TzOerY4hk59ib4BlvyJ54f6__zHMdFSm1YZwFNcK_6EmanKydlyCtJIc&oh=00_AflNDsThl2xzbH58Su5rd8HrIS_g6JEpwRw70GWH0hNi8g&oe=695929A8"
+        "imageUrl": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=LKeLkUEdWVwQ7kNvwEcwRUt&_nc_oc=AdmUokKRoi__kRemBhhvunQYPjPyq29JlCWmsLO3AWJonum4qs6RK63wZfYTgkG7-NNT3a721NpzJnoiU4g5bRye&_nc_zt=24&_nc_ht=scontent-ams2-1.xx&edm=AP4hL3IEAAAA&_nc_gid=q5ncQHSe607cXSkF7GAWtg&_nc_tpa=Q5bMBQHe_wsvtzwDYk1sqA-o5vUGGgQSuw84tSWliEGCAfBcOlB6IYYfFVoMx4h0fkyFrkj7Bx7y&oh=00_AfmorNerNYwcS_X38J7wKWEqFXEmX2MGIobEok-qxO0zNA&oe=6958F168"
       },
       "track": {
-        "uri": "spotify:track:0uxMIFFrGMKlx5wpHAUJsk",
-        "name": "Separuh Nafas",
-        "imageUrl": "https://i.scdn.co/image/64825eca60656397ee6133105402d94df84af353",
+        "uri": "spotify:track:1QjAmxYS652vXrSy3BhZ9D",
+        "name": "Berdua Lebih Baik",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b7045ac05d83bd7087e91096",
         "album": {
-          "uri": "spotify:album:3LRdN6TlxSk6DJqpSWwdFQ",
-          "name": "Bintang Lima"
+          "uri": "spotify:album:0OyN4NEEkqb2E5iiXxvJv9",
+          "name": "Heart"
         },
         "artist": {
-          "uri": "spotify:artist:35dWPb7Tmq0WESp6KAUJ8w",
-          "name": "Dewa"
+          "uri": "spotify:artist:6x9pgf75qWhi1YKJH2a8Xv",
+          "name": "Acha Septriasa"
         },
         "context": {
           "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
