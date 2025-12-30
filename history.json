@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": 1767092073820,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Sampai Ku Mati",
+    "artist": "NANO",
+    "uri": "spotify:track:0iVwlnFA99hhY7xM2r7xmj",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ac439a3fef72275e5fa4fb42"
+  },
+  {
+    "timestamp": 1767091727414,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Monolog",
+    "artist": "Pamungkas",
+    "uri": "spotify:track:1zu5ZpnrSArdoaT6Qq3yo9",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733e2cf96ce4558b8f2376b79a"
+  },
+  {
     "timestamp": 1767091439160,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -70,23 +88,5 @@
     "artist": "Ada Band",
     "uri": "spotify:track:2EHQj8X7KUJrEY0svesMP5",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27313083e9d7608af9f72437d52"
-  },
-  {
-    "timestamp": 1767089079061,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Di Antara Bintang",
-    "artist": "Hello",
-    "uri": "spotify:track:61XynUkPCN0GtSXQgFjIwV",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730367b25cea54b77307cd729b"
-  },
-  {
-    "timestamp": 1767088608343,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Aku Milikmu",
-    "artist": "Dewa 19",
-    "uri": "spotify:track:5JESuE80fvausWHjcT9QVh",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bfc7fa507f4bc822cabe7bde"
   }
 ]

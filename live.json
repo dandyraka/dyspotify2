@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1767091590650,
+      "timestamp": 1767092229270,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
         "imageUrl": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=LKeLkUEdWVwQ7kNvwEcwRUt&_nc_oc=AdmUokKRoi__kRemBhhvunQYPjPyq29JlCWmsLO3AWJonum4qs6RK63wZfYTgkG7-NNT3a721NpzJnoiU4g5bRye&_nc_zt=24&_nc_ht=scontent-ams2-1.xx&edm=AP4hL3IEAAAA&_nc_gid=q5ncQHSe607cXSkF7GAWtg&_nc_tpa=Q5bMBQHe_wsvtzwDYk1sqA-o5vUGGgQSuw84tSWliEGCAfBcOlB6IYYfFVoMx4h0fkyFrkj7Bx7y&oh=00_AfmorNerNYwcS_X38J7wKWEqFXEmX2MGIobEok-qxO0zNA&oe=6958F168"
       },
       "track": {
-        "uri": "spotify:track:1zu5ZpnrSArdoaT6Qq3yo9",
-        "name": "Monolog",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733e2cf96ce4558b8f2376b79a",
+        "uri": "spotify:track:7dkpR6xV6OMmBO49NbpGCp",
+        "name": "Cantik",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27343e205e1a38e1719c1b4e36e",
         "album": {
-          "uri": "spotify:album:6CYiVTU1drHMvGHgMHmLQZ",
-          "name": "Walk the Talk"
+          "uri": "spotify:album:6nwLd7qYzhZg3d8KGWTAnv",
+          "name": "Kahitna II"
         },
         "artist": {
-          "uri": "spotify:artist:7d86ERlvO5UG44j7Va0Y0C",
-          "name": "Pamungkas"
+          "uri": "spotify:artist:2WhoMc7XqIzVXWbQqSoqe7",
+          "name": "Kahitna"
         },
         "context": {
           "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
