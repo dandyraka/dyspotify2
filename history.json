@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": 1767094878748,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Selepas Kau Pergi",
+    "artist": "La Luna",
+    "uri": "spotify:track:3yCHUAXpNRPjVSzjplvhGb",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ccc2325a03ea0f1874ee2ef8"
+  },
+  {
+    "timestamp": 1767094766000,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Berdua Lebih Baik",
+    "artist": "Acha Septriasa",
+    "uri": "spotify:track:1QjAmxYS652vXrSy3BhZ9D",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b7045ac05d83bd7087e91096"
+  },
+  {
     "timestamp": 1767094406924,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -70,23 +88,5 @@
     "artist": "Kahitna",
     "uri": "spotify:track:7dkpR6xV6OMmBO49NbpGCp",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27343e205e1a38e1719c1b4e36e"
-  },
-  {
-    "timestamp": 1767092073820,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Sampai Ku Mati",
-    "artist": "NANO",
-    "uri": "spotify:track:0iVwlnFA99hhY7xM2r7xmj",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ac439a3fef72275e5fa4fb42"
-  },
-  {
-    "timestamp": 1767091727414,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Monolog",
-    "artist": "Pamungkas",
-    "uri": "spotify:track:1zu5ZpnrSArdoaT6Qq3yo9",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733e2cf96ce4558b8f2376b79a"
   }
 ]
