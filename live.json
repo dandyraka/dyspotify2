@@ -1,30 +1,3 @@
 {
-  "friends": [
-    {
-      "timestamp": 1767079243910,
-      "user": {
-        "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
-        "name": "poemstars🌼🌟",
-        "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
-      },
-      "track": {
-        "uri": "spotify:track:5G2f63n7IPVPPjfNIGih7Q",
-        "name": "Taste",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fd8d7a8d96871e791cb1f626",
-        "album": {
-          "uri": "spotify:album:3iPSVi54hsacKKl1xIR2eH",
-          "name": "Short n' Sweet"
-        },
-        "artist": {
-          "uri": "spotify:artist:74KM79TiuVKeVCqs8QtB0B",
-          "name": "Sabrina Carpenter"
-        },
-        "context": {
-          "uri": "spotify:album:1vWMw6pu3err6qqZzI3RhH",
-          "name": "album",
-          "index": 0
-        }
-      }
-    }
-  ]
+  "friends": []
 }
