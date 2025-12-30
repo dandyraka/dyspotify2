@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": 1767088273957,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Akhir Rasa Ini",
+    "artist": "SAMSONS",
+    "uri": "spotify:track:5FfIuxqeRDx2eoZDVr0uwa",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273607aaef4f806cb926096f1ae"
+  },
+  {
+    "timestamp": 1767087979024,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Main Hati",
+    "artist": "Andra & The Backbone",
+    "uri": "spotify:track:7FIexxwjbX5IJ9LxawSdjL",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bff6d7c4f958f6950c5d8d30"
+  },
+  {
     "timestamp": 1767087640269,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -70,23 +88,5 @@
     "artist": "Peterpan",
     "uri": "spotify:track:6TTnWaXzirXgyfhdM4sl0Y",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734dcef3dbcf98750fb1411fcb"
-  },
-  {
-    "timestamp": 1767085896683,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Sendiri Lagi",
-    "artist": "B.a.G",
-    "uri": "spotify:track:1JT5NtEgmFwls29zZSuI8R",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273022d209cb9381271835ba085"
-  },
-  {
-    "timestamp": 1767085491849,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Masih Mencintaimu",
-    "artist": "GRUVI",
-    "uri": "spotify:track:0OdYbzuaCAYu7hmViKvTAM",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27356dc483222aa994dc4f318d7"
   }
 ]
