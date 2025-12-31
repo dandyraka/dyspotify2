@@ -1,5 +1,14 @@
 [
   {
+    "timestamp": 1767178819019,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Tamang Mabo",
+    "artist": "Fresly Nikijuluw",
+    "uri": "spotify:track:4qLFqcbJzpiu4HpyNL5SLW",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27312bde1c091c64498bfb7bfd1"
+  },
+  {
     "timestamp": 1767178521097,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -79,14 +88,5 @@
     "artist": "The Changcuters",
     "uri": "spotify:track:3821tdFqPQeJNYxryIqIev",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273503637ccb15e00eb225a564c"
-  },
-  {
-    "timestamp": 1767149905238,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Pedih",
-    "artist": "Last Child",
-    "uri": "spotify:track:5xtZ0Zz2J2ugaO6w6yC48w",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c6954b8d6cb1637075223bcc"
   }
 ]
