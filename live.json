@@ -1,3 +1,30 @@
 {
-  "friends": []
+  "friends": [
+    {
+      "timestamp": 1767150347648,
+      "user": {
+        "uri": "spotify:user:dandyraka_",
+        "name": "Dandy 🫵🏻😁",
+        "imageUrl": "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=F7NRRtGuWOYQ7kNvwHlJ5SJ&_nc_oc=Admy2m0MRTG57cvHqls0NayZKXXSSLPvz5ETs9zxAWhyd4VhYhbgyzPLlbSW59Iq-GCz_25LOqGETCYDj97qZnGc&_nc_zt=24&_nc_ht=scontent-tpe1-1.xx&edm=AP4hL3IEAAAA&_nc_gid=xxPma13VWXzOi_-TBEwrwg&_nc_tpa=Q5bMBQGWmqs8Lvf-tGZUbQp9iFVPxWRekgI2Hd3i2j6jVbeNArZW8XfVsmtPSyKKheodetvxxKAP&oh=00_AfmxVStw3-dgSEV0D0rf4eW6w3QAAvzo8qiE67AUMkr5HA&oe=695A42E8"
+      },
+      "track": {
+        "uri": "spotify:track:278JmLkpFRrqXEAqfp8TvD",
+        "name": "Jika (feat. Ari Lasso)",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a6bce4cd942caea821e1ba76",
+        "album": {
+          "uri": "spotify:album:41ytQJ1wqFr72MBM4kpeWq",
+          "name": "Melly"
+        },
+        "artist": {
+          "uri": "spotify:artist:6oM1PyiV3LidEUIHKubg3W",
+          "name": "Melly Goeslaw, Ari Lasso"
+        },
+        "context": {
+          "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
+          "name": "playlist",
+          "index": 0
+        }
+      }
+    }
+  ]
 }
