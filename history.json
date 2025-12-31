@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": 1767176884145,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Pake Goraka",
+    "artist": "Coco Lense, CHALAN ALVARO, ALAN3M, NOLDY MAVIA",
+    "uri": "spotify:track:4nJaueWQ1m5tKbQXwcwZE6",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27315c1ececd532a0d464fa72ed"
+  },
+  {
+    "timestamp": 1767176674435,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Stelan Daboy",
+    "artist": "Tampias Fams",
+    "uri": "spotify:track:2pF10cIfGuvXzbKzJERJtY",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b5ebd0f9c60a32462ab8d4ef"
+  },
+  {
     "timestamp": 1767176194716,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -70,23 +88,5 @@
     "artist": "Nidji",
     "uri": "spotify:track:5FHTGleM9Jg9BpQ2c0tf3N",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273706b70b10dfbf83dd4b1e7d8"
-  },
-  {
-    "timestamp": 1767149167866,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Selimut Tetangga",
-    "artist": "Repvblik",
-    "uri": "spotify:track:2IEyBxyv3xWaSCSWi5w2re",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dcb3d7e0ce48901646170cb3"
-  },
-  {
-    "timestamp": 1767148945284,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "My Facebook",
-    "artist": "Gigi",
-    "uri": "spotify:track:4l3t7QicPpKXVejuDTJBZP",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e169dc6741cd9e7fcff27e43"
   }
 ]

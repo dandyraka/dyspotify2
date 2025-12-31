@@ -1,30 +1,3 @@
 {
-  "friends": [
-    {
-      "timestamp": 1767176324934,
-      "user": {
-        "uri": "spotify:user:dandyraka_",
-        "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=F7NRRtGuWOYQ7kNvwGiMu93&_nc_oc=AdlJuBLe7rYZVnRlULse8P97SZPBoew57Urx2No-K1MO8frU-lFqXFCxg34Utrp71ZAP4jzR0QmMPyJ0aU7hWF5L&_nc_zt=24&_nc_ht=scontent-tpe1-1.xx&edm=AP4hL3IEAAAA&_nc_gid=ztQzcorIVw_IvgNmLPCSbA&_nc_tpa=Q5bMBQFaiLrBE3lkYkpWGq-oRAJVxKECxSeCIEbrFEHlR1Nhjd_U9bO823Of_q9wq-mow3-CcIlx&oh=00_AfmsRSw8G49rRA85UZvEoY8B4mg5VqegGiRT3VaQ5CteXQ&oe=695AB368"
-      },
-      "track": {
-        "uri": "spotify:track:0nHYM3NfsS0uryi2XPisyp",
-        "name": "Anjing Kacili",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b1e0cc244c92ed769c455d64",
-        "album": {
-          "uri": "spotify:album:1YebLNtyIemnyyf98mVGbf",
-          "name": "Disko Tanah"
-        },
-        "artist": {
-          "uri": "spotify:artist:19zFwfI8lnIbRuLjOSxhbp",
-          "name": "Bassgilano"
-        },
-        "context": {
-          "uri": "spotify:playlist:6gzRjcJqzdM1M6bpOZsWsl",
-          "name": "playlist",
-          "index": 0
-        }
-      }
-    }
-  ]
+  "friends": []
 }
