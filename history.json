@@ -1,5 +1,14 @@
 [
   {
+    "timestamp": 1767176194716,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Cinta Bikin Bodo",
+    "artist": "Ona Hetharua",
+    "uri": "spotify:track:12Bsqc4hbQ44Vt1CVNVJqn",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a8b3b2f1aaf9f4ea4e86be0b"
+  },
+  {
     "timestamp": 1767150879118,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -79,14 +88,5 @@
     "artist": "Gigi",
     "uri": "spotify:track:4l3t7QicPpKXVejuDTJBZP",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e169dc6741cd9e7fcff27e43"
-  },
-  {
-    "timestamp": 1767148668667,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Gantung",
-    "artist": "Melly Goeslaw",
-    "uri": "spotify:track:7oeZRlt1qxVjZepnxwnxzt",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cd3baafc9e2e4e5b2db83b7c"
   }
 ]
