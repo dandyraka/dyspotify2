@@ -1,3 +1,30 @@
 {
-  "friends": []
+  "friends": [
+    {
+      "timestamp": 1767178535603,
+      "user": {
+        "uri": "spotify:user:dandyraka_",
+        "name": "Dandy 🫵🏻😁",
+        "imageUrl": "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=F7NRRtGuWOYQ7kNvwH6EZkL&_nc_oc=AdnAsLGx4jnLur6EMq9CYOg9imXza0k2OJAN0_tVNUnNjB-yeQAzsNto18K4fUwTKMOL5w1LekY_VDKJJIMI9Ok2&_nc_zt=24&_nc_ht=scontent-tpe1-1.xx&edm=AP4hL3IEAAAA&_nc_gid=1y6TCWEQ81MMP4bH5RZyfQ&_nc_tpa=Q5bMBQHcMLX0L7J5Gx6-mvnkYl2IkBfqklb6QkgXu1zpmkZMx83whxlSs53iown3RDaS-MPpscyy&oh=00_Afng-ZivKbE5z1qQoIxPb5qVvl-sigbYH1iME2xjsOByVA&oe=695AB368"
+      },
+      "track": {
+        "uri": "spotify:track:737eDEWWd1b7YpmaqNV74y",
+        "name": "Pemain Lama",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fc7ceea990b6267e4b7ac421",
+        "album": {
+          "uri": "spotify:album:3YYqp8wQzsA5ydgAxg8lAJ",
+          "name": "Pemain Lama"
+        },
+        "artist": {
+          "uri": "spotify:artist:1FDZxWIFmahkAWx3O9UHT2",
+          "name": "Eno Smaper, Atta Music"
+        },
+        "context": {
+          "uri": "spotify:playlist:6gzRjcJqzdM1M6bpOZsWsl",
+          "name": "playlist",
+          "index": 0
+        }
+      }
+    }
+  ]
 }

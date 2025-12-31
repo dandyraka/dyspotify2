@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": 1767178521097,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Ternyata Abu-Abu",
+    "artist": "DJ Qhelfin",
+    "uri": "spotify:track:1YxysK4uBcQnJf6q9SBiqA",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738988e362e1cc59d988cdc45e"
+  },
+  {
+    "timestamp": 1767178069738,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Kode Kode",
+    "artist": "Aldo Bz, Liany Panmuma",
+    "uri": "spotify:track:4LpS87oe6WgyS3RxiD0Ad6",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737b8be3b1ab2f8291f8daa0e0"
+  },
+  {
     "timestamp": 1767176884145,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -70,23 +88,5 @@
     "artist": "Last Child",
     "uri": "spotify:track:5xtZ0Zz2J2ugaO6w6yC48w",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c6954b8d6cb1637075223bcc"
-  },
-  {
-    "timestamp": 1767149631884,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Cobalah Kau Mengerti",
-    "artist": "J-Rocks",
-    "uri": "spotify:track:5Tq9maJ3ho8ba3v8sJ5BXl",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733607a6aab3a44e9d6cb71e41"
-  },
-  {
-    "timestamp": 1767149402430,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Bila Aku Jatuh Cinta",
-    "artist": "Nidji",
-    "uri": "spotify:track:5FHTGleM9Jg9BpQ2c0tf3N",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273706b70b10dfbf83dd4b1e7d8"
   }
 ]
