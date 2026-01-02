@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1767339036169,
+      "timestamp": 1767340067488,
       "user": {
         "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
         "name": "poemstars🌼🌟",
         "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
       },
       "track": {
-        "uri": "spotify:track:7ADK1rnMzP6PGWhoqWirBJ",
-        "name": "Pupus",
-        "imageUrl": "https://i.scdn.co/image/4998f20672f6783f7448f1266973a9e0595d5ea5",
+        "uri": "spotify:track:7g9wCeUwy03JavOtqZEvX2",
+        "name": "Tak Kan Ada Cinta Yang Lain",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bfc7fa507f4bc822cabe7bde",
         "album": {
-          "uri": "spotify:album:6ifjItwHx7S2mhoX6tWSlK",
-          "name": "Cintailah Cinta"
+          "uri": "spotify:album:4eEU7HKuOnfbovQM9mISBy",
+          "name": "Format Masa Depan"
         },
         "artist": {
-          "uri": "spotify:artist:35dWPb7Tmq0WESp6KAUJ8w",
-          "name": "Dewa"
+          "uri": "spotify:artist:48bKH1ugFBhERC1rdojP9d",
+          "name": "Dewa 19"
         },
         "context": {
           "uri": null,
