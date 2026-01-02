@@ -1,27 +1,27 @@
 {
   "friends": [
     {
-      "timestamp": 1767337164937,
+      "timestamp": 1767339036169,
       "user": {
         "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
         "name": "poemstars🌼🌟",
         "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
       },
       "track": {
-        "uri": "spotify:track:3rLIv187BhjyweFe89SgLn",
-        "name": "Somebody To Love",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273629dc9e2e3bc20bbd7d92e4a",
+        "uri": "spotify:track:7ADK1rnMzP6PGWhoqWirBJ",
+        "name": "Pupus",
+        "imageUrl": "https://i.scdn.co/image/4998f20672f6783f7448f1266973a9e0595d5ea5",
         "album": {
-          "uri": "spotify:album:3BmcYMh0KYsimWL6p2gPa9",
-          "name": "My World 2.0"
+          "uri": "spotify:album:6ifjItwHx7S2mhoX6tWSlK",
+          "name": "Cintailah Cinta"
         },
         "artist": {
-          "uri": "spotify:artist:1uNFoZAHBGtllmzznpCI3s",
-          "name": "Justin Bieber"
+          "uri": "spotify:artist:35dWPb7Tmq0WESp6KAUJ8w",
+          "name": "Dewa"
         },
         "context": {
-          "uri": "spotify:playlist:70ks6Oli0Tfs8KMEPDsnjM",
-          "name": "playlist",
+          "uri": null,
+          "name": null,
           "index": 0
         }
       }
