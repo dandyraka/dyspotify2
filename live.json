@@ -1,27 +1,27 @@
 {
   "friends": [
     {
-      "timestamp": 1767335806162,
+      "timestamp": 1767337164937,
       "user": {
         "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
         "name": "poemstars🌼🌟",
         "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
       },
       "track": {
-        "uri": "spotify:track:3jMXORZIqN8biiXVJXP3vk",
-        "name": "Serba Salah",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738bd2fdd47fa594b1362682a9",
+        "uri": "spotify:track:3rLIv187BhjyweFe89SgLn",
+        "name": "Somebody To Love",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273629dc9e2e3bc20bbd7d92e4a",
         "album": {
-          "uri": "spotify:album:5oCsnT2SMuNZ4mVZBbvxWD",
-          "name": "Raisa"
+          "uri": "spotify:album:3BmcYMh0KYsimWL6p2gPa9",
+          "name": "My World 2.0"
         },
         "artist": {
-          "uri": "spotify:artist:5OZXWMwDhlYBRvoOfcX0sk",
-          "name": "Raisa"
+          "uri": "spotify:artist:1uNFoZAHBGtllmzznpCI3s",
+          "name": "Justin Bieber"
         },
         "context": {
-          "uri": "spotify:album:5oCsnT2SMuNZ4mVZBbvxWD",
-          "name": "album",
+          "uri": "spotify:playlist:70ks6Oli0Tfs8KMEPDsnjM",
+          "name": "playlist",
           "index": 0
         }
       }
