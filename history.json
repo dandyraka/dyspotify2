@@ -1,5 +1,14 @@
 [
   {
+    "timestamp": 1767462293104,
+    "user": "poemstars🌼🌟",
+    "userId": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
+    "track": "Jadi Apa Lagi",
+    "artist": "Glenn Samuel",
+    "uri": "spotify:track:5Wh0x4VGnpKKgpR8et213X",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e0170515b8c46c288c45018e"
+  },
+  {
     "timestamp": 1767453844993,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -79,14 +88,5 @@
     "artist": "Wali",
     "uri": "spotify:track:29GszwSbH9jtj74nwNWf4Z",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ab85980da8a5c59d26309a6f"
-  },
-  {
-    "timestamp": 1767426486238,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Yang Terbaik Bagimu (Jangan Lupakan Ayah) [feat. Gita Gutawa]",
-    "artist": "Ada Band, Gita Gutawa",
-    "uri": "spotify:track:0hcshcvKuOODyfuvkfoW9S",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732b1ac7ae8f3ef6c11cc6eca5"
   }
 ]
