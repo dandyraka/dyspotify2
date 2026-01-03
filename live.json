@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1767426871643,
+      "timestamp": 1767428479577,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
         "imageUrl": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=F7NRRtGuWOYQ7kNvwHY7ad8&_nc_oc=Adkt0obmcGaRLsn8A6IGqoEzyGZbmNnepKcLi8OGd99GXkgQ6tQ0jnK8-XqTXwrikOIQ0lG9VyK_APXlpf1HgVKK&_nc_zt=24&_nc_ht=scontent-cdg4-3.xx&edm=AP4hL3IEAAAA&_nc_gid=xWUjFbhFle_HI8hDqqOlpg&_nc_tpa=Q5bMBQF5Y1r28q60HR9-8Vgb9A-iEy9FtEvxWX8ijHK-WguCnie79qg7rL3MWVamMNxpsWQcliQl&oh=00_Afp0qZz7T5UAKYM5M8vI9h-BQuRfMEmQm8GRrp2rrrZzyA&oe=695DFF28"
       },
       "track": {
-        "uri": "spotify:track:2LMwYJXgdb5QaCCy0a20Ly",
-        "name": "Cukuplah Sudah",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e4d88690881127387c47816c",
+        "uri": "spotify:track:4zhGJ84SHwua3pzJ1WkNtA",
+        "name": "I Heart You",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27381abe38b6963ad1a6b4b3dd2",
         "album": {
-          "uri": "spotify:album:2hcHsG982OWWaAz5mFzKu7",
-          "name": "Xtraordinary"
+          "uri": "spotify:album:41Cz2ED5W95kU1m7SuCWTF",
+          "name": "Senyum Semangat"
         },
         "artist": {
-          "uri": "spotify:artist:51K9vezoBTOBDsnjBu2hsW",
-          "name": "XO-IX"
+          "uri": "spotify:artist:1x5dGP91xs8B6VCi80SlQF",
+          "name": "SMASH"
         },
         "context": {
           "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
