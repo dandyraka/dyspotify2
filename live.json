@@ -1,3 +1,30 @@
 {
-  "friends": []
+  "friends": [
+    {
+      "timestamp": 1767423129913,
+      "user": {
+        "uri": "spotify:user:dandyraka_",
+        "name": "Dandy 🫵🏻😁",
+        "imageUrl": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=F7NRRtGuWOYQ7kNvwHY7ad8&_nc_oc=Adkt0obmcGaRLsn8A6IGqoEzyGZbmNnepKcLi8OGd99GXkgQ6tQ0jnK8-XqTXwrikOIQ0lG9VyK_APXlpf1HgVKK&_nc_zt=24&_nc_ht=scontent-cdg4-3.xx&edm=AP4hL3IEAAAA&_nc_gid=xWUjFbhFle_HI8hDqqOlpg&_nc_tpa=Q5bMBQF5Y1r28q60HR9-8Vgb9A-iEy9FtEvxWX8ijHK-WguCnie79qg7rL3MWVamMNxpsWQcliQl&oh=00_Afp0qZz7T5UAKYM5M8vI9h-BQuRfMEmQm8GRrp2rrrZzyA&oe=695DFF28"
+      },
+      "track": {
+        "uri": "spotify:track:3YNMHA6FqeqWzZyw0JVyIi",
+        "name": "Terima Kasih Cinta",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735c7436a5d2ad3306c088db27",
+        "album": {
+          "uri": "spotify:album:1ahdxVWtqETWgYIuO4Uv8v",
+          "name": "Confession No.1"
+        },
+        "artist": {
+          "uri": "spotify:artist:4cgBCGxtlfap2g6jveB7du",
+          "name": "Afgan"
+        },
+        "context": {
+          "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
+          "name": "playlist",
+          "index": 0
+        }
+      }
+    }
+  ]
 }
