@@ -1,5 +1,14 @@
 [
   {
+    "timestamp": 1767453844993,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "I Heart You",
+    "artist": "SMASH",
+    "uri": "spotify:track:78rsxJsbBtWtTcCwgJqoA3",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739aa84db83f30fa0e2af3f885"
+  },
+  {
     "timestamp": 1767428345774,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -79,14 +88,5 @@
     "artist": "Ada Band, Gita Gutawa",
     "uri": "spotify:track:0hcshcvKuOODyfuvkfoW9S",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732b1ac7ae8f3ef6c11cc6eca5"
-  },
-  {
-    "timestamp": 1767426239055,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Tentang Aku,Kau dan Dia",
-    "artist": "Kangen Band",
-    "uri": "spotify:track:1L7YPMbWve6EUPGa6F9nw5",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27366f611197e5f19f63e1eab16"
   }
 ]
