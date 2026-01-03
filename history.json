@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": 1767426753537,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Doaku Untukmu Sayang",
+    "artist": "Wali",
+    "uri": "spotify:track:29GszwSbH9jtj74nwNWf4Z",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ab85980da8a5c59d26309a6f"
+  },
+  {
+    "timestamp": 1767426486238,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Yang Terbaik Bagimu (Jangan Lupakan Ayah) [feat. Gita Gutawa]",
+    "artist": "Ada Band, Gita Gutawa",
+    "uri": "spotify:track:0hcshcvKuOODyfuvkfoW9S",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732b1ac7ae8f3ef6c11cc6eca5"
+  },
+  {
     "timestamp": 1767426239055,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -70,23 +88,5 @@
     "artist": "Raisa",
     "uri": "spotify:track:0FERqRAVmXwPasxY5Jt8k1",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f018e2376d8060e0ba1112ab"
-  },
-  {
-    "timestamp": 1767424670228,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Kenangan Terindah",
-    "artist": "SAMSONS",
-    "uri": "spotify:track:5TtmfZaNSYEcTR49cureT0",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273607aaef4f806cb926096f1ae"
-  },
-  {
-    "timestamp": 1767424433295,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Hari Bersamanya",
-    "artist": "Sheila On 7",
-    "uri": "spotify:track:1nfOP7xNHeFSPOlziXswJc",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273505fb06705d4823830ce5055"
   }
 ]
