@@ -1,53 +1,27 @@
 {
   "friends": [
     {
-      "timestamp": 1767425532048,
+      "timestamp": 1767426326575,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
         "imageUrl": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=F7NRRtGuWOYQ7kNvwHY7ad8&_nc_oc=Adkt0obmcGaRLsn8A6IGqoEzyGZbmNnepKcLi8OGd99GXkgQ6tQ0jnK8-XqTXwrikOIQ0lG9VyK_APXlpf1HgVKK&_nc_zt=24&_nc_ht=scontent-cdg4-3.xx&edm=AP4hL3IEAAAA&_nc_gid=xWUjFbhFle_HI8hDqqOlpg&_nc_tpa=Q5bMBQF5Y1r28q60HR9-8Vgb9A-iEy9FtEvxWX8ijHK-WguCnie79qg7rL3MWVamMNxpsWQcliQl&oh=00_Afp0qZz7T5UAKYM5M8vI9h-BQuRfMEmQm8GRrp2rrrZzyA&oe=695DFF28"
       },
       "track": {
-        "uri": "spotify:track:3RR5OgrNTOsjmUmkQ1ocuK",
-        "name": "Yank",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273838205f888a6b4b28ceba0bf",
+        "uri": "spotify:track:0hcshcvKuOODyfuvkfoW9S",
+        "name": "Yang Terbaik Bagimu (Jangan Lupakan Ayah) [feat. Gita Gutawa]",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732b1ac7ae8f3ef6c11cc6eca5",
         "album": {
-          "uri": "spotify:album:2ZwI0a8y3FqWqTCxPnFR8v",
-          "name": "Cari Jodoh"
+          "uri": "spotify:album:0DlWjWRCSQr90ZIH3vftO5",
+          "name": "Heaven Of Love"
         },
         "artist": {
-          "uri": "spotify:artist:5pnSNZZRyYViu2n58Zlw1J",
-          "name": "Wali"
+          "uri": "spotify:artist:2owBL6a90fnWufVtP70K8f",
+          "name": "Ada Band, Gita Gutawa"
         },
         "context": {
           "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
           "name": "playlist",
-          "index": 0
-        }
-      }
-    },
-    {
-      "timestamp": 1767425532579,
-      "user": {
-        "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
-        "name": "poemstars🌼🌟",
-        "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
-      },
-      "track": {
-        "uri": "spotify:track:5Wh0x4VGnpKKgpR8et213X",
-        "name": "Jadi Apa Lagi",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e0170515b8c46c288c45018e",
-        "album": {
-          "uri": "spotify:album:0oB4NYIBCmqWHrmKk97cFS",
-          "name": "Jadi Apa Lagi"
-        },
-        "artist": {
-          "uri": "spotify:artist:26ez0LOxJMgy1GkkXhZiCV",
-          "name": "Glenn Samuel"
-        },
-        "context": {
-          "uri": null,
-          "name": null,
           "index": 0
         }
       }
