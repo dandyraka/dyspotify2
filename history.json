@@ -1,5 +1,14 @@
 [
   {
+    "timestamp": 1767505447282,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Berdiri Terinjak",
+    "artist": "Pee Wee Gaskins",
+    "uri": "spotify:track:5suxJuidFcfQjpTJHak11G",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27307480204c7e0094eec316851"
+  },
+  {
     "timestamp": 1767504997515,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -79,14 +88,5 @@
     "artist": "Ungu",
     "uri": "spotify:track:2c8HVgKUSjJQurPUjwTgNq",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732bdc8606260f10283f421c6c"
-  },
-  {
-    "timestamp": 1767428122389,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Pergilah Kasih",
-    "artist": "Chrisye",
-    "uri": "spotify:track:7LJ0zta34UcEez8sIyGfWz",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731a925263999b3c98268b31f0"
   }
 ]
