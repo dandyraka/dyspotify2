@@ -1,5 +1,14 @@
 [
   {
+    "timestamp": 1767656808964,
+    "user": "poemstars🌼🌟",
+    "userId": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
+    "track": "Into the Blue",
+    "artist": "Sienna Rose",
+    "uri": "spotify:track:3qIQAophwgi9UKMJHZcSpQ",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731d7ba02daf6dbe0bbf328042"
+  },
+  {
     "timestamp": 1767630058724,
     "user": "poemstars🌼🌟",
     "userId": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
@@ -79,14 +88,5 @@
     "artist": "Zivilia",
     "uri": "spotify:track:55cSdsnjIpjJoJjH9DuMHT",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f53fc42b6992cb0fd82ae67f"
-  },
-  {
-    "timestamp": 1767504630605,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Xpresikan",
-    "artist": "Bondan Prakoso, Fade2Black",
-    "uri": "spotify:track:3UvWFcpjN2MNdsyCrZyf3D",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734a73cf3d60f130db69c2b13e"
   }
 ]
