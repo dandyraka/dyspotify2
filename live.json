@@ -1,3 +1,30 @@
 {
-  "friends": []
+  "friends": [
+    {
+      "timestamp": 1767630143538,
+      "user": {
+        "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
+        "name": "poemstars🌼🌟",
+        "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
+      },
+      "track": {
+        "uri": "spotify:track:3qIQAophwgi9UKMJHZcSpQ",
+        "name": "Into the Blue",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731d7ba02daf6dbe0bbf328042",
+        "album": {
+          "uri": "spotify:album:3089DTFGUlcMRefJTAsM70",
+          "name": "Velvet Embrace"
+        },
+        "artist": {
+          "uri": "spotify:artist:6wq8iklwcF2dj0jtMpPvOJ",
+          "name": "Sienna Rose"
+        },
+        "context": {
+          "uri": null,
+          "name": null,
+          "index": 0
+        }
+      }
+    }
+  ]
 }
