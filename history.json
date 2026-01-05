@@ -1,5 +1,14 @@
 [
   {
+    "timestamp": 1767605285582,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Aishiteru",
+    "artist": "Zivilia",
+    "uri": "spotify:track:55cSdsnjIpjJoJjH9DuMHT",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f53fc42b6992cb0fd82ae67f"
+  },
+  {
     "timestamp": 1767505447282,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -79,14 +88,5 @@
     "artist": "SMASH",
     "uri": "spotify:track:78rsxJsbBtWtTcCwgJqoA3",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739aa84db83f30fa0e2af3f885"
-  },
-  {
-    "timestamp": 1767428345774,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Hampa Hatiku",
-    "artist": "Ungu",
-    "uri": "spotify:track:2c8HVgKUSjJQurPUjwTgNq",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732bdc8606260f10283f421c6c"
   }
 ]
