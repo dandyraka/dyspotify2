@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": 1768131717098,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Sendiri Lagi",
+    "artist": "B.a.G",
+    "uri": "spotify:track:1JT5NtEgmFwls29zZSuI8R",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273022d209cb9381271835ba085"
+  },
+  {
+    "timestamp": 1768131507154,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Dewi",
+    "artist": "Dewa 19",
+    "uri": "spotify:track:2zcPAFEc7mhULI9PZMBWUx",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27369222d0908ecf5d22cc9d960"
+  },
+  {
     "timestamp": 1768120963226,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -70,23 +88,5 @@
     "artist": "Bruno Mars",
     "uri": "spotify:track:7BqBn9nzAq8spo5e7cZ0dJ",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f6b55ca93bd33211227b502b"
-  },
-  {
-    "timestamp": 1767944680553,
-    "user": "poemstars🌼🌟",
-    "userId": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
-    "track": "We Found Love",
-    "artist": "Rihanna, Calvin Harris",
-    "uri": "spotify:track:6qn9YLKt13AGvpq9jfO8py",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bef074de9ca825bddaeb9f46"
-  },
-  {
-    "timestamp": 1767944440466,
-    "user": "poemstars🌼🌟",
-    "userId": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
-    "track": "I Just Might",
-    "artist": "Bruno Mars",
-    "uri": "spotify:track:12bYYQaLqHliSXvRIYlq8G",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e2887a1b6b98fc6c73bab12b"
   }
 ]
