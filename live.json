@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1768120326760,
+      "timestamp": 1768121585195,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=PtHXXfVeQtUQ7kNvwFtaaIn&_nc_oc=AdlfOgAglt5DSYozmv8onZnxjixubbB3_tVkXFsPWprR__PfI45QKzFkImUCxQHkcYwoTO_z2AjYtC3pbKC3HxYE&_nc_zt=24&_nc_ht=scontent-cdg4-3.xx&edm=AP4hL3IEAAAA&_nc_gid=crEyvhgrzfKl8mFyUXB_tg&_nc_tpa=Q5bMBQHBlxH-MNAuPoKB_JBdclyBSm8SnJvnxnUWncunUzklgtq5l2EQp3Q6VS7Iad2emOdPi2VL&oh=00_Afq6Shyb3e2KcNtI8K73JZLi1Ie5ikEPfuz7s1bTGi39qw&oe=696933E8"
+        "imageUrl": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=PtHXXfVeQtUQ7kNvwFM7G-k&_nc_oc=Adn9iu_Sncnu7wHdU62CFpqqnGStAw8385AIJXd1hPsJxtmpdOkUC9EyjJmqQiHd0KWq6C9ICTTHPomsPACR-Kqu&_nc_zt=24&_nc_ht=scontent-cdg4-3.xx&edm=AP4hL3IEAAAA&_nc_gid=0gIa_2Lt0EJwQ4_qs5EGhw&_nc_tpa=Q5bMBQEHX4-WSQLG88Klx1OPuF_k1QDanL7aKKQxDr4xRDfkXGwgZEJAjZxeb8eRcROzBdjZD9Og&oh=00_AfoWfdc-fUqJBu8i9XWwr9sy3S1f87gvrGqS5EcI_han3g&oe=696933E8"
       },
       "track": {
-        "uri": "spotify:track:06CZctheMwPh3Q9hO2S89a",
-        "name": "Selamat Jalan",
-        "imageUrl": "https://i.scdn.co/image/12133aef1ad3613eeda171dfb4288c740177fc9c",
+        "uri": "spotify:track:7ADK1rnMzP6PGWhoqWirBJ",
+        "name": "Pupus",
+        "imageUrl": "https://i.scdn.co/image/4998f20672f6783f7448f1266973a9e0595d5ea5",
         "album": {
-          "uri": "spotify:album:2kIdszrvBhqC9S7N00FAGG",
-          "name": "Mereka Tak Pernah Mengerti"
+          "uri": "spotify:album:6ifjItwHx7S2mhoX6tWSlK",
+          "name": "Cintailah Cinta"
         },
         "artist": {
-          "uri": "spotify:artist:6Ta7YcldiJgmh6zy2HQJsd",
-          "name": "Tipe-X"
+          "uri": "spotify:artist:35dWPb7Tmq0WESp6KAUJ8w",
+          "name": "Dewa"
         },
         "context": {
           "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
