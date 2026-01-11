@@ -1,3 +1,30 @@
 {
-  "friends": []
+  "friends": [
+    {
+      "timestamp": 1768131006916,
+      "user": {
+        "uri": "spotify:user:dandyraka_",
+        "name": "Dandy 🫵🏻😁",
+        "imageUrl": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=PtHXXfVeQtUQ7kNvwFtaaIn&_nc_oc=AdlfOgAglt5DSYozmv8onZnxjixubbB3_tVkXFsPWprR__PfI45QKzFkImUCxQHkcYwoTO_z2AjYtC3pbKC3HxYE&_nc_zt=24&_nc_ht=scontent-cdg4-3.xx&edm=AP4hL3IEAAAA&_nc_gid=crEyvhgrzfKl8mFyUXB_tg&_nc_tpa=Q5bMBQHBlxH-MNAuPoKB_JBdclyBSm8SnJvnxnUWncunUzklgtq5l2EQp3Q6VS7Iad2emOdPi2VL&oh=00_Afq6Shyb3e2KcNtI8K73JZLi1Ie5ikEPfuz7s1bTGi39qw&oe=696933E8"
+      },
+      "track": {
+        "uri": "spotify:track:28pSjEpLxPmXMr0EzqqqTP",
+        "name": "Suara (Ku Berharap)",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ca710fe13ac677a60bd7e2f9",
+        "album": {
+          "uri": "spotify:album:00t9vdiJgIWDvjfZm5tv4v",
+          "name": "Ikuti Cahaya"
+        },
+        "artist": {
+          "uri": "spotify:artist:79cB6hoLLTE9sPKYyJ8W64",
+          "name": "Hijau Daun"
+        },
+        "context": {
+          "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
+          "name": "playlist",
+          "index": 0
+        }
+      }
+    }
+  ]
 }
