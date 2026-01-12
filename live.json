@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1768216595297,
+      "timestamp": 1768217714916,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-zrh1-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=g6jwf0IDHdwQ7kNvwGFa8ad&_nc_oc=AdldKQLgiKC6ECzzzH7_bsPFRODc8yNlgDVOqCo1lu6s7fBA1jLcRHefd4IdCoS9OC0CXgx6k6yJgMS9i43AB1xR&_nc_zt=24&_nc_ht=scontent-zrh1-1.xx&edm=AP4hL3IEAAAA&_nc_gid=yb5xrTCdSQxxvTCZCpEtpg&_nc_tpa=Q5bMBQEvxg6EYKPOERb9ZuVwLXqwi8vs50lIy3RqK4iOWDUvaC8pedmfXnQ2iAVR8WMHg5yn1Ufi&oh=00_AfqW2dDzFa1wLP8Gl2OOLcsB41bmSvpVnoeNnIFE_Swpbg&oe=696ABDA8"
+        "imageUrl": "https://scontent-zrh1-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=g6jwf0IDHdwQ7kNvwF65IQY&_nc_oc=AdkjTjcNnLcpGeK3jMonHMYfBGw-d3E2ZJuWDDZZN6WMH-jDWCWH3s2DY0G_JKBaoVsZsfT_lbu0kgg0fh52JNTY&_nc_zt=24&_nc_ht=scontent-zrh1-1.xx&edm=AP4hL3IEAAAA&_nc_gid=Sf5PUa6KSfl_aLJbTzDbkQ&_nc_tpa=Q5bMBQE2M7UE2Kd0nwRsbAj4Fy5TyLIgbywthGa1qGj0Dlwc4XZwdYG_tkInCBwBuqN9p-LG5wfs&oh=00_AfqIvDWcxqgxkBh9hHtEbkhVXZWQ-sjESabQUCOYHSy2Hg&oe=696ABDA8"
       },
       "track": {
-        "uri": "spotify:track:55v1BS74zls1ccua7xcjLR",
-        "name": "Ayah",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e4ee3426c6d9951e14df5fd4",
+        "uri": "spotify:track:4NO6tr1qkrDQWgz0IEyxwE",
+        "name": "Harusnya Aku",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273df23548f173849f939fd9c91",
         "album": {
-          "uri": "spotify:album:6iPcmTpTCIWRL1QPhQprmF",
-          "name": "The Masterpiece Of Rinto Harahap"
+          "uri": "spotify:album:3WOli1F3NswIesoWcJ6jpa",
+          "name": "Pagi Pulang Pagi"
         },
         "artist": {
-          "uri": "spotify:artist:3Al8UPsWIzZPMApZDU9Isp",
-          "name": "Marcello Tahitoe, Andi, Maia, Rif, Achi Harahap, Rio F, The Changcuters, Pinkan Mambo, Pasto, Terry, Yovie & Nuno, Nindy"
+          "uri": "spotify:artist:6H857CtcaYMSxOB4jvSIZf",
+          "name": "Armada"
         },
         "context": {
           "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
