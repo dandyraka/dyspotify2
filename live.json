@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1768214136142,
+      "timestamp": 1768215294926,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-zrh1-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=g6jwf0IDHdwQ7kNvwHWFvU3&_nc_oc=AdlVbM9ogyKCSUx3sfCTfOHSMPMtDe6pZE112FsxHE2I9ZOf21ChS8RYVGYavetD6JsiMiOuX8RMGc5WvglBYM_8&_nc_zt=24&_nc_ht=scontent-zrh1-1.xx&edm=AP4hL3IEAAAA&_nc_gid=m-aJnp7tKBdP4fUXr1lRTw&_nc_tpa=Q5bMBQGkvJ1CI3EKFXG3vQiqrHZnzk7L_sM5SxGigQukopbdHVUXkrAYisC2TDUoC6WA9E-X22Ak&oh=00_AfpZgUJiHqjB42MT8r2lhmhBu7gP__Il6sEa_iYlOkY3mA&oe=696A8568"
+        "imageUrl": "https://scontent-zrh1-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=g6jwf0IDHdwQ7kNvwF65IQY&_nc_oc=AdkjTjcNnLcpGeK3jMonHMYfBGw-d3E2ZJuWDDZZN6WMH-jDWCWH3s2DY0G_JKBaoVsZsfT_lbu0kgg0fh52JNTY&_nc_zt=24&_nc_ht=scontent-zrh1-1.xx&edm=AP4hL3IEAAAA&_nc_gid=Sf5PUa6KSfl_aLJbTzDbkQ&_nc_tpa=Q5bMBQE2M7UE2Kd0nwRsbAj4Fy5TyLIgbywthGa1qGj0Dlwc4XZwdYG_tkInCBwBuqN9p-LG5wfs&oh=00_AfqIvDWcxqgxkBh9hHtEbkhVXZWQ-sjESabQUCOYHSy2Hg&oe=696ABDA8"
       },
       "track": {
-        "uri": "spotify:track:7F3RSsk4kgdWDF0h8xvalZ",
-        "name": "Kau Tigakan Cinta",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732e2f85d5eb7e52b8dd18a4ed",
+        "uri": "spotify:track:2RLsbdbEWAm95CElVGrVc5",
+        "name": "Hingga Akhir Waktu",
+        "imageUrl": "https://i.scdn.co/image/43720c24dea33475493530f390fea51d508c3b0c",
         "album": {
-          "uri": "spotify:album:5c1SVP01BdGT3chGeQhlHE",
-          "name": "Kau Tigakan Cinta"
+          "uri": "spotify:album:317BqEUMGnC0sRL222GQR6",
+          "name": "Hingga Akhir Waktu"
         },
         "artist": {
-          "uri": "spotify:artist:3VHrNovOUrILgQxTyVsZGs",
-          "name": "Elkasih"
+          "uri": "spotify:artist:1qAwDrmiiBt6JjepLcjXdp",
+          "name": "NINEBALL"
         },
         "context": {
           "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
