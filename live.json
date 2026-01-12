@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1768218489005,
+      "timestamp": 1768219010619,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
         "imageUrl": "https://scontent-zrh1-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=g6jwf0IDHdwQ7kNvwF65IQY&_nc_oc=AdkjTjcNnLcpGeK3jMonHMYfBGw-d3E2ZJuWDDZZN6WMH-jDWCWH3s2DY0G_JKBaoVsZsfT_lbu0kgg0fh52JNTY&_nc_zt=24&_nc_ht=scontent-zrh1-1.xx&edm=AP4hL3IEAAAA&_nc_gid=Sf5PUa6KSfl_aLJbTzDbkQ&_nc_tpa=Q5bMBQE2M7UE2Kd0nwRsbAj4Fy5TyLIgbywthGa1qGj0Dlwc4XZwdYG_tkInCBwBuqN9p-LG5wfs&oh=00_AfqIvDWcxqgxkBh9hHtEbkhVXZWQ-sjESabQUCOYHSy2Hg&oe=696ABDA8"
       },
       "track": {
-        "uri": "spotify:track:1lZsCFr5kZllJT0kmBCusy",
-        "name": "Luka Disini",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27338e22ce23713e99d8c0ce899",
+        "uri": "spotify:track:7nTGwRGqxOweb5GEJUUXZy",
+        "name": "Meraih Mimpi",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730b8061f7fbacd58c402c5972",
         "album": {
-          "uri": "spotify:album:0ytbwbmAKfailNYPo1NHtG",
-          "name": "Penguasa Hati"
+          "uri": "spotify:album:44lpcRCKluxCKOm5GHI2Ek",
+          "name": "Road to Abbey"
         },
         "artist": {
-          "uri": "spotify:artist:4HHdjvdn30koo54zQ6QeF5",
-          "name": "Ungu"
+          "uri": "spotify:artist:3zkqzEu0nHPDeP93vvY49U",
+          "name": "J-Rocks"
         },
         "context": {
           "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",

@@ -1,5 +1,32 @@
 [
   {
+    "timestamp": 1768218957685,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "EGP",
+    "artist": "Maia",
+    "uri": "spotify:track:3AzgzG6EfP17tinvGPxbtk",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cc8e9f522f3a896ccc402840"
+  },
+  {
+    "timestamp": 1768218770098,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Luka Disini",
+    "artist": "Ungu",
+    "uri": "spotify:track:1giyRcCVDukhM0997FGZpd",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732bdc8606260f10283f421c6c"
+  },
+  {
+    "timestamp": 1768218491363,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Surat Buat Wakil Rakyat",
+    "artist": "Iwan Fals",
+    "uri": "spotify:track:63aIxMhj5WU6yJSxT7zxEA",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d4649e0e5d2726dae0cda39d"
+  },
+  {
     "timestamp": 1768218153519,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -61,32 +88,5 @@
     "artist": "Wali",
     "uri": "spotify:track:5jsSSCQC4rj1DG3PZeUhl6",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27333362fc53eb178af1f5e5bcb"
-  },
-  {
-    "timestamp": 1768216286218,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Selimut Hati",
-    "artist": "Dewa 19",
-    "uri": "spotify:track:112PgZaSiXk8Mqem2Krgtq",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27369222d0908ecf5d22cc9d960"
-  },
-  {
-    "timestamp": 1768216011146,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Melepasmu",
-    "artist": "Drive",
-    "uri": "spotify:track:60ENzjgcc6MpFD883FjqPS",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bd215e9a6f391addd78f63a1"
-  },
-  {
-    "timestamp": 1768215797101,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Air & Api",
-    "artist": "Naif",
-    "uri": "spotify:track:0Z3E3USDNRILRhQBwy0ljP",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273676e52b04121d08f3ea10a58"
   }
 ]
