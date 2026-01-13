@@ -1,30 +1,3 @@
 {
-  "friends": [
-    {
-      "timestamp": 1768324479230,
-      "user": {
-        "uri": "spotify:user:dandyraka_",
-        "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=g6jwf0IDHdwQ7kNvwFWQyno&_nc_oc=Adnc5va87StCrUHD4hmxEEOsKcL8okCEpgnseAugQDC2SkMm9U7TNcFfHyp66mPC98WmJCitQVcXlShlCtREmJ7N&_nc_zt=24&_nc_ht=scontent-cdg4-3.xx&edm=AP4hL3IEAAAA&_nc_gid=f6zecu9mOlpuZHb9Sm_0Rw&_nc_tpa=Q5bMBQErpG25NDOqyFycFVSOgjyl0mU_6JKdQvC_UpRsek_7B9CSwkd0UfWx-hj2H1Cj9-pNv2Bz&oh=00_AfquBpQ8TQe52RAanh7JUY7Mr_dXhwabEWWsrywAaVKoEA&oe=696C0F28"
-      },
-      "track": {
-        "uri": "spotify:track:1WS4gL6sXWZ832B2SKYMq2",
-        "name": "Pergi Untuk Kembali",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cd50f559d06c13347988928c",
-        "album": {
-          "uri": "spotify:album:3drZS8rKcEkKSaxFJ4XA2s",
-          "name": "Ello"
-        },
-        "artist": {
-          "uri": "spotify:artist:3Al8UPsWIzZPMApZDU9Isp",
-          "name": "Marcello Tahitoe"
-        },
-        "context": {
-          "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
-          "name": "playlist",
-          "index": 0
-        }
-      }
-    }
-  ]
+  "friends": []
 }
