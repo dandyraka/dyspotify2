@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1768319317981,
+      "timestamp": 1768320090259,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
         "imageUrl": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=g6jwf0IDHdwQ7kNvwFBCucs&_nc_oc=AdlrGVS1xLKeVjMyysg0Mzftu6oudeuRT5BowiDkCsuZmmdygSZHOGOlwEvEf_kFtoRA6IO--lq0XmeSovMUEPNI&_nc_zt=24&_nc_ht=scontent-cdg4-3.xx&edm=AP4hL3IEAAAA&_nc_gid=6hhmiKzEqkSPyOqDTQg3Xw&_nc_tpa=Q5bMBQH7iOIQ6OqkHLi6cpDZAal2O0dIwYqR05JT4O-uDPPAT-bChMRWPfjHdb6zC7_odbzOifTp&oh=00_AfpdjjKQtc2tS-Z35xpHOygnHnOuo5xHkG1CccfXR6K5gg&oe=696C4768"
       },
       "track": {
-        "uri": "spotify:track:54hwAFt5hfHwGmhzjY0RmE",
-        "name": "Diam Diam Suka",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733ad38432e5772bf80a9a2483",
+        "uri": "spotify:track:0cbV99EGKS34lcXzy02Kqx",
+        "name": "Setia",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f9924da00f931bcf1a724e5e",
         "album": {
-          "uri": "spotify:album:1wqcpQnLri0fjAPgbmHSao",
-          "name": "Cherrybelle Compilation Album"
+          "uri": "spotify:album:5zL5jMCkP8AN3JotQLr503",
+          "name": "Seribu Tahun (Edisi Khusus)"
         },
         "artist": {
-          "uri": "spotify:artist:2oXCgnN1W8fMfNu2mHVgSz",
-          "name": "Cherrybelle"
+          "uri": "spotify:artist:7CSVCLVcIfpaNCQh7BxqKN",
+          "name": "Jikustik"
         },
         "context": {
           "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
