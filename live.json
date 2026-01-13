@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1768320090259,
+      "timestamp": 1768322858563,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
         "imageUrl": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=g6jwf0IDHdwQ7kNvwFBCucs&_nc_oc=AdlrGVS1xLKeVjMyysg0Mzftu6oudeuRT5BowiDkCsuZmmdygSZHOGOlwEvEf_kFtoRA6IO--lq0XmeSovMUEPNI&_nc_zt=24&_nc_ht=scontent-cdg4-3.xx&edm=AP4hL3IEAAAA&_nc_gid=6hhmiKzEqkSPyOqDTQg3Xw&_nc_tpa=Q5bMBQH7iOIQ6OqkHLi6cpDZAal2O0dIwYqR05JT4O-uDPPAT-bChMRWPfjHdb6zC7_odbzOifTp&oh=00_AfpdjjKQtc2tS-Z35xpHOygnHnOuo5xHkG1CccfXR6K5gg&oe=696C4768"
       },
       "track": {
-        "uri": "spotify:track:0cbV99EGKS34lcXzy02Kqx",
-        "name": "Setia",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f9924da00f931bcf1a724e5e",
+        "uri": "spotify:track:4Ve1oXU5Xigfqzi6cR9lZ0",
+        "name": "Harga Diriku",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27333362fc53eb178af1f5e5bcb",
         "album": {
-          "uri": "spotify:album:5zL5jMCkP8AN3JotQLr503",
-          "name": "Seribu Tahun (Edisi Khusus)"
+          "uri": "spotify:album:33R1KrmztvFvWsbz8T71Ke",
+          "name": "Cari Jodoh"
         },
         "artist": {
-          "uri": "spotify:artist:7CSVCLVcIfpaNCQh7BxqKN",
-          "name": "Jikustik"
+          "uri": "spotify:artist:5pnSNZZRyYViu2n58Zlw1J",
+          "name": "Wali"
         },
         "context": {
           "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
