@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1768395140893,
+      "timestamp": 1768397835590,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
         "imageUrl": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=g6jwf0IDHdwQ7kNvwEMBWNT&_nc_oc=AdnYzqHwG9-Q3Pqoza-2nR2D89GuoaPhKaRTzmwJPTiivyWccCyqci5jBRIAD3Y1yaPIgNyLcOGk4yeDddN3sJ3-&_nc_zt=24&_nc_ht=scontent-cdg4-3.xx&edm=AP4hL3IEAAAA&_nc_gid=D0hIBe_b7tJkXAz-Zgp9JA&_nc_tpa=Q5bMBQHRBep1_A49PqlQZrBbeIE3uHt438xQxDl7_KEG2FtuTIdrSLrmiNSdLSl223dcKmi27BUp&oh=00_Afo7oFf8FyxfDUleU14keaKmKPFDl5QTAULjOPEJHFJRqw&oe=696D60A8"
       },
       "track": {
-        "uri": "spotify:track:0C3xZJueyBvvMSsl0cETA6",
-        "name": "Yank",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27333362fc53eb178af1f5e5bcb",
+        "uri": "spotify:track:0yyq5KJy05sDtzuzQnQAWR",
+        "name": "Tetap Semangat",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d0ba0e1970aadbdc66003d5c",
         "album": {
-          "uri": "spotify:album:33R1KrmztvFvWsbz8T71Ke",
-          "name": "Cari Jodoh"
+          "uri": "spotify:album:0LTNM8p3hEvAPbidxNtg7Q",
+          "name": "For All"
         },
         "artist": {
-          "uri": "spotify:artist:5pnSNZZRyYViu2n58Zlw1J",
-          "name": "Wali"
+          "uri": "spotify:artist:7b4mucf6X53D3pEaY1jWl6",
+          "name": "Bondan Prakoso, Fade2Black"
         },
         "context": {
           "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
