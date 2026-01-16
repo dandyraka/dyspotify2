@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1768555706674,
+      "timestamp": 1768556929201,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=7OODE0S0UlIQ7kNvwEK_zQ3&_nc_oc=Adl90hJLFjBV26n1FQTZMala1Jt7rCvrHlU3YUVwqq0RbSD7kgTOh3_cBGXF131fUPYyWmsG-sbGccdq_WHDWhXs&_nc_zt=24&_nc_ht=scontent-fra3-2.xx&edm=AP4hL3IEAAAA&_nc_gid=o8Jae91qb1uWDIWXEnfzUQ&_nc_tpa=Q5bMBQEK1WyI8doAqpHdfxzhm2yR61ghcnsWCi9628ZztQQNmi7cipysti3yclyTelKRLn3YKyPK&oh=00_AfqxAFRKhBLUc7hRzHXMyClx1EGMLRvrwiOZ3mRfaLH_2g&oe=696F22A8"
+        "imageUrl": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=7OODE0S0UlIQ7kNvwFYFtsi&_nc_oc=AdmEJjlPvRud6rgbkomWVZ6Kdu1tjffKPKMMJ0m7vB9PxtIb4E88lmNp2IxLc0DBNC1Yw3f4fNTkzxT_0w4EuHFM&_nc_zt=24&_nc_ht=scontent-fra3-2.xx&edm=AP4hL3IEAAAA&_nc_gid=UT6xu_ISposxP7izvYjRCg&_nc_tpa=Q5bMBQHI0PGKNFzLmIjDJOjLXzSTZ-WLQGyksDz33dkXADTcDUn1VdKwe_A-rXpK3_bUS8Yzt1he&oh=00_AfrIsYDWNhzhYHOExgBunSSVkXfkiXCLGLolfk_hzyCVAA&oe=696FCB68"
       },
       "track": {
-        "uri": "spotify:track:2Ev8mNT9YHaUIELEKKf4ld",
-        "name": "11 Januari",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d1c95d09e5ee928c59c7de5a",
+        "uri": "spotify:track:0OVcoOK5WVvE6D9CXkopa9",
+        "name": "Separuh Aku",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27365ef5e2fd86b99bc55edafef",
         "album": {
-          "uri": "spotify:album:7DbA8XMgdsnigdg5cfFD1I",
-          "name": "Peace, Love And Respect"
+          "uri": "spotify:album:4zQgXju45dVJACZosujFtw",
+          "name": "Seperti Seharusnya"
         },
         "artist": {
-          "uri": "spotify:artist:2Gp3RWqEXPEV38Oqv5ZiNf",
-          "name": "Gigi"
+          "uri": "spotify:artist:31aMmlq8isIAgojvmIwiS4",
+          "name": "Noah"
         },
         "context": {
           "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",

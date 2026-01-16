@@ -1,5 +1,50 @@
 [
   {
+    "timestamp": 1768556798742,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Semakin Ku Kejar Semakin Kau Jauh (SKSJ)",
+    "artist": "Five Minutes",
+    "uri": "spotify:track:5USlcP7gkpSzzdGGCAZ4ya",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273778f75f6ababf2eb1eb6d148"
+  },
+  {
+    "timestamp": 1768556546829,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Slalu Mengalah",
+    "artist": "Seventeen",
+    "uri": "spotify:track:10US0PIXf6cAEuDUlCDCIV",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cb6c571cefa2ec66bc87254b"
+  },
+  {
+    "timestamp": 1768556312550,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Piknik '72",
+    "artist": "Naif",
+    "uri": "spotify:track:5VL1nUFQeWRvvYgFy1D6g2",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e35c5574e142c58cabc326f9"
+  },
+  {
+    "timestamp": 1768556115641,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Benci Untuk Mencinta",
+    "artist": "Naif",
+    "uri": "spotify:track:65PjFLm6X567f52At4CI1N",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e4d084a54bcdd3e2feb80b68"
+  },
+  {
+    "timestamp": 1768555879719,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "11 Januari",
+    "artist": "Gigi",
+    "uri": "spotify:track:2Ev8mNT9YHaUIELEKKf4ld",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d1c95d09e5ee928c59c7de5a"
+  },
+  {
     "timestamp": 1768555673512,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -43,50 +88,5 @@
     "artist": "Maia",
     "uri": "spotify:track:7qzpzDHfnDxqXSLCrF77O4",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cc8e9f522f3a896ccc402840"
-  },
-  {
-    "timestamp": 1768554459609,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Slow Down Baby",
-    "artist": "She",
-    "uri": "spotify:track:48ZpHG3rkUN9kKGCE4mNsB",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d5e13fef3cb242959a5568f1"
-  },
-  {
-    "timestamp": 1768554243933,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Baby Doll",
-    "artist": "Utopia",
-    "uri": "spotify:track:525sHGS4t4GYsFvD3TDWHZ",
-    "imageUrl": "https://i.scdn.co/image/f8872e16111c0d0fdf5bce085d8e0bd3858c075c"
-  },
-  {
-    "timestamp": 1768554040120,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Kehilangan (feat. Hendri Lamiri)",
-    "artist": "Firman Siagian, Hendri Lamiri",
-    "uri": "spotify:track:4n7QiOKsD8RYzRWOL8d9Ow",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738baf04f4378e55fc1458f535"
-  },
-  {
-    "timestamp": 1768553873880,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Balikin",
-    "artist": "Slank",
-    "uri": "spotify:track:5yPaTqyhflmpQCk0meh6jf",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273aeaf8d59e5dd8e6fcc682f45"
-  },
-  {
-    "timestamp": 1768553710548,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Cinta Gila",
-    "artist": "The Virgin",
-    "uri": "spotify:track:2l5JOrlNNexBr9gK9cY0cs",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c07d8a3fdab94264e6746760"
   }
 ]
