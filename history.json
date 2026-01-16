@@ -1,5 +1,41 @@
 [
   {
+    "timestamp": 1768560222521,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Ku Menunggu",
+    "artist": "Rossa",
+    "uri": "spotify:track:27VhfmXAusNsg1Cjp9OPSt",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739ca019ede5ee1162e851f4ce"
+  },
+  {
+    "timestamp": 1768559995528,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Di Balik Awan",
+    "artist": "Peterpan",
+    "uri": "spotify:track:4ARDeY58s4dEvPO5SSTrex",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734dcef3dbcf98750fb1411fcb"
+  },
+  {
+    "timestamp": 1768559569715,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Hujan",
+    "artist": "Utopia",
+    "uri": "spotify:track:30nitOpjzC3rV54QbLHTV8",
+    "imageUrl": "https://i.scdn.co/image/f8872e16111c0d0fdf5bce085d8e0bd3858c075c"
+  },
+  {
+    "timestamp": 1768559339038,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Kamu Ngga Sendirian",
+    "artist": "Tipe-X",
+    "uri": "spotify:track:6vkwqlK4h0rgpIgL9tChaz",
+    "imageUrl": "https://i.scdn.co/image/4e626b69239cbbdcb0d5517fd8b45fd91585135f"
+  },
+  {
     "timestamp": 1768559065713,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -52,41 +88,5 @@
     "artist": "Zivilia",
     "uri": "spotify:track:64i8WxkunHYorww1enu2fH",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f53fc42b6992cb0fd82ae67f"
-  },
-  {
-    "timestamp": 1768557675778,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Jangan Tutup Dirimu",
-    "artist": "Stinky",
-    "uri": "spotify:track:12Q6hgcXGjhKN2gPqaInAG",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731235258a65eded3eb20fea66"
-  },
-  {
-    "timestamp": 1768557382035,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Duka",
-    "artist": "Last Child",
-    "uri": "spotify:track:5MIpcd16T59wFeqAChSYwC",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733e19058e3db31816a65baf39"
-  },
-  {
-    "timestamp": 1768557059477,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Separuh Aku",
-    "artist": "Noah",
-    "uri": "spotify:track:4sJmv194lQKWjytpaxH1Vj",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ef9c61634ef59e7ee439dacc"
-  },
-  {
-    "timestamp": 1768556798742,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Semakin Ku Kejar Semakin Kau Jauh (SKSJ)",
-    "artist": "Five Minutes",
-    "uri": "spotify:track:5USlcP7gkpSzzdGGCAZ4ya",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273778f75f6ababf2eb1eb6d148"
   }
 ]
