@@ -1,5 +1,14 @@
 [
   {
+    "timestamp": 1768552275380,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Resah Tanpamu",
+    "artist": "Titi Kamal, Anji",
+    "uri": "spotify:track:4UNUyeGaZVszl2oQEqzn6u",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735a9f1d5c837f60fd6b5c5ced"
+  },
+  {
     "timestamp": 1768509287877,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -79,14 +88,5 @@
     "artist": "Peterpan",
     "uri": "spotify:track:7wwvAj5QSZCEYY5502wHim",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ef6b4f2c2161b3462b0b6fa7"
-  },
-  {
-    "timestamp": 1768401162780,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Tentang Rasa",
-    "artist": "Astrid",
-    "uri": "spotify:track:73PIm6P5ruqBmcEVtzcop2",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731a0378422d6100ef70acf740"
   }
 ]
