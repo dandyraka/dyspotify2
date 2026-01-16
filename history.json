@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": 1768557382035,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Duka",
+    "artist": "Last Child",
+    "uri": "spotify:track:5MIpcd16T59wFeqAChSYwC",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733e19058e3db31816a65baf39"
+  },
+  {
+    "timestamp": 1768557059477,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Separuh Aku",
+    "artist": "Noah",
+    "uri": "spotify:track:4sJmv194lQKWjytpaxH1Vj",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ef9c61634ef59e7ee439dacc"
+  },
+  {
     "timestamp": 1768556798742,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -70,23 +88,5 @@
     "artist": "Lyla",
     "uri": "spotify:track:5QPtz7osRZDu7P9UqUzpMl",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27322b3fafb273a10bb84bafaf4"
-  },
-  {
-    "timestamp": 1768554885345,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Shoot Me",
-    "artist": "Cinta Laura Kiehl",
-    "uri": "spotify:track:5x5ckunfOsFPWskOluTHzp",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a8afe4ed525b12ec2bee5965"
-  },
-  {
-    "timestamp": 1768554695249,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Ingat Kamu",
-    "artist": "Maia",
-    "uri": "spotify:track:7qzpzDHfnDxqXSLCrF77O4",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cc8e9f522f3a896ccc402840"
   }
 ]
