@@ -1,5 +1,14 @@
 [
   {
+    "timestamp": 1768564660899,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Sabtu Minggu",
+    "artist": "Sandy Canester",
+    "uri": "spotify:track:1GI4B57ToEI5e1Kh4bD75t",
+    "imageUrl": "https://i.scdn.co/image/c97f0a0ab7e91ade21d07e02bd1fefc433ab6067"
+  },
+  {
     "timestamp": 1768560222521,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -79,14 +88,5 @@
     "artist": "Armada",
     "uri": "spotify:track:1N9KSlqlBbPF0NNYWtttma",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f1c411e94c33fdd57edd9a69"
-  },
-  {
-    "timestamp": 1768557904227,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Aishiteru 3",
-    "artist": "Zivilia",
-    "uri": "spotify:track:64i8WxkunHYorww1enu2fH",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f53fc42b6992cb0fd82ae67f"
   }
 ]
