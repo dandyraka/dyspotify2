@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1768552338961,
+      "timestamp": 1768553841699,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
         "imageUrl": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=7OODE0S0UlIQ7kNvwEK_zQ3&_nc_oc=Adl90hJLFjBV26n1FQTZMala1Jt7rCvrHlU3YUVwqq0RbSD7kgTOh3_cBGXF131fUPYyWmsG-sbGccdq_WHDWhXs&_nc_zt=24&_nc_ht=scontent-fra3-2.xx&edm=AP4hL3IEAAAA&_nc_gid=o8Jae91qb1uWDIWXEnfzUQ&_nc_tpa=Q5bMBQEK1WyI8doAqpHdfxzhm2yR61ghcnsWCi9628ZztQQNmi7cipysti3yclyTelKRLn3YKyPK&oh=00_AfqxAFRKhBLUc7hRzHXMyClx1EGMLRvrwiOZ3mRfaLH_2g&oe=696F22A8"
       },
       "track": {
-        "uri": "spotify:track:3Q7S90mIA4PjvLglBzUbAs",
-        "name": "Jantung Hati",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b1454de001302e03bf4eee94",
+        "uri": "spotify:track:4n7QiOKsD8RYzRWOL8d9Ow",
+        "name": "Kehilangan (feat. Hendri Lamiri)",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738baf04f4378e55fc1458f535",
         "album": {
-          "uri": "spotify:album:5RKkK41Ej5dDXnlpCpazMX",
-          "name": "Ga Romantis"
+          "uri": "spotify:album:3mKGZ9zUqVYWwIMGvDOdMP",
+          "name": "Separuh Hati"
         },
         "artist": {
-          "uri": "spotify:artist:3GheatPWdVzxqmRXOKxHTb",
-          "name": "Lyla"
+          "uri": "spotify:artist:0nRMKgxgoVKcBFPpcuM72z",
+          "name": "Firman Siagian, Hendri Lamiri"
         },
         "context": {
           "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",

@@ -1,5 +1,50 @@
 [
   {
+    "timestamp": 1768553710548,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Cinta Gila",
+    "artist": "The Virgin",
+    "uri": "spotify:track:2l5JOrlNNexBr9gK9cY0cs",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c07d8a3fdab94264e6746760"
+  },
+  {
+    "timestamp": 1768553486475,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Cinta Terlarang",
+    "artist": "The Virgin",
+    "uri": "spotify:track:3pF1OGQdqegfytyVY0dBeA",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27368abe80afccb7ad350ec10ac"
+  },
+  {
+    "timestamp": 1768553345542,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Separuh Nafas",
+    "artist": "Dewa 19",
+    "uri": "spotify:track:6JusI70TeT9M2O1MXyXRRv",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27369222d0908ecf5d22cc9d960"
+  },
+  {
+    "timestamp": 1768553167545,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Antara Ada dan Tiada",
+    "artist": "Utopia",
+    "uri": "spotify:track:2mDviWBPhnfsnrB3TB2KRO",
+    "imageUrl": "https://i.scdn.co/image/1fdad8c79087dbb4922b915382fb60209a17636e"
+  },
+  {
+    "timestamp": 1768552524674,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Jantung Hati",
+    "artist": "Lyla",
+    "uri": "spotify:track:46XqfONaXMgmct0VYF7YuY",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273526d88c3cb4293f880c800d8"
+  },
+  {
     "timestamp": 1768552275380,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -43,50 +88,5 @@
     "artist": "GRUVI",
     "uri": "spotify:track:0OdYbzuaCAYu7hmViKvTAM",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27356dc483222aa994dc4f318d7"
-  },
-  {
-    "timestamp": 1768402475473,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Kutetap Menanti",
-    "artist": "Nikita Willy",
-    "uri": "spotify:track:5MJg9I7vXY75AjhVQajQy5",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273256f358ca0a6c759bd99cf9d"
-  },
-  {
-    "timestamp": 1768402224888,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Bersama Bintang",
-    "artist": "Drive",
-    "uri": "spotify:track:2AEepQ8zdGMSaSYrm3pq0W",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736b5bc736b694420030d00a36"
-  },
-  {
-    "timestamp": 1768401943774,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Terbaik Untukmu",
-    "artist": "Tangga",
-    "uri": "spotify:track:4g3dMjHvSSnnG8hupD4SSv",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735573730fe792fc1f86e14038"
-  },
-  {
-    "timestamp": 1768401656000,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Hari Yang Cerah Untuk Jiwa Yang Sepi",
-    "artist": "Peterpan",
-    "uri": "spotify:track:6M1FzGM9hmHXZNWHcyWSts",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734dcef3dbcf98750fb1411fcb"
-  },
-  {
-    "timestamp": 1768401422955,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Semua Tentang Kita",
-    "artist": "Peterpan",
-    "uri": "spotify:track:7wwvAj5QSZCEYY5502wHim",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ef6b4f2c2161b3462b0b6fa7"
   }
 ]
