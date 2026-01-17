@@ -1,3 +1,30 @@
 {
-  "friends": []
+  "friends": [
+    {
+      "timestamp": 1768659804345,
+      "user": {
+        "uri": "spotify:user:dandyraka_",
+        "name": "Dandy 🫵🏻😁",
+        "imageUrl": "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=7OODE0S0UlIQ7kNvwGX4Yav&_nc_oc=Adkh-vJsVf32Igkx8owNrJZMyhg0VyGOQxHtAVqR4A7eC6vZfROEXTeedH6OVFMb1tNhAvshpTkSkK1rwxA_xmuD&_nc_zt=24&_nc_ht=scontent-tpe1-1.xx&edm=AP4hL3IEAAAA&_nc_gid=66vD8vEseQvjkljqyQI3vw&_nc_tpa=Q5bMBQGU4A4iYsbcFQBZUjD-ELxbgXkAOwBHjlpulPPAAKc5xQjdWA7UQiMqcja-Ah1BCDRYDbDV&oh=00_Afp5T9PlicbMW3OwGpKpWv_x2IEf3VTmVHzyz_B--NAmpQ&oe=69711CE8"
+      },
+      "track": {
+        "uri": "spotify:track:52hRFtZpScAzsVApcmGieM",
+        "name": "Mimpi Yang Sempurna",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fdc08695e835aad91d9a2182",
+        "album": {
+          "uri": "spotify:album:3mfrRgG7qviT7IAPlmP2WO",
+          "name": "The Journey Vol. 2"
+        },
+        "artist": {
+          "uri": "spotify:artist:29vPfjqj8X5ri4AJRt8wVM",
+          "name": "Peterpan"
+        },
+        "context": {
+          "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
+          "name": "playlist",
+          "index": 0
+        }
+      }
+    }
+  ]
 }

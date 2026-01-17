@@ -1,5 +1,32 @@
 [
   {
+    "timestamp": 1768659728681,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Ceria",
+    "artist": "J-Rocks",
+    "uri": "spotify:track:10RtTP5oG5coNZK0sxrbUP",
+    "imageUrl": "https://i.scdn.co/image/7108ccb29d7ccbbfbc71a887fca12acbae745746"
+  },
+  {
+    "timestamp": 1768659489289,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Tak Bisakah - From \"Alexandria\" Soundtrack",
+    "artist": "Peterpan",
+    "uri": "spotify:track:58ZlToja2Ew7gsrqtuHoIs",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27300f98503376497ab98757f0a"
+  },
+  {
+    "timestamp": 1768659429550,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Tak Bisakah - From \"Alexandria\" Soundtrack",
+    "artist": "Peterpan",
+    "uri": "spotify:track:58ZlToja2Ew7gsrqtuHoIs",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27300f98503376497ab98757f0a"
+  },
+  {
     "timestamp": 1768650756057,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -61,32 +88,5 @@
     "artist": "Vagetoz",
     "uri": "spotify:track:5UP9AdoUw4cNjn19Se26SI",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738cd8fa6a203613665358ee94"
-  },
-  {
-    "timestamp": 1768648911390,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Matahariku",
-    "artist": "Agnes Monica",
-    "uri": "spotify:track:08M6ihbCJmAmfo4uoRYkOD",
-    "imageUrl": "https://i.scdn.co/image/10bbe041fb6a875448b44d945890b38ff2f526a3"
-  },
-  {
-    "timestamp": 1768564660899,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Sabtu Minggu",
-    "artist": "Sandy Canester",
-    "uri": "spotify:track:1GI4B57ToEI5e1Kh4bD75t",
-    "imageUrl": "https://i.scdn.co/image/c97f0a0ab7e91ade21d07e02bd1fefc433ab6067"
-  },
-  {
-    "timestamp": 1768560222521,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Ku Menunggu",
-    "artist": "Rossa",
-    "uri": "spotify:track:27VhfmXAusNsg1Cjp9OPSt",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739ca019ede5ee1162e851f4ce"
   }
 ]
