@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": 1768649167120,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Kehadiranmu",
+    "artist": "Vagetoz",
+    "uri": "spotify:track:5UP9AdoUw4cNjn19Se26SI",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738cd8fa6a203613665358ee94"
+  },
+  {
+    "timestamp": 1768648911390,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Matahariku",
+    "artist": "Agnes Monica",
+    "uri": "spotify:track:08M6ihbCJmAmfo4uoRYkOD",
+    "imageUrl": "https://i.scdn.co/image/10bbe041fb6a875448b44d945890b38ff2f526a3"
+  },
+  {
     "timestamp": 1768564660899,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -70,23 +88,5 @@
     "artist": "Peterpan",
     "uri": "spotify:track:4cGb85mMcCJ7keegoZWsAq",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fe95635649c485c19ab059a0"
-  },
-  {
-    "timestamp": 1768558361925,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Suka Sama Kamu",
-    "artist": "D'Bagindas",
-    "uri": "spotify:track:3jc4mhNq4l6X3wgOH7rCcr",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e8d5e910655cf2c0df7cd235"
-  },
-  {
-    "timestamp": 1768558144651,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Hargai Aku",
-    "artist": "Armada",
-    "uri": "spotify:track:1N9KSlqlBbPF0NNYWtttma",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f1c411e94c33fdd57edd9a69"
   }
 ]
