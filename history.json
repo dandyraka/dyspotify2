@@ -1,5 +1,32 @@
 [
   {
+    "timestamp": 1768660392364,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Doy",
+    "artist": "Kangen Band",
+    "uri": "spotify:track:0MhNhoGoKkOILkpAq80cdc",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ba8d883787d66e655c9b87a6"
+  },
+  {
+    "timestamp": 1768660187711,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Genit",
+    "artist": "Tipe-X",
+    "uri": "spotify:track:1VqpUh3Qykgmr8snpr54An",
+    "imageUrl": "https://i.scdn.co/image/666cf91768154801a461482069b7ffbe0673d558"
+  },
+  {
+    "timestamp": 1768659938673,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Mimpi Yang Sempurna",
+    "artist": "Peterpan",
+    "uri": "spotify:track:3mJ9p1LjfESbmmy9r1CvgE",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27311900a14baf7781551458b14"
+  },
+  {
     "timestamp": 1768659728681,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -61,32 +88,5 @@
     "artist": "Peterpan",
     "uri": "spotify:track:4CAJ5rVIAXfIUydvPUGOMR",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273788dca67619fc7c48ac9a0c0"
-  },
-  {
-    "timestamp": 1768649736917,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Pergilah Kasih",
-    "artist": "D’MASIV",
-    "uri": "spotify:track:0YfscnvXldBX790yR8OXXm",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733acb3a4f3ab6ceee27d1b552"
-  },
-  {
-    "timestamp": 1768649420724,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Kamu",
-    "artist": "Coboy Junior",
-    "uri": "spotify:track:4kMQVpke2L9tlWOINuAo07",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27312acd55333b9c705f0ab818c"
-  },
-  {
-    "timestamp": 1768649167120,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Kehadiranmu",
-    "artist": "Vagetoz",
-    "uri": "spotify:track:5UP9AdoUw4cNjn19Se26SI",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738cd8fa6a203613665358ee94"
   }
 ]
