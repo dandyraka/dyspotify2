@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1768650098824,
+      "timestamp": 1768650822299,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=7OODE0S0UlIQ7kNvwGX4Yav&_nc_oc=Adkh-vJsVf32Igkx8owNrJZMyhg0VyGOQxHtAVqR4A7eC6vZfROEXTeedH6OVFMb1tNhAvshpTkSkK1rwxA_xmuD&_nc_zt=24&_nc_ht=scontent-tpe1-1.xx&edm=AP4hL3IEAAAA&_nc_gid=66vD8vEseQvjkljqyQI3vw&_nc_tpa=Q5bMBQGU4A4iYsbcFQBZUjD-ELxbgXkAOwBHjlpulPPAAKc5xQjdWA7UQiMqcja-Ah1BCDRYDbDV&oh=00_Afp5T9PlicbMW3OwGpKpWv_x2IEf3VTmVHzyz_B--NAmpQ&oe=69711CE8"
+        "imageUrl": "https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=7OODE0S0UlIQ7kNvwEsCSeq&_nc_oc=AdmanU7Pufm3VIXwnMKkhiezpfaOH1_fu66jsIvE4FDZKbyxZKYEa-dJ04Gx9_F6dm-Gs9k2hSWxjNSTIcTg1_yx&_nc_zt=24&_nc_ht=scontent-tpe1-1.xx&edm=AP4hL3IEAAAA&_nc_gid=YNh3XOU8ABGIhAgRZN-iOw&_nc_tpa=Q5bMBQFVYLb21kMn8x1lFfUD1LZyJGcrJ-XYN9B_f-AZ41Ljc0s7ZwxAdIuYluU2-PPfagfDBTsd&oh=00_AfohUgviC3v-v0Cf53JvvjfsV7R18lCPwid_VcbEq1PudQ&oe=6970E4A8"
       },
       "track": {
-        "uri": "spotify:track:0UlanUvwxdIg3fGAISwEfQ",
-        "name": "Ular Berbisa",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739c32cd16725781cfbcadb65c",
+        "uri": "spotify:track:7K4kdSQpDBBLsxaPCcnPVb",
+        "name": "Tak Bisakah",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739e97460918e3f9ac7cd7c4cd",
         "album": {
-          "uri": "spotify:album:2FErGv1XEA6AvWRHKshaiq",
-          "name": "Say Hello"
+          "uri": "spotify:album:3PJipBpCtxX5Pv8dTsbreo",
+          "name": "OST. Alexandria"
         },
         "artist": {
-          "uri": "spotify:artist:331FgHQY4UqD04DAW7lG08",
-          "name": "Hello"
+          "uri": "spotify:artist:29vPfjqj8X5ri4AJRt8wVM",
+          "name": "Peterpan"
         },
         "context": {
           "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",

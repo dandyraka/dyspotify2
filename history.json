@@ -1,5 +1,32 @@
 [
   {
+    "timestamp": 1768650756057,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Ular Berbisa",
+    "artist": "Hello",
+    "uri": "spotify:track:0UlanUvwxdIg3fGAISwEfQ",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739c32cd16725781cfbcadb65c"
+  },
+  {
+    "timestamp": 1768650481919,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Genit",
+    "artist": "Tipe-X",
+    "uri": "spotify:track:1VqpUh3Qykgmr8snpr54An",
+    "imageUrl": "https://i.scdn.co/image/666cf91768154801a461482069b7ffbe0673d558"
+  },
+  {
+    "timestamp": 1768650223867,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Ular Berbisa",
+    "artist": "Hello",
+    "uri": "spotify:track:0UlanUvwxdIg3fGAISwEfQ",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739c32cd16725781cfbcadb65c"
+  },
+  {
     "timestamp": 1768650014443,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -61,32 +88,5 @@
     "artist": "Rossa",
     "uri": "spotify:track:27VhfmXAusNsg1Cjp9OPSt",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739ca019ede5ee1162e851f4ce"
-  },
-  {
-    "timestamp": 1768559995528,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Di Balik Awan",
-    "artist": "Peterpan",
-    "uri": "spotify:track:4ARDeY58s4dEvPO5SSTrex",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734dcef3dbcf98750fb1411fcb"
-  },
-  {
-    "timestamp": 1768559569715,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Hujan",
-    "artist": "Utopia",
-    "uri": "spotify:track:30nitOpjzC3rV54QbLHTV8",
-    "imageUrl": "https://i.scdn.co/image/f8872e16111c0d0fdf5bce085d8e0bd3858c075c"
-  },
-  {
-    "timestamp": 1768559339038,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Kamu Ngga Sendirian",
-    "artist": "Tipe-X",
-    "uri": "spotify:track:6vkwqlK4h0rgpIgL9tChaz",
-    "imageUrl": "https://i.scdn.co/image/4e626b69239cbbdcb0d5517fd8b45fd91585135f"
   }
 ]
