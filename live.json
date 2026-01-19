@@ -1,30 +1,3 @@
 {
-  "friends": [
-    {
-      "timestamp": 1768823492987,
-      "user": {
-        "uri": "spotify:user:dandyraka_",
-        "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=3XXyvWR88dYQ7kNvwHapZnR&_nc_oc=Adn6LRi6OaeOorcN7WB8FFMRfOygnUXEvUBmAjK-j3OUbIYiqDJLTDDZ17kh1yjZCiy_5Fu0CfMnoAlbo3Ig1KwO&_nc_zt=24&_nc_ht=scontent-ams2-1.xx&edm=AP4hL3IEAAAA&_nc_gid=JGPRGYumXr8gAbZC2DPFuw&_nc_tpa=Q5bMBQG2raeJtnuZixxZ4eDJcNa9_UOT5GqCAMDAREYSXndhI8Rr7oyLUNtm4ZgrkZ8kRqT6wDk0&oh=00_Afq5h_pejWt9V1_8hawbpYDPpnW6BKajb3Kv86wurgWS7Q&oe=6973F828"
-      },
-      "track": {
-        "uri": "spotify:track:6nNVw9KNGT5SIiP1M2IqP5",
-        "name": "Dua Hati Menjadi Satu",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273898db101d6cbcee69a2da992",
-        "album": {
-          "uri": "spotify:album:73DsZTBBZGEVk8aFfg5r8P",
-          "name": "Love"
-        },
-        "artist": {
-          "uri": "spotify:artist:4V1Io5SwSO4CwaUbgLMYvz",
-          "name": "Gita Gutawa, daffi"
-        },
-        "context": {
-          "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
-          "name": "playlist",
-          "index": 0
-        }
-      }
-    }
-  ]
+  "friends": []
 }
