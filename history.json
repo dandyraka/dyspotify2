@@ -1,5 +1,41 @@
 [
   {
+    "timestamp": 1768823484462,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Keterlaluan",
+    "artist": "The Potters",
+    "uri": "spotify:track:05r3AhDeS8cnrwoECUNYgO",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737716f5ec6b8b56c765d608b7"
+  },
+  {
+    "timestamp": 1768823330051,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Mau Dibawa Kemana",
+    "artist": "Armada",
+    "uri": "spotify:track:2CulJODngVvPoLtQrZVWoy",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d67195a1fc32eae4835450ae"
+  },
+  {
+    "timestamp": 1768823092247,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Bila Nanti Kau Milikku - Live",
+    "artist": "NaFF",
+    "uri": "spotify:track:6xPH39gLTXv8lqGhXPpPta",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ccf483088ebeee85708dd298"
+  },
+  {
+    "timestamp": 1768822774672,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Teruskanlah",
+    "artist": "Agnes Monica",
+    "uri": "spotify:track:2Wf39Vi50VoL7bQLNOf1ne",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273512fb6bff1ff64278fce9e25"
+  },
+  {
     "timestamp": 1768822534191,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -52,41 +88,5 @@
     "artist": "Mahadewi",
     "uri": "spotify:track:0Vhpedvy2kmw6yzPLfxJL4",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273074fdfdf06d84c49d205581e"
-  },
-  {
-    "timestamp": 1768821009439,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Apa Yang Terjadi",
-    "artist": "D'Bagindas",
-    "uri": "spotify:track:6C5PzDbypvCSruFGrgIXjc",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e8d5e910655cf2c0df7cd235"
-  },
-  {
-    "timestamp": 1768820815848,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Lelaki Cadangan",
-    "artist": "T2",
-    "uri": "spotify:track:73ulbeCzLjP1mhoCZwxh74",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738d5fa27495ca885e523a7397"
-  },
-  {
-    "timestamp": 1768820532489,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Mabuk Cinta",
-    "artist": "Armada",
-    "uri": "spotify:track:7gWcfdZVM1uunqG6trmQVG",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f1c411e94c33fdd57edd9a69"
-  },
-  {
-    "timestamp": 1768820296058,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Aku Tergoda",
-    "artist": "Five Minutes",
-    "uri": "spotify:track:6PmaFEBQKyewFee5vZu88C",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273778f75f6ababf2eb1eb6d148"
   }
 ]
