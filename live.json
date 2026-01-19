@@ -1,3 +1,30 @@
 {
-  "friends": []
+  "friends": [
+    {
+      "timestamp": 1768818213675,
+      "user": {
+        "uri": "spotify:user:dandyraka_",
+        "name": "Dandy 🫵🏻😁",
+        "imageUrl": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=3XXyvWR88dYQ7kNvwH-Inu1&_nc_oc=AdkP5zLLUrAKNV8UqYrk-cqskzZqIy80VqA70eCkTPAi-jAzWJa12bEqDhWsOcPRtNejNy47Y9Sil8SEwJU28Wm2&_nc_zt=24&_nc_ht=scontent-ams2-1.xx&edm=AP4hL3IEAAAA&_nc_gid=LmvD95WraNDK4uVi57lwOQ&_nc_tpa=Q5bMBQE9n7yFkkWrYvSw9usIErGIFv6H1eddaAX4mS5Ywj1D7HMd3rTVzJQCPgc1JNPCOoZWyhDK&oh=00_AfrvSCvjsjryt7zg9wZibSDT8TYYsbFKPtrFoFNh2_t0IQ&oe=6973BFE8"
+      },
+      "track": {
+        "uri": "spotify:track:7pqskEiA3GRG6ob6i8KHMq",
+        "name": "Ular Berbisa",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273869d7b3aa823eeb9e23ef0d5",
+        "album": {
+          "uri": "spotify:album:3oQKr4jiWdtsS3EQo9bIlG",
+          "name": "Say Hello"
+        },
+        "artist": {
+          "uri": "spotify:artist:331FgHQY4UqD04DAW7lG08",
+          "name": "Hello"
+        },
+        "context": {
+          "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
+          "name": "playlist",
+          "index": 0
+        }
+      }
+    }
+  ]
 }
