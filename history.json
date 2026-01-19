@@ -1,5 +1,32 @@
 [
   {
+    "timestamp": 1768845154505,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Naluri Lelaki",
+    "artist": "SAMSONS",
+    "uri": "spotify:track:7KwnrVNUAkIZFqEc0FM9Zg",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273607aaef4f806cb926096f1ae"
+  },
+  {
+    "timestamp": 1768844947345,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Betapa",
+    "artist": "Sheila On 7",
+    "uri": "spotify:track:5yYCrAuCka1kVSJiCHnurL",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735974be9bbf90d8f21af5515f"
+  },
+  {
+    "timestamp": 1768844754300,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Xpresikan",
+    "artist": "Bondan Prakoso, Fade2Black",
+    "uri": "spotify:track:3UvWFcpjN2MNdsyCrZyf3D",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734a73cf3d60f130db69c2b13e"
+  },
+  {
     "timestamp": 1768844247828,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -61,32 +88,5 @@
     "artist": "Ipang",
     "uri": "spotify:track:5ne9Rt0oVt3YRG41kAElLk",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27306dfe45fe6c6b54e1547d649"
-  },
-  {
-    "timestamp": 1768842385063,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Pergilah Kau",
-    "artist": "Sherina Munaf",
-    "uri": "spotify:track:6XD6sH8A7G4NiuKVuaI5yw",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27352b52a9d8361bbfd60f76415"
-  },
-  {
-    "timestamp": 1768842155738,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Tiba-Tiba Cinta Datang",
-    "artist": "Maudy Ayunda",
-    "uri": "spotify:track:6ydWaAAg0X87Ppr09I1o6U",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273752287da12cd4ed97bd2ac32"
-  },
-  {
-    "timestamp": 1768841920084,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Doo Be Doo",
-    "artist": "Gita Gutawa",
-    "uri": "spotify:track:2eSet0cvo4hssjDW2Y5VzU",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734d5d857ff307b4bd64c1481e"
   }
 ]
