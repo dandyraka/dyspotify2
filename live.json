@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1768834872419,
+      "timestamp": 1768837109894,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=3XXyvWR88dYQ7kNvwHapZnR&_nc_oc=Adn6LRi6OaeOorcN7WB8FFMRfOygnUXEvUBmAjK-j3OUbIYiqDJLTDDZ17kh1yjZCiy_5Fu0CfMnoAlbo3Ig1KwO&_nc_zt=24&_nc_ht=scontent-ams2-1.xx&edm=AP4hL3IEAAAA&_nc_gid=JGPRGYumXr8gAbZC2DPFuw&_nc_tpa=Q5bMBQG2raeJtnuZixxZ4eDJcNa9_UOT5GqCAMDAREYSXndhI8Rr7oyLUNtm4ZgrkZ8kRqT6wDk0&oh=00_Afq5h_pejWt9V1_8hawbpYDPpnW6BKajb3Kv86wurgWS7Q&oe=6973F828"
+        "imageUrl": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=3XXyvWR88dYQ7kNvwH-Inu1&_nc_oc=AdkP5zLLUrAKNV8UqYrk-cqskzZqIy80VqA70eCkTPAi-jAzWJa12bEqDhWsOcPRtNejNy47Y9Sil8SEwJU28Wm2&_nc_zt=24&_nc_ht=scontent-ams2-1.xx&edm=AP4hL3IEAAAA&_nc_gid=LmvD95WraNDK4uVi57lwOQ&_nc_tpa=Q5bMBQE9n7yFkkWrYvSw9usIErGIFv6H1eddaAX4mS5Ywj1D7HMd3rTVzJQCPgc1JNPCOoZWyhDK&oh=00_AfrvSCvjsjryt7zg9wZibSDT8TYYsbFKPtrFoFNh2_t0IQ&oe=6973BFE8"
       },
       "track": {
-        "uri": "spotify:track:5NgocjmpHofEFbC316AADM",
-        "name": "Diantara Kalian",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e6f33fc976a50b4ea10a49f9",
+        "uri": "spotify:track:67uR06KKb9B7R2cHutqDzv",
+        "name": "Koq Gitu Sih",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c379a636b6c8acc759bb9bd8",
         "album": {
-          "uri": "spotify:album:6dY3qq7sAl3T7tNy5ZdGd8",
-          "name": "Perubahan"
+          "uri": "spotify:album:3cAR0ZXnZjOYOIb922jgnh",
+          "name": "Indra Bekti"
         },
         "artist": {
-          "uri": "spotify:artist:1hioeMAsVwJ3bvcb9lxBpB",
-          "name": "D’MASIV"
+          "uri": "spotify:artist:0cDHy27P7Ddr8E4sWxzX9i",
+          "name": "Dewiq, Indra Bekti"
         },
         "context": {
           "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
