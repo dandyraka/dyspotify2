@@ -1,5 +1,41 @@
 [
   {
+    "timestamp": 1768844247828,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Mimpi Yang Sempurna",
+    "artist": "Peterpan",
+    "uri": "spotify:track:4CAJ5rVIAXfIUydvPUGOMR",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273788dca67619fc7c48ac9a0c0"
+  },
+  {
+    "timestamp": 1768843944507,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Kala Cinta Menggoda",
+    "artist": "Chrisye",
+    "uri": "spotify:track:5VsdyGSPzQkL18KKHLmZbj",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738b2625e0fb9735fd16b83b9b"
+  },
+  {
+    "timestamp": 1768843619869,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Seperti Yang Kau Minta",
+    "artist": "Chrisye",
+    "uri": "spotify:track:5HrF8yLnr3CbK4Aap7YDGy",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f7ec90a8fba3ce33a4e744e2"
+  },
+  {
+    "timestamp": 1768843332848,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Cemburu",
+    "artist": "Mahadewi",
+    "uri": "spotify:track:5sdKzwcaLDyGvvVOGRuZgY",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273074fdfdf06d84c49d205581e"
+  },
+  {
     "timestamp": 1768843097421,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -52,41 +88,5 @@
     "artist": "Gita Gutawa",
     "uri": "spotify:track:2eSet0cvo4hssjDW2Y5VzU",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734d5d857ff307b4bd64c1481e"
-  },
-  {
-    "timestamp": 1768841690464,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Teman Tapi Mesra",
-    "artist": "Ratu",
-    "uri": "spotify:track:4jSyrbR6gVwoThpsR9uYeZ",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273590a08574756e4b72b54d8c9"
-  },
-  {
-    "timestamp": 1768841413936,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Makhluk Tuhan Paling Sexy",
-    "artist": "Mulan Jameela",
-    "uri": "spotify:track:1qGNDJz9kIwEnuRCEozPGc",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27332a51fd37dd14f2534222c46"
-  },
-  {
-    "timestamp": 1768841152536,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Selalu Menunggumu",
-    "artist": "Five Minutes",
-    "uri": "spotify:track:67HBWKVl0RWVe0A8LHmZxR",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734b1f3c0a44c80b356e0d255a"
-  },
-  {
-    "timestamp": 1768840920606,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Hadapi Dengan Senyuman",
-    "artist": "Dewa",
-    "uri": "spotify:track:43I1H9UKzvRQZPBzq3ojhp",
-    "imageUrl": "https://i.scdn.co/image/88cb6e10af4c2bc1c43433a0578a95aba6afe4eb"
   }
 ]
