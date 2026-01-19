@@ -1,5 +1,50 @@
 [
   {
+    "timestamp": 1768833590533,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "JODI (Jomblo Ditinggal Mati)",
+    "artist": "Wali",
+    "uri": "spotify:track:6PfzC2yEFCRjR0CWuXu8HL",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27333362fc53eb178af1f5e5bcb"
+  },
+  {
+    "timestamp": 1768833390372,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Kangen",
+    "artist": "Dewa 19",
+    "uri": "spotify:track:6VggIDYOnf9C8fJVcMpxAu",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27370ea19fd1f517d40b9c01c0d"
+  },
+  {
+    "timestamp": 1768833073119,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "#Eeeaa",
+    "artist": "Coboy Junior",
+    "uri": "spotify:track:7HMLzHU05zxsOXV71XFIak",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27312acd55333b9c705f0ab818c"
+  },
+  {
+    "timestamp": 1768832813478,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Genit",
+    "artist": "Tipe-X",
+    "uri": "spotify:track:1VqpUh3Qykgmr8snpr54An",
+    "imageUrl": "https://i.scdn.co/image/666cf91768154801a461482069b7ffbe0673d558"
+  },
+  {
+    "timestamp": 1768832771821,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Genit",
+    "artist": "Tipe-X",
+    "uri": "spotify:track:1VqpUh3Qykgmr8snpr54An",
+    "imageUrl": "https://i.scdn.co/image/666cf91768154801a461482069b7ffbe0673d558"
+  },
+  {
     "timestamp": 1768824968544,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -43,50 +88,5 @@
     "artist": "Peterpan",
     "uri": "spotify:track:4HV13HgOpbvckwS0R3JKLz",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ef6b4f2c2161b3462b0b6fa7"
-  },
-  {
-    "timestamp": 1768823748762,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Dua Hati Menjadi Satu",
-    "artist": "Gita Gutawa, daffi",
-    "uri": "spotify:track:6nNVw9KNGT5SIiP1M2IqP5",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273898db101d6cbcee69a2da992"
-  },
-  {
-    "timestamp": 1768823484462,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Keterlaluan",
-    "artist": "The Potters",
-    "uri": "spotify:track:05r3AhDeS8cnrwoECUNYgO",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737716f5ec6b8b56c765d608b7"
-  },
-  {
-    "timestamp": 1768823330051,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Mau Dibawa Kemana",
-    "artist": "Armada",
-    "uri": "spotify:track:2CulJODngVvPoLtQrZVWoy",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d67195a1fc32eae4835450ae"
-  },
-  {
-    "timestamp": 1768823092247,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Bila Nanti Kau Milikku - Live",
-    "artist": "NaFF",
-    "uri": "spotify:track:6xPH39gLTXv8lqGhXPpPta",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ccf483088ebeee85708dd298"
-  },
-  {
-    "timestamp": 1768822774672,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Teruskanlah",
-    "artist": "Agnes Monica",
-    "uri": "spotify:track:2Wf39Vi50VoL7bQLNOf1ne",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273512fb6bff1ff64278fce9e25"
   }
 ]
