@@ -1,5 +1,50 @@
 [
   {
+    "timestamp": 1768822534191,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Atas Nama Cinta",
+    "artist": "Rossa",
+    "uri": "spotify:track:3Wu37fpOO9IrL0BVM6VsnC",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b9eec2829cebd3f050263364"
+  },
+  {
+    "timestamp": 1768822267400,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Topeng",
+    "artist": "Peterpan",
+    "uri": "spotify:track:4SZ1sU5DN6OfXPYjKmRi0x",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ef6b4f2c2161b3462b0b6fa7"
+  },
+  {
+    "timestamp": 1768822006238,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Gelora Asmara",
+    "artist": "Derby",
+    "uri": "spotify:track:5qt7cA8S357FY4COgxLOsK",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d0baf648e69eca883e68c016"
+  },
+  {
+    "timestamp": 1768821763270,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Tak Pernah Ternilai",
+    "artist": "Last Child",
+    "uri": "spotify:track:3z2Kcl9Oz1IxSgVoKN6RXo",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ef8f5065f512bea2e4468ad6"
+  },
+  {
+    "timestamp": 1768821526762,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Dealova",
+    "artist": "Once Mekel",
+    "uri": "spotify:track:4Eybcl06frChLYoXm0sxJi",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bbf16732627e8276f755a33e"
+  },
+  {
     "timestamp": 1768821254598,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -43,50 +88,5 @@
     "artist": "Five Minutes",
     "uri": "spotify:track:6PmaFEBQKyewFee5vZu88C",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273778f75f6ababf2eb1eb6d148"
-  },
-  {
-    "timestamp": 1768820000620,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Dengarkan Curhatku",
-    "artist": "Vierra",
-    "uri": "spotify:track:7AimCeId840zuaWl8RBAzT",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bdc17798be456d9e4ad28dc0"
-  },
-  {
-    "timestamp": 1768819868067,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Kroncong Protol",
-    "artist": "Bondan Prakoso, Fade2Black",
-    "uri": "spotify:track:5UTItcwQqhIdwste0mR0na",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734a73cf3d60f130db69c2b13e"
-  },
-  {
-    "timestamp": 1768819611798,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Cobalah",
-    "artist": "Hijau Daun",
-    "uri": "spotify:track:1I9QQ2jeVs5bvIr05UhU1H",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ca710fe13ac677a60bd7e2f9"
-  },
-  {
-    "timestamp": 1768819382536,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Akulah Dia",
-    "artist": "Drive",
-    "uri": "spotify:track:1REjtRSFuT2iWod0vABJSP",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27395cdc167c3c4eb953dfc657b"
-  },
-  {
-    "timestamp": 1768819190887,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Buka Semangat Baru",
-    "artist": "Marcello Tahitoe, Barry, Ipank, Lala Karmela",
-    "uri": "spotify:track:6lZKJkfn0eVCXvbh1jsO8a",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d462cb84c9899a5a132101a1"
   }
 ]
