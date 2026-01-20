@@ -1,30 +1,3 @@
 {
-  "friends": [
-    {
-      "timestamp": 1768932060135,
-      "user": {
-        "uri": "spotify:user:dandyraka_",
-        "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-zrh1-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=3XXyvWR88dYQ7kNvwG-ACYE&_nc_oc=AdkulCw3mWaRM-5eg9RAPYEIS5zehG9icVQbUtYwJWyfCOiD1HPjezFj88l-UdXWhgfgHFVFN_H8dGDca43FKplp&_nc_zt=24&_nc_ht=scontent-zrh1-1.xx&edm=AP4hL3IEAAAA&_nc_gid=pb00kSIsjkQS0kZYJXlPfw&_nc_tpa=Q5bMBQEVn9u7DvjDjRJ-sk4kqjPdpXYRHr0k0PmMOTidnKrfgA4V-Q0i4RmlCKZmb5pw6kZppLpr&oh=00_AfpCX23gR3DMm4GErlcqMbDxJnkGRtT4b_QUVh2wRte89w&oe=697549A8"
-      },
-      "track": {
-        "uri": "spotify:track:77RJljGYUt9CvHEk3TQeSd",
-        "name": "Aku Terjatuh",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ac22a53bd43a7ea382f9de0b",
-        "album": {
-          "uri": "spotify:album:3nh5Hdr2nEwUTPjrxLmjZe",
-          "name": "Pangeran Cinta"
-        },
-        "artist": {
-          "uri": "spotify:artist:09toGEEhpusLyZ6Nk9AmRf",
-          "name": "ST12"
-        },
-        "context": {
-          "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
-          "name": "playlist",
-          "index": 0
-        }
-      }
-    }
-  ]
+  "friends": []
 }
