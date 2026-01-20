@@ -1,5 +1,77 @@
 [
   {
+    "timestamp": 1768929216546,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Arti Sahabat",
+    "artist": "Nidji",
+    "uri": "spotify:track:5BtCp9eRtxlBtrhWRCUixn",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dfa7a8da9024e1a44f3b177c"
+  },
+  {
+    "timestamp": 1768929021790,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Matahariku",
+    "artist": "Agnes Monica",
+    "uri": "spotify:track:08M6ihbCJmAmfo4uoRYkOD",
+    "imageUrl": "https://i.scdn.co/image/10bbe041fb6a875448b44d945890b38ff2f526a3"
+  },
+  {
+    "timestamp": 1768928825333,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Roman Picisan",
+    "artist": "Dewa 19",
+    "uri": "spotify:track:35E6odHU6yHAN0harHjemH",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27369222d0908ecf5d22cc9d960"
+  },
+  {
+    "timestamp": 1768928346896,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Jangan Lupakan",
+    "artist": "Nidji",
+    "uri": "spotify:track:7quso6g0wYYQG78mjmSyaI",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dfa7a8da9024e1a44f3b177c"
+  },
+  {
+    "timestamp": 1768928052064,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Kembali Pulang",
+    "artist": "Kangen Band",
+    "uri": "spotify:track:6TqtFqq6QgYhQVCM87GKVF",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ba8d883787d66e655c9b87a6"
+  },
+  {
+    "timestamp": 1768927839632,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Cinta Mati (feat. Ahmad Dhani)",
+    "artist": "Agnes Monica, Ahmad Dhani",
+    "uri": "spotify:track:6qR2Kawh3T8WkgijbB7WS5",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731865923c37bb084ccf33abbd"
+  },
+  {
+    "timestamp": 1768927595193,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Semakin",
+    "artist": "D’MASIV",
+    "uri": "spotify:track:2ZZEePSS6HBNWdF6uq4sqR",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27318ace9e1b1cd6f550781166e"
+  },
+  {
+    "timestamp": 1768927398301,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Cinta Dan Benci",
+    "artist": "Geisha",
+    "uri": "spotify:track:42N27sa7uU9kJtj8NKCznx",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e01598c7b6925cc318e29bcf"
+  },
+  {
     "timestamp": 1768927150696,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -16,77 +88,5 @@
     "artist": "Bunga Citra Lestari",
     "uri": "spotify:track:4WxpqDEOIqjx9Ux2J63K9u",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e826c6346023bbc8af3e6247"
-  },
-  {
-    "timestamp": 1768926643781,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Dewi",
-    "artist": "Dewa 19",
-    "uri": "spotify:track:2zcPAFEc7mhULI9PZMBWUx",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27369222d0908ecf5d22cc9d960"
-  },
-  {
-    "timestamp": 1768926434053,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "OK",
-    "artist": "T2",
-    "uri": "spotify:track:5e0mXBWp0pd2sIWzoTEmoD",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738d5fa27495ca885e523a7397"
-  },
-  {
-    "timestamp": 1768926204194,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Tulus",
-    "artist": "Radja",
-    "uri": "spotify:track:66H4X8TevDg9gr5SkYfV6u",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c510878448e2867f46d3e57b"
-  },
-  {
-    "timestamp": 1768926041588,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Jomblo",
-    "artist": "Saykoji",
-    "uri": "spotify:track:1F6fKdmKkShFQGDzfkWb3l",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cda02835ebd8fbc8c65f67d3"
-  },
-  {
-    "timestamp": 1768925622132,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Bawa Aku Lari",
-    "artist": "Govinda",
-    "uri": "spotify:track:6aZyTfo6EJPsOELTLYRP35",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730492d17791e3ec7f92c7b41c"
-  },
-  {
-    "timestamp": 1768925407613,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Berdiri Terinjak",
-    "artist": "Pee Wee Gaskins",
-    "uri": "spotify:track:5suxJuidFcfQjpTJHak11G",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27307480204c7e0094eec316851"
-  },
-  {
-    "timestamp": 1768925166702,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Sephia",
-    "artist": "Sheila On 7",
-    "uri": "spotify:track:5gkTGkjFB5wAd3mSBEcQPY",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e8d4f0596d66ccbe5241918d"
-  },
-  {
-    "timestamp": 1768924876358,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Masih Disini Masih Denganmu (MD2)",
-    "artist": "Goliath",
-    "uri": "spotify:track:7kyDNBAyduSENJ8tc5vpZD",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738eaaf8982d9c1c55f3b35aab"
   }
 ]
