@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1768917214889,
+      "timestamp": 1768919198928,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
         "imageUrl": "https://scontent-zrh1-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=3XXyvWR88dYQ7kNvwG-ACYE&_nc_oc=AdkulCw3mWaRM-5eg9RAPYEIS5zehG9icVQbUtYwJWyfCOiD1HPjezFj88l-UdXWhgfgHFVFN_H8dGDca43FKplp&_nc_zt=24&_nc_ht=scontent-zrh1-1.xx&edm=AP4hL3IEAAAA&_nc_gid=pb00kSIsjkQS0kZYJXlPfw&_nc_tpa=Q5bMBQEVn9u7DvjDjRJ-sk4kqjPdpXYRHr0k0PmMOTidnKrfgA4V-Q0i4RmlCKZmb5pw6kZppLpr&oh=00_AfpCX23gR3DMm4GErlcqMbDxJnkGRtT4b_QUVh2wRte89w&oe=697549A8"
       },
       "track": {
-        "uri": "spotify:track:5NGG41cEWnMSXOiN6FJmlH",
-        "name": "Mencintamu Sampai Mati",
-        "imageUrl": "https://i.scdn.co/image/34ad32b040f7e725fb1d212ab711df29886b9938",
+        "uri": "spotify:track:4XyAYEVNRiMFWm17HkRnnk",
+        "name": "Doremi",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273db80402ee1d664e9c4670d50",
         "album": {
-          "uri": "spotify:album:1WiIIA6tNpsiS33noK5XGb",
-          "name": "Mencintamu Sampai Mati"
+          "uri": "spotify:album:3BSay8BCZZFWaLlSIqt4D2",
+          "name": "1 Hari Yang Cerah"
         },
         "artist": {
-          "uri": "spotify:artist:4oAZA3aniPjL9XINSvj7VP",
-          "name": "Utopia"
+          "uri": "spotify:artist:6Ifk2cbxyVzT41jLexYCas",
+          "name": "Budi Doremi"
         },
         "context": {
           "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
