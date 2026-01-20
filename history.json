@@ -1,5 +1,59 @@
 [
   {
+    "timestamp": 1768922959046,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "C.I.N.T.A",
+    "artist": "D'Bagindas",
+    "uri": "spotify:track:6WudnKINJZ0MeA0Zdg1VEm",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e8d5e910655cf2c0df7cd235"
+  },
+  {
+    "timestamp": 1768922260515,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Karma",
+    "artist": "Cokelat",
+    "uri": "spotify:track:6IAv4Bu6C6DtpKuNOEVven",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736db5a0713631880a49239164"
+  },
+  {
+    "timestamp": 1768922062342,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Buka Hatimu",
+    "artist": "Armada",
+    "uri": "spotify:track:2uy1RsdzULhpzJCiWoTlK3",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d67195a1fc32eae4835450ae"
+  },
+  {
+    "timestamp": 1768921775264,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Dua Cincin",
+    "artist": "Hello",
+    "uri": "spotify:track:3irweHLECiMYidXkgcpuSL",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730367b25cea54b77307cd729b"
+  },
+  {
+    "timestamp": 1768921509125,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Berita Kepada Kawan",
+    "artist": "Ebiet G. Ade",
+    "uri": "spotify:track:5OmWxlD2WFRqhGOsUejGLk",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ee40f9f00bb0951771941db0"
+  },
+  {
+    "timestamp": 1768921176537,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Tak Bisakah - From \"Alexandria\" Soundtrack",
+    "artist": "Peterpan",
+    "uri": "spotify:track:58ZlToja2Ew7gsrqtuHoIs",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27300f98503376497ab98757f0a"
+  },
+  {
     "timestamp": 1768920968319,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -34,59 +88,5 @@
     "artist": "Geisha",
     "uri": "spotify:track:2fiQmriqLoHuIxJDu0JUIA",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731e8b82b3712511dd627d60f0"
-  },
-  {
-    "timestamp": 1768920240457,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Jalan Terbaik",
-    "artist": "ST12",
-    "uri": "spotify:track:6pjNMcPQ3kDEhI6qXTxxrJ",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732e86ae25437d95fc6aa82549"
-  },
-  {
-    "timestamp": 1768920011407,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Bintang",
-    "artist": "animA",
-    "uri": "spotify:track:2sEBjRtYHw3CpPMxxn5uMr",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cb3bc652bf4607a484107c60"
-  },
-  {
-    "timestamp": 1768919740326,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Separuh Nafas",
-    "artist": "Dewa 19",
-    "uri": "spotify:track:6JusI70TeT9M2O1MXyXRRv",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27369222d0908ecf5d22cc9d960"
-  },
-  {
-    "timestamp": 1768919523298,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Mimpi Yang Sempurna",
-    "artist": "Peterpan",
-    "uri": "spotify:track:3mJ9p1LjfESbmmy9r1CvgE",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27311900a14baf7781551458b14"
-  },
-  {
-    "timestamp": 1768919311248,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Doremi",
-    "artist": "Budi Doremi",
-    "uri": "spotify:track:4XyAYEVNRiMFWm17HkRnnk",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273db80402ee1d664e9c4670d50"
-  },
-  {
-    "timestamp": 1768919082207,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Doy",
-    "artist": "Kangen Band",
-    "uri": "spotify:track:0MhNhoGoKkOILkpAq80cdc",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ba8d883787d66e655c9b87a6"
   }
 ]

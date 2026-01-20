@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1768921017363,
+      "timestamp": 1768923078770,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-zrh1-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=3XXyvWR88dYQ7kNvwG-ACYE&_nc_oc=AdkulCw3mWaRM-5eg9RAPYEIS5zehG9icVQbUtYwJWyfCOiD1HPjezFj88l-UdXWhgfgHFVFN_H8dGDca43FKplp&_nc_zt=24&_nc_ht=scontent-zrh1-1.xx&edm=AP4hL3IEAAAA&_nc_gid=pb00kSIsjkQS0kZYJXlPfw&_nc_tpa=Q5bMBQEVn9u7DvjDjRJ-sk4kqjPdpXYRHr0k0PmMOTidnKrfgA4V-Q0i4RmlCKZmb5pw6kZppLpr&oh=00_AfpCX23gR3DMm4GErlcqMbDxJnkGRtT4b_QUVh2wRte89w&oe=697549A8"
+        "imageUrl": "https://scontent-zrh1-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=3XXyvWR88dYQ7kNvwFAW13R&_nc_oc=Adn00K1T6xSk1ivDQAuREAP99aXf1FCtudL60PDdx-hsvMrSpzWr07SQlEfLf0XmHu6mFeG7GPAfE__ERdmHJVY_&_nc_zt=24&_nc_ht=scontent-zrh1-1.xx&edm=AP4hL3IEAAAA&_nc_gid=4l8JXXoZRLDr4Hl8QQyD4A&_nc_tpa=Q5bMBQGqX4nDge3kAbMoBMWjCrZr5uglpEZh9Zpzjevm4jX1m67KYs9I2y8ZTq9P7izkPtkLQUGY&oh=00_Afp13GWT2b5NYV0JTW0BHCKo36vsJvcDgBeyKY4_Fq3iqA&oe=69751168"
       },
       "track": {
-        "uri": "spotify:track:7K4kdSQpDBBLsxaPCcnPVb",
-        "name": "Tak Bisakah",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739e97460918e3f9ac7cd7c4cd",
+        "uri": "spotify:track:5X3HN2ZNAcnwriB48pW5mw",
+        "name": "Sebelum Cahaya",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273beb3148bd8f70f1f62771d0a",
         "album": {
-          "uri": "spotify:album:3PJipBpCtxX5Pv8dTsbreo",
-          "name": "OST. Alexandria"
+          "uri": "spotify:album:6risJEGT61mPTA6B1eiNQ4",
+          "name": "Don’t Make Me Sad"
         },
         "artist": {
-          "uri": "spotify:artist:29vPfjqj8X5ri4AJRt8wVM",
-          "name": "Peterpan"
+          "uri": "spotify:artist:2vRToyl7mxoVbwwSsRBXAM",
+          "name": "Letto"
         },
         "context": {
           "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
