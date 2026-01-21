@@ -1,5 +1,14 @@
 [
   {
+    "timestamp": 1769036522067,
+    "user": "poemstars🌼🌟",
+    "userId": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
+    "track": "double take",
+    "artist": "Dhruv",
+    "uri": "spotify:track:0QzuaeCEEOV40Pn7IvKEny",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736f04e53cb5309f8e88286842"
+  },
+  {
     "timestamp": 1768934257093,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -79,14 +88,5 @@
     "artist": "Alexa",
     "uri": "spotify:track:55AIhUM5HgjJuSdFoJdtSQ",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739dfac4715152441d79d7c06e"
-  },
-  {
-    "timestamp": 1768932083554,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Aku Terjatuh",
-    "artist": "ST12",
-    "uri": "spotify:track:2wEyhqealIE41Y2jh3Opjg",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273432fc1205cacdc6ae44b8609"
   }
 ]
