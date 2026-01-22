@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": 1769072949844,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Sempurna",
+    "artist": "Andra & The Backbone",
+    "uri": "spotify:track:2UgCs0i0rNHUH2jKE5NZHE",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730df7dec70511dd4f2e69dc34"
+  },
+  {
+    "timestamp": 1769072686117,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Nenekku Pahlawanku",
+    "artist": "Wali",
+    "uri": "spotify:track:2ALQHMFnSjKzRhGwXVSfHD",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ab85980da8a5c59d26309a6f"
+  },
+  {
     "timestamp": 1769072435434,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -70,23 +88,5 @@
     "artist": "Dhruv",
     "uri": "spotify:track:0QzuaeCEEOV40Pn7IvKEny",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736f04e53cb5309f8e88286842"
-  },
-  {
-    "timestamp": 1768934257093,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Hanya Memuji",
-    "artist": "Shanty",
-    "uri": "spotify:track:3jjehnH4E0KENjcEGnK9nm",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e5f56fa9cd66dc3d170d102c"
-  },
-  {
-    "timestamp": 1768934058468,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Terbang Bersamaku",
-    "artist": "Kangen Band",
-    "uri": "spotify:track:4Z6MSmemDNEcjNQPIV48b5",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273870d7ae2b96d7741cc5dc416"
   }
 ]
