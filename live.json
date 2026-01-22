@@ -1,3 +1,30 @@
 {
-  "friends": []
+  "friends": [
+    {
+      "timestamp": 1769072500295,
+      "user": {
+        "uri": "spotify:user:dandyraka_",
+        "name": "Dandy 🫵🏻😁",
+        "imageUrl": "https://scontent-bom5-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=l6VNZFyoZ7kQ7kNvwH2Wjza&_nc_oc=AdlkQooKCfxJIjiTj0Ql8Ch7kHVcPI5qOiVlW51bdwa43o7w9jBLByM8WCb2-jci2ybBX20MEiY8L6EQ7LH_NEHM&_nc_zt=24&_nc_ht=scontent-bom5-1.xx&edm=AP4hL3IEAAAA&_nc_gid=gLNDmKmtKLaJOWEgebsGcg&_nc_tpa=Q5bMBQHOnr_oS5TzZfmsqwPaPYnin6XSBBiw9j8SccquA9w1FP3uF-KovswDqY5xNPXzxiBdrOuW&oh=00_Afqput3wjbGkaGMfipxwiAjkrpnCcjMiKhHPfwL7Zcs6JQ&oe=6977B468"
+      },
+      "track": {
+        "uri": "spotify:track:2ALQHMFnSjKzRhGwXVSfHD",
+        "name": "Nenekku Pahlawanku",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ab85980da8a5c59d26309a6f",
+        "album": {
+          "uri": "spotify:album:4SU72f8lCnTr1GM9GPkFPY",
+          "name": "Aku Bukan Bang Toyib"
+        },
+        "artist": {
+          "uri": "spotify:artist:5pnSNZZRyYViu2n58Zlw1J",
+          "name": "Wali"
+        },
+        "context": {
+          "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
+          "name": "playlist",
+          "index": 0
+        }
+      }
+    }
+  ]
 }
