@@ -1,5 +1,14 @@
 [
   {
+    "timestamp": 1769079846215,
+    "user": "poemstars🌼🌟",
+    "userId": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
+    "track": "Not Fine",
+    "artist": "DAY6",
+    "uri": "spotify:track:6W8dT3CMFlVIwfsnnYLL0D",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a98b928b07177a617b156c88"
+  },
+  {
     "timestamp": 1769079546169,
     "user": "poemstars🌼🌟",
     "userId": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
@@ -79,14 +88,5 @@
     "artist": "7Icons",
     "uri": "spotify:track:0eXDcLlUaEKNNS41pZQEeX",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736b0b658d261e406f1dbe344d"
-  },
-  {
-    "timestamp": 1769071976300,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Kita Selamanya",
-    "artist": "Bondan Prakoso, Fade2Black",
-    "uri": "spotify:track:3RoXxFX4xLg8u2BJPYLExg",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d0ba0e1970aadbdc66003d5c"
   }
 ]
