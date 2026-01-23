@@ -1,3 +1,30 @@
 {
-  "friends": []
+  "friends": [
+    {
+      "timestamp": 1769154066560,
+      "user": {
+        "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
+        "name": "poemstars🌼🌟",
+        "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
+      },
+      "track": {
+        "uri": "spotify:track:0psWDl3FJLx1QARN9XHqdK",
+        "name": "The Dawn Star",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737668113d3e9fbdb30247fa0a",
+        "album": {
+          "uri": "spotify:album:4sWMKUyokFPH0bYIUVvyBG",
+          "name": "The Dawn Star"
+        },
+        "artist": {
+          "uri": "spotify:artist:5jgIm8tZ4hqLeoHTo9wJIV",
+          "name": "TOUCHED"
+        },
+        "context": {
+          "uri": null,
+          "name": null,
+          "index": 0
+        }
+      }
+    }
+  ]
 }
