@@ -1,5 +1,14 @@
 [
   {
+    "timestamp": 1769154682360,
+    "user": "poemstars🌼🌟",
+    "userId": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
+    "track": "I Loved You",
+    "artist": "DAY6",
+    "uri": "spotify:track:1o1Nx8wVtBkcpNCC3R5PII",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733d6d6ca7f761c2df58cb6760"
+  },
+  {
     "timestamp": 1769153872669,
     "user": "poemstars🌼🌟",
     "userId": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
@@ -79,14 +88,5 @@
     "artist": "DAY6",
     "uri": "spotify:track:3mdbuqdxMNoVf2GPZrUcEF",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a220092391684fd27f02affb"
-  },
-  {
-    "timestamp": 1769072949844,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Sempurna",
-    "artist": "Andra & The Backbone",
-    "uri": "spotify:track:2UgCs0i0rNHUH2jKE5NZHE",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730df7dec70511dd4f2e69dc34"
   }
 ]
