@@ -1,5 +1,14 @@
 [
   {
+    "timestamp": 1769148995073,
+    "user": "poemstars🌼🌟",
+    "userId": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
+    "track": "Sweet Chaos",
+    "artist": "DAY6",
+    "uri": "spotify:track:52Dx3quiQ9ZmtCg2Y2jqkm",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a98b928b07177a617b156c88"
+  },
+  {
     "timestamp": 1769079846215,
     "user": "poemstars🌼🌟",
     "userId": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
@@ -79,14 +88,5 @@
     "artist": "Radja",
     "uri": "spotify:track:0XPlaOiWyJHMt7WqLfpxnD",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731d21be89f4f8c8068871d061"
-  },
-  {
-    "timestamp": 1769072177579,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Playboy",
-    "artist": "7Icons",
-    "uri": "spotify:track:0eXDcLlUaEKNNS41pZQEeX",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736b0b658d261e406f1dbe344d"
   }
 ]
