@@ -1,30 +1,3 @@
 {
-  "friends": [
-    {
-      "timestamp": 1769166053177,
-      "user": {
-        "uri": "spotify:user:dandyraka_",
-        "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=l6VNZFyoZ7kQ7kNvwF8KpUK&_nc_oc=Adkk-Kvn8Y7pj-2ODzmf5qQ17FHam8SPPLPqaBxhXlNa-dHgp6qXzapjZO9Xt0dBCRe4nVofokDccKZ-i-fsfTAt&_nc_zt=24&_nc_ht=scontent-cdg4-3.xx&edm=AP4hL3IEAAAA&_nc_gid=MUMP-s_n05J0CkEqZElUZg&_nc_tpa=Q5bMBQHVKTzTyQtZMhTgyMWOvTpdACrLK1_TxXcCIX6v9vIJ0feq8JESL2Zru-A_ntJJSpKfx8t8&oh=00_AfqNikRFAyGYUfmCFGWPJpRIyMw4KoOMBJcqWQOOOwCdvQ&oe=6978CDA8"
-      },
-      "track": {
-        "uri": "spotify:track:4MDKRISLEUxCCeacrORrjg",
-        "name": "Begini Begitu",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cb461fd4c7ad4d9e5f8165cd",
-        "album": {
-          "uri": "spotify:album:6YnqVj4550E7YVUNJ9bZCu",
-          "name": "3=1"
-        },
-        "artist": {
-          "uri": "spotify:artist:03RBEZSKk4XMlAgrY3Ps7P",
-          "name": "Numata"
-        },
-        "context": {
-          "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
-          "name": "playlist",
-          "index": 0
-        }
-      }
-    }
-  ]
+  "friends": []
 }

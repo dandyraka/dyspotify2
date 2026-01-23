@@ -1,5 +1,41 @@
 [
   {
+    "timestamp": 1769166920025,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Juminten",
+    "artist": "Kangen Band",
+    "uri": "spotify:track:57xPfpeNDGkaaQC8WRKGYh",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273870d7ae2b96d7741cc5dc416"
+  },
+  {
+    "timestamp": 1769166677211,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Arjuna",
+    "artist": "Dewa",
+    "uri": "spotify:track:7jOFzcYm74WaqS79ApFGhN",
+    "imageUrl": "https://i.scdn.co/image/4998f20672f6783f7448f1266973a9e0595d5ea5"
+  },
+  {
+    "timestamp": 1769166368879,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Kangen",
+    "artist": "Dewa 19",
+    "uri": "spotify:track:3ZyMRe0jlSqffPBMeHUZFX",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27369222d0908ecf5d22cc9d960"
+  },
+  {
+    "timestamp": 1769166076761,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Begini Begitu",
+    "artist": "Numata",
+    "uri": "spotify:track:4MDKRISLEUxCCeacrORrjg",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cb461fd4c7ad4d9e5f8165cd"
+  },
+  {
     "timestamp": 1769165879136,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -52,41 +88,5 @@
     "artist": "D'Bagindas",
     "uri": "spotify:track:0BPItAKRhNbMFrR0ur67oW",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e8d5e910655cf2c0df7cd235"
-  },
-  {
-    "timestamp": 1769164051609,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Saat Kau Pergi",
-    "artist": "Vagetoz",
-    "uri": "spotify:track:3XDeZtsBI8sEF7uW1u6Rgb",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738cd8fa6a203613665358ee94"
-  },
-  {
-    "timestamp": 1769163836375,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Jadikan Aku Yang Kedua",
-    "artist": "Astrid",
-    "uri": "spotify:track:1nKxixMaGmgOcAgKxazYyc",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d5d1175ef2af87ef7fa3bcf6"
-  },
-  {
-    "timestamp": 1769163589411,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Kamu",
-    "artist": "Coboy Junior",
-    "uri": "spotify:track:4kMQVpke2L9tlWOINuAo07",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27312acd55333b9c705f0ab818c"
-  },
-  {
-    "timestamp": 1769163364888,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Serpihan Hati",
-    "artist": "Utopia",
-    "uri": "spotify:track:4b1kSgvZk3yfOkYrRD8utB",
-    "imageUrl": "https://i.scdn.co/image/f8872e16111c0d0fdf5bce085d8e0bd3858c075c"
   }
 ]
