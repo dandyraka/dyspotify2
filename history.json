@@ -1,5 +1,14 @@
 [
   {
+    "timestamp": 1769253305618,
+    "user": "poemstars🌼🌟",
+    "userId": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
+    "track": "Rescue Me",
+    "artist": "DAY6",
+    "uri": "spotify:track:3oA2fRssqcOd34JDAzA1qz",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a98b928b07177a617b156c88"
+  },
+  {
     "timestamp": 1769253098679,
     "user": "poemstars🌼🌟",
     "userId": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
@@ -79,14 +88,5 @@
     "artist": "Kangen Band",
     "uri": "spotify:track:57xPfpeNDGkaaQC8WRKGYh",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273870d7ae2b96d7741cc5dc416"
-  },
-  {
-    "timestamp": 1769166677211,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Arjuna",
-    "artist": "Dewa",
-    "uri": "spotify:track:7jOFzcYm74WaqS79ApFGhN",
-    "imageUrl": "https://i.scdn.co/image/4998f20672f6783f7448f1266973a9e0595d5ea5"
   }
 ]
