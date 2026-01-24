@@ -1,27 +1,27 @@
 {
   "friends": [
     {
-      "timestamp": 1769252093320,
+      "timestamp": 1769253244951,
       "user": {
         "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
         "name": "poemstars🌼🌟",
         "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
       },
       "track": {
-        "uri": "spotify:track:3rB5fYZr3nSD2tBAvfYPb2",
-        "name": "Cinematic Love",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27367faccb6c9cece939dc675c1",
+        "uri": "spotify:track:3oA2fRssqcOd34JDAzA1qz",
+        "name": "Rescue Me",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a98b928b07177a617b156c88",
         "album": {
-          "uri": "spotify:album:5fbA8bYGGb7m5h2dQfR7RQ",
-          "name": "Cinematic Love"
+          "uri": "spotify:album:3k0QCw6Cpvq6hIEXUf6qAr",
+          "name": "The Book of Us : Entropy"
         },
         "artist": {
-          "uri": "spotify:artist:5DnjOSzLCfn4hDbLECq8pt",
-          "name": "Yang Da Il, DOKYEOM"
+          "uri": "spotify:artist:5TnQc2N1iKlFjYD7CPGvFc",
+          "name": "DAY6"
         },
         "context": {
-          "uri": null,
-          "name": null,
+          "uri": "spotify:album:3k0QCw6Cpvq6hIEXUf6qAr",
+          "name": "album",
           "index": 0
         }
       }
