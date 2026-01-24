@@ -1,3 +1,30 @@
 {
-  "friends": []
+  "friends": [
+    {
+      "timestamp": 1769252093320,
+      "user": {
+        "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
+        "name": "poemstars🌼🌟",
+        "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
+      },
+      "track": {
+        "uri": "spotify:track:3rB5fYZr3nSD2tBAvfYPb2",
+        "name": "Cinematic Love",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27367faccb6c9cece939dc675c1",
+        "album": {
+          "uri": "spotify:album:5fbA8bYGGb7m5h2dQfR7RQ",
+          "name": "Cinematic Love"
+        },
+        "artist": {
+          "uri": "spotify:artist:5DnjOSzLCfn4hDbLECq8pt",
+          "name": "Yang Da Il, DOKYEOM"
+        },
+        "context": {
+          "uri": null,
+          "name": null,
+          "index": 0
+        }
+      }
+    }
+  ]
 }
