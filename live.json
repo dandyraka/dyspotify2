@@ -1,3 +1,30 @@
 {
-  "friends": []
+  "friends": [
+    {
+      "timestamp": 1769344475830,
+      "user": {
+        "uri": "spotify:user:dandyraka_",
+        "name": "Dandy 🫵🏻😁",
+        "imageUrl": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=RTnxhR87w98Q7kNvwHrn-jy&_nc_oc=AdlBJxkZwGLnDvdaqWLloG0Ru1olDCQa7OpvhK_jlAv1uB-1ZLXphcbLHG6_5E303FVRV1u_b4H3idVIA2Ep92QC&_nc_zt=24&_nc_ht=scontent-cdg4-3.xx&edm=AP4hL3IEAAAA&_nc_gid=lsIzsJjKHnZcwvwVSSrmoQ&_nc_tpa=Q5bMBQHFJFR2owBII0AkB2NlIXlAgejvkWv_HIVPPiz4D8IRrG-YLQwbrk9AjCcXSKeo6yYdB4Vm&oh=00_AfpnzZ1RK-q4ytG_K0Bc4br1k9VuYdDU5P-BY9xJAcS3zA&oe=697BA8E8"
+      },
+      "track": {
+        "uri": "spotify:track:3XH8xjp75m3QVstVfX6orj",
+        "name": "Pelan Pelan Saja",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731b7a0350ff2314ca558fad44",
+        "album": {
+          "uri": "spotify:album:7sCAI9ZywmCxWa03pMyXWy",
+          "name": "Energi (Repackaged)"
+        },
+        "artist": {
+          "uri": "spotify:artist:6oMp2cGzP3Bw86ssV7hjyu",
+          "name": "Kotak"
+        },
+        "context": {
+          "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
+          "name": "playlist",
+          "index": 0
+        }
+      }
+    }
+  ]
 }
