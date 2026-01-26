@@ -1,5 +1,14 @@
 [
   {
+    "timestamp": 1769424189818,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Maafkan",
+    "artist": "D'Bagindas",
+    "uri": "spotify:track:2zZZQM87GupPuk78UofvFr",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b5c19d4252c41b9dec17664b"
+  },
+  {
     "timestamp": 1769401873365,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -79,14 +88,5 @@
     "artist": "Dewa 19",
     "uri": "spotify:track:1kPFCVSVO0fibo8nV4njaF",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27369222d0908ecf5d22cc9d960"
-  },
-  {
-    "timestamp": 1769399463256,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Selalu Menunggumu",
-    "artist": "Five Minutes",
-    "uri": "spotify:track:67HBWKVl0RWVe0A8LHmZxR",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734b1f3c0a44c80b356e0d255a"
   }
 ]
