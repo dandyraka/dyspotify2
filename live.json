@@ -1,26 +1,26 @@
 {
   "friends": [
     {
-      "timestamp": 1769509956629,
+      "timestamp": 1769511494186,
       "user": {
         "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
         "name": "poemstars🌼🌟",
         "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
       },
       "track": {
-        "uri": "spotify:track:70LcF31zb1H0PyJoS1Sx1r",
-        "name": "Creep",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ec548c00d3ac2f10be73366d",
+        "uri": "spotify:track:2gdt70w8DOCWGq1HdkgSUd",
+        "name": "Crazy for This Girl",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ce1d5ee4e3a387fa0fc0c5dc",
         "album": {
-          "uri": "spotify:album:3gBVdu4a1MMJVMy6vwPEb8",
-          "name": "Pablo Honey"
+          "uri": "spotify:album:6cO4nqzrxmHLcLF032TXFy",
+          "name": "evan and jaron"
         },
         "artist": {
-          "uri": "spotify:artist:4Z8W4fKeB5YxbusRsdQVPb",
-          "name": "Radiohead"
+          "uri": "spotify:artist:1xeZcY93inQY14LWwnxd5G",
+          "name": "Evan And Jaron"
         },
         "context": {
-          "uri": "spotify:playlist:1E8zgxNNpkBLHtzSr1eZKd",
+          "uri": "spotify:playlist:37i9dQZF1DX9vEn8vBG5Y1",
           "name": "playlist",
           "index": 0
         }
