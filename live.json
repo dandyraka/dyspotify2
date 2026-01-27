@@ -1,3 +1,30 @@
 {
-  "friends": []
+  "friends": [
+    {
+      "timestamp": 1769509956629,
+      "user": {
+        "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
+        "name": "poemstars🌼🌟",
+        "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
+      },
+      "track": {
+        "uri": "spotify:track:70LcF31zb1H0PyJoS1Sx1r",
+        "name": "Creep",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ec548c00d3ac2f10be73366d",
+        "album": {
+          "uri": "spotify:album:3gBVdu4a1MMJVMy6vwPEb8",
+          "name": "Pablo Honey"
+        },
+        "artist": {
+          "uri": "spotify:artist:4Z8W4fKeB5YxbusRsdQVPb",
+          "name": "Radiohead"
+        },
+        "context": {
+          "uri": "spotify:playlist:1E8zgxNNpkBLHtzSr1eZKd",
+          "name": "playlist",
+          "index": 0
+        }
+      }
+    }
+  ]
 }
