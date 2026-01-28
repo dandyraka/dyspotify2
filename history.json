@@ -1,5 +1,14 @@
 [
   {
+    "timestamp": 1769585421682,
+    "user": "poemstars🌼🌟",
+    "userId": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
+    "track": "Gunslinger",
+    "artist": "Avenged Sevenfold",
+    "uri": "spotify:track:7MOQrtXMNImAq5TrPZzC0w",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27333c52ca8309741c6999ca742"
+  },
+  {
     "timestamp": 1769584041475,
     "user": "poemstars🌼🌟",
     "userId": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
@@ -79,14 +88,5 @@
     "artist": "Daughtry",
     "uri": "spotify:track:7mXmxXLAnsvXKt4Q37KoMI",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730b9c38fede4b4c41f419cc8e"
-  },
-  {
-    "timestamp": 1769511229394,
-    "user": "poemstars🌼🌟",
-    "userId": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
-    "track": "Wherever You Will Go",
-    "artist": "The Calling",
-    "uri": "spotify:track:5QpaGzWp0hwB5faV8dkbAz",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e4cd26d38c6f0661a363bc65"
   }
 ]

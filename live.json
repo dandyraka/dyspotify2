@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1769584507961,
+      "timestamp": 1769586113719,
       "user": {
         "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
         "name": "poemstars🌼🌟",
         "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
       },
       "track": {
-        "uri": "spotify:track:4CWhc9FaMMfBTt4ANjfbOf",
-        "name": "No More Sorrow",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736e996745f2c7b8036abef213",
+        "uri": "spotify:track:1BLfQ6dPXmuDrFmbdfW7Jl",
+        "name": "A Little Piece of Heaven",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27333c52ca8309741c6999ca742",
         "album": {
-          "uri": "spotify:album:2tlTBLz2w52rpGCLBGyGw6",
-          "name": "Minutes to Midnight"
+          "uri": "spotify:album:3Id3VUk9jSKBD1guNo1buF",
+          "name": "Avenged Sevenfold"
         },
         "artist": {
-          "uri": "spotify:artist:6XyY86QOPPrYVGvF9ch6wz",
-          "name": "Linkin Park"
+          "uri": "spotify:artist:0nmQIMXWTXfhgOBdNzhGOs",
+          "name": "Avenged Sevenfold"
         },
         "context": {
           "uri": null,
