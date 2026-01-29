@@ -1,92 +1,92 @@
 [
   {
-    "timestamp": 1769684455206,
+    "timestamp": 1769686861236,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
-    "track": "The Lazy Song",
+    "track": "Never Say Never",
+    "artist": "Justin Bieber, Jaden",
+    "uri": "spotify:track:5GYbkDveRD2I8M5ZJ14hWn",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27349130b16d4190db1d6822e59"
+  },
+  {
+    "timestamp": 1769686638571,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Rude",
+    "artist": "MAGIC!",
+    "uri": "spotify:track:6RtPijgfPKROxEzTHNRiDp",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b1c2609c8b258ad621d4057b"
+  },
+  {
+    "timestamp": 1769686418540,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Billionaire (feat. Bruno Mars)",
+    "artist": "Travie McCoy, Bruno Mars",
+    "uri": "spotify:track:2M9ULmQwTaTGmAdXaXpfz5",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27337ce3dd20c2318e13c6608ed"
+  },
+  {
+    "timestamp": 1769686212704,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Somebody To Love",
+    "artist": "Justin Bieber",
+    "uri": "spotify:track:3rLIv187BhjyweFe89SgLn",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273629dc9e2e3bc20bbd7d92e4a"
+  },
+  {
+    "timestamp": 1769685996520,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Closer",
+    "artist": "The Chainsmokers, Halsey",
+    "uri": "spotify:track:7BKLCZ1jbUBVqRi2FVlTVw",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273495ce6da9aeb159e94eaa453"
+  },
+  {
+    "timestamp": 1769685756743,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Eenie Meenie",
+    "artist": "Sean Kingston, Justin Bieber",
+    "uri": "spotify:track:4vVTI94F9uJ8lHNDWKv0i2",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734dea4c1cdf30c359dbaec318"
+  },
+  {
+    "timestamp": 1769685559493,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "One Time",
+    "artist": "Justin Bieber",
+    "uri": "spotify:track:6eDApnV9Jdb1nYahOlbbUh",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737c3bb9f74a98f60bdda6c9a7"
+  },
+  {
+    "timestamp": 1769685348871,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground)",
+    "artist": "Shakira, Freshlyground",
+    "uri": "spotify:track:6bNB5gxFX6Q87DbQWb8OWZ",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d6da56e427f7f87f0e544c6f"
+  },
+  {
+    "timestamp": 1769685151023,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Just the Way You Are",
     "artist": "Bruno Mars",
-    "uri": "spotify:track:386RUes7n1uM1yfzgeUuwp",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f60070dce96a2c1b70cf6ff0"
+    "uri": "spotify:track:7BqBn9nzAq8spo5e7cZ0dJ",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f6b55ca93bd33211227b502b"
   },
   {
-    "timestamp": 1769684270524,
+    "timestamp": 1769684935244,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
-    "track": "Love Me",
-    "artist": "Justin Bieber",
-    "uri": "spotify:track:0yIywEquxORnu1dR0WYsdN",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737c3bb9f74a98f60bdda6c9a7"
-  },
-  {
-    "timestamp": 1769684083900,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Hey, Soul Sister",
-    "artist": "Train",
-    "uri": "spotify:track:4HlFJV71xXKIGcU3kRyttv",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736ff8bc258e3ebc835ffe14ca"
-  },
-  {
-    "timestamp": 1769683872168,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Pompeii",
-    "artist": "Bastille",
-    "uri": "spotify:track:4Ub8UsjWuewQrPhuepfVpd",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273faee7306ec2f36aeccc4bc98"
-  },
-  {
-    "timestamp": 1769683662995,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Club Can't Handle Me (feat. David Guetta)",
-    "artist": "Flo Rida, David Guetta",
-    "uri": "spotify:track:6ebkx7Q5tTxrCxKq4GYj0Y",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731dec5cdebb0ea9b3df5fd0ca"
-  },
-  {
-    "timestamp": 1769683433482,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Favorite Girl",
-    "artist": "Justin Bieber",
-    "uri": "spotify:track:4nTjkWK590oBDcnIxTr1mI",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737c3bb9f74a98f60bdda6c9a7"
-  },
-  {
-    "timestamp": 1769683181778,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Payphone",
-    "artist": "Maroon 5, Wiz Khalifa",
-    "uri": "spotify:track:1XGmzt0PVuFgQYYnV2It7A",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fc8633e22a7dba6aab817bff"
-  },
-  {
-    "timestamp": 1769682955514,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Beauty And A Beat",
-    "artist": "Justin Bieber, Nicki Minaj",
-    "uri": "spotify:track:6QFCMUUq1T2Vf5sFUXcuQ7",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f1d02a6cec967f8b6b78f76e"
-  },
-  {
-    "timestamp": 1769682732391,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Love The Way You Lie",
-    "artist": "Eminem, Rihanna",
-    "uri": "spotify:track:15JINEqzVMv3SvJTAXAKED",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c08d5fa5c0f1a834acef5100"
-  },
-  {
-    "timestamp": 1769682474184,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Moves Like Jagger - Studio Recording From \"The Voice\" Performance",
-    "artist": "Maroon 5, Christina Aguilera",
-    "uri": "spotify:track:3TahdwXB4gJRWVAI00Ejqa",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d86187b97c58d3b54d584368"
+    "track": "Mirrors",
+    "artist": "Justin Timberlake",
+    "uri": "spotify:track:4rHZZAmHpZrA3iH5zx8frV",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27356d5fb0cc9cec001d8ae0c8c"
   }
 ]

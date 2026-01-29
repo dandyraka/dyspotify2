@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1769684607433,
+      "timestamp": 1769686953943,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=XBlSLLlD6H4Q7kNvwHpLfwC&_nc_oc=AdngiodeYDcb5WYneLpoOeXrO7JG4yQXJk6kMK6kjXWey3DDgAsBL2pdKyUlebblrCyAYeH8Wr4Q4XW_2_6t1YpD&_nc_zt=24&_nc_ht=scontent-fra3-2.xx&edm=AP4hL3IEAAAA&_nc_gid=RZGCgjQONRFrDqTSVdN9lA&_nc_tpa=Q5bMBQGjl5TNqO-Rfrcwr44An1hpC_E9Z2XnaXh78otZDhvewU5QxAz35tWXOewAuqf2ocsEGQ6X&oh=00_Afo4gf42h7j3GpfhFxbcaElhujMRU7TLQRyh9VeOkC-kwg&oe=6980EEE8"
+        "imageUrl": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=XBlSLLlD6H4Q7kNvwFdCbpL&_nc_oc=AdkUpLA0a7KbcQ0bzCv8adNullHUrZ6gCJrKaNiXT8q_5Qtpa6taLrVHyUnQHfiOfXuQdz7uboL3SxTc1_kY5j0M&_nc_zt=24&_nc_ht=scontent-fra3-2.xx&edm=AP4hL3IEAAAA&_nc_gid=wYYBC9Anl_lXspZzL4DyzA&_nc_tpa=Q5bMBQHV3NXePVgkp0cPpmWetaOCjaYz6d-4k-I8SXI04rcW5i3TavjRvm_DscGuHo4Kr6zMZwQ9&oh=00_AfqJBRPiroCfKK2pZXmZrb3CCcjsq6wKNO3-pOkRZi5YzQ&oe=6980EEE8"
       },
       "track": {
-        "uri": "spotify:track:4rHZZAmHpZrA3iH5zx8frV",
-        "name": "Mirrors",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27356d5fb0cc9cec001d8ae0c8c",
+        "uri": "spotify:track:1lOe9qE0vR9zwWQAOk6CoO",
+        "name": "Ransom",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bd69bbde4aeee723d6d08058",
         "album": {
-          "uri": "spotify:album:0O82niJ0NpcptYRxogeEZu",
-          "name": "The 20/20 Experience (Deluxe Version)"
+          "uri": "spotify:album:1I6FpscJIfwf4T56VxGVsB",
+          "name": "We Love You Tecca"
         },
         "artist": {
-          "uri": "spotify:artist:31TPClRtHm23RisEBtV3X7",
-          "name": "Justin Timberlake"
+          "uri": "spotify:artist:4Ga1P7PMIsmqEZqhYZQgDo",
+          "name": "Lil Tecca"
         },
         "context": {
           "uri": "spotify:playlist:0QEo3ruU2D2yDwBoQBm3M8",
