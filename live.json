@@ -1,3 +1,30 @@
 {
-  "friends": []
+  "friends": [
+    {
+      "timestamp": 1769669101303,
+      "user": {
+        "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
+        "name": "poemstars🌼🌟",
+        "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
+      },
+      "track": {
+        "uri": "spotify:track:3EQ3PxdbrwVSRGrUjTVptK",
+        "name": "Tak Lekang Oleh Waktu",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273899fb8089df3acdc70fc2459",
+        "album": {
+          "uri": "spotify:album:0SGKVrJINkmC5vhhFtuw1d",
+          "name": "Tak Lekang Oleh Waktu"
+        },
+        "artist": {
+          "uri": "spotify:artist:73OtDyghUEJ9QfGtu1pkaJ",
+          "name": "Kerispatih"
+        },
+        "context": {
+          "uri": null,
+          "name": null,
+          "index": 0
+        }
+      }
+    }
+  ]
 }
