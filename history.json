@@ -1,5 +1,14 @@
 [
   {
+    "timestamp": 1769669325664,
+    "user": "poemstars🌼🌟",
+    "userId": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
+    "track": "Tak Lekang Oleh Waktu",
+    "artist": "Kerispatih",
+    "uri": "spotify:track:3EQ3PxdbrwVSRGrUjTVptK",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273899fb8089df3acdc70fc2459"
+  },
+  {
     "timestamp": 1769669055503,
     "user": "poemstars🌼🌟",
     "userId": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
@@ -79,14 +88,5 @@
     "artist": "Avenged Sevenfold",
     "uri": "spotify:track:7MOQrtXMNImAq5TrPZzC0w",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27333c52ca8309741c6999ca742"
-  },
-  {
-    "timestamp": 1769584041475,
-    "user": "poemstars🌼🌟",
-    "userId": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
-    "track": "A Thousand Faces",
-    "artist": "Creed",
-    "uri": "spotify:track:5NnYhHDo5BxDkAXEerswYD",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273024d18f1943e08dbf91208d9"
   }
 ]
