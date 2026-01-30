@@ -1,26 +1,26 @@
 {
   "friends": [
     {
-      "timestamp": 1769788125090,
+      "timestamp": 1769790044579,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
         "imageUrl": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=S8xkZvpjK28Q7kNvwGgZKXg&_nc_oc=AdlxNRHG2VzY17BpD_2Ka0VZwFYcyPI-Bxd-tMi9wDL_WhIAgx_HYbgxXiJcs-zz2_HCNOsHwT68jVLXsixalGOc&_nc_zt=24&_nc_ht=scontent-ord5-1.xx&edm=AP4hL3IEAAAA&_nc_gid=0iSfsVCbGlf5jgMjZo2GQA&_nc_tpa=Q5bMBQEpk9njkLxUSQcQaP9Z5ezZdM44PJDL4mYNFcSC_F3WZ7m8VanuGHkZcnpjRpFDjAGaP-Iw&oh=00_AfoFM-_Hf8Rn5RV8T0APwXKzDTOLTpLcHj4iXxNGGse7yQ&oe=69820828"
       },
       "track": {
-        "uri": "spotify:track:6epn3r7S14KUqlReYr77hA",
-        "name": "Baby",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273629dc9e2e3bc20bbd7d92e4a",
+        "uri": "spotify:track:63tUGwq0yrWE6FVemfPps9",
+        "name": "Cinta Ini Membunuhku",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e6f33fc976a50b4ea10a49f9",
         "album": {
-          "uri": "spotify:album:3BmcYMh0KYsimWL6p2gPa9",
-          "name": "My World 2.0"
+          "uri": "spotify:album:6dY3qq7sAl3T7tNy5ZdGd8",
+          "name": "Perubahan"
         },
         "artist": {
-          "uri": "spotify:artist:1uNFoZAHBGtllmzznpCI3s",
-          "name": "Justin Bieber, Ludacris"
+          "uri": "spotify:artist:1hioeMAsVwJ3bvcb9lxBpB",
+          "name": "D’MASIV"
         },
         "context": {
-          "uri": "spotify:playlist:0QEo3ruU2D2yDwBoQBm3M8",
+          "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
           "name": "playlist",
           "index": 0
         }
