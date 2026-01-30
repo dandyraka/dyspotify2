@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1769783541477,
+      "timestamp": 1769785509462,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
         "imageUrl": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=S8xkZvpjK28Q7kNvwGgZKXg&_nc_oc=AdlxNRHG2VzY17BpD_2Ka0VZwFYcyPI-Bxd-tMi9wDL_WhIAgx_HYbgxXiJcs-zz2_HCNOsHwT68jVLXsixalGOc&_nc_zt=24&_nc_ht=scontent-ord5-1.xx&edm=AP4hL3IEAAAA&_nc_gid=0iSfsVCbGlf5jgMjZo2GQA&_nc_tpa=Q5bMBQEpk9njkLxUSQcQaP9Z5ezZdM44PJDL4mYNFcSC_F3WZ7m8VanuGHkZcnpjRpFDjAGaP-Iw&oh=00_AfoFM-_Hf8Rn5RV8T0APwXKzDTOLTpLcHj4iXxNGGse7yQ&oe=69820828"
       },
       "track": {
-        "uri": "spotify:track:7x5xYW5W42OGPAdHUyyguy",
-        "name": "Locked Away (feat. Adam Levine)",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27374b157379e7686df3d0850a4",
+        "uri": "spotify:track:6RtPijgfPKROxEzTHNRiDp",
+        "name": "Rude",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b1c2609c8b258ad621d4057b",
         "album": {
-          "uri": "spotify:album:4AUTMNSP56xicSznzKgzjB",
-          "name": "What Dreams Are Made Of"
+          "uri": "spotify:album:0RZ4Ct4vegYBmL9g88TBNi",
+          "name": "Don't Kill the Magic"
         },
         "artist": {
-          "uri": "spotify:artist:4TH4BHy0LdBi3dpBW4P2UX",
-          "name": "R. City, Adam Levine"
+          "uri": "spotify:artist:0DxeaLnv6SyYk2DOqkLO8c",
+          "name": "MAGIC!"
         },
         "context": {
           "uri": "spotify:playlist:0QEo3ruU2D2yDwBoQBm3M8",
