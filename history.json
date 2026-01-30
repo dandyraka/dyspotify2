@@ -1,5 +1,14 @@
 [
   {
+    "timestamp": 1769766707313,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Moves Like Jagger - Studio Recording From \"The Voice\" Performance",
+    "artist": "Maroon 5, Christina Aguilera",
+    "uri": "spotify:track:3TahdwXB4gJRWVAI00Ejqa",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d86187b97c58d3b54d584368"
+  },
+  {
     "timestamp": 1769758528968,
     "user": "poemstars🌼🌟",
     "userId": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
@@ -79,14 +88,5 @@
     "artist": "R. City, Adam Levine",
     "uri": "spotify:track:7x5xYW5W42OGPAdHUyyguy",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27374b157379e7686df3d0850a4"
-  },
-  {
-    "timestamp": 1769688204447,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Stereo Hearts (feat. Adam Levine)",
-    "artist": "Gym Class Heroes, Adam Levine",
-    "uri": "spotify:track:4ywvnllm7kpaXDsa1VNNpY",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27331afd4ae9536902070ef660b"
   }
 ]

@@ -1,3 +1,30 @@
 {
-  "friends": []
+  "friends": [
+    {
+      "timestamp": 1769766771460,
+      "user": {
+        "uri": "spotify:user:dandyraka_",
+        "name": "Dandy 🫵🏻😁",
+        "imageUrl": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=S8xkZvpjK28Q7kNvwGgZKXg&_nc_oc=AdlxNRHG2VzY17BpD_2Ka0VZwFYcyPI-Bxd-tMi9wDL_WhIAgx_HYbgxXiJcs-zz2_HCNOsHwT68jVLXsixalGOc&_nc_zt=24&_nc_ht=scontent-ord5-1.xx&edm=AP4hL3IEAAAA&_nc_gid=0iSfsVCbGlf5jgMjZo2GQA&_nc_tpa=Q5bMBQEpk9njkLxUSQcQaP9Z5ezZdM44PJDL4mYNFcSC_F3WZ7m8VanuGHkZcnpjRpFDjAGaP-Iw&oh=00_AfoFM-_Hf8Rn5RV8T0APwXKzDTOLTpLcHj4iXxNGGse7yQ&oe=69820828"
+      },
+      "track": {
+        "uri": "spotify:track:6bNB5gxFX6Q87DbQWb8OWZ",
+        "name": "Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground)",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d6da56e427f7f87f0e544c6f",
+        "album": {
+          "uri": "spotify:album:0CKqyf7ptIwn4EtOV8nddm",
+          "name": "Listen Up! The Official 2010 FIFA World Cup Album"
+        },
+        "artist": {
+          "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp",
+          "name": "Shakira, Freshlyground"
+        },
+        "context": {
+          "uri": "spotify:playlist:0QEo3ruU2D2yDwBoQBm3M8",
+          "name": "playlist",
+          "index": 0
+        }
+      }
+    }
+  ]
 }
