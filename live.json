@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1769792700139,
+      "timestamp": 1769795321811,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
         "imageUrl": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=S8xkZvpjK28Q7kNvwGgZKXg&_nc_oc=AdlxNRHG2VzY17BpD_2Ka0VZwFYcyPI-Bxd-tMi9wDL_WhIAgx_HYbgxXiJcs-zz2_HCNOsHwT68jVLXsixalGOc&_nc_zt=24&_nc_ht=scontent-ord5-1.xx&edm=AP4hL3IEAAAA&_nc_gid=0iSfsVCbGlf5jgMjZo2GQA&_nc_tpa=Q5bMBQEpk9njkLxUSQcQaP9Z5ezZdM44PJDL4mYNFcSC_F3WZ7m8VanuGHkZcnpjRpFDjAGaP-Iw&oh=00_AfoFM-_Hf8Rn5RV8T0APwXKzDTOLTpLcHj4iXxNGGse7yQ&oe=69820828"
       },
       "track": {
-        "uri": "spotify:track:3CdW4rUSzzRis0lgSskErL",
-        "name": "Dimana Hatimu",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27307bd0c96ae5941423f29ca3e",
+        "uri": "spotify:track:6MwIBSBiAMGomp4I80Xkgw",
+        "name": "Cinta 'Kan Membawamu Kembali",
+        "imageUrl": "https://i.scdn.co/image/f59c02125f70dbce2385090ddde01625c7cfb5c1",
         "album": {
-          "uri": "spotify:album:5td1OWGv0MVFiR6eESxmrs",
-          "name": "Dimana Hatimu"
+          "uri": "spotify:album:0QtVlnrFMVFDTFg1NYtDOT",
+          "name": "Terbaik Terbaik"
         },
         "artist": {
-          "uri": "spotify:artist:7tvLVH9DBiCZxcvyXfcWm7",
-          "name": "Papinka"
+          "uri": "spotify:artist:48bKH1ugFBhERC1rdojP9d",
+          "name": "Dewa 19"
         },
         "context": {
           "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
