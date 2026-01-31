@@ -1,26 +1,26 @@
 {
   "friends": [
     {
-      "timestamp": 1769888671736,
+      "timestamp": 1769889273795,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=S8xkZvpjK28Q7kNvwGtbjdH&_nc_oc=AdlfaZ-_kpN6QMLQxDudrSv519QtsPE2vyL3lfAm-Bsp7QHWSFU3g7lxpX9bYvqYZdxWHKw011slw-Lhgf8psW8u&_nc_zt=24&_nc_ht=scontent-fra3-2.xx&edm=AP4hL3IEAAAA&_nc_gid=RmFUY3fd4ELiFElDf91hkg&_nc_tpa=Q5bMBQE8UA6VAdAtvAkihk_orcmf-yYnkppXJHkyRVMbJwb24fjiCD0UZYfcWOBajR9NIta9Mt0x&oh=00_AfuPtVjA_C0d0fJ2RLsK0Apqfqg_kuuwMimG2BtNtZy8jA&oe=69840268"
+        "imageUrl": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=S8xkZvpjK28Q7kNvwF5l04J&_nc_oc=AdkhdEIGKn7Lw6eTm98j0nPOoZQHiTMQnHL_DjHTHaLqszcTu76br6ZED9LYGBXWjBU-SoHIR7G-E-gG3UqTd4fg&_nc_zt=24&_nc_ht=scontent-fra3-2.xx&edm=AP4hL3IEAAAA&_nc_gid=hBNSNNlU19YNZrh0eiGhMw&_nc_tpa=Q5bMBQG2GSvSsecE4e-3mdXOIm357VeoPdLpdejE2M2tJLNaJW2vJWZwJ62tMY3qJgtsDkcvoWTQ&oh=00_Aftyg--uqvXDQ1R963IASfcGg018YYpYhi4TUV7AvnALIA&oe=698391E8"
       },
       "track": {
-        "uri": "spotify:track:7x5xYW5W42OGPAdHUyyguy",
-        "name": "Locked Away (feat. Adam Levine)",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27374b157379e7686df3d0850a4",
+        "uri": "spotify:track:6KhxYrAuZAQlvVQRQBo4zA",
+        "name": "Gereja Tua",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738b9e6192c42ae20942bd4c9d",
         "album": {
-          "uri": "spotify:album:4AUTMNSP56xicSznzKgzjB",
-          "name": "What Dreams Are Made Of"
+          "uri": "spotify:album:5iC7a1X8UOMc3Yem6WzwtI",
+          "name": "35 Tahun Album Special Platinum Panbers"
         },
         "artist": {
-          "uri": "spotify:artist:4TH4BHy0LdBi3dpBW4P2UX",
-          "name": "R. City, Adam Levine"
+          "uri": "spotify:artist:1cYy6SfKdpAPH83wIR7GBb",
+          "name": "Panbers"
         },
         "context": {
-          "uri": "spotify:playlist:0QEo3ruU2D2yDwBoQBm3M8",
+          "uri": "spotify:playlist:4cVKuwtxurQ2ixsY33amnZ",
           "name": "playlist",
           "index": 0
         }
