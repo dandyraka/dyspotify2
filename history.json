@@ -1,5 +1,14 @@
 [
   {
+    "timestamp": 1769929102223,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Gelas Gelas Kaca",
+    "artist": "Nia Daniaty",
+    "uri": "spotify:track:5WZAZjBuAe30UHnDBsFvck",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736bf0426abc5295931d6b3ea5"
+  },
+  {
     "timestamp": 1769893104593,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -79,14 +88,5 @@
     "artist": "Koes Plus",
     "uri": "spotify:track:6wv3dlBYmRPXMTOQFfUgWG",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27335bb942b1ad86782cb1636fd"
-  },
-  {
-    "timestamp": 1769891249219,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Tak Ingin Sendiri",
-    "artist": "Dian Piesesha",
-    "uri": "spotify:track:1Wa3iHxe9yhjQbvl6Bb50t",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27304cf9cff696327efa80adb47"
   }
 ]
