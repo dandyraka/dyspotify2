@@ -1,5 +1,14 @@
 [
   {
+    "timestamp": 1769946720110,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Gelas Gelas Kaca",
+    "artist": "Nia Daniaty",
+    "uri": "spotify:track:5WZAZjBuAe30UHnDBsFvck",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736bf0426abc5295931d6b3ea5"
+  },
+  {
     "timestamp": 1769940865634,
     "user": "poemstars🌼🌟",
     "userId": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
@@ -79,14 +88,5 @@
     "artist": "Titiek Sandhora, Muchsin Alatas",
     "uri": "spotify:track:3nIhHIBy2biro5W7jREkFs",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ee928ee165d09c935f866005"
-  },
-  {
-    "timestamp": 1769892412695,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Usah Kau Harap",
-    "artist": "Betharia Sonatha",
-    "uri": "spotify:track:6EDDzeU8buyrgdUIZuQAOA",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735f093352a0d426192e45905c"
   }
 ]

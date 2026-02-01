@@ -1,3 +1,30 @@
 {
-  "friends": []
+  "friends": [
+    {
+      "timestamp": 1769946960368,
+      "user": {
+        "uri": "spotify:user:dandyraka_",
+        "name": "Dandy 🫵🏻😁",
+        "imageUrl": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=79bf43&_nc_ohc=S8xkZvpjK28Q7kNvwGBA1gc&_nc_oc=AdlZbv-34ZBuPxUa5lcRX2kL2Ktasw_oT8N293X9se5zMfjfx77IXbQC3txNLzINbLA239mFdcbHybMZzx--l7HG&_nc_zt=24&_nc_ht=scontent-fra3-2.xx&edm=AP4hL3IEAAAA&_nc_gid=b1zL7A6k9lt_qmNPwo9SOg&_nc_tpa=Q5bMBQH8XSnXvybNO75IY4ctfdfF9QYy2Aww5kOGPnxe7Du7JuzUZIJ05Pm6pkMJ4-Rpx3e0yFUq&oh=00_AfuJEMRnVp2Ex14FPUgiewWRArFtYf1jDn84b9v4ZphjlQ&oe=6984E368"
+      },
+      "track": {
+        "uri": "spotify:track:2UT7WarjHo6JokD7XcC9Vr",
+        "name": "Kisah Kasih Di Sekolah",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273da77be84cb9cff7797ee5b28",
+        "album": {
+          "uri": "spotify:album:1Xi35ANKUyeeXMUaFaKK28",
+          "name": "Kompilasi Lagu - Lagu Lawas Terpopuler, Vol. 1"
+        },
+        "artist": {
+          "uri": "spotify:artist:6S40FdKeiCsGHth3mulKl6",
+          "name": "Obbie Messakh"
+        },
+        "context": {
+          "uri": "spotify:playlist:4cVKuwtxurQ2ixsY33amnZ",
+          "name": "playlist",
+          "index": 0
+        }
+      }
+    }
+  ]
 }
