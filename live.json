@@ -1,3 +1,30 @@
 {
-  "friends": []
+  "friends": [
+    {
+      "timestamp": 1770197060255,
+      "user": {
+        "uri": "spotify:user:dandyraka_",
+        "name": "Dandy 🫵🏻😁",
+        "imageUrl": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=08baa4&_nc_ohc=Tth0nEYcSeIQ7kNvwF8iSlG&_nc_oc=AdkdNfkhUA8PmhHUYv2bVU7J-J_6C0FWN_l915mZd179P6YePRgjXaS203P-6Z1dz-x2oJpCcKbrFT1UYE6a2Nri&_nc_zt=24&_nc_ht=scontent-cdg4-3.xx&edm=AP4hL3IEAAAA&_nc_gid=aCtiCP9Ub2Hhskqs-AFuog&_nc_tpa=Q5bMBQHQRhUBDICY0BGrh6Q_9quD92ENE9QpbYRcC3FGLTuuteHzW6596rYmmGWwNjyL4P_bTbPC&oh=00_AfsrH4K2puYUtqRAFfYcGC9Dv5KCBUCIfT5Aa_C0SjD03w&oe=69889FA8"
+      },
+      "track": {
+        "uri": "spotify:track:6WUqv9T3RPTHHNKw0zVJuM",
+        "name": "Sahabat Sejati",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e8d4f0596d66ccbe5241918d",
+        "album": {
+          "uri": "spotify:album:4bPUtZdWsvU1eTPmJFuvwm",
+          "name": "Kisah Klasik Untuk Masa Depan"
+        },
+        "artist": {
+          "uri": "spotify:artist:6q87vizIEdEN4NvlR6mjfT",
+          "name": "Sheila On 7"
+        },
+        "context": {
+          "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
+          "name": "playlist",
+          "index": 0
+        }
+      }
+    }
+  ]
 }
