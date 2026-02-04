@@ -1,26 +1,52 @@
 {
   "friends": [
     {
-      "timestamp": 1770199612544,
+      "timestamp": 1770202661929,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
         "imageUrl": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=08baa4&_nc_ohc=Tth0nEYcSeIQ7kNvwF8iSlG&_nc_oc=AdkdNfkhUA8PmhHUYv2bVU7J-J_6C0FWN_l915mZd179P6YePRgjXaS203P-6Z1dz-x2oJpCcKbrFT1UYE6a2Nri&_nc_zt=24&_nc_ht=scontent-cdg4-3.xx&edm=AP4hL3IEAAAA&_nc_gid=aCtiCP9Ub2Hhskqs-AFuog&_nc_tpa=Q5bMBQHQRhUBDICY0BGrh6Q_9quD92ENE9QpbYRcC3FGLTuuteHzW6596rYmmGWwNjyL4P_bTbPC&oh=00_AfsrH4K2puYUtqRAFfYcGC9Dv5KCBUCIfT5Aa_C0SjD03w&oe=69889FA8"
       },
       "track": {
-        "uri": "spotify:track:2NyX5HZsdYzhAU1mq6KxVi",
-        "name": "Aku Percaya Kamu",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e6f33fc976a50b4ea10a49f9",
+        "uri": "spotify:track:7orcUlTZrNNph2bF3bihrG",
+        "name": "Kepompong",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dd59643b0abfebc905fb5ec3",
         "album": {
-          "uri": "spotify:album:6dY3qq7sAl3T7tNy5ZdGd8",
-          "name": "Perubahan"
+          "uri": "spotify:album:1XnMKW4MDd1oAnurHGuqBI",
+          "name": "8 Menit Lalu"
         },
         "artist": {
-          "uri": "spotify:artist:1hioeMAsVwJ3bvcb9lxBpB",
-          "name": "D’MASIV"
+          "uri": "spotify:artist:5u5fTfK2EBGx3PbEHIEiqd",
+          "name": "sind3ntosca"
         },
         "context": {
           "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
+          "name": "playlist",
+          "index": 0
+        }
+      }
+    },
+    {
+      "timestamp": 1770202662483,
+      "user": {
+        "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
+        "name": "poemstars🌼🌟",
+        "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
+      },
+      "track": {
+        "uri": "spotify:track:4TlvThZjOgBvswhK3Un7Qs",
+        "name": "인연 (금 나와라 뚝딱 아기도깨비)",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bf6f4235eae1ed7601dbc125",
+        "album": {
+          "uri": "spotify:album:6oMkEoJGlxW2lXfec1wwYY",
+          "name": "Mask Singer 70th (Live Version)"
+        },
+        "artist": {
+          "uri": "spotify:artist:7G1kUsPtQCdolV6CPwHmh2",
+          "name": "DOKYEOM"
+        },
+        "context": {
+          "uri": "spotify:playlist:5MbgBJcrmXICFfh7tuI5fy",
           "name": "playlist",
           "index": 0
         }
