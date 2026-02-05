@@ -1,5 +1,14 @@
 [
   {
+    "timestamp": 1770257965584,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Andai 'Ku Bukan Idola",
+    "artist": "JKT48",
+    "uri": "spotify:track:2Q6Lv9jgqt3YWZqrRcHG9C",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d96453e606852f7868e15963"
+  },
+  {
     "timestamp": 1770214808323,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -79,14 +88,5 @@
     "artist": "Ratu",
     "uri": "spotify:track:4jSyrbR6gVwoThpsR9uYeZ",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273590a08574756e4b72b54d8c9"
-  },
-  {
-    "timestamp": 1770212720259,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "#Eeeaa",
-    "artist": "Coboy Junior",
-    "uri": "spotify:track:7HMLzHU05zxsOXV71XFIak",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27312acd55333b9c705f0ab818c"
   }
 ]
