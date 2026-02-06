@@ -1,5 +1,14 @@
 [
   {
+    "timestamp": 1770344661260,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Lampu Merah",
+    "artist": "The Lantis",
+    "uri": "spotify:track:6E7DsxwI4eOcMHLYRUDCaw",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730cd335a903db6875ecdcc730"
+  },
+  {
     "timestamp": 1770257965584,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -79,14 +88,5 @@
     "artist": "Bondan Prakoso, Fade2Black",
     "uri": "spotify:track:0OjiV7FpVCrOIq53ZSH1EM",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d0ba0e1970aadbdc66003d5c"
-  },
-  {
-    "timestamp": 1770212985282,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Teman Tapi Mesra",
-    "artist": "Ratu",
-    "uri": "spotify:track:4jSyrbR6gVwoThpsR9uYeZ",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273590a08574756e4b72b54d8c9"
   }
 ]
