@@ -1,5 +1,14 @@
 [
   {
+    "timestamp": 1770444361040,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Lampu Merah",
+    "artist": "The Lantis",
+    "uri": "spotify:track:6E7DsxwI4eOcMHLYRUDCaw",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730cd335a903db6875ecdcc730"
+  },
+  {
     "timestamp": 1770437032326,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -79,14 +88,5 @@
     "artist": "Cherrybelle",
     "uri": "spotify:track:3cqBNjjGjtKer3jWHCPIUC",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733ad38432e5772bf80a9a2483"
-  },
-  {
-    "timestamp": 1770214340528,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Cerita Cinta",
-    "artist": "Kahitna",
-    "uri": "spotify:track:7Ehk7Ml72Hhe4ASO2Wa16j",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27304dc4bbe675b5cb45b497f93"
   }
 ]
