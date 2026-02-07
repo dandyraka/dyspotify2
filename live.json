@@ -1,30 +1,3 @@
 {
-  "friends": [
-    {
-      "timestamp": 1770450860477,
-      "user": {
-        "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
-        "name": "poemstars🌼🌟",
-        "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
-      },
-      "track": {
-        "uri": "spotify:track:79xK6U9ebkeiE5W3n0ejAI",
-        "name": "You",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735aebd3f46a8aa4bf5a80285e",
-        "album": {
-          "uri": "spotify:album:3PvrFFoalcNBqVhzrYPidR",
-          "name": "You"
-        },
-        "artist": {
-          "uri": "spotify:artist:5OZXWMwDhlYBRvoOfcX0sk",
-          "name": "Raisa"
-        },
-        "context": {
-          "uri": null,
-          "name": null,
-          "index": 0
-        }
-      }
-    }
-  ]
+  "friends": []
 }
