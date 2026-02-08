@@ -1,30 +1,3 @@
 {
-  "friends": [
-    {
-      "timestamp": 1770521515403,
-      "user": {
-        "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
-        "name": "poemstars🌼🌟",
-        "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
-      },
-      "track": {
-        "uri": "spotify:track:0COqiPhxzoWICwFCS4eZcp",
-        "name": "Bring Me To Life",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27325f49ab23f0ec6332efef432",
-        "album": {
-          "uri": "spotify:album:02w1xMzzdF2OJxTeh1basm",
-          "name": "Fallen"
-        },
-        "artist": {
-          "uri": "spotify:artist:5nGIFgo0shDenQYSE0Sn7c",
-          "name": "Evanescence"
-        },
-        "context": {
-          "uri": null,
-          "name": null,
-          "index": 0
-        }
-      }
-    }
-  ]
+  "friends": []
 }
