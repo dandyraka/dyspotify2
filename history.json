@@ -1,5 +1,14 @@
 [
   {
+    "timestamp": 1770825767311,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Lampu Merah",
+    "artist": "The Lantis",
+    "uri": "spotify:track:6E7DsxwI4eOcMHLYRUDCaw",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730cd335a903db6875ecdcc730"
+  },
+  {
     "timestamp": 1770635688687,
     "user": "poemstars🌼🌟",
     "userId": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
@@ -79,14 +88,5 @@
     "artist": "Halestorm",
     "uri": "spotify:track:0n3sHHfdOq6Awix3JPe3xl",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732230ea0226f28c710728c840"
-  },
-  {
-    "timestamp": 1770521599415,
-    "user": "poemstars🌼🌟",
-    "userId": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
-    "track": "Bring Me To Life",
-    "artist": "Evanescence",
-    "uri": "spotify:track:0COqiPhxzoWICwFCS4eZcp",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27325f49ab23f0ec6332efef432"
   }
 ]
