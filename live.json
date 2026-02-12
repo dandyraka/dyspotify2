@@ -1,30 +1,3 @@
 {
-  "friends": [
-    {
-      "timestamp": 1770916413589,
-      "user": {
-        "uri": "spotify:user:dandyraka_",
-        "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=08baa4&_nc_ohc=jO_CQ4VCgZkQ7kNvwEiBfDg&_nc_oc=AdlFAwJs0nw-BjE232CaT7IvMtivde2ClY48bSoenBZEixVmjhMjYDzLNDHavNZ9ZECkuwuZnIMtUPrqYT5wGR4G&_nc_zt=24&_nc_ht=scontent-cdg4-3.xx&edm=AP4hL3IEAAAA&_nc_gid=bIcmSU5MN1xUNXQhRfeROA&_nc_tpa=Q5bMBQGZZ00e4971H4fcPUtSeYrCBfjxAoVEkI5xpi8rh3Ap19XDUT8GMgTjKomBW5aNlRxU33y7&oh=00_AfuzowYQDOgLTJLxF17ZnLQGSQDDvAgxpW3LgTuvfu9T3w&oe=699363E8"
-      },
-      "track": {
-        "uri": "spotify:track:3wQdQDB79EOuriyuo7fGnx",
-        "name": "Pergilah Kasih",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c85c4b6cea3a4fd5b4a162c9",
-        "album": {
-          "uri": "spotify:album:0JnwN8mCH8NTIEpRwDq4Gw",
-          "name": "Persiapan"
-        },
-        "artist": {
-          "uri": "spotify:artist:1hioeMAsVwJ3bvcb9lxBpB",
-          "name": "D’MASIV"
-        },
-        "context": {
-          "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
-          "name": "playlist",
-          "index": 0
-        }
-      }
-    }
-  ]
+  "friends": []
 }
