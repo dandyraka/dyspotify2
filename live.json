@@ -1,3 +1,30 @@
 {
-  "friends": []
+  "friends": [
+    {
+      "timestamp": 1771001718659,
+      "user": {
+        "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
+        "name": "poemstars🌼🌟",
+        "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
+      },
+      "track": {
+        "uri": "spotify:track:1anOyt4UwzDigxZ4DhC0ca",
+        "name": "The House",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b18b41bfc2a8fef58acdd068",
+        "album": {
+          "uri": "spotify:album:6cMdysrlMlbUtc4oObk5Ci",
+          "name": "Constellation"
+        },
+        "artist": {
+          "uri": "spotify:artist:6q7u2CQJKa5j7CpMNT66LD",
+          "name": "Stars and Rabbit"
+        },
+        "context": {
+          "uri": "spotify:album:1PHrTyrvzRNkM3ni9D1ja0",
+          "name": "album",
+          "index": 0
+        }
+      }
+    }
+  ]
 }
