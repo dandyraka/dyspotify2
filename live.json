@@ -1,27 +1,27 @@
 {
   "friends": [
     {
-      "timestamp": 1771001718659,
+      "timestamp": 1771004227294,
       "user": {
-        "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
-        "name": "poemstars🌼🌟",
-        "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
+        "uri": "spotify:user:dandyraka_",
+        "name": "Dandy 🫵🏻😁",
+        "imageUrl": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=08baa4&_nc_ohc=jO_CQ4VCgZkQ7kNvwHw2YSE&_nc_oc=AdkRMPLPkFGQFtA2ZCVFLCPSmuKxSm7pblj-24ceRWgYnQ9yZ2OalOrINaURBuqg7sk-OWR6rL_ksM4TK0qtymX8&_nc_zt=24&_nc_ht=scontent-cdg4-3.xx&edm=AP4hL3IEAAAA&_nc_gid=7PhK_BzbwoAkZm4Txce5zA&_nc_tpa=Q5bMBQF5LDAkqqcYYb7AT7Od0NpYwArrX5QCtpYYbcSQe32IK0GGmMsdamKeweXRef_XVvYf-P5n&oh=00_AfuT7xzHOMWAiE9hE1TY7EQlPjHhZBGjjjNYb7X4EVV5Zw&oe=6994EDA8"
       },
       "track": {
-        "uri": "spotify:track:1anOyt4UwzDigxZ4DhC0ca",
-        "name": "The House",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b18b41bfc2a8fef58acdd068",
+        "uri": "spotify:track:3ftgXUTr0zAZLQsckXH6Cw",
+        "name": "Boyband",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cf2ded28aa16b72efec8d9b7",
         "album": {
-          "uri": "spotify:album:6cMdysrlMlbUtc4oObk5Ci",
-          "name": "Constellation"
+          "uri": "spotify:album:7yPSAiNXzKyxO2yUMMSuP2",
+          "name": "Seven"
         },
         "artist": {
-          "uri": "spotify:artist:6q7u2CQJKa5j7CpMNT66LD",
-          "name": "Stars and Rabbit"
+          "uri": "spotify:artist:6Ta7YcldiJgmh6zy2HQJsd",
+          "name": "Tipe-X"
         },
         "context": {
-          "uri": "spotify:album:1PHrTyrvzRNkM3ni9D1ja0",
-          "name": "album",
+          "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
+          "name": "playlist",
           "index": 0
         }
       }
