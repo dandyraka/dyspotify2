@@ -1,5 +1,14 @@
 [
   {
+    "timestamp": 1770969052494,
+    "user": "poemstars🌼🌟",
+    "userId": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
+    "track": "You",
+    "artist": "Raisa",
+    "uri": "spotify:track:79xK6U9ebkeiE5W3n0ejAI",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735aebd3f46a8aa4bf5a80285e"
+  },
+  {
     "timestamp": 1770967944856,
     "user": "poemstars🌼🌟",
     "userId": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
@@ -79,14 +88,5 @@
     "artist": "rumahsakit",
     "uri": "spotify:track:5ee10HJXnAC6G5gEQSoxFw",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f246b9ae768f33300c3fa0fe"
-  },
-  {
-    "timestamp": 1770916912611,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Hargai Aku",
-    "artist": "Armada",
-    "uri": "spotify:track:1N9KSlqlBbPF0NNYWtttma",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f1c411e94c33fdd57edd9a69"
   }
 ]
