@@ -1,5 +1,14 @@
 [
   {
+    "timestamp": 1771006063540,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Rindu 1/2 Mati",
+    "artist": "D’MASIV",
+    "uri": "spotify:track:1OrMRZWLCkTjGZPLE67nQv",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27318ace9e1b1cd6f550781166e"
+  },
+  {
     "timestamp": 1771005855023,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -79,14 +88,5 @@
     "artist": "Mulan Jameela",
     "uri": "spotify:track:08F2f8SFFC5UwPC3vo15he",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273da3dbb55034cdfcd7e58c53f"
-  },
-  {
-    "timestamp": 1771003711409,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Soulmate",
-    "artist": "Kahitna",
-    "uri": "spotify:track:1rwGbGLDE0AkaH1UgUbufL",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737f1ff8e8be3727f0c362ba06"
   }
 ]

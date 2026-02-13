@@ -1,30 +1,3 @@
 {
-  "friends": [
-    {
-      "timestamp": 1771006017708,
-      "user": {
-        "uri": "spotify:user:dandyraka_",
-        "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=08baa4&_nc_ohc=jO_CQ4VCgZkQ7kNvwHw2YSE&_nc_oc=AdkRMPLPkFGQFtA2ZCVFLCPSmuKxSm7pblj-24ceRWgYnQ9yZ2OalOrINaURBuqg7sk-OWR6rL_ksM4TK0qtymX8&_nc_zt=24&_nc_ht=scontent-cdg4-3.xx&edm=AP4hL3IEAAAA&_nc_gid=7PhK_BzbwoAkZm4Txce5zA&_nc_tpa=Q5bMBQF5LDAkqqcYYb7AT7Od0NpYwArrX5QCtpYYbcSQe32IK0GGmMsdamKeweXRef_XVvYf-P5n&oh=00_AfuT7xzHOMWAiE9hE1TY7EQlPjHhZBGjjjNYb7X4EVV5Zw&oe=6994EDA8"
-      },
-      "track": {
-        "uri": "spotify:track:3UFwpaiegbEuX6QfIQItcj",
-        "name": "Rindu 1/2 Mati",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27378193e9c595c5708d65b098e",
-        "album": {
-          "uri": "spotify:album:3u8OF1iZ2dyMlN6B9j1NWz",
-          "name": "Perjalanan"
-        },
-        "artist": {
-          "uri": "spotify:artist:1hioeMAsVwJ3bvcb9lxBpB",
-          "name": "D’MASIV"
-        },
-        "context": {
-          "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
-          "name": "playlist",
-          "index": 0
-        }
-      }
-    }
-  ]
+  "friends": []
 }
