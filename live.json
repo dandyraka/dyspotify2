@@ -1,3 +1,30 @@
 {
-  "friends": []
+  "friends": [
+    {
+      "timestamp": 1771045693798,
+      "user": {
+        "uri": "spotify:user:dandyraka_",
+        "name": "Dandy 🫵🏻😁",
+        "imageUrl": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=08baa4&_nc_ohc=XHw3J9-TqpYQ7kNvwFCCRNE&_nc_oc=Adk-lpaXnFDPiKupbuHaEZk9l25QJKS3DXADYPiPubmRBUCMm3pxVZ0SQI_jV1ef2FS4j4KHPI_lVz06HKFyV8ND&_nc_zt=24&_nc_ht=scontent-fra3-2.xx&edm=AP4hL3IEAAAA&_nc_gid=XsioUr80sKDG-Qf1rmRPXA&_nc_tpa=Q5bMBQGK_zz4N26F74yYs59_7wzax07lr5aMQuGnuD80Kqxr6JK1vyR-HB1waiX5SeHp94dxRdNG&oh=00_AfttX9dAA1N5W2CdE_Nls5u8wkuMFJdZnYCyte3m4j5qYw&oe=6995CEA8"
+      },
+      "track": {
+        "uri": "spotify:track:6E7DsxwI4eOcMHLYRUDCaw",
+        "name": "Lampu Merah",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730cd335a903db6875ecdcc730",
+        "album": {
+          "uri": "spotify:album:2Ykep6jay9dIiAB9eJq7vo",
+          "name": "Pilot"
+        },
+        "artist": {
+          "uri": "spotify:artist:1REvGGP2H7cFLGZgK2sStO",
+          "name": "The Lantis"
+        },
+        "context": {
+          "uri": null,
+          "name": null,
+          "index": 0
+        }
+      }
+    }
+  ]
 }
