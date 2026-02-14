@@ -1,3 +1,30 @@
 {
-  "friends": []
+  "friends": [
+    {
+      "timestamp": 1771051855721,
+      "user": {
+        "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
+        "name": "poemstars🌼🌟",
+        "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
+      },
+      "track": {
+        "uri": "spotify:track:7vXKmC0gv1jnWun0wVEhdI",
+        "name": "Cinta 2 Hati",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273daa3a5d2478cc796925f7c90",
+        "album": {
+          "uri": "spotify:album:7GfylFxRPXIGHwKZTPlURg",
+          "name": "The One"
+        },
+        "artist": {
+          "uri": "spotify:artist:4cgBCGxtlfap2g6jveB7du",
+          "name": "Afgan"
+        },
+        "context": {
+          "uri": null,
+          "name": null,
+          "index": 0
+        }
+      }
+    }
+  ]
 }
