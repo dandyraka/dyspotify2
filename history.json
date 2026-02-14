@@ -1,5 +1,14 @@
 [
   {
+    "timestamp": 1771062010355,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Lampu Merah",
+    "artist": "The Lantis",
+    "uri": "spotify:track:6E7DsxwI4eOcMHLYRUDCaw",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730cd335a903db6875ecdcc730"
+  },
+  {
     "timestamp": 1771054340502,
     "user": "poemstars🌼🌟",
     "userId": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
@@ -79,14 +88,5 @@
     "artist": "Stars and Rabbit",
     "uri": "spotify:track:1anOyt4UwzDigxZ4DhC0ca",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b18b41bfc2a8fef58acdd068"
-  },
-  {
-    "timestamp": 1771006063540,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Rindu 1/2 Mati",
-    "artist": "D’MASIV",
-    "uri": "spotify:track:1OrMRZWLCkTjGZPLE67nQv",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27318ace9e1b1cd6f550781166e"
   }
 ]
