@@ -1,3 +1,30 @@
 {
-  "friends": []
+  "friends": [
+    {
+      "timestamp": 1771144058813,
+      "user": {
+        "uri": "spotify:user:21jq6cmbitks7givwb7zvsyxy",
+        "name": "poemstars🌼🌟",
+        "imageUrl": "https://i.scdn.co/image/ab6775700000ee852484b5c72c0e677065c476dd"
+      },
+      "track": {
+        "uri": "spotify:track:0EUS0BcGuI9niiOAYh3bxU",
+        "name": "Merayakan Fana",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27395688e1f59ae3fc4951d41ff",
+        "album": {
+          "uri": "spotify:album:65hiBZugUD4hPjDM4RurWC",
+          "name": "Jalaran Sadrah"
+        },
+        "artist": {
+          "uri": "spotify:artist:5RbI1PF4n02wWKmgjk7hAE",
+          "name": "Barasuara"
+        },
+        "context": {
+          "uri": null,
+          "name": null,
+          "index": 0
+        }
+      }
+    }
+  ]
 }
