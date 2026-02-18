@@ -1,5 +1,14 @@
 [
   {
+    "timestamp": 1771416815164,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Pergilah Kasih",
+    "artist": "Chrisye",
+    "uri": "spotify:track:7LJ0zta34UcEez8sIyGfWz",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731a925263999b3c98268b31f0"
+  },
+  {
     "timestamp": 1771404699775,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -79,14 +88,5 @@
     "artist": "Nidji",
     "uri": "spotify:track:44E5ELQycUDcVSJghOJNAY",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273706b70b10dfbf83dd4b1e7d8"
-  },
-  {
-    "timestamp": 1771402561663,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Aisah",
-    "artist": "Five Minutes",
-    "uri": "spotify:track:3Annm8x9PbPoX0L3J4VPt1",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a0cc792b2f77d6358868c09b"
   }
 ]
