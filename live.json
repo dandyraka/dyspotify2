@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1771401646726,
+      "timestamp": 1771405204933,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=08baa4&_nc_ohc=fQJbPLQUWggQ7kNvwHeOQGA&_nc_oc=Admc3sjmvMXJO0HZxrug2qDOmoXZeyNC_vo62-3vFR7aAd5Q-g3uesY9dCvgTHP1HRN948xEJA4rqdwGuvvkDd9-&_nc_zt=24&_nc_ht=scontent-ord5-1.xx&edm=AP4hL3IEAAAA&_nc_gid=pHw4jo1_-UXEyrMFn-oq4w&_nc_tpa=Q5bMBQH3FbKRKVEv7W7K9_Zjn6nMj7DQnfXBHC_UmUCGku9BJ2n5nW4vURK6ckjTj_pi0STtvbSx&oh=00_AfvcX21eQIKxKjpZfaPHFUvVoqBFw2YdVWp9Af6NRiGQdA&oe=699B14A8"
+        "imageUrl": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=08baa4&_nc_ohc=fQJbPLQUWggQ7kNvwEpj_bz&_nc_oc=Adl_BvGr7oxpX_54mNq3IOGKuJAanIaLuJk5Cg0XJkGUHKttxBJNTK2S5HQiY0NkgT7pR9ybWaG02IqKy02gJVKf&_nc_zt=24&_nc_ht=scontent-ord5-1.xx&edm=AP4hL3IEAAAA&_nc_gid=tEX2NS9K5q1Q65uPNwEuPg&_nc_tpa=Q5bMBQGjACQiEgla-fy32o6i00Sahg96eOLbUb-H1VWJ7SBepwJRKZbBO2aZxatheMw9ON60cujk&oh=00_AfshK1POPytCLnhkNCIJAm4EkmPTaaQHcgTJMndfMI-jKg&oe=699ADC68"
       },
       "track": {
-        "uri": "spotify:track:1BaGfrlIWinaF77p7QASBH",
-        "name": "Seberapa Pantas",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27358961269cc5263913f9e0b40",
+        "uri": "spotify:track:7yxXxh9hMbcxdCdWJWRZmk",
+        "name": "Pergilah Kasih",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f596ea1b60c2a41eec9d1036",
         "album": {
-          "uri": "spotify:album:59MdGM9vovHOEqp40fpthI",
-          "name": "07 Des"
+          "uri": "spotify:album:3pNpnSobFtR2tm0m541EsP",
+          "name": "PERGILAH KASIH"
         },
         "artist": {
-          "uri": "spotify:artist:6q87vizIEdEN4NvlR6mjfT",
-          "name": "Sheila On 7"
+          "uri": "spotify:artist:2NteKKMj3takKR3ABTd279",
+          "name": "Chrisye"
         },
         "context": {
           "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
