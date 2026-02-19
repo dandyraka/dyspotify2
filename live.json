@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1771500144627,
+      "timestamp": 1771502341136,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=08baa4&_nc_ohc=fQJbPLQUWggQ7kNvwFgORAy&_nc_oc=AdnTaJw4o8930nvvfrlVLR2IljZ2WY9j5TaTpbyJZMTnlPGPG_ORjzvpkXOn5itlLvI8BZkeJUEhgn-WEulZeWn6&_nc_zt=24&_nc_ht=scontent-ams2-1.xx&edm=AP4hL3IEAAAA&_nc_gid=XeSfFX_qDGsaRlTsto-3jQ&_nc_tpa=Q5bMBQG8QsVi7QxLk78k0Up_TH5JHpjvnHmi17sR7hsVU3Q4omQ5hap2kbzjZ41MkUxo_hLsdJLw&oh=00_AftqzE5QiHxWwzj0Vd_8tkO1u1qT1vfvNwWkMnKjIG1lZw&oe=699C2DE8"
+        "imageUrl": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=08baa4&_nc_ohc=fQJbPLQUWggQ7kNvwHy42VJ&_nc_oc=AdnGBJ3WMLtZBjg2E_9fOC5QnojxmvBrbg1lN6Xet7qBvLfM8otkv3pAu_pUejD0x0LmbCzs6ZNC8Ed2LxOJ4-W7&_nc_zt=24&_nc_ht=scontent-ams2-1.xx&edm=AP4hL3IEAAAA&_nc_gid=lHyVEr0brgJAJZmVNHsRww&_nc_tpa=Q5bMBQH2MqIZYkyNFWGa4iphAJZQW26wUAmaYnspaA9bXyiayNfQHzhsYK_76mZ1mveHzzC3dtqI&oh=00_AfuhWn23lFl13Z7fA0sVTvuxI8tOUsy1p5GL_E8zfaKjXQ&oe=699C2DE8"
       },
       "track": {
-        "uri": "spotify:track:0XPlaOiWyJHMt7WqLfpxnD",
-        "name": "Patah Hati",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731d21be89f4f8c8068871d061",
+        "uri": "spotify:track:4guvMChmvbAH1jKHvU5XkX",
+        "name": "Aw Aw Aw",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cf4938c327e6ccb11878269b",
         "album": {
-          "uri": "spotify:album:5Ff7TtNGPs6mQZpVaN6yy5",
-          "name": "Untuk Semua"
+          "uri": "spotify:album:5R59NoEMYqnigEJncgONqi",
+          "name": "Semangat"
         },
         "artist": {
-          "uri": "spotify:artist:2f1AZeW1r6TUVLagZaRXO5",
-          "name": "Radja"
+          "uri": "spotify:artist:5a5fiumH9eDxjvvzAvJfEx",
+          "name": "Super Girlies"
         },
         "context": {
           "uri": "spotify:playlist:2RCC8lfWYfVTvwkuxhmNI2",
