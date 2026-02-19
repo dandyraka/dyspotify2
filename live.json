@@ -1,3 +1,30 @@
 {
-  "friends": []
+  "friends": [
+    {
+      "timestamp": 1771494069731,
+      "user": {
+        "uri": "spotify:user:dandyraka_",
+        "name": "Dandy 🫵🏻😁",
+        "imageUrl": "https://scontent-ams2-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=08baa4&_nc_ohc=fQJbPLQUWggQ7kNvwHy42VJ&_nc_oc=AdnGBJ3WMLtZBjg2E_9fOC5QnojxmvBrbg1lN6Xet7qBvLfM8otkv3pAu_pUejD0x0LmbCzs6ZNC8Ed2LxOJ4-W7&_nc_zt=24&_nc_ht=scontent-ams2-1.xx&edm=AP4hL3IEAAAA&_nc_gid=lHyVEr0brgJAJZmVNHsRww&_nc_tpa=Q5bMBQH2MqIZYkyNFWGa4iphAJZQW26wUAmaYnspaA9bXyiayNfQHzhsYK_76mZ1mveHzzC3dtqI&oh=00_AfuhWn23lFl13Z7fA0sVTvuxI8tOUsy1p5GL_E8zfaKjXQ&oe=699C2DE8"
+      },
+      "track": {
+        "uri": "spotify:track:3cqBNjjGjtKer3jWHCPIUC",
+        "name": "Dilema",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733ad38432e5772bf80a9a2483",
+        "album": {
+          "uri": "spotify:album:1wqcpQnLri0fjAPgbmHSao",
+          "name": "Cherrybelle Compilation Album"
+        },
+        "artist": {
+          "uri": "spotify:artist:2oXCgnN1W8fMfNu2mHVgSz",
+          "name": "Cherrybelle"
+        },
+        "context": {
+          "uri": "spotify:playlist:2RCC8lfWYfVTvwkuxhmNI2",
+          "name": "playlist",
+          "index": 0
+        }
+      }
+    }
+  ]
 }
