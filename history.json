@@ -1,5 +1,14 @@
 [
   {
+    "timestamp": 1771516911644,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Lampu Merah",
+    "artist": "The Lantis",
+    "uri": "spotify:track:6E7DsxwI4eOcMHLYRUDCaw",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730cd335a903db6875ecdcc730"
+  },
+  {
     "timestamp": 1771505307781,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -79,14 +88,5 @@
     "artist": "Super Girlies",
     "uri": "spotify:track:5N8LcQObjkKk7AnedrtfeA",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a0b6b2ed46779558f2906546"
-  },
-  {
-    "timestamp": 1771503289306,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Mimpi Yang Sempurna",
-    "artist": "Peterpan",
-    "uri": "spotify:track:3mJ9p1LjfESbmmy9r1CvgE",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27311900a14baf7781551458b14"
   }
 ]
