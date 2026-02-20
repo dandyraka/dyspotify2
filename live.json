@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1771577764988,
+      "timestamp": 1771580315728,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=08baa4&_nc_ohc=VtSU0Xj8bNIQ7kNvwGqW9N3&_nc_oc=AdntFlfgki3uHKcUREn6yXL8M5jltMa7UhN0NKAbfUA1nqO_cB_7rILL0hsgrEZ9R6MMlSF2ZSiBXwWKy8Z2HObm&_nc_zt=24&_nc_ht=scontent-cdg4-3.xx&edm=AP4hL3IEAAAA&_nc_gid=uzmqKKb_fJSqk1vrorfG4g&_nc_tpa=Q5bMBQEkqlT6mX6MwqS7du4V7FATKQ_-4OushOGDNMKQBEe4sIo-acGDz3Y-hUJ_l963BhGgAAHn&oh=00_AfswOQYeyptss1ZU9bTOGL37XxCY35BaO-8bVHGwgDGb0Q&oe=699DB7A8"
+        "imageUrl": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=08baa4&_nc_ohc=VtSU0Xj8bNIQ7kNvwFji_q4&_nc_oc=AdkskTmIlc7_8AgesrlUUTmARImm-LTKiA_MZov6X22gnHzELI6N5Ryj1W9WHaHcI9yqJ8sm-cwJEtaXH_7khxpA&_nc_zt=24&_nc_ht=scontent-cdg4-3.xx&edm=AP4hL3IEAAAA&_nc_gid=c4F0i3J8g9hKUYk2-qhAug&_nc_tpa=Q5bMBQGMf-rJ2o6hrYFr4CvQ09zVrS6W5QuisD92Moz0jKAvJHq1zYT5fwrBKwerb2PqQxRr4fpS&oh=00_AfuWnuolKRQ2AeKIxfEWTfexfPRT-MmY1Jnxzx06YhDZgg&oe=699DB7A8"
       },
       "track": {
-        "uri": "spotify:track:5n8AhbDbbkH5uRwDvumE72",
-        "name": "Separuh Nafas",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27370ea19fd1f517d40b9c01c0d",
+        "uri": "spotify:track:3gDbxSchjjakQJcOIOrcsK",
+        "name": "Aku & Bintang",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733c8b30d134ed6377ad703419",
         "album": {
-          "uri": "spotify:album:7sJLhkin3GwFFvmFNMRRTi",
-          "name": "Kerajaan Cinta"
+          "uri": "spotify:album:2DB5bJUqbchn7wYTHtz4eH",
+          "name": "Sebuah Nama, Sebuah Cerita"
         },
         "artist": {
-          "uri": "spotify:artist:48bKH1ugFBhERC1rdojP9d",
-          "name": "Dewa 19"
+          "uri": "spotify:artist:29vPfjqj8X5ri4AJRt8wVM",
+          "name": "Peterpan"
         },
         "context": {
           "uri": "spotify:playlist:2RCC8lfWYfVTvwkuxhmNI2",
