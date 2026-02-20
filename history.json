@@ -1,5 +1,14 @@
 [
   {
+    "timestamp": 1771577612913,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Separuh Nafas",
+    "artist": "Dewa 19",
+    "uri": "spotify:track:5n8AhbDbbkH5uRwDvumE72",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27370ea19fd1f517d40b9c01c0d"
+  },
+  {
     "timestamp": 1771516911644,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -79,14 +88,5 @@
     "artist": "J-Rocks",
     "uri": "spotify:track:4HM7F8ymm5Ice2If8vRUfl",
     "imageUrl": "https://i.scdn.co/image/7108ccb29d7ccbbfbc71a887fca12acbae745746"
-  },
-  {
-    "timestamp": 1771503536498,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Malu Malu Mau",
-    "artist": "Super Girlies",
-    "uri": "spotify:track:5N8LcQObjkKk7AnedrtfeA",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a0b6b2ed46779558f2906546"
   }
 ]
