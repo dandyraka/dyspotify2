@@ -1,5 +1,14 @@
 [
   {
+    "timestamp": 1771696809546,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Lelaki Buaya Darat",
+    "artist": "Ratu",
+    "uri": "spotify:track:7esAWY5aFUAGi59jpf1qzy",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273590a08574756e4b72b54d8c9"
+  },
+  {
     "timestamp": 1771696401951,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -79,14 +88,5 @@
     "artist": "Coboy Junior",
     "uri": "spotify:track:7HMLzHU05zxsOXV71XFIak",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27312acd55333b9c705f0ab818c"
-  },
-  {
-    "timestamp": 1771583058173,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Ceria",
-    "artist": "J-Rocks",
-    "uri": "spotify:track:10RtTP5oG5coNZK0sxrbUP",
-    "imageUrl": "https://i.scdn.co/image/7108ccb29d7ccbbfbc71a887fca12acbae745746"
   }
 ]
