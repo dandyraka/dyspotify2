@@ -1,5 +1,41 @@
 [
   {
+    "timestamp": 1771696401951,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Lelaki Buaya Darat",
+    "artist": "Ratu",
+    "uri": "spotify:track:7esAWY5aFUAGi59jpf1qzy",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273590a08574756e4b72b54d8c9"
+  },
+  {
+    "timestamp": 1771696005287,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Aku & Bintang",
+    "artist": "Peterpan",
+    "uri": "spotify:track:4HV13HgOpbvckwS0R3JKLz",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ef6b4f2c2161b3462b0b6fa7"
+  },
+  {
+    "timestamp": 1771695753916,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Malu Malu Mau",
+    "artist": "Super Girlies",
+    "uri": "spotify:track:5N8LcQObjkKk7AnedrtfeA",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a0b6b2ed46779558f2906546"
+  },
+  {
+    "timestamp": 1771695506809,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Lepaskan Diriku",
+    "artist": "J-Rocks",
+    "uri": "spotify:track:4HM7F8ymm5Ice2If8vRUfl",
+    "imageUrl": "https://i.scdn.co/image/7108ccb29d7ccbbfbc71a887fca12acbae745746"
+  },
+  {
     "timestamp": 1771695024772,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -52,41 +88,5 @@
     "artist": "J-Rocks",
     "uri": "spotify:track:10RtTP5oG5coNZK0sxrbUP",
     "imageUrl": "https://i.scdn.co/image/7108ccb29d7ccbbfbc71a887fca12acbae745746"
-  },
-  {
-    "timestamp": 1771582829909,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Laskar Pelangi",
-    "artist": "Nidji",
-    "uri": "spotify:track:0ejpHFKbEqTcNQ4OMBawrP",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273801ab61ae6086d0381265658"
-  },
-  {
-    "timestamp": 1771582603660,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Ingat Kamu",
-    "artist": "Maia",
-    "uri": "spotify:track:7qzpzDHfnDxqXSLCrF77O4",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cc8e9f522f3a896ccc402840"
-  },
-  {
-    "timestamp": 1771582366983,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Teman Tapi Mesra",
-    "artist": "Ratu",
-    "uri": "spotify:track:4jSyrbR6gVwoThpsR9uYeZ",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273590a08574756e4b72b54d8c9"
-  },
-  {
-    "timestamp": 1771582107732,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Patah Hati",
-    "artist": "Radja",
-    "uri": "spotify:track:0XPlaOiWyJHMt7WqLfpxnD",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731d21be89f4f8c8068871d061"
   }
 ]
