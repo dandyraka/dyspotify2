@@ -1,3 +1,30 @@
 {
-  "friends": []
+  "friends": [
+    {
+      "timestamp": 1771695438626,
+      "user": {
+        "uri": "spotify:user:dandyraka_",
+        "name": "Dandy 🫵🏻😁",
+        "imageUrl": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=08baa4&_nc_ohc=VtSU0Xj8bNIQ7kNvwHtd5hE&_nc_oc=Adl3Dkd8ys99gALsnaXSuFyxPkcUMQh1B5EH9Bi45_N1idOhCrniBgBoUXyVoqEn_h7wKQ1hmEbzrH9ugAONCyyu&_nc_zt=24&_nc_ht=scontent-cdg4-3.xx&edm=AP4hL3IEAAAA&_nc_gid=y1_4q0j9qyGJh8mS810g6g&_nc_tpa=Q5bMBQFX013RDE3MshB1_-DXF6mqg66NlXjx4bK0rv8PmZ0ov-OvCt7OQN62ODe92pcIzotbqKzi&oh=00_AftPcqz5JgbYFLPf-hAiXapiNWdEG5cbWhJb_2iY_CHbpg&oe=699F4168"
+      },
+      "track": {
+        "uri": "spotify:track:4HM7F8ymm5Ice2If8vRUfl",
+        "name": "Lepaskan Diriku",
+        "imageUrl": "https://i.scdn.co/image/7108ccb29d7ccbbfbc71a887fca12acbae745746",
+        "album": {
+          "uri": "spotify:album:7quLoOufagoezwwYjEDDqs",
+          "name": "Topeng Sahabat"
+        },
+        "artist": {
+          "uri": "spotify:artist:3zkqzEu0nHPDeP93vvY49U",
+          "name": "J-Rocks"
+        },
+        "context": {
+          "uri": "spotify:playlist:2RCC8lfWYfVTvwkuxhmNI2",
+          "name": "playlist",
+          "index": 0
+        }
+      }
+    }
+  ]
 }

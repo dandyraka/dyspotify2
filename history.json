@@ -1,5 +1,14 @@
 [
   {
+    "timestamp": 1771695024772,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Aw Aw Aw",
+    "artist": "Super Girlies",
+    "uri": "spotify:track:2Uqy6SoBJzduGvgInGLs7k",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a0b6b2ed46779558f2906546"
+  },
+  {
     "timestamp": 1771584053698,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -79,14 +88,5 @@
     "artist": "Radja",
     "uri": "spotify:track:0XPlaOiWyJHMt7WqLfpxnD",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731d21be89f4f8c8068871d061"
-  },
-  {
-    "timestamp": 1771581850033,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Dewi",
-    "artist": "Dewa 19",
-    "uri": "spotify:track:2zcPAFEc7mhULI9PZMBWUx",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27369222d0908ecf5d22cc9d960"
   }
 ]
