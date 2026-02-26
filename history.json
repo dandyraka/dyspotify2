@@ -1,5 +1,14 @@
 [
   {
+    "timestamp": 1772110012712,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Ceria",
+    "artist": "J-Rocks",
+    "uri": "spotify:track:10RtTP5oG5coNZK0sxrbUP",
+    "imageUrl": "https://i.scdn.co/image/7108ccb29d7ccbbfbc71a887fca12acbae745746"
+  },
+  {
     "timestamp": 1772102373013,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -79,14 +88,5 @@
     "artist": "Peterpan",
     "uri": "spotify:track:6M1FzGM9hmHXZNWHcyWSts",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734dcef3dbcf98750fb1411fcb"
-  },
-  {
-    "timestamp": 1772100323177,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Sakit Hati",
-    "artist": "Tipe-X",
-    "uri": "spotify:track:2DaGE6g765tbp2MTmYCZs2",
-    "imageUrl": "https://i.scdn.co/image/12133aef1ad3613eeda171dfb4288c740177fc9c"
   }
 ]
