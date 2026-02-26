@@ -1,3 +1,30 @@
 {
-  "friends": []
+  "friends": [
+    {
+      "timestamp": 1772097103976,
+      "user": {
+        "uri": "spotify:user:dandyraka_",
+        "name": "Dandy 🫵🏻😁",
+        "imageUrl": "https://scontent-mia3-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=08baa4&_nc_ohc=iHp1Cz5OeOIQ7kNvwGlALo3&_nc_oc=Admm16rWVHcIpPC6I1Wad3cVbHXodRJsFvWPfIhGHUufAi049JS5OcJIBX5oNsFtoDUOwcObFC_V7XHHN712oR_P&_nc_zt=24&_nc_ht=scontent-mia3-1.xx&edm=AP4hL3IEAAAA&_nc_gid=q2y_-kjOdwmW-7fXi962wQ&_nc_tpa=Q5bMBQEt08BhhOODuohkw-2mhS5bkXxxDuGM2sGqoeUhaK6bMd2AOh3H15JJFL8nsDdCBTgHoSMx&oh=00_AftVuJsHTzxqbLGkSf0LSqGG8TcoEx6L9yilbRjGu0BPvA&oe=69A5D8E8"
+      },
+      "track": {
+        "uri": "spotify:track:2OH33ajVAdvYcxRSHUxH8y",
+        "name": "Dibalik Hari Esok",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731559e659e526ac045df0e6da",
+        "album": {
+          "uri": "spotify:album:0WLmyZ9kQRRqMokUbO5D4g",
+          "name": "The Sophomore"
+        },
+        "artist": {
+          "uri": "spotify:artist:62USA8ccl2yj1sSVyqL2LR",
+          "name": "Pee Wee Gaskins"
+        },
+        "context": {
+          "uri": "spotify:playlist:2RCC8lfWYfVTvwkuxhmNI2",
+          "name": "playlist",
+          "index": 0
+        }
+      }
+    }
+  ]
 }
