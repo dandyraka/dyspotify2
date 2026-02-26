@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1772097103976,
+      "timestamp": 1772100506685,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-mia3-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=08baa4&_nc_ohc=iHp1Cz5OeOIQ7kNvwGlALo3&_nc_oc=Admm16rWVHcIpPC6I1Wad3cVbHXodRJsFvWPfIhGHUufAi049JS5OcJIBX5oNsFtoDUOwcObFC_V7XHHN712oR_P&_nc_zt=24&_nc_ht=scontent-mia3-1.xx&edm=AP4hL3IEAAAA&_nc_gid=q2y_-kjOdwmW-7fXi962wQ&_nc_tpa=Q5bMBQEt08BhhOODuohkw-2mhS5bkXxxDuGM2sGqoeUhaK6bMd2AOh3H15JJFL8nsDdCBTgHoSMx&oh=00_AftVuJsHTzxqbLGkSf0LSqGG8TcoEx6L9yilbRjGu0BPvA&oe=69A5D8E8"
+        "imageUrl": "https://scontent-mia3-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=08baa4&_nc_ohc=iHp1Cz5OeOIQ7kNvwFZlni2&_nc_oc=Admt7ruKluj6JuLFlC_krFYAblnhWr7jdRNMSgVtRcL0YwNjbU5btFIBJFHnS80uBbTI_8qmsDP5gWEjNIwoboeW&_nc_zt=24&_nc_ht=scontent-mia3-1.xx&edm=AP4hL3IEAAAA&_nc_gid=WOf9-THc6vXI8V4ue5dPxQ&_nc_tpa=Q5bMBQFripw_Wup-88U-ve4IbDUrVjgG2pdd2rNCHZOoUNieY3oe0y4_fEjRi9wJUwTCvCI5YeNC&oh=00_Afvoxoa_rS6HRPNQCrcotsk1Nz_LqiRdkg2a10F_e00Q8w&oe=69A5A0A8"
       },
       "track": {
-        "uri": "spotify:track:2OH33ajVAdvYcxRSHUxH8y",
-        "name": "Dibalik Hari Esok",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731559e659e526ac045df0e6da",
+        "uri": "spotify:track:2nCvPmotKtqZQJCpNwU7QW",
+        "name": "Hari Yang Cerah Untuk Jiwa Yang Sepi",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733c8b30d134ed6377ad703419",
         "album": {
-          "uri": "spotify:album:0WLmyZ9kQRRqMokUbO5D4g",
-          "name": "The Sophomore"
+          "uri": "spotify:album:2DB5bJUqbchn7wYTHtz4eH",
+          "name": "Sebuah Nama, Sebuah Cerita"
         },
         "artist": {
-          "uri": "spotify:artist:62USA8ccl2yj1sSVyqL2LR",
-          "name": "Pee Wee Gaskins"
+          "uri": "spotify:artist:29vPfjqj8X5ri4AJRt8wVM",
+          "name": "Peterpan"
         },
         "context": {
           "uri": "spotify:playlist:2RCC8lfWYfVTvwkuxhmNI2",
