@@ -1,5 +1,14 @@
 [
   {
+    "timestamp": 1772355433112,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Alasanmu (Mencari Alasan)",
+    "artist": "Exists",
+    "uri": "spotify:track:4qQHPq4ZEtmIxitsn8LvC2",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d0b5da9f47fa0eeedd965d98"
+  },
+  {
     "timestamp": 1772110012712,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -79,14 +88,5 @@
     "artist": "Letto",
     "uri": "spotify:track:5VndA6vWJOdnNNOspllRsn",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a29a819e373cd794c776a82f"
-  },
-  {
-    "timestamp": 1772100555782,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Hari Yang Cerah Untuk Jiwa Yang Sepi",
-    "artist": "Peterpan",
-    "uri": "spotify:track:6M1FzGM9hmHXZNWHcyWSts",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734dcef3dbcf98750fb1411fcb"
   }
 ]
