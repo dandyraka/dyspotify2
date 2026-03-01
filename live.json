@@ -1,30 +1,3 @@
 {
-  "friends": [
-    {
-      "timestamp": 1772355531085,
-      "user": {
-        "uri": "spotify:user:dandyraka_",
-        "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=08baa4&_nc_ohc=OjHPDr3G92AQ7kNvwHTI87L&_nc_oc=AdnNPN0zkROf8R4R4TPWLZMv96UQJuWLywlHMLMVNbsC1hFzJauqmvH4zMq31-kzgpi6WvqwtzUU1cR1TLM0Nj5_&_nc_zt=24&_nc_ht=scontent-ord5-1.xx&edm=AP4hL3IEAAAA&_nc_gid=oEXYZjegLaLLEUuLfRZ9Sw&_nc_tpa=Q5bMBQGGlp_OSoGAuKyYA3qsHCv7xTGA9sRqIpI5PJ2CReBimeFSkJWUdTwDjOqqF1SCCCQjsjUl&oh=00_Afs0_aprwjjGxE3HPRadTr78Dk08n9R1HyiO43QJU0-fSw&oe=69A95CE8"
-      },
-      "track": {
-        "uri": "spotify:track:6JRVtn3h65oCGjsmyGe8d1",
-        "name": "Gerimis Mengundang",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27345d37bf7536c690305427038",
-        "album": {
-          "uri": "spotify:album:4DVkkyrV178ZphQx7WIb62",
-          "name": "Koleksi 50 Lagu-Lagu Terbaik Slam"
-        },
-        "artist": {
-          "uri": "spotify:artist:6ZK1l84rj8SLSn2tXVgCsf",
-          "name": "Slam"
-        },
-        "context": {
-          "uri": "spotify:playlist:1SfAWgZdsa5vISjSYo1Vyv",
-          "name": "playlist",
-          "index": 0
-        }
-      }
-    }
-  ]
+  "friends": []
 }
