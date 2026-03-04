@@ -1,26 +1,26 @@
 {
   "friends": [
     {
-      "timestamp": 1772618074475,
+      "timestamp": 1772620325549,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
         "imageUrl": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=08baa4&_nc_ohc=VJV6oJE_7xoQ7kNvwGQ-epJ&_nc_oc=AdmrFiWY0YrwkKwDI9LjWdhCUXBb0IKZTyV-oQaTRgN2YVzoCYHcN_ttAtr0OMQwlsQrZOKXgrAMmS25e3QvwH-j&_nc_zt=24&_nc_ht=scontent-cdg4-3.xx&edm=AP4hL3IEAAAA&_nc_gid=4WavPA3m_J-4ChkYfoCLPg&_nc_tpa=Q5bMBQFac-k9Y-k2XDz2OupxQ_U0rYn26H22y8ycpfjiEKQpYALxCARlo2wiLDnNFK2ONGIrh6Ff&oh=00_AfzHmN5-Nq-3KNpGXWYVt3U6uz9flKSPYx5etzDiwE_x_g&oe=69AD89A8"
       },
       "track": {
-        "uri": "spotify:track:120lVsGqnN1BxsLZkoeP6F",
-        "name": "Kasih Ibu",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738565b954eb890446a0566225",
+        "uri": "spotify:track:727sLBWMTthUyFL9ZGizcm",
+        "name": "Batal Kawin",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273499817b4d3fae56f12c315be",
         "album": {
-          "uri": "spotify:album:35rQ3qn5lThY667SR66Gls",
-          "name": "Koleksi Abadi Lagu Taman Kanak Kanak vol. 2"
+          "uri": "spotify:album:6hNdUjVeHMLIKdViUW1BUI",
+          "name": "You Got"
         },
         "artist": {
-          "uri": "spotify:artist:72RwKTVSNFAC9JSOhAPy5d",
-          "name": "Oya, Raissa"
+          "uri": "spotify:artist:2D3ztMHoKJOJs3HgQJPXf6",
+          "name": "Project Pop"
         },
         "context": {
-          "uri": "spotify:playlist:0UYb4Xbdc3pQfN47a3IVg7",
+          "uri": "spotify:playlist:14kyTBy6PaMyc0h1iHUdcq",
           "name": "playlist",
           "index": 0
         }
