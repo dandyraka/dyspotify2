@@ -1,30 +1,3 @@
 {
-  "friends": [
-    {
-      "timestamp": 1772902909815,
-      "user": {
-        "uri": "spotify:user:dandyraka_",
-        "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-bom5-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=08baa4&_nc_ohc=yxTlhduaCEQQ7kNvwHzVoLE&_nc_oc=AdnboDGEIPgaL1_QwdLrAfM2YY1Ap51AYrZPYmgs25omAchms-6h86s6Pck11JKO4DHufb4G04ifAhqkJvbxq_bH&_nc_zt=24&_nc_ht=scontent-bom5-1.xx&edm=AP4hL3IEAAAA&_nc_gid=9fKRKto-AM51CnAKLyM-wQ&_nc_tpa=Q5bMBQH2kCEhoGs4i2YLXdGdKclm8hiVU0jCEcPVZkY56xd6ioPGrRAesHV1Twm_m6Ot-lWb7v4B&oh=00_AfzfIo_oFLfzqum4kpMcAu1w_3kSWN22dPZodSaEmCv7MA&oe=69B1B668"
-      },
-      "track": {
-        "uri": "spotify:track:6EFPZpYTyvzgCWpUNoXbF1",
-        "name": "Malu Malu Mau",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cf4938c327e6ccb11878269b",
-        "album": {
-          "uri": "spotify:album:5R59NoEMYqnigEJncgONqi",
-          "name": "Semangat"
-        },
-        "artist": {
-          "uri": "spotify:artist:5a5fiumH9eDxjvvzAvJfEx",
-          "name": "Super Girlies"
-        },
-        "context": {
-          "uri": "spotify:playlist:2RCC8lfWYfVTvwkuxhmNI2",
-          "name": "playlist",
-          "index": 0
-        }
-      }
-    }
-  ]
+  "friends": []
 }
