@@ -1,5 +1,41 @@
 [
   {
+    "timestamp": 1772897477198,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Kangen",
+    "artist": "Dewa 19",
+    "uri": "spotify:track:3ZyMRe0jlSqffPBMeHUZFX",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27369222d0908ecf5d22cc9d960"
+  },
+  {
+    "timestamp": 1772897178911,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Dilema",
+    "artist": "Cherrybelle",
+    "uri": "spotify:track:3cqBNjjGjtKer3jWHCPIUC",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733ad38432e5772bf80a9a2483"
+  },
+  {
+    "timestamp": 1772896941050,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Separuh Nafas",
+    "artist": "Dewa 19",
+    "uri": "spotify:track:5n8AhbDbbkH5uRwDvumE72",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27370ea19fd1f517d40b9c01c0d"
+  },
+  {
+    "timestamp": 1772896600745,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Didadaku Ada Kamu",
+    "artist": "Vina Panduwinata",
+    "uri": "spotify:track:0NnBvhsOW2x2npvHOCyAzx",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fd6b00ce8f66f0f666b9b8f3"
+  },
+  {
     "timestamp": 1772622056142,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -52,41 +88,5 @@
     "artist": "Fatur, Nadila",
     "uri": "spotify:track:4D0WlBSVR6Zj59LQ4i7Vhq",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273249bc4c5a8158de71ce19ae8"
-  },
-  {
-    "timestamp": 1772620824810,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Sumpah I Love You",
-    "artist": "Mahadewi",
-    "uri": "spotify:track:0Vhpedvy2kmw6yzPLfxJL4",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273074fdfdf06d84c49d205581e"
-  },
-  {
-    "timestamp": 1772620580197,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Tiba-Tiba Cinta Datang",
-    "artist": "Maudy Ayunda",
-    "uri": "spotify:track:6ydWaAAg0X87Ppr09I1o6U",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273752287da12cd4ed97bd2ac32"
-  },
-  {
-    "timestamp": 1772620342998,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Batal Kawin",
-    "artist": "Project Pop",
-    "uri": "spotify:track:3VyQlruFS9HcYwMecr2USB",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730b98063c9e9240f579d4f717"
-  },
-  {
-    "timestamp": 1772620127640,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Astaga",
-    "artist": "Ruth Sahanaya",
-    "uri": "spotify:track:3NrsI3ajrszL7meUgOsxDF",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27309b5627ce3f17798ddada386"
   }
 ]
