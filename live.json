@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1772897671268,
+      "timestamp": 1772898656577,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
         "imageUrl": "https://scontent-bom5-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=08baa4&_nc_ohc=yxTlhduaCEQQ7kNvwHzVoLE&_nc_oc=AdnboDGEIPgaL1_QwdLrAfM2YY1Ap51AYrZPYmgs25omAchms-6h86s6Pck11JKO4DHufb4G04ifAhqkJvbxq_bH&_nc_zt=24&_nc_ht=scontent-bom5-1.xx&edm=AP4hL3IEAAAA&_nc_gid=9fKRKto-AM51CnAKLyM-wQ&_nc_tpa=Q5bMBQH2kCEhoGs4i2YLXdGdKclm8hiVU0jCEcPVZkY56xd6ioPGrRAesHV1Twm_m6Ot-lWb7v4B&oh=00_AfzfIo_oFLfzqum4kpMcAu1w_3kSWN22dPZodSaEmCv7MA&oe=69B1B668"
       },
       "track": {
-        "uri": "spotify:track:7qzpzDHfnDxqXSLCrF77O4",
-        "name": "Ingat Kamu",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cc8e9f522f3a896ccc402840",
+        "uri": "spotify:track:4kMQVpke2L9tlWOINuAo07",
+        "name": "Kamu",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b27312acd55333b9c705f0ab818c",
         "album": {
-          "uri": "spotify:album:5HeJHE09nYr6NO37N1rWE3",
-          "name": "Sang Juara"
+          "uri": "spotify:album:1qc0sadKhvsDc8w9uu7r69",
+          "name": "Coboy Junior"
         },
         "artist": {
-          "uri": "spotify:artist:5jhpBIwfeK0cEd7z1cGSMS",
-          "name": "Maia"
+          "uri": "spotify:artist:1fw9jZ1duJbRsYjugzA0TW",
+          "name": "Coboy Junior"
         },
         "context": {
           "uri": "spotify:playlist:2RCC8lfWYfVTvwkuxhmNI2",

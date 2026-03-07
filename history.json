@@ -1,5 +1,41 @@
 [
   {
+    "timestamp": 1772898525435,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Patah Hati",
+    "artist": "Radja",
+    "uri": "spotify:track:0XPlaOiWyJHMt7WqLfpxnD",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731d21be89f4f8c8068871d061"
+  },
+  {
+    "timestamp": 1772898271157,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Mungkin Nanti",
+    "artist": "Peterpan",
+    "uri": "spotify:track:3IZduSshBfpO2qZGCusLsg",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d41db981af67267ff9145438"
+  },
+  {
+    "timestamp": 1772898003934,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Kangen",
+    "artist": "Dewa 19",
+    "uri": "spotify:track:6VggIDYOnf9C8fJVcMpxAu",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27370ea19fd1f517d40b9c01c0d"
+  },
+  {
+    "timestamp": 1772897708523,
+    "user": "Dandy 🫵🏻😁",
+    "userId": "spotify:user:dandyraka_",
+    "track": "Ingat Kamu",
+    "artist": "Maia",
+    "uri": "spotify:track:7qzpzDHfnDxqXSLCrF77O4",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cc8e9f522f3a896ccc402840"
+  },
+  {
     "timestamp": 1772897477198,
     "user": "Dandy 🫵🏻😁",
     "userId": "spotify:user:dandyraka_",
@@ -52,41 +88,5 @@
     "artist": "BBB",
     "uri": "spotify:track:43Dg1eAyCebIZAB21AmKJf",
     "imageUrl": "https://i.scdn.co/image/2f31de542bf88e17e0ba3a05cfbbb62f791f846c"
-  },
-  {
-    "timestamp": 1772621637855,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Doo Be Doo",
-    "artist": "Gita Gutawa",
-    "uri": "spotify:track:2eSet0cvo4hssjDW2Y5VzU",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734d5d857ff307b4bd64c1481e"
-  },
-  {
-    "timestamp": 1772621391681,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Playboy",
-    "artist": "7Icons",
-    "uri": "spotify:track:0eXDcLlUaEKNNS41pZQEeX",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736b0b658d261e406f1dbe344d"
-  },
-  {
-    "timestamp": 1772621190496,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Payung Fantasi",
-    "artist": "Memes",
-    "uri": "spotify:track:687MHhdZPcQ0Bt0eHEu4qt",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e5ba80cbabf02762403dbb4b"
-  },
-  {
-    "timestamp": 1772621058314,
-    "user": "Dandy 🫵🏻😁",
-    "userId": "spotify:user:dandyraka_",
-    "track": "Kulakukan Semua Untukmu",
-    "artist": "Fatur, Nadila",
-    "uri": "spotify:track:4D0WlBSVR6Zj59LQ4i7Vhq",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273249bc4c5a8158de71ce19ae8"
   }
 ]
