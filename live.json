@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1772900491706,
+      "timestamp": 1772902167617,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
         "imageUrl": "https://scontent-bom5-1.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=08baa4&_nc_ohc=yxTlhduaCEQQ7kNvwEkHINb&_nc_oc=AdlB0RV4DBp-LOxqGRBi0ASwDK3B80cnFIwEd4Rbyzii5jbcEpJdAD176eT5yV9lkBXAAWyIdWE-gG5Z-c3AWxm2&_nc_zt=24&_nc_ht=scontent-bom5-1.xx&edm=AP4hL3IEAAAA&_nc_gid=3bwC7Fo8HjKo4x4SB84hOQ&_nc_tpa=Q5bMBQEa-WEZlCIjDQ2hYtN2fcmxJyxMpNO80XnZD-iXKBSKF52Mb_BgM5cFoEWBRVD33wYXvYUM&oh=00_AfwBsqgQm6qKw618_kc-bHykmWjntHCgbM7TbAk9uiw66w&oe=69B1B668"
       },
       "track": {
-        "uri": "spotify:track:4eqWeZKFoOVL1l0VQBuuve",
-        "name": "Ngopi Bareng",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732f139ccd06d7b1b9f4e9fc43",
+        "uri": "spotify:track:2OH33ajVAdvYcxRSHUxH8y",
+        "name": "Dibalik Hari Esok",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731559e659e526ac045df0e6da",
         "album": {
-          "uri": "spotify:album:1hNHjcCMW2VEo7aOKTQBEe",
-          "name": "Ngopi Bareng"
+          "uri": "spotify:album:0WLmyZ9kQRRqMokUbO5D4g",
+          "name": "The Sophomore"
         },
         "artist": {
-          "uri": "spotify:artist:7IkaflwUHptNDDrqJgKdrZ",
-          "name": "Coffee Reggae Stone"
+          "uri": "spotify:artist:62USA8ccl2yj1sSVyqL2LR",
+          "name": "Pee Wee Gaskins"
         },
         "context": {
           "uri": "spotify:playlist:2RCC8lfWYfVTvwkuxhmNI2",
