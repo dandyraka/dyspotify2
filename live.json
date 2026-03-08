@@ -1,3 +1,30 @@
 {
-  "friends": []
+  "friends": [
+    {
+      "timestamp": 1772956407950,
+      "user": {
+        "uri": "spotify:user:dandyraka_",
+        "name": "Dandy 🫵🏻😁",
+        "imageUrl": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=08baa4&_nc_ohc=yxTlhduaCEQQ7kNvwGRQ4cf&_nc_oc=AdkJbeWpIlIoNODjuYfhIxI_9_vkroAmPipprj3LvjnddLy9eYxkn9cUuVqOPZLXVPe_ouokeVjiR3QXZJAbfjYI&_nc_zt=24&_nc_ht=scontent-fra3-2.xx&edm=AP4hL3IEAAAA&_nc_gid=oE6xxNIz2Xj1HOHo7H3l4g&_nc_tpa=Q5bMBQFbYhvAq5U_E7s3Y84ilFUBAK0RjmJTAc16KjS8cvBG2bRlnl13GHqLcDD97oAtsIUUGnKL&oh=00_AfxyvXmWq3y3FPtuBe68v-QeHitw-JpSChwmZfTrH9DPow&oe=69B25F28"
+      },
+      "track": {
+        "uri": "spotify:track:0sMclGmddV8xeqBgI2k2yB",
+        "name": "Pencinta Wanita",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b7045ac05d83bd7087e91096",
+        "album": {
+          "uri": "spotify:album:0OyN4NEEkqb2E5iiXxvJv9",
+          "name": "Heart"
+        },
+        "artist": {
+          "uri": "spotify:artist:6OZRp5SJfh9kZts1SyIMOa",
+          "name": "Irwansyah"
+        },
+        "context": {
+          "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
+          "name": "playlist",
+          "index": 0
+        }
+      }
+    }
+  ]
 }
