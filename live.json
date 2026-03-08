@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1772958361950,
+      "timestamp": 1772960053019,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
         "imageUrl": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=08baa4&_nc_ohc=yxTlhduaCEQQ7kNvwGRQ4cf&_nc_oc=AdkJbeWpIlIoNODjuYfhIxI_9_vkroAmPipprj3LvjnddLy9eYxkn9cUuVqOPZLXVPe_ouokeVjiR3QXZJAbfjYI&_nc_zt=24&_nc_ht=scontent-fra3-2.xx&edm=AP4hL3IEAAAA&_nc_gid=oE6xxNIz2Xj1HOHo7H3l4g&_nc_tpa=Q5bMBQFbYhvAq5U_E7s3Y84ilFUBAK0RjmJTAc16KjS8cvBG2bRlnl13GHqLcDD97oAtsIUUGnKL&oh=00_AfxyvXmWq3y3FPtuBe68v-QeHitw-JpSChwmZfTrH9DPow&oe=69B25F28"
       },
       "track": {
-        "uri": "spotify:track:4uKHIywtCMJOAh0BFTPeKL",
-        "name": "Pujaan Hati",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273870d7ae2b96d7741cc5dc416",
+        "uri": "spotify:track:3dq7P5E95LStGTQ3XejQIl",
+        "name": "Pangeran Cinta",
+        "imageUrl": "https://i.scdn.co/image/88cb6e10af4c2bc1c43433a0578a95aba6afe4eb",
         "album": {
-          "uri": "spotify:album:4WDP59JSYfpS6Jk6qh6582",
-          "name": "Pujaan Hati"
+          "uri": "spotify:album:3JF2TLCAfnfGe7uahgIeWE",
+          "name": "Laskar Cinta"
         },
         "artist": {
-          "uri": "spotify:artist:2I3STBPK1DymMXPCjg3UIT",
-          "name": "Kangen Band"
+          "uri": "spotify:artist:35dWPb7Tmq0WESp6KAUJ8w",
+          "name": "Dewa"
         },
         "context": {
           "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
