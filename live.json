@@ -1,30 +1,3 @@
 {
-  "friends": [
-    {
-      "timestamp": 1772961913106,
-      "user": {
-        "uri": "spotify:user:dandyraka_",
-        "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=08baa4&_nc_ohc=yxTlhduaCEQQ7kNvwHm5wwx&_nc_oc=AdleruLK9mOYxnWvIFj_CuacY9LrhLeui7r2Qgh6vGjjYWlXCCjcgpdYtolXu7UmqyZSxj6HMhhdJjcszZTJL1cv&_nc_zt=24&_nc_ht=scontent-fra3-2.xx&edm=AP4hL3IEAAAA&_nc_gid=Lw0RNleDLfHDYur5haJcCw&_nc_tpa=Q5bMBQF8iMqfLzV1piXmbKNiiEPwfW98_0NQHuREsFFJHc7DgvQeWHk1hvqmvOKDzs-ckVPgmp4m&oh=00_AfxnWvFdq78VUmJUv1Ov8vq6eWGfb0vpWDGkWMsh9Z5frw&oe=69B307E8"
-      },
-      "track": {
-        "uri": "spotify:track:04DEVtU7IoCJAXfhY7uOLu",
-        "name": "Cinta Mati, Pt. 3",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273da3dbb55034cdfcd7e58c53f",
-        "album": {
-          "uri": "spotify:album:6ebpXORmzTceh4jmAqeMAx",
-          "name": "99 Volume 1"
-        },
-        "artist": {
-          "uri": "spotify:artist:6ppmK4pjgILHNMd3RLlNCM",
-          "name": "Mulan Jameela"
-        },
-        "context": {
-          "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
-          "name": "playlist",
-          "index": 0
-        }
-      }
-    }
-  ]
+  "friends": []
 }
