@@ -1,23 +1,23 @@
 {
   "friends": [
     {
-      "timestamp": 1772960053019,
+      "timestamp": 1772961913106,
       "user": {
         "uri": "spotify:user:dandyraka_",
         "name": "Dandy 🫵🏻😁",
-        "imageUrl": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=08baa4&_nc_ohc=yxTlhduaCEQQ7kNvwGRQ4cf&_nc_oc=AdkJbeWpIlIoNODjuYfhIxI_9_vkroAmPipprj3LvjnddLy9eYxkn9cUuVqOPZLXVPe_ouokeVjiR3QXZJAbfjYI&_nc_zt=24&_nc_ht=scontent-fra3-2.xx&edm=AP4hL3IEAAAA&_nc_gid=oE6xxNIz2Xj1HOHo7H3l4g&_nc_tpa=Q5bMBQFbYhvAq5U_E7s3Y84ilFUBAK0RjmJTAc16KjS8cvBG2bRlnl13GHqLcDD97oAtsIUUGnKL&oh=00_AfxyvXmWq3y3FPtuBe68v-QeHitw-JpSChwmZfTrH9DPow&oe=69B25F28"
+        "imageUrl": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-1/368014355_3039288076206294_6645918189275641807_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_cat=111&ccb=1-7&_nc_sid=08baa4&_nc_ohc=yxTlhduaCEQQ7kNvwHm5wwx&_nc_oc=AdleruLK9mOYxnWvIFj_CuacY9LrhLeui7r2Qgh6vGjjYWlXCCjcgpdYtolXu7UmqyZSxj6HMhhdJjcszZTJL1cv&_nc_zt=24&_nc_ht=scontent-fra3-2.xx&edm=AP4hL3IEAAAA&_nc_gid=Lw0RNleDLfHDYur5haJcCw&_nc_tpa=Q5bMBQF8iMqfLzV1piXmbKNiiEPwfW98_0NQHuREsFFJHc7DgvQeWHk1hvqmvOKDzs-ckVPgmp4m&oh=00_AfxnWvFdq78VUmJUv1Ov8vq6eWGfb0vpWDGkWMsh9Z5frw&oe=69B307E8"
       },
       "track": {
-        "uri": "spotify:track:3dq7P5E95LStGTQ3XejQIl",
-        "name": "Pangeran Cinta",
-        "imageUrl": "https://i.scdn.co/image/88cb6e10af4c2bc1c43433a0578a95aba6afe4eb",
+        "uri": "spotify:track:04DEVtU7IoCJAXfhY7uOLu",
+        "name": "Cinta Mati, Pt. 3",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273da3dbb55034cdfcd7e58c53f",
         "album": {
-          "uri": "spotify:album:3JF2TLCAfnfGe7uahgIeWE",
-          "name": "Laskar Cinta"
+          "uri": "spotify:album:6ebpXORmzTceh4jmAqeMAx",
+          "name": "99 Volume 1"
         },
         "artist": {
-          "uri": "spotify:artist:35dWPb7Tmq0WESp6KAUJ8w",
-          "name": "Dewa"
+          "uri": "spotify:artist:6ppmK4pjgILHNMd3RLlNCM",
+          "name": "Mulan Jameela"
         },
         "context": {
           "uri": "spotify:playlist:080uvEAtAx6i7AjHvSDeER",
